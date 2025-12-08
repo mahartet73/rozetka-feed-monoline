@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-08 10:00">
+<yml_catalog date="2025-12-08 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -18427,7 +18427,7 @@
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="1427230535" available="true">
+  <offer id="1427230535" available="false">
     <url>https://ukrizol.xyz/ua/p1427230535-dzhgut-uschilnyuvalnij-ukrizol.html</url>
     <price>53</price>
     <currencyId>UAH</currencyId>
@@ -54015,7 +54015,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1650744757" available="true">
+  <offer id="1650744757" available="false">
     <url>https://ukrizol.xyz/ua/p1650744757-spinenij-kauchuk-flex.html</url>
     <price>256</price>
     <currencyId>UAH</currencyId>
@@ -65154,7 +65154,7 @@
     <param name="Щільність" unit="кг/м3">55</param>
     <param name="Цвет" unit="">Черный</param>
   </offer>
-  <offer id="1794152355" available="true">
+  <offer id="1794152355" available="false">
     <url>https://ukrizol.xyz/ua/p1794152355-kapa-badboy-proseries.html</url>
     <price>206</price>
     <currencyId>UAH</currencyId>
@@ -71164,7 +71164,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="см">100</param>
   </offer>
-  <offer id="1914871338" available="true">
+  <offer id="1914871338" available="false">
     <url>https://ukrizol.xyz/ua/p1914871338-kilimok-dlya-jogi.html</url>
     <price>720</price>
     <currencyId>UAH</currencyId>
@@ -81411,7 +81411,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2078095380" available="false">
+  <offer id="2078095380" available="true">
     <url>https://ukrizol.xyz/ua/p2078095380-bitumna-strichka-500.html</url>
     <price>1435</price>
     <currencyId>UAH</currencyId>
@@ -101754,7 +101754,7 @@
   </offer>
   <offer id="2301789494" available="false">
     <url>https://ukrizol.xyz/ua/p2301789494-zahist-pahovij-fgt.html</url>
-    <price>167</price>
+    <price>178</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/6149773191_zahist-pahovij-fgt.jpg</picture>
@@ -103001,9 +103001,9 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Толщина пленки" unit="мкм">40.0</param>
   </offer>
-  <offer id="2342112938" available="true">
+  <offer id="2342112938" available="false">
     <url>https://ukrizol.xyz/ua/p2342112938-zahist-pahovij-fgt.html</url>
-    <price>167</price>
+    <price>177</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/6149773191_zahist-pahovij-fgt.jpg</picture>
@@ -103020,7 +103020,7 @@
   </offer>
   <offer id="2342112939" available="false">
     <url>https://ukrizol.xyz/ua/p2342112939-zahist-pahovij-fgt.html</url>
-    <price>167</price>
+    <price>178</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/6149773191_zahist-pahovij-fgt.jpg</picture>
@@ -106757,7 +106757,7 @@
     <param name="Матеріал верху">Штучна шкіра</param>
     <param name="Розмір">M</param>
   </offer>
-  <offer id="2537446216" available="true">
+  <offer id="2537446216" available="false">
     <url>https://ukrizol.xyz/ua/p2537446216-kilimok-dlya-jogi.html</url>
     <price>720</price>
     <currencyId>UAH</currencyId>
@@ -108711,7 +108711,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108738,7 +108738,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
@@ -108765,7 +108765,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108792,7 +108792,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108819,7 +108819,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108846,7 +108846,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108873,7 +108873,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108900,7 +108900,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108927,7 +108927,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108954,7 +108954,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108981,7 +108981,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109008,7 +109008,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109035,7 +109035,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109062,7 +109062,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109089,7 +109089,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109116,7 +109116,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109143,7 +109143,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасных конструкций</param>
+    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109639,7 +109639,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109668,7 +109668,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109697,7 +109697,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109726,7 +109726,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109755,7 +109755,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109784,7 +109784,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109793,11 +109793,14 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2656460760" available="false">
+  <offer id="2656460760" available="true">
     <url>https://ukrizol.xyz/ua/p2656460760-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>168</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 30 мм х 15 м</name>
@@ -109805,18 +109808,18 @@
     <vendorCode>630155</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
+    <param name="Екологічний матеріал">Так</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Колір">Чорний</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Ступінь жорсткості">М'який</param>
+    <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">30</param>
-    <param name="Товщина" unit="мм">6</param>
-    <param name="Колір">Чорний</param>
     <param name="Щільність" unit="кг/м³">55</param>
-    <param name="Екологічний матеріал">Так</param>
-    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Ступінь жорсткості">М'який</param>
-    <param name="Еластичність матеріалу">Так</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
     <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2656460761" available="false">
     <url>https://ukrizol.xyz/ua/p2656460761-kauchukova-zvukoizolyatsijna-strichka.html</url>
@@ -109838,7 +109841,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -111776,7 +111779,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стін|Для каркасных конструкций|Для стель|Для інженерного обладнання|Для підлоги</param>
+    <param name="Область застосування">Для стін|Для каркасних конструкцій|Для стель|Для інженерного обладнання|Для підлоги</param>
     <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">1.5</param>
@@ -112718,11 +112721,14 @@
     <param name="Материал" unit="">ПВХ</param>
     <param name="Тип мяча" unit="">Массажно-игровой</param>
   </offer>
-  <offer id="2848202417" available="false">
+  <offer id="2848202417" available="true">
     <url>https://ukrizol.xyz/ua/p2848202417-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>280</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 50 мм х 15 м</name>
@@ -112734,7 +112740,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112763,7 +112769,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112792,7 +112798,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112801,11 +112807,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202420" available="false">
+  <offer id="2848202420" available="true">
     <url>https://ukrizol.xyz/ua/p2848202420-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>336</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 60 мм х 15 м</name>
@@ -112817,7 +112826,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112846,7 +112855,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112855,11 +112864,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202423" available="false">
+  <offer id="2848202423" available="true">
     <url>https://ukrizol.xyz/ua/p2848202423-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>392</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 90 мм х 10 м</name>
@@ -112871,7 +112883,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112900,7 +112912,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112929,7 +112941,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112958,7 +112970,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112967,11 +112979,14 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202427" available="false">
+  <offer id="2848202427" available="true">
     <url>https://ukrizol.xyz/ua/p2848202427-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 40 мм х 10 м</name>
@@ -112983,7 +112998,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112992,11 +113007,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202428" available="false">
+  <offer id="2848202428" available="true">
     <url>https://ukrizol.xyz/ua/p2848202428-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>392</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 70 мм х 15 м</name>
@@ -113008,7 +113026,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113017,11 +113035,14 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202429" available="false">
+  <offer id="2848202429" available="true">
     <url>https://ukrizol.xyz/ua/p2848202429-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>305</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 70 мм х 10 м</name>
@@ -113033,7 +113054,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113062,7 +113083,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113071,11 +113092,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202431" available="false">
+  <offer id="2848202431" available="true">
     <url>https://ukrizol.xyz/ua/p2848202431-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>130</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 30 мм х 10 м</name>
@@ -113087,7 +113111,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113146,7 +113170,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113155,11 +113179,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202434" available="false">
+  <offer id="2848202434" available="true">
     <url>https://ukrizol.xyz/ua/p2848202434-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>349</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 80 мм х 10 м</name>
@@ -113171,7 +113198,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113180,11 +113207,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202435" available="false">
+  <offer id="2848202435" available="true">
     <url>https://ukrizol.xyz/ua/p2848202435-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>562</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 100 мм х 15 м</name>
@@ -113196,7 +113226,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113205,11 +113235,14 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202436" available="false">
+  <offer id="2848202436" available="true">
     <url>https://ukrizol.xyz/ua/p2848202436-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>218</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 50 мм х 10 м</name>
@@ -113221,7 +113254,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113230,11 +113263,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202437" available="false">
+  <offer id="2848202437" available="true">
     <url>https://ukrizol.xyz/ua/p2848202437-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>224</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 40 мм х 15 м</name>
@@ -113246,7 +113282,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113275,7 +113311,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113284,11 +113320,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202439" available="false">
+  <offer id="2848202439" available="true">
     <url>https://ukrizol.xyz/ua/p2848202439-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>436</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 100 мм х 10 м</name>
@@ -113300,7 +113339,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113329,7 +113368,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113373,11 +113412,14 @@
     <param name="Толщина изоляции" unit="мкм">3</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="2848202442" available="false">
+  <offer id="2848202442" available="true">
     <url>https://ukrizol.xyz/ua/p2848202442-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>261</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 9 мм х 60 мм х 10 м</name>
@@ -113389,7 +113431,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113398,11 +113440,14 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202443" available="false">
+  <offer id="2848202443" available="true">
     <url>https://ukrizol.xyz/ua/p2848202443-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 90 мм х 15 м</name>
@@ -113414,7 +113459,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113423,11 +113468,14 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202444" available="false">
+  <offer id="2848202444" available="true">
     <url>https://ukrizol.xyz/ua/p2848202444-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>448</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
+    <picture>https://images.prom.ua/6973522127_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522108_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6973522110_kauchukova-zvukoizolyatsijna-strichka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучукова звукоізоляційна стрічка фольгована PA-FLEX 6 мм х 80 мм х 15 м</name>
@@ -113439,7 +113487,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасных конструкций</param>
+    <param name="Область застосування">Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>

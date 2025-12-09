@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-08 17:00">
+<yml_catalog date="2025-12-09 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.26237" />
+      <currency id="USD" rate="46.277" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.89571" />
+      <currency id="EUR" rate="53.92662" />
     </currencies>
     <categories>
+      <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
       <category id="148483984" parentId="148353593">PETG філамент</category>
       <category id="148353601" parentId="148353593">PLA філамент</category>
       <category id="111560669">Тактичне спорядження</category>
@@ -207,7 +208,6 @@
       <category id="146756390" parentId="122260377">Шлемы для бокса и единоборств</category>
       <category id="146756389" parentId="122260377">Защита для боевых искусств</category>
       <category id="146756388" parentId="122260377">Лапы, макивары ручные</category>
-      <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
       <category id="146756386" parentId="130262770">Доски для плавания, колобашки</category>
       <category id="146756385" parentId="132071281">Аквапалки</category>
       <category id="146756384" parentId="130262768">Велочехлы и велонакидки</category>
@@ -14289,9 +14289,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">10</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Червоний</param>
   </offer>
   <offer id="1358320755" available="true">
     <url>https://ukrizol.xyz/ua/p1358320755-bokserski-rukavichki-boxer.html</url>
@@ -16423,9 +16423,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">10</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Синій</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Синій</param>
   </offer>
   <offer id="1374092930" available="false">
     <url>https://ukrizol.xyz/ua/p1374092930-bokserski-rukavichki-boxer.html</url>
@@ -16529,9 +16529,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Синій</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Синій</param>
   </offer>
   <offer id="1374101892" available="true">
     <url>https://ukrizol.xyz/ua/p1374101892-bokserski-rukavichki-boxer.html</url>
@@ -16551,9 +16551,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Червоний</param>
   </offer>
   <offer id="1375383834" available="true">
     <url>https://ukrizol.xyz/ua/p1375383834-lapi-bokserski-boxer.html</url>
@@ -43870,9 +43870,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">14</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Синій</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Синій</param>
   </offer>
   <offer id="1572093783" available="true">
     <url>https://ukrizol.xyz/ua/p1572093783-bokserski-rukavichki-boxer.html</url>
@@ -43892,9 +43892,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">14</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Червоний</param>
   </offer>
   <offer id="1572093901" available="false">
     <url>https://ukrizol.xyz/ua/p1572093901-bokserski-rukavichki-boxer.html</url>
@@ -43914,9 +43914,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">14</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1572095358" available="true">
     <url>https://ukrizol.xyz/ua/p1572095358-bokserski-rukavichki-boxer.html</url>
@@ -43936,9 +43936,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">16</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Синій</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Синій</param>
   </offer>
   <offer id="1572095434" available="true">
     <url>https://ukrizol.xyz/ua/p1572095434-bokserski-rukavichki-boxer.html</url>
@@ -43958,9 +43958,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">16</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Червоний</param>
   </offer>
   <offer id="1572095548" available="false">
     <url>https://ukrizol.xyz/ua/p1572095548-bokserski-rukavichki-boxer.html</url>
@@ -43980,9 +43980,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">16</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1572511026" available="true">
     <url>https://ukrizol.xyz/ua/p1572511026-bokserski-rukavichki-boxer.html</url>
@@ -75832,7 +75832,7 @@
     <param name="Длина" unit="м">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021493580" available="true">
+  <offer id="2021493580" available="false">
     <url>https://ukrizol.xyz/ua/p2021493580-dzhgut-uschilnyuvalnij-kolorovij.html</url>
     <price>53</price>
     <currencyId>UAH</currencyId>
@@ -80826,9 +80826,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">10</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Чорний</param>
   </offer>
   <offer id="2042479686" available="false">
     <url>https://ukrizol.xyz/ua/p2042479686-bokserski-rukavichki-boxer.html</url>
@@ -80848,9 +80848,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
-    <param name="Колір">Чорний</param>
   </offer>
   <offer id="2043709913" available="false">
     <url>https://ukrizol.xyz/ua/p2043709913-kilimok-taktichnij-vijskovij.html</url>

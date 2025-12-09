@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-09 10:00">
+<yml_catalog date="2025-12-09 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -180,6 +180,8 @@
       <category id="84776284" parentId="84776005">Спінений каучук</category>
       <category id="84776005">Спінений (синтетичний) каучук</category>
       <category id="148353593">3D-друк</category>
+      <category id="141469697">BOXER-NEW</category>
+      <category id="148855694" parentId="141469697">Знято з виробництва</category>
       <category id="148643543" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 90 мм</category>
       <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
       <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
@@ -12112,7 +12114,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1352359718" available="true">
+  <offer id="1352359718" available="false">
     <url>https://ukrizol.xyz/ua/p1352359718-gazospinenij-polietilen-ukrizol.html</url>
     <price>520</price>
     <currencyId>UAH</currencyId>
@@ -49687,7 +49689,7 @@
     <param name="Колір">Сірий</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-  <offer id="1633838448" available="true">
+  <offer id="1633838448" available="false">
     <url>https://ukrizol.xyz/ua/p1633838448-gazospinenij-polietilen-ukrizol.html</url>
     <price>1069</price>
     <currencyId>UAH</currencyId>
@@ -52590,7 +52592,7 @@
     <param name="Тип">Петлі Береша</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1647113280" available="false">
+  <offer id="1647113280" available="true">
     <url>https://ukrizol.xyz/ua/p1647113280-poyas-easyfit-dlya.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>
@@ -68641,6 +68643,54 @@
     <param name="Ширина" unit="см">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">33</param>
   </offer>
+  <offer id="1842840555" available="false">
+    <url>https://ukrizol.xyz/ua/p1842840555-sholom-trenuvalnij-karate.html</url>
+    <price>962</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261312_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкірвініл синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2036-02С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1842846974" available="false">
+    <url>https://ukrizol.xyz/ua/p1842846974-sholom-trenuvalnij-karate.html</url>
+    <price>962</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2036-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1842849909" available="true">
     <url>https://ukrizol.xyz/ua/p1842849909-sholom-trenuvalnij-karate.html</url>
     <price>1045</price>
@@ -74739,7 +74789,7 @@
     <param name="Особливості">Чохол</param>
     <param name="Цвет" unit="">Прозрачный</param>
   </offer>
-  <offer id="1992138942" available="true">
+<offer id="1992138942" available="true">
     <url>https://ukrizol.xyz/ua/p1992138942-kapa-badboy-futlyari.html</url>
     <price>125</price>
     <currencyId>UAH</currencyId>
@@ -74787,7 +74837,7 @@
     <param name="Товщина" unit="мм">5</param>
     <param name="Ширина листа" unit="см">100</param>
   </offer>
-<offer id="1992627373" available="true">
+  <offer id="1992627373" available="true">
     <url>https://ukrizol.xyz/ua/p1992627373-shumoizolyatsiya-avtomobilya-splen.html</url>
     <price>271</price>
     <currencyId>UAH</currencyId>
@@ -75832,7 +75882,7 @@
     <param name="Длина" unit="м">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021493580" available="false">
+  <offer id="2021493580" available="true">
     <url>https://ukrizol.xyz/ua/p2021493580-dzhgut-uschilnyuvalnij-kolorovij.html</url>
     <price>53</price>
     <currencyId>UAH</currencyId>
@@ -80521,7 +80571,7 @@
     <param name="Форма">Гнута</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2034417629" available="true">
+<offer id="2034417629" available="true">
     <url>https://ukrizol.xyz/ua/p2034417629-rukavichki-dlya-zmishanih.html</url>
     <price>1001</price>
     <currencyId>UAH</currencyId>
@@ -80562,7 +80612,7 @@
     <param name="Форма">Гнута</param>
     <param name="Колір">Червоний</param>
   </offer>
-<offer id="2034417631" available="false">
+  <offer id="2034417631" available="false">
     <url>https://ukrizol.xyz/ua/p2034417631-sholom-maska-trenuvalna.html</url>
     <price>1061</price>
     <currencyId>UAH</currencyId>
@@ -84016,11 +84066,11 @@
     <vendorCode>889479</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Колір">Білий</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет" unit="">Белый</param>
     <param name="Состояние" unit="">Новое</param>
     <param name="Плотность" unit="">33.0</param>
     <param name="Толщина" unit="">3.0</param>
-    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="2136550019" available="false">
     <url>https://ukrizol.xyz/ua/p2136550019-dityachij-skladnij-dvostoronnij.html</url>
@@ -87392,7 +87442,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163978" available="true">
+<offer id="2183163978" available="true">
     <url>https://ukrizol.xyz/ua/p2183163978-skovoroda-chavunna-litoyu.html</url>
     <price>1281</price>
     <currencyId>UAH</currencyId>
@@ -87462,7 +87512,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-<offer id="2183163980" available="true">
+  <offer id="2183163980" available="true">
     <url>https://ukrizol.xyz/ua/p2183163980-skovoroda-chavunna-optima.html</url>
     <price>603</price>
     <currencyId>UAH</currencyId>
@@ -95801,7 +95851,7 @@
     <param name="Материал" unit="">Дерево</param>
     <param name="Количество секций" unit="">5</param>
   </offer>
-  <offer id="2183246787" available="false">
+<offer id="2183246787" available="false">
     <url>https://ukrizol.xyz/ua/p2183246787-kazan-chavunnij-turistichnij.html</url>
     <price>1922</price>
     <currencyId>UAH</currencyId>
@@ -95856,7 +95906,7 @@
     <param name="Тип">Кришка</param>
     <param name="Вес, гр" unit="гр">1700</param>
   </offer>
-<offer id="2183246789" available="true">
+  <offer id="2183246789" available="true">
     <url>https://ukrizol.xyz/ua/p2183246789-kazan-chavunnij-aziatskij.html</url>
     <price>2549</price>
     <currencyId>UAH</currencyId>
@@ -101752,7 +101802,7 @@
     <param name="Колір">Чорний</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
-  <offer id="2301789494" available="false">
+  <offer id="2301789494" available="true">
     <url>https://ukrizol.xyz/ua/p2301789494-zahist-pahovij-fgt.html</url>
     <price>178</price>
     <currencyId>UAH</currencyId>
@@ -102386,7 +102436,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Мішок</param>
   </offer>
-  <offer id="2328217260" available="true">
+<offer id="2328217260" available="true">
     <url>https://ukrizol.xyz/ua/p2328217260-sholom-bokserskij-boxer.html</url>
     <price>1188</price>
     <currencyId>UAH</currencyId>
@@ -102409,7 +102459,7 @@
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
-    <param name="Особливості">Захист щік</param>
+    <param name="Особливості">Защита щек</param>
     <param name="Розмір">M</param>
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
@@ -102441,7 +102491,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Мішок</param>
   </offer>
-<offer id="2328217262" available="true">
+  <offer id="2328217262" available="true">
     <url>https://ukrizol.xyz/ua/p2328217262-sholom-bokserskij-boxer.html</url>
     <price>1188</price>
     <currencyId>UAH</currencyId>
@@ -103001,7 +103051,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Толщина пленки" unit="мкм">40.0</param>
   </offer>
-  <offer id="2342112938" available="false">
+  <offer id="2342112938" available="true">
     <url>https://ukrizol.xyz/ua/p2342112938-zahist-pahovij-fgt.html</url>
     <price>177</price>
     <currencyId>UAH</currencyId>
@@ -103018,7 +103068,7 @@
     <param name="Тип">Захист паху</param>
     <param name="Колір">Білий</param>
   </offer>
-  <offer id="2342112939" available="false">
+  <offer id="2342112939" available="true">
     <url>https://ukrizol.xyz/ua/p2342112939-zahist-pahovij-fgt.html</url>
     <price>178</price>
     <currencyId>UAH</currencyId>
@@ -108503,7 +108553,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2598315378" available="true">
+<offer id="2598315378" available="true">
     <url>https://ukrizol.xyz/ua/p2598315378-akustichna-panel-piramida.html</url>
     <price>986</price>
     <currencyId>UAH</currencyId>
@@ -108547,7 +108597,7 @@
     <param name="Ширина" unit="мм">1800</param>
     <param name="Форма ковра" unit="">Прямоугольный</param>
   </offer>
-<offer id="2602639914" available="true">
+  <offer id="2602639914" available="true">
     <url>https://ukrizol.xyz/ua/p2602639914-kauchukova-izolyatsiya-dlya.html</url>
     <price>57</price>
     <currencyId>UAH</currencyId>
@@ -109563,11 +109613,11 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
+    <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1500</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
-    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="2644956550" available="true">
     <url>https://ukrizol.xyz/ua/p2644956550-himichno-zshitij-spinenij.html</url>

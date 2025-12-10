@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-10 10:00">
+<yml_catalog date="2025-12-10 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -388,7 +388,7 @@
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">50</param>
   </offer>
-  <offer id="1016523072" available="true">
+  <offer id="1016523072" available="false">
     <url>https://ukrizol.xyz/ua/p1016523072-skotch-alyuminiyevij-ukrizol.html</url>
     <price>243</price>
     <currencyId>UAH</currencyId>
@@ -13603,7 +13603,7 @@
     <param name="Тип">MMA</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1358320723" available="true">
+  <offer id="1358320723" available="false">
     <url>https://ukrizol.xyz/ua/p1358320723-sholom-bokserskij-boxer.html</url>
     <price>1012</price>
     <currencyId>UAH</currencyId>
@@ -15385,7 +15385,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1358320921" available="true">
+  <offer id="1358320921" available="false">
     <url>https://ukrizol.xyz/ua/p1358320921-sholom-bokserskij-boxer.html</url>
     <price>1012</price>
     <currencyId>UAH</currencyId>
@@ -42857,7 +42857,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1567925178" available="true">
+  <offer id="1567925178" available="false">
     <url>https://ukrizol.xyz/ua/p1567925178-sholom-bokserskij-boxer.html</url>
     <price>1012</price>
     <currencyId>UAH</currencyId>
@@ -42882,7 +42882,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1567926156" available="true">
+  <offer id="1567926156" available="false">
     <url>https://ukrizol.xyz/ua/p1567926156-sholom-bokserskij-boxer.html</url>
     <price>1320</price>
     <currencyId>UAH</currencyId>
@@ -42909,7 +42909,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1567926241" available="true">
+  <offer id="1567926241" available="false">
     <url>https://ukrizol.xyz/ua/p1567926241-sholom-bokserskij-boxer.html</url>
     <price>1320</price>
     <currencyId>UAH</currencyId>
@@ -82926,7 +82926,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2099372893" available="true">
+  <offer id="2099372893" available="false">
     <url>https://ukrizol.xyz/ua/p2099372893-izolyatsiya-trub-ukrizol.html</url>
     <price>47</price>
     <currencyId>UAH</currencyId>
@@ -100509,7 +100509,7 @@
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2284092501" available="true">
+  <offer id="2284092501" available="false">
     <url>https://ukrizol.xyz/ua/p2284092501-armovana-klejka-strichka.html</url>
     <price>200</price>
     <currencyId>UAH</currencyId>
@@ -105000,7 +105000,7 @@
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Максимальная рабочая температура" unit="град.">120.0</param>
   </offer>
-  <offer id="2437850649" available="true">
+  <offer id="2437850649" available="false">
     <url>https://ukrizol.xyz/ua/p2437850649-spinenij-kauchuk-samokleyuchij.html</url>
     <price>2779</price>
     <currencyId>UAH</currencyId>

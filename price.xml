@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-11 10:00">
+<yml_catalog date="2025-12-11 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -433,7 +433,7 @@
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
-  <offer id="1016523075" available="true">
+  <offer id="1016523075" available="false">
     <url>https://ukrizol.xyz/ua/p1016523075-skotch-alyuminiyevij-ukrizol.html</url>
     <price>389</price>
     <currencyId>UAH</currencyId>
@@ -448,7 +448,7 @@
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
-  <offer id="1016523076" available="true">
+  <offer id="1016523076" available="false">
     <url>https://ukrizol.xyz/ua/p1016523076-skotch-alyuminiyevij-ukrizol.html</url>
     <price>487</price>
     <currencyId>UAH</currencyId>
@@ -4848,7 +4848,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1099569636" available="true">
+  <offer id="1099569636" available="false">
     <url>https://ukrizol.xyz/ua/p1099569636-gazospinenij-polietilen-ukrizol.html</url>
     <price>90</price>
     <currencyId>UAH</currencyId>
@@ -42700,7 +42700,7 @@
     <param name="Тип">Масажний</param>
     <param name="Колір">Різні кольори</param>
   </offer>
-  <offer id="1565855118" available="true">
+  <offer id="1565855118" available="false">
     <url>https://ukrizol.xyz/ua/p1565855118-hulahup-obruch-zdorovya.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>
@@ -62414,7 +62414,7 @@
     <param name="Відносне подовження на розрив" unit="%">3</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
-  <offer id="1707333570" available="true">
+  <offer id="1707333570" available="false">
     <url>https://ukrizol.xyz/ua/p1707333570-skotch-alyuminiyevij-armovanij.html</url>
     <price>304</price>
     <currencyId>UAH</currencyId>
@@ -66549,7 +66549,7 @@
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1807339587" available="true">
+  <offer id="1807339587" available="false">
     <url>https://ukrizol.xyz/ua/p1807339587-myach-dlya-fitnesu.html</url>
     <price>493</price>
     <currencyId>UAH</currencyId>
@@ -66569,7 +66569,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Фіолетовий</param>
   </offer>
-  <offer id="1807361398" available="true">
+  <offer id="1807361398" available="false">
     <url>https://ukrizol.xyz/ua/p1807361398-myach-dlya-fitnesu.html</url>
     <price>493</price>
     <currencyId>UAH</currencyId>
@@ -66589,7 +66589,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Сірий</param>
   </offer>
-  <offer id="1807362942" available="true">
+  <offer id="1807362942" available="false">
     <url>https://ukrizol.xyz/ua/p1807362942-myach-dlya-fitnesu.html</url>
     <price>493</price>
     <currencyId>UAH</currencyId>
@@ -106267,7 +106267,7 @@
     <param name="Колір">Червоний</param>
     <param name="Тип" unit="">Универсальный</param>
   </offer>
-  <offer id="2493753061" available="true">
+  <offer id="2493753061" available="false">
     <url>https://ukrizol.xyz/ua/p2493753061-myach-dlya-fitnesu.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>
@@ -106287,7 +106287,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2493753062" available="true">
+  <offer id="2493753062" available="false">
     <url>https://ukrizol.xyz/ua/p2493753062-myach-dlya-fitnesu.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>
@@ -106307,7 +106307,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Сірий</param>
   </offer>
-  <offer id="2493753177" available="true">
+  <offer id="2493753177" available="false">
     <url>https://ukrizol.xyz/ua/p2493753177-myach-dlya-fitnesu.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>

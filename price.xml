@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-13 10:00">
+<yml_catalog date="2025-12-13 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -2471,7 +2471,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1016523149" available="false">
+  <offer id="1016523149" available="true">
     <url>https://ukrizol.xyz/ua/p1016523149-paroizolyatsijna-strichka-stk.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
@@ -44664,7 +44664,7 @@
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="см">40</param>
   </offer>
-  <offer id="1577334823" available="false">
+  <offer id="1577334823" available="true">
     <url>https://ukrizol.xyz/ua/p1577334823-kilimok-masazhnij-ortek.html</url>
     <price>788</price>
     <currencyId>UAH</currencyId>
@@ -58446,7 +58446,7 @@
     <param name="Товщина" unit="мм">9</param>
     <param name="Ширина" unit="мм">40</param>
   </offer>
-  <offer id="1662371801" available="false">
+  <offer id="1662371801" available="true">
     <url>https://ukrizol.xyz/ua/p1662371801-profil-zahisnij-podibnij.html</url>
     <price>17</price>
     <currencyId>UAH</currencyId>

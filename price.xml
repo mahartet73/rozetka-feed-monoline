@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-15 10:00">
+<yml_catalog date="2025-12-15 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -463,7 +463,7 @@
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
-  <offer id="1016523077" available="true">
+  <offer id="1016523077" available="false">
     <url>https://ukrizol.xyz/ua/p1016523077-skotch-metalizovanij-ukrizol.html</url>
     <price>74</price>
     <currencyId>UAH</currencyId>
@@ -54514,7 +54514,7 @@
     <param name="Теплопроводность" unit="Вт/мК">0.032</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="1650807813" available="true">
+  <offer id="1650807813" available="false">
     <url>https://ukrizol.xyz/ua/p1650807813-kauchukova-izolyatsiya-dlya.html</url>
     <price>31</price>
     <currencyId>UAH</currencyId>
@@ -63890,7 +63890,7 @@
     <param name="Длина, мм" unit="">300</param>
     <param name="Диаметр, мм" unit="">100</param>
   </offer>
-  <offer id="1758785466" available="true">
+  <offer id="1758785466" available="false">
     <url>https://ukrizol.xyz/ua/p1758785466-masazhnij-roler-easyfit.html</url>
     <price>306</price>
     <currencyId>UAH</currencyId>
@@ -63984,7 +63984,7 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="1761359455" available="true">
+  <offer id="1761359455" available="false">
     <url>https://ukrizol.xyz/ua/p1761359455-sholom-karate-boxer.html</url>
     <price>863</price>
     <currencyId>UAH</currencyId>
@@ -68872,7 +68872,7 @@
     <param name="Толщина" unit="">10.0</param>
     <param name="Плотность материала" unit="">33.0</param>
   </offer>
-  <offer id="1850885762" available="true">
+  <offer id="1850885762" available="false">
     <url>https://ukrizol.xyz/ua/p1850885762-rezinki-dlya-fitnesu.html</url>
     <price>456</price>
     <currencyId>UAH</currencyId>
@@ -75832,7 +75832,7 @@
     <param name="Длина" unit="м">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021493580" available="false">
+  <offer id="2021493580" available="true">
     <url>https://ukrizol.xyz/ua/p2021493580-dzhgut-uschilnyuvalnij-kolorovij.html</url>
     <price>60</price>
     <currencyId>UAH</currencyId>
@@ -77856,7 +77856,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2034417512" available="true">
+  <offer id="2034417512" available="false">
     <url>https://ukrizol.xyz/ua/p2034417512-bokserski-rukavichki-everlast.html</url>
     <price>1897</price>
     <currencyId>UAH</currencyId>
@@ -102763,7 +102763,7 @@
     <param name="Материал" unit="">Сталь</param>
     <param name="Ширина, мм" unit="">41</param>
   </offer>
-  <offer id="2334691132" available="true">
+  <offer id="2334691132" available="false">
     <url>https://ukrizol.xyz/ua/p2334691132-zahist-gomilki-stopi.html</url>
     <price>1320</price>
     <currencyId>UAH</currencyId>
@@ -111698,7 +111698,7 @@
   </offer>
   <offer id="2811807893" available="true">
     <url>https://ukrizol.xyz/ua/p2811807893-karpet-adhesive-chornij.html</url>
-    <price>308</price>
+    <price>330</price>
     <currencyId>UAH</currencyId>
     <categoryId>112743094</categoryId>
     <picture>https://images.prom.ua/4431695890_karpet-adhesive-chornij.jpg</picture>
@@ -111724,7 +111724,7 @@
   </offer>
   <offer id="2811807894" available="true">
     <url>https://ukrizol.xyz/ua/p2811807894-karpet-adhesive-grafit.html</url>
-    <price>308</price>
+    <price>330</price>
     <currencyId>UAH</currencyId>
     <categoryId>112743094</categoryId>
     <picture>https://images.prom.ua/4431704325_karpet-adhesive-grafit.jpg</picture>
@@ -112919,7 +112919,7 @@
     <param name="Материал" unit="">ПВХ</param>
     <param name="Тип мяча" unit="">Массажно-игровой</param>
   </offer>
-  <offer id="2837075712" available="true">
+  <offer id="2837075712" available="false">
     <url>https://ukrizol.xyz/ua/p2837075712-masazhnij-myachik-easyfit.html</url>
     <price>104</price>
     <currencyId>UAH</currencyId>

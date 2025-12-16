@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-15 17:00">
+<yml_catalog date="2025-12-16 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.41296" />
+      <currency id="USD" rate="46.46961" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.41458" />
+      <currency id="EUR" rate="54.62039" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -12078,7 +12078,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1352357303" available="true">
+  <offer id="1352357303" available="false">
     <url>https://ukrizol.xyz/ua/p1352357303-gazospinenij-polietilen-ukrizol.html</url>
     <price>348</price>
     <currencyId>UAH</currencyId>
@@ -44078,7 +44078,7 @@
     <param name="Тип">Еластичні бинти</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1574786532" available="true">
+  <offer id="1574786532" available="false">
     <url>https://ukrizol.xyz/ua/p1574786532-bint-bokserskij-everlast.html</url>
     <price>115</price>
     <currencyId>UAH</currencyId>
@@ -50910,7 +50910,7 @@
     <param name="Ширина" unit="мм">1450</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
   </offer>
-  <offer id="1641201090" available="true">
+  <offer id="1641201090" available="false">
     <url>https://ukrizol.xyz/ua/p1641201090-list-eva-eva.html</url>
     <price>757</price>
     <currencyId>UAH</currencyId>
@@ -102490,7 +102490,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2328281453" available="true">
+  <offer id="2328281453" available="false">
     <url>https://ukrizol.xyz/ua/p2328281453-sholom-karate-boxer.html</url>
     <price>1419</price>
     <currencyId>UAH</currencyId>

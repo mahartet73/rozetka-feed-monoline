@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-17 10:00">
+<yml_catalog date="2025-12-17 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -2471,7 +2471,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1016523149" available="true">
+  <offer id="1016523149" available="false">
     <url>https://ukrizol.xyz/ua/p1016523149-paroizolyatsijna-strichka-stk.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
@@ -19793,7 +19793,7 @@
     <param name="Екологічна безпека матеріалу">Безпечний</param>
     <param name="Количество в упаковке, шт" unit="">14</param>
   </offer>
-  <offer id="1467760153" available="true">
+  <offer id="1467760153" available="false">
     <url>https://ukrizol.xyz/ua/p1467760153-ekstrudovanij-pinopolistirol-polimer.html</url>
     <price>187</price>
     <currencyId>UAH</currencyId>
@@ -56069,7 +56069,7 @@
     <param name="Плотность материала" unit="">33</param>
     <param name="Тип коврика" unit="">Каремат</param>
   </offer>
-<offer id="1651146938" available="false">
+<offer id="1651146938" available="true">
     <url>https://ukrizol.xyz/ua/p1651146938-kilimok-turistichnij-turist.html</url>
     <price>302</price>
     <currencyId>UAH</currencyId>
@@ -104654,7 +104654,7 @@
     <param name="Тип">Захист корпусу</param>
     <param name="Колір">Різні кольори</param>
   </offer>
-  <offer id="2422600553" available="false">
+  <offer id="2422600553" available="true">
     <url>https://ukrizol.xyz/ua/p2422600553-zahisnij-zhilet-dlya.html</url>
     <price>924</price>
     <currencyId>UAH</currencyId>
@@ -104934,7 +104934,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2437850647" available="true">
+  <offer id="2437850647" available="false">
     <url>https://ukrizol.xyz/ua/p2437850647-spinenij-kauchuk-samokleyuchij.html</url>
     <price>2369</price>
     <currencyId>UAH</currencyId>
@@ -105633,7 +105633,7 @@
     <param name="Товщина" unit="см">2</param>
     <param name="Ширина" unit="см">100</param>
   </offer>
-  <offer id="2468986712" available="false">
+  <offer id="2468986712" available="true">
     <url>https://ukrizol.xyz/ua/p2468986712-prikatochnij-valik-plastikovij.html</url>
     <price>99</price>
     <currencyId>UAH</currencyId>
@@ -106195,7 +106195,7 @@
     <param name="Особенности" unit="">Ортопедический</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="2486031674" available="false">
+  <offer id="2486031674" available="true">
     <url>https://ukrizol.xyz/ua/p2486031674-kilimok-turistichnij-turist.html</url>
     <price>302</price>
     <currencyId>UAH</currencyId>
@@ -112157,7 +112157,7 @@
     <param name="Колір">Синій</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392470" available="true">
+  <offer id="2816392470" available="false">
     <url>https://ukrizol.xyz/ua/p2816392470-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112174,7 +112174,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392471" available="true">
+  <offer id="2816392471" available="false">
     <url>https://ukrizol.xyz/ua/p2816392471-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112192,7 +112192,7 @@
     <param name="Колір">Чорний</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392472" available="true">
+  <offer id="2816392472" available="false">
     <url>https://ukrizol.xyz/ua/p2816392472-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112210,7 +112210,7 @@
     <param name="Колір">Бірюзовий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392473" available="true">
+  <offer id="2816392473" available="false">
     <url>https://ukrizol.xyz/ua/p2816392473-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112227,7 +112227,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392474" available="true">
+  <offer id="2816392474" available="false">
     <url>https://ukrizol.xyz/ua/p2816392474-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112245,7 +112245,7 @@
     <param name="Колір">Жовтий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392475" available="true">
+  <offer id="2816392475" available="false">
     <url>https://ukrizol.xyz/ua/p2816392475-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112263,7 +112263,7 @@
     <param name="Колір">Коричневий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392476" available="true">
+  <offer id="2816392476" available="false">
     <url>https://ukrizol.xyz/ua/p2816392476-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112280,7 +112280,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392477" available="true">
+  <offer id="2816392477" available="false">
     <url>https://ukrizol.xyz/ua/p2816392477-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112298,7 +112298,7 @@
     <param name="Колір">Червоний</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392478" available="true">
+  <offer id="2816392478" available="false">
     <url>https://ukrizol.xyz/ua/p2816392478-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112352,7 +112352,7 @@
     <param name="Колір">Білий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392481" available="true">
+  <offer id="2816392481" available="false">
     <url>https://ukrizol.xyz/ua/p2816392481-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112369,7 +112369,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392482" available="true">
+  <offer id="2816392482" available="false">
     <url>https://ukrizol.xyz/ua/p2816392482-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112404,7 +112404,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392484" available="true">
+  <offer id="2816392484" available="false">
     <url>https://ukrizol.xyz/ua/p2816392484-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112422,7 +112422,7 @@
     <param name="Колір">Синій</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392485" available="true">
+  <offer id="2816392485" available="false">
     <url>https://ukrizol.xyz/ua/p2816392485-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112440,7 +112440,7 @@
     <param name="Колір">Бежевий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392486" available="true">
+  <offer id="2816392486" available="false">
     <url>https://ukrizol.xyz/ua/p2816392486-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112458,7 +112458,7 @@
     <param name="Колір">Оливковий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392487" available="true">
+  <offer id="2816392487" available="false">
     <url>https://ukrizol.xyz/ua/p2816392487-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112590,7 +112590,7 @@
     <param name="Товщина" unit="мм">8</param>
     <param name="Ширина" unit="мм">40</param>
   </offer>
-  <offer id="2835259353" available="true">
+  <offer id="2835259353" available="false">
     <url>https://ukrizol.xyz/ua/p2835259353-karpet-adhesive-chornij.html</url>
     <price>330</price>
     <currencyId>UAH</currencyId>

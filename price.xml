@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-17 17:00">
+<yml_catalog date="2025-12-18 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.40328" />
+      <currency id="USD" rate="46.57224" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.63524" />
+      <currency id="EUR" rate="54.59201" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -496,7 +496,7 @@
   </offer>
   <offer id="1016523079" available="true">
     <url>https://ukrizol.xyz/ua/p1016523079-skotch-armovanij-ukrizol.html</url>
-    <price>157</price>
+    <price>134</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589985_skotch-armovanij-ukrizol.jpg</picture>
@@ -113828,6 +113828,18 @@
     <name>Боксерські рукавички EVERLAST 12 oz стрейч рожеві</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>00002482</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+  </offer>
+  <offer id="2859991330" available="true">
+    <url>https://ukrizol.xyz/ua/p2859991330-spinenij-kauchuk-utsinka.html</url>
+    <price>104</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>84776284</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Спінений каучук 6 мм УЦІНКА</name>
+    <vendor>PA-FLEX</vendor>
+    <vendorCode>500061У</vendorCode>
     <sales_notes>предоплата</sales_notes>
   </offer>
 

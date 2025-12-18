@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-18 10:00">
+<yml_catalog date="2025-12-18 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -358,7 +358,7 @@
     <param name="Довжина" unit="м">10</param>
     <param name="Ширина" unit="мм">50</param>
   </offer>
-  <offer id="1016523070" available="true">
+  <offer id="1016523070" available="false">
     <url>https://ukrizol.xyz/ua/p1016523070-skotch-alyuminiyevij-ukrizol.html</url>
     <price>116</price>
     <currencyId>UAH</currencyId>
@@ -2471,7 +2471,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1016523149" available="false">
+  <offer id="1016523149" available="true">
     <url>https://ukrizol.xyz/ua/p1016523149-paroizolyatsijna-strichka-stk.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
@@ -7396,14 +7396,14 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Колір">Чорний</param>
+    <param name="Область застосування">Для пола|Для стен|Для инженерного оборудования|Для потолков|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Виброизоляция|Улучшение акустики помещений</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
-    <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Еластичність матеріалу">Так</param>
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Максимальная рабочая температура" unit="град.">120</param>
@@ -42561,7 +42561,7 @@
     <param name="Колір">Фіолетовий</param>
     <param name="Ширина" unit="мм">500</param>
   </offer>
-  <offer id="1564866700" available="false">
+  <offer id="1564866700" available="true">
     <url>https://ukrizol.xyz/ua/p1564866700-dityachij-kilimok-pazl.html</url>
     <price>104</price>
     <currencyId>UAH</currencyId>
@@ -60553,7 +60553,7 @@
   </offer>
   <offer id="1674440363" available="true">
     <url>https://ukrizol.xyz/ua/p1674440363-sportivnij-mat-bortsivskij.html</url>
-    <price>4127</price>
+    <price>3907</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -60572,7 +60572,7 @@
   </offer>
   <offer id="1674440364" available="true">
     <url>https://ukrizol.xyz/ua/p1674440364-sportivnij-mat-bortsivskij.html</url>
-    <price>4558</price>
+    <price>4338</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -65480,7 +65480,7 @@
     <param name="Колір">Білий</param>
     <param name="Ширина" unit="мм">500</param>
   </offer>
-  <offer id="1799607182" available="false">
+  <offer id="1799607182" available="true">
     <url>https://ukrizol.xyz/ua/p1799607182-dityachij-kilimok-pazl.html</url>
     <price>104</price>
     <currencyId>UAH</currencyId>
@@ -68117,7 +68117,7 @@
   </offer>
   <offer id="1835705396" available="true">
     <url>https://ukrizol.xyz/ua/p1835705396-chohol-dlya-sportivnogo.html</url>
-    <price>2420</price>
+    <price>2200</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_chohol-dlya-sportivnogo.jpg</picture>
@@ -68140,7 +68140,7 @@
   </offer>
   <offer id="1835705397" available="true">
     <url>https://ukrizol.xyz/ua/p1835705397-chohol-dlya-sportivnogo.html</url>
-    <price>2420</price>
+    <price>2200</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_chohol-dlya-sportivnogo.jpg</picture>
@@ -68163,7 +68163,7 @@
   </offer>
   <offer id="1835705398" available="true">
     <url>https://ukrizol.xyz/ua/p1835705398-chohol-dlya-sportivnogo.html</url>
-    <price>2420</price>
+    <price>2200</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_chohol-dlya-sportivnogo.jpg</picture>
@@ -68181,7 +68181,7 @@
   </offer>
   <offer id="1835705399" available="true">
     <url>https://ukrizol.xyz/ua/p1835705399-chohol-dlya-sportivnogo.html</url>
-    <price>2420</price>
+    <price>2200</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_chohol-dlya-sportivnogo.jpg</picture>
@@ -68314,7 +68314,7 @@
   </offer>
   <offer id="1836036017" available="true">
     <url>https://ukrizol.xyz/ua/p1836036017-sportivnij-mat-bortsivskij.html</url>
-    <price>3146</price>
+    <price>2926</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -68351,7 +68351,7 @@
   </offer>
   <offer id="1836036019" available="true">
     <url>https://ukrizol.xyz/ua/p1836036019-sportivnij-mat-bortsivskij.html</url>
-    <price>3368</price>
+    <price>3148</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -71638,7 +71638,7 @@
   </offer>
   <offer id="1934088483" available="true">
     <url>https://ukrizol.xyz/ua/p1934088483-sportivnij-mat-bortsivskij.html</url>
-    <price>4558</price>
+    <price>4338</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -71657,7 +71657,7 @@
   </offer>
   <offer id="1935196591" available="true">
     <url>https://ukrizol.xyz/ua/p1935196591-sportivnij-mat-bortsivskij.html</url>
-    <price>4127</price>
+    <price>3907</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -71681,7 +71681,7 @@
   </offer>
   <offer id="1935196592" available="true">
     <url>https://ukrizol.xyz/ua/p1935196592-sportivnij-mat-bortsivskij.html</url>
-    <price>3146</price>
+    <price>2926</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -71704,7 +71704,7 @@
   </offer>
   <offer id="1935196593" available="true">
     <url>https://ukrizol.xyz/ua/p1935196593-sportivnij-mat-bortsivskij.html</url>
-    <price>3368</price>
+    <price>3148</price>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -72184,7 +72184,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1969291567" available="true">
+  <offer id="1969291567" available="false">
     <url>https://ukrizol.xyz/ua/p1969291567-himichno-zshitij-spinenij.html</url>
     <price>1860</price>
     <currencyId>UAH</currencyId>
@@ -73203,15 +73203,15 @@
     <vendorCode>EF-3002-GY</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Вага" unit="г">310</param>
-    <param name="Довжина" unit="см">15</param>
-    <param name="Матеріал">Гума</param>
-    <param name="Складна конструкція для зберігання і транспортування">Ні</param>
     <param name="Стан">Новий</param>
-    <param name="Товщина" unit="см">8</param>
-    <param name="Форма">Кругла</param>
     <param name="Колір">Сірий</param>
-    <param name="Ширина" unit="см">15</param>
+    <param name="Ширина" unit="мм">15.0</param>
+    <param name="Форма" unit="">Круглая</param>
+    <param name="Толщина" unit="">8.0</param>
+    <param name="Вес" unit="кг">310.0</param>
+    <param name="Длина" unit="м">15.0</param>
+    <param name="Материал" unit="">Резина</param>
+    <param name="Складная конструкция для хранения и транспортировки" unit="">Нет</param>
   </offer>
   <offer id="1970067939" available="false">
     <url>https://ukrizol.xyz/ua/p1970067939-kilimok-taktichnij-vijskovij.html</url>
@@ -73408,14 +73408,14 @@
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Стан">Новий</param>
-    <param name="Вага" unit="кг">310</param>
-    <param name="Ширина" unit="мм">15</param>
+    <param name="Колір">Зелений</param>
+    <param name="Вес" unit="кг">310.0</param>
     <param name="Длина" unit="м">15</param>
     <param name="Материал" unit="">Резина</param>
     <param name="Складная конструкция для хранения и транспортировки" unit="">Да</param>
     <param name="Толщина" unit="">8</param>
     <param name="Форма" unit="">Круглая</param>
-    <param name="Цвет" unit="">Зелёный</param>
+    <param name="Ширина" unit="мм">15.0</param>
   </offer>
   <offer id="1970068069" available="true">
     <url>https://ukrizol.xyz/ua/p1970068069-palitsya-dlya-skandinavskoyi.html</url>
@@ -81207,11 +81207,11 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
-    <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="2072683403" available="true">
     <url>https://ukrizol.xyz/ua/p2072683403-izolyatsiya-trub-ukrizol.html</url>
@@ -83822,7 +83822,7 @@
     <param name="Товщина" unit="мм">8</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-  <offer id="2127159210" available="true">
+  <offer id="2127159210" available="false">
     <url>https://ukrizol.xyz/ua/p2127159210-kilimok-turistichnij-turist.html</url>
     <price>297</price>
     <currencyId>UAH</currencyId>
@@ -100814,7 +100814,7 @@
     <param name="Толщина" unit="">15</param>
     <param name="Цвет" unit="">Серый</param>
   </offer>
-  <offer id="2292878902" available="true">
+  <offer id="2292878902" available="false">
     <url>https://ukrizol.xyz/ua/p2292878902-dzhgut-uschilnyuvalnij-ukrizol.html</url>
     <price>57</price>
     <currencyId>UAH</currencyId>
@@ -107818,7 +107818,7 @@
     <param name="Матеріал верху">Штучна шкіра</param>
     <param name="Розмір">L</param>
   </offer>
-  <offer id="2568903864" available="true">
+  <offer id="2568903864" available="false">
     <url>https://ukrizol.xyz/ua/p2568903864-bokserski-rukavichki-boxer.html</url>
     <price>830</price>
     <currencyId>UAH</currencyId>
@@ -108710,8 +108710,8 @@
     <vendorCode>0815010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108737,8 +108737,8 @@
     <vendorCode>0109010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
@@ -108764,8 +108764,8 @@
     <vendorCode>085010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108791,8 +108791,8 @@
     <vendorCode>083010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108818,8 +108818,8 @@
     <vendorCode>0105010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108845,8 +108845,8 @@
     <vendorCode>0106010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108872,8 +108872,8 @@
     <vendorCode>0104010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108899,8 +108899,8 @@
     <vendorCode>0108010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108926,8 +108926,8 @@
     <vendorCode>0810010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108953,8 +108953,8 @@
     <vendorCode>0107010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -108980,8 +108980,8 @@
     <vendorCode>087010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109007,8 +109007,8 @@
     <vendorCode>089010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109034,8 +109034,8 @@
     <vendorCode>0103010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109061,8 +109061,8 @@
     <vendorCode>088010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109088,8 +109088,8 @@
     <vendorCode>084010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109115,8 +109115,8 @@
     <vendorCode>01010010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109142,8 +109142,8 @@
     <vendorCode>086010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
-    <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">8</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109563,11 +109563,11 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
-    <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1500</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="2644956550" available="true">
     <url>https://ukrizol.xyz/ua/p2644956550-himichno-zshitij-spinenij.html</url>
@@ -109639,7 +109639,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109668,7 +109668,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109697,7 +109697,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109726,7 +109726,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109755,7 +109755,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109784,7 +109784,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109812,7 +109812,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -109841,7 +109841,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -111823,8 +111823,8 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стін|Для каркасних конструкцій|Для стель|Для інженерного обладнання|Для підлоги</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Поліпшення акустики приміщень|Снижение ударного шума</param>
+    <param name="Область застосування">Для стен|Для каркасных конструкций|Для потолков|Для инженерного оборудования|Для пола</param>
+    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">1.5</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112919,7 +112919,7 @@
     <param name="Материал" unit="">ПВХ</param>
     <param name="Тип мяча" unit="">Массажно-игровой</param>
   </offer>
-  <offer id="2837075712" available="false">
+  <offer id="2837075712" available="true">
     <url>https://ukrizol.xyz/ua/p2837075712-masazhnij-myachik-easyfit.html</url>
     <price>104</price>
     <currencyId>UAH</currencyId>
@@ -113023,7 +113023,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113052,7 +113052,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113081,7 +113081,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113109,7 +113109,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113138,7 +113138,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113166,7 +113166,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113195,7 +113195,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113224,7 +113224,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113253,7 +113253,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113281,7 +113281,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113309,7 +113309,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113337,7 +113337,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113366,7 +113366,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113394,7 +113394,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113453,7 +113453,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113481,7 +113481,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113509,7 +113509,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113537,7 +113537,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113565,7 +113565,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113594,7 +113594,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113622,7 +113622,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113651,7 +113651,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113714,7 +113714,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113742,7 +113742,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113770,7 +113770,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
-    <param name="Область застосування">Для каркасних конструкцій</param>
+    <param name="Область застосування">Для каркасных конструкций</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -113831,16 +113831,41 @@
     <sales_notes>предоплата</sales_notes>
   </offer>
   <offer id="2859991330" available="true">
-    <url>https://ukrizol.xyz/ua/p2859991330-spinenij-kauchuk-utsinka.html</url>
+    <url>https://ukrizol.xyz/ua/p2859991330-spinenij-kauchuk-flex.html</url>
     <price>104</price>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
+    <picture>https://images.prom.ua/2751308045_spinenij-kauchuk-pa-flex.jpg</picture>
+    <picture>https://images.prom.ua/6987922402_spinenij-kauchuk-pa-flex.jpg</picture>
+    <picture>https://images.prom.ua/6987922406_spinenij-kauchuk-pa-flex.jpg</picture>
+    <picture>https://images.prom.ua/6987922410_spinenij-kauchuk-pa-flex.jpg</picture>
+    <picture>https://images.prom.ua/6987922407_spinenij-kauchuk-pa-flex.jpg</picture>
+    <picture>https://images.prom.ua/6987922404_spinenij-kauchuk-pa-flex.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Спінений каучук 6 мм УЦІНКА</name>
+    <name>Спінений каучук PA-FLEX 6 мм (утеплювач, шумоізоляція) УЦІНКА</name>
     <vendor>PA-FLEX</vendor>
     <vendorCode>500061У</vendorCode>
+    <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
+    <param name="Форма поставки матеріалу">Рулон</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Товщина" unit="мм">6</param>
+    <param name="Колір">Чорний</param>
+    <param name="Щільність" unit="кг/м³">55</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
+    <param name="Ступінь жорсткості">М'який</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Минимальная рабочая температура" unit="">-100</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.032</param>
+    <param name="Максимальная рабочая температура" unit="град.">120</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
 
 

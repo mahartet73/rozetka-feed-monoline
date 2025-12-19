@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-19 10:00">
+<yml_catalog date="2025-12-19 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -4516,7 +4516,7 @@
     <param name="Колір">Білий</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1099079093" available="true">
+  <offer id="1099079093" available="false">
     <url>https://ukrizol.xyz/ua/p1099079093-gazospinenij-polietilen-ukrizol.html</url>
     <price>623</price>
     <currencyId>UAH</currencyId>
@@ -41602,7 +41602,7 @@
     <param name="Мінімальний діаметр обтиснення" unit="мм">273</param>
     <param name="Покриття">Цинк</param>
   </offer>
-  <offer id="1555335967" available="false">
+  <offer id="1555335967" available="true">
     <url>https://ukrizol.xyz/ua/p1555335967-bandazhnij-homut-ukrizol.html</url>
     <price>38</price>
     <currencyId>UAH</currencyId>
@@ -75832,7 +75832,7 @@
     <param name="Длина" unit="м">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021493580" available="true">
+  <offer id="2021493580" available="false">
     <url>https://ukrizol.xyz/ua/p2021493580-dzhgut-uschilnyuvalnij-kolorovij.html</url>
     <price>60</price>
     <currencyId>UAH</currencyId>
@@ -108401,7 +108401,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2588324119" available="false">
+  <offer id="2588324119" available="true">
     <url>https://ukrizol.xyz/ua/p2588324119-himichno-zshitij-spinenij.html</url>
     <price>1482</price>
     <currencyId>UAH</currencyId>

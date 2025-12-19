@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-18 17:00">
+<yml_catalog date="2025-12-19 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.57224" />
+      <currency id="USD" rate="46.57114" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.59201" />
+      <currency id="EUR" rate="54.5534" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -41602,7 +41602,7 @@
     <param name="Мінімальний діаметр обтиснення" unit="мм">273</param>
     <param name="Покриття">Цинк</param>
   </offer>
-  <offer id="1555335967" available="true">
+  <offer id="1555335967" available="false">
     <url>https://ukrizol.xyz/ua/p1555335967-bandazhnij-homut-ukrizol.html</url>
     <price>38</price>
     <currencyId>UAH</currencyId>
@@ -72184,7 +72184,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1969291567" available="false">
+  <offer id="1969291567" available="true">
     <url>https://ukrizol.xyz/ua/p1969291567-himichno-zshitij-spinenij.html</url>
     <price>1860</price>
     <currencyId>UAH</currencyId>
@@ -108435,7 +108435,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2588324120" available="false">
+  <offer id="2588324120" available="true">
     <url>https://ukrizol.xyz/ua/p2588324120-himichno-zshitij-spinenij.html</url>
     <price>1860</price>
     <currencyId>UAH</currencyId>
@@ -108469,7 +108469,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2588324121" available="false">
+  <offer id="2588324121" available="true">
     <url>https://ukrizol.xyz/ua/p2588324121-himichno-zshitij-spinenij.html</url>
     <price>1106</price>
     <currencyId>UAH</currencyId>

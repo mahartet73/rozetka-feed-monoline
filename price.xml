@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-19 17:00">
+<yml_catalog date="2025-12-20 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.57114" />
+      <currency id="USD" rate="46.47291" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.5534" />
+      <currency id="EUR" rate="54.41975" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -8109,7 +8109,7 @@
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="1162056846" available="true">
+  <offer id="1162056846" available="false">
     <url>https://ukrizol.xyz/ua/p1162056846-rolik-dlya-bitumnoyi.html</url>
     <price>71</price>
     <currencyId>UAH</currencyId>
@@ -73344,7 +73344,7 @@
     <param name="Ширина" unit="мм">25</param>
     <param name="Довжина" unit="м">1</param>
   </offer>
-  <offer id="1970068066" available="false">
+  <offer id="1970068066" available="true">
     <url>https://ukrizol.xyz/ua/p1970068066-palitsya-dlya-skandinavskoyi.html</url>
     <price>357</price>
     <currencyId>UAH</currencyId>
@@ -78105,7 +78105,7 @@
     <param name="Тип">Бойові</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2034417522" available="false">
+  <offer id="2034417522" available="true">
     <url>https://ukrizol.xyz/ua/p2034417522-bokserski-rukavichki-venum.html</url>
     <price>1430</price>
     <currencyId>UAH</currencyId>
@@ -89197,7 +89197,7 @@
     <param name="Діаметр основи, мм" unit="">108</param>
     <param name="Объем, л" unit="">2.2</param>
   </offer>
-  <offer id="2183164030" available="true">
+  <offer id="2183164030" available="false">
     <url>https://ukrizol.xyz/ua/p2183164030-skovoroda-chavunna-160.html</url>
     <price>379</price>
     <currencyId>UAH</currencyId>
@@ -92536,7 +92536,7 @@
     <param name="Діаметр основи, мм" unit="">210</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183164127" available="true">
+  <offer id="2183164127" available="false">
     <url>https://ukrizol.xyz/ua/p2183164127-skovoroda-chavunna-160.html</url>
     <price>368</price>
     <currencyId>UAH</currencyId>

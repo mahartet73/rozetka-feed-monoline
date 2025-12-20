@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-20 10:00">
+<yml_catalog date="2025-12-20 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -448,7 +448,7 @@
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
-  <offer id="1016523076" available="true">
+  <offer id="1016523076" available="false">
     <url>https://ukrizol.xyz/ua/p1016523076-skotch-alyuminiyevij-ukrizol.html</url>
     <price>487</price>
     <currencyId>UAH</currencyId>
@@ -13362,7 +13362,7 @@
     <param name="Тип">Бокс</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1358320706" available="true">
+  <offer id="1358320706" available="false">
     <url>https://ukrizol.xyz/ua/p1358320706-bokserski-rukavichki-boxer.html</url>
     <price>1441</price>
     <currencyId>UAH</currencyId>
@@ -21807,7 +21807,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482981" available="false">
+  <offer id="1553482981" available="true">
     <url>https://ukrizol.xyz/ua/p1553482981-izolyatsiya-trub-ukrizol.html</url>
     <price>20</price>
     <currencyId>UAH</currencyId>
@@ -21937,7 +21937,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482986" available="true">
+  <offer id="1553482986" available="false">
     <url>https://ukrizol.xyz/ua/p1553482986-izolyatsiya-trub-ukrizol.html</url>
     <price>44</price>
     <currencyId>UAH</currencyId>
@@ -22171,7 +22171,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482995" available="false">
+  <offer id="1553482995" available="true">
     <url>https://ukrizol.xyz/ua/p1553482995-izolyatsiya-trub-ukrizol.html</url>
     <price>40</price>
     <currencyId>UAH</currencyId>
@@ -50449,7 +50449,7 @@
     <param name="Диаметр, мм" unit="">406</param>
     <param name="Материал" unit="">многослойный картон с пропиткой</param>
   </offer>
-  <offer id="1639607114" available="true">
+  <offer id="1639607114" available="false">
     <url>https://ukrizol.xyz/ua/p1639607114-opalubka-kolon-315.html</url>
     <price>2013</price>
     <currencyId>UAH</currencyId>
@@ -73919,7 +73919,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1973671784" available="false">
+  <offer id="1973671784" available="true">
     <url>https://ukrizol.xyz/ua/p1973671784-izolyatsiya-trub-10813.html</url>
     <price>42</price>
     <currencyId>UAH</currencyId>
@@ -83271,7 +83271,7 @@
     <param name="Тип">MMA</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2108442479" available="false">
+  <offer id="2108442479" available="true">
     <url>https://ukrizol.xyz/ua/p2108442479-izolyatsiya-trub-ukrizol.html</url>
     <price>22</price>
     <currencyId>UAH</currencyId>
@@ -89197,7 +89197,7 @@
     <param name="Діаметр основи, мм" unit="">108</param>
     <param name="Объем, л" unit="">2.2</param>
   </offer>
-  <offer id="2183164030" available="false">
+  <offer id="2183164030" available="true">
     <url>https://ukrizol.xyz/ua/p2183164030-skovoroda-chavunna-160.html</url>
     <price>379</price>
     <currencyId>UAH</currencyId>
@@ -92536,7 +92536,7 @@
     <param name="Діаметр основи, мм" unit="">210</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183164127" available="false">
+  <offer id="2183164127" available="true">
     <url>https://ukrizol.xyz/ua/p2183164127-skovoroda-chavunna-160.html</url>
     <price>368</price>
     <currencyId>UAH</currencyId>
@@ -98959,7 +98959,7 @@
     <param name="Наявність кришки">Так</param>
     <param name="Форма">Кругла</param>
   </offer>
-  <offer id="2184960080" available="false">
+  <offer id="2184960080" available="true">
     <url>https://ukrizol.xyz/ua/p2184960080-ventilyatsijna-strichka-konika.html</url>
     <price>391</price>
     <currencyId>UAH</currencyId>
@@ -98969,7 +98969,7 @@
     <picture>https://images.prom.ua/6818449518_ventilyatsijna-strichka-konika.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Вентиляційна стрічка коника UKRIZOL 310 мм х 5 м</name>
+    <name>Вентиляційна стрічка коника UKRIZOL 310 мм х 5 м чорна</name>
     <vendor>Укрізол</vendor>
     <vendorCode>889493</vendorCode>
     <country_of_origin>Україна</country_of_origin>
@@ -98979,6 +98979,7 @@
     <param name="Форма матеріалу, що поставляється">Рулон</param>
     <param name="Довжина" unit="м">5</param>
     <param name="Ширина" unit="м">0.31</param>
+    <param name="Колір">Чорний</param>
     <param name="Мінімальна робоча температура" unit="град.">-40</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Материал мембраны" unit="">Нетканое полотно</param>
@@ -112493,7 +112494,7 @@
     <param name="Колір">Сірий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2817054081" available="false">
+  <offer id="2817054081" available="true">
     <url>https://ukrizol.xyz/ua/p2817054081-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -113866,6 +113867,66 @@
     <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Длина рулона, п.м." unit="">30</param>
+  </offer>
+  <offer id="2862066014" available="true">
+    <url>https://ukrizol.xyz/ua/p2862066014-avtokilim-eva-temno.html</url>
+    <price>935</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756341</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Автокилим ЕВА темно-сірий 1500х1000х10 мм (РОМБ)</name>
+    <vendorCode>00002486</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+  </offer>
+  <offer id="2862066015" available="false">
+    <url>https://ukrizol.xyz/ua/p2862066015-skotch-alyuminiyevij-armovanij.html</url>
+    <price>228</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756413</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Скотч алюмінієвий армований UKRIZOL 75 мм х 25 м</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>00002487</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+  </offer>
+  <offer id="2862066016" available="false">
+    <url>https://ukrizol.xyz/ua/p2862066016-skotch-alyuminiyevij-armovanij.html</url>
+    <price>304</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756413</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Скотч алюмінієвий армований UKRIZOL 100 мм х 25 м</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>00002488</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+  </offer>
+  <offer id="2862172243" available="true">
+    <url>https://ukrizol.xyz/ua/p2862172243-ventilyatsijna-strichka-konika.html</url>
+    <price>391</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>135249027</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Вентиляційна стрічка коника ROOFER SK310 310 мм х 5 м коричнева</name>
+    <vendor>Roofer</vendor>
+    <vendorCode>00002491</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Колір">Коричневий</param>
+  </offer>
+  <offer id="2862172244" available="true">
+    <url>https://ukrizol.xyz/ua/p2862172244-ventilyatsijna-strichka-konika.html</url>
+    <price>391</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>135249027</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Вентиляційна стрічка коника ROOFER SK310 310 мм х 5 м сіра</name>
+    <vendor>Roofer</vendor>
+    <vendorCode>00002490</vendorCode>
+    <sales_notes>предоплата</sales_notes>
   </offer>
 
 

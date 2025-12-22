@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-21 17:00">
+<yml_catalog date="2025-12-22 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -77948,7 +77948,7 @@
     <param name="Тип">MMA</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2034417516" available="true">
+  <offer id="2034417516" available="false">
     <url>https://ukrizol.xyz/ua/p2034417516-sholom-maska-trenuvalna.html</url>
     <price>1320</price>
     <currencyId>UAH</currencyId>
@@ -98974,14 +98974,14 @@
     <vendorCode>889493</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Тип використання">Для зовнішніх робіт</param>
-    <param name="Призначення матеріалу">Для кровли</param>
-    <param name="Форма матеріалу, що поставляється">Рулон</param>
     <param name="Довжина" unit="м">5</param>
-    <param name="Ширина" unit="м">0.31</param>
     <param name="Колір">Чорний</param>
-    <param name="Мінімальна робоча температура" unit="град.">-40</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
+    <param name="Мінімальна робоча температура" unit="град.">-40</param>
+    <param name="Призначення матеріалу">Для кровли</param>
+    <param name="Тип використання">Для зовнішніх робіт</param>
+    <param name="Форма матеріалу, що поставляється">Рулон</param>
+    <param name="Ширина" unit="м">0.31</param>
     <param name="Материал мембраны" unit="">Нетканое полотно</param>
   </offer>
   <offer id="2184960081" available="false">
@@ -102387,7 +102387,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Мішок</param>
   </offer>
-  <offer id="2328217260" available="true">
+  <offer id="2328217260" available="false">
     <url>https://ukrizol.xyz/ua/p2328217260-sholom-bokserskij-boxer.html</url>
     <price>1188</price>
     <currencyId>UAH</currencyId>
@@ -113900,33 +113900,52 @@
     <delivery>true</delivery>
     <name>Скотч алюмінієвий армований UKRIZOL 100 мм х 25 м</name>
     <vendor>Укрізол</vendor>
-    <vendorCode>00002488</vendorCode>
+    <vendorCode>889731</vendorCode>
     <sales_notes>предоплата</sales_notes>
   </offer>
   <offer id="2862172243" available="true">
     <url>https://ukrizol.xyz/ua/p2862172243-ventilyatsijna-strichka-konika.html</url>
     <price>391</price>
     <currencyId>UAH</currencyId>
-    <categoryId>135249027</categoryId>
+    <categoryId>88895683</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Вентиляційна стрічка коника ROOFER SK310 310 мм х 5 м коричнева</name>
-    <vendor>Roofer</vendor>
-    <vendorCode>00002491</vendorCode>
+    <name>Вентиляційна стрічка коника UKRIZOL 310 мм х 5 м коричнева</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>889733</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
+    <param name="Довжина" unit="м">5</param>
     <param name="Колір">Коричневий</param>
+    <param name="Максимальна робоча температура" unit="град.">100</param>
+    <param name="Мінімальна робоча температура" unit="град.">-40</param>
+    <param name="Призначення матеріалу">Для покрівлі</param>
+    <param name="Тип використання">Для зовнішніх робіт</param>
+    <param name="Форма матеріалу, що поставляється">Рулон</param>
+    <param name="Ширина" unit="м">0.31</param>
+    <param name="Материал мембраны" unit="">Нетканое полотно</param>
   </offer>
   <offer id="2862172244" available="true">
     <url>https://ukrizol.xyz/ua/p2862172244-ventilyatsijna-strichka-konika.html</url>
     <price>391</price>
     <currencyId>UAH</currencyId>
-    <categoryId>135249027</categoryId>
+    <categoryId>88895683</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Вентиляційна стрічка коника ROOFER SK310 310 мм х 5 м сіра</name>
-    <vendor>Roofer</vendor>
-    <vendorCode>00002490</vendorCode>
+    <name>Вентиляційна стрічка коника UKRIZOL 310 мм х 5 м сіра</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>889732</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
+    <param name="Довжина" unit="м">5</param>
+    <param name="Колір">Сірий</param>
+    <param name="Максимальна робоча температура" unit="град.">100</param>
+    <param name="Мінімальна робоча температура" unit="град.">-40</param>
+    <param name="Призначення матеріалу">Для покрівлі</param>
+    <param name="Тип використання">Для зовнішніх робіт</param>
+    <param name="Форма матеріалу, що поставляється">Рулон</param>
+    <param name="Ширина" unit="м">0.31</param>
+    <param name="Материал мембраны" unit="">Нетканое полотно</param>
   </offer>
 
 

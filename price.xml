@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-22 10:00">
+<yml_catalog date="2025-12-22 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -2471,7 +2471,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1016523149" available="true">
+  <offer id="1016523149" available="false">
     <url>https://ukrizol.xyz/ua/p1016523149-paroizolyatsijna-strichka-stk.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
@@ -15692,7 +15692,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Мішок</param>
   </offer>
-  <offer id="1358320936" available="true">
+  <offer id="1358320936" available="false">
     <url>https://ukrizol.xyz/ua/p1358320936-grusha-nabivna-boxer.html</url>
     <price>649</price>
     <currencyId>UAH</currencyId>
@@ -62410,8 +62410,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Армований скотч">Так</param>
-    <param name="Довжина" unit="м">25</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
+    <param name="Довжина" unit="м">25</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
   <offer id="1707333570" available="false">
@@ -62430,8 +62430,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Армований скотч">Так</param>
-    <param name="Довжина" unit="м">25</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
+    <param name="Довжина" unit="м">25</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
   <offer id="1710203316" available="false">
@@ -63869,7 +63869,7 @@
     <param name="Длина, мм" unit="">300</param>
     <param name="Диаметр, мм" unit="">100</param>
   </offer>
-  <offer id="1758785465" available="true">
+  <offer id="1758785465" available="false">
     <url>https://ukrizol.xyz/ua/p1758785465-masazhnij-roler-easyfit.html</url>
     <price>306</price>
     <currencyId>UAH</currencyId>
@@ -65602,12 +65602,12 @@
     <vendorCode>832621</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Сірий</param>
-    <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Материал" unit="">Резина</param>
   </offer>
   <offer id="1805995262" available="false">
     <url>https://ukrizol.xyz/ua/p1805995262-spinenij-kauchuk-flex.html</url>
@@ -65689,7 +65689,7 @@
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
-    <param name="Ширина" unit="мм">1000</param>
+    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="1806044167" available="false">
     <url>https://ukrizol.xyz/ua/p1806044167-list-eva-eva.html</url>
@@ -65728,9 +65728,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">2500</param>
+    <param name="Колір">Сірий</param>
     <param name="Тип полімеру">EVA</param>
     <param name="Форма сировини, що поставляється">Лист</param>
-    <param name="Колір">Сірий</param>
     <param name="Ширина" unit="мм">1400</param>
   </offer>
   <offer id="1806056018" available="true">
@@ -65748,9 +65748,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">2500</param>
+    <param name="Колір">Чорний</param>
     <param name="Тип полімеру">EVA</param>
     <param name="Форма сировини, що поставляється">Лист</param>
-    <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1400</param>
   </offer>
   <offer id="1806089007" available="false">
@@ -69694,9 +69694,9 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Висота" unit="мм">12</param>
     <param name="Довжина" unit="мм">2500</param>
+    <param name="Колір">Чорний</param>
     <param name="Тип полімеру">EVA</param>
     <param name="Форма сировини, що поставляється">Лист</param>
-    <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1400</param>
   </offer>
   <offer id="1875766744" available="true">
@@ -75511,7 +75511,7 @@
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
-    <param name="Ширина" unit="мм">1000</param>
+    <param name="Ширина" unit="мм">1000.0</param>
   </offer>
   <offer id="2008148068" available="false">
     <url>https://ukrizol.xyz/ua/p2008148068-dzhgut-uschilnyuvalnij-profilnij.html</url>
@@ -76084,12 +76084,12 @@
     <vendorCode>889390</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Коричневий</param>
-    <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Материал" unit="">Резина</param>
   </offer>
   <offer id="2030682740" available="false">
     <url>https://ukrizol.xyz/ua/p2030682740-trubna-izolyatsiya-ukrizol.html</url>
@@ -81042,11 +81042,11 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
-    <param name="Ширина" unit="мм">1000</param>
     <param name="Высота" unit="см">10</param>
     <param name="Длина" unit="м">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Ширина" unit="мм">1000</param>
   </offer>
   <offer id="2066097132" available="true">
     <url>https://ukrizol.xyz/ua/p2066097132-kilimok-dlya-jogi.html</url>
@@ -109275,7 +109275,7 @@
     <param name="Длина" unit="м">150</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2625260702" available="true">
+  <offer id="2625260702" available="false">
     <url>https://ukrizol.xyz/ua/p2625260702-folga-samokleyucha-armovana.html</url>
     <price>83</price>
     <currencyId>UAH</currencyId>
@@ -109613,12 +109613,13 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889621</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <param name="Висота" unit="мм">10</param>
-    <param name="Довжина" unit="мм">1500</param>
     <param name="Колір">Чорний</param>
-    <param name="Ширина" unit="мм">1000</param>
+    <param name="Матеріал">Гума</param>
+    <param name="Высота" unit="см">10</param>
+    <param name="Длина" unit="м">1500</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Ширина" unit="мм">1000</param>
   </offer>
   <offer id="2656460754" available="false">
     <url>https://ukrizol.xyz/ua/p2656460754-kauchukova-zvukoizolyatsijna-strichka.html</url>
@@ -111518,7 +111519,7 @@
     <param name="Колір">Зелений</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838131" available="true">
+  <offer id="2807838131" available="false">
     <url>https://ukrizol.xyz/ua/p2807838131-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -111607,7 +111608,7 @@
     <param name="Колір">Білий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838136" available="true">
+  <offer id="2807838136" available="false">
     <url>https://ukrizol.xyz/ua/p2807838136-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -111661,7 +111662,7 @@
     <param name="Колір">Коричневий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838139" available="true">
+  <offer id="2807838139" available="false">
     <url>https://ukrizol.xyz/ua/p2807838139-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -111911,7 +111912,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2814242739" available="true">
+  <offer id="2814242739" available="false">
     <url>https://ukrizol.xyz/ua/p2814242739-filament-dsf-petg.html</url>
     <price>511</price>
     <currencyId>UAH</currencyId>
@@ -112264,7 +112265,7 @@
     <param name="Колір">Коричневий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392476" available="false">
+  <offer id="2816392476" available="true">
     <url>https://ukrizol.xyz/ua/p2816392476-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -112370,7 +112371,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392482" available="false">
+  <offer id="2816392482" available="true">
     <url>https://ukrizol.xyz/ua/p2816392482-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>
@@ -113869,39 +113870,63 @@
     <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
   <offer id="2862066014" available="true">
-    <url>https://ukrizol.xyz/ua/p2862066014-avtokilim-eva-temno.html</url>
+    <url>https://ukrizol.xyz/ua/p2862066014-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
-    <categoryId>146756341</categoryId>
+    <categoryId>121069509</categoryId>
+    <picture>https://images.prom.ua/4482119083_list-eva-eva.jpg</picture>
+    <picture>https://images.prom.ua/4386951406_list-eva-eva.jpg</picture>
+    <picture>https://images.prom.ua/4482119099_list-eva-eva.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Автокилим ЕВА темно-сірий 1500х1000х10 мм (РОМБ)</name>
-    <vendorCode>00002486</vendorCode>
+    <name>Лист ЕВА (EVA) темно-сірий 1500×1000х10 мм (автокилим, ромб)</name>
+    <vendorCode>889729</vendorCode>
     <sales_notes>предоплата</sales_notes>
+    <param name="Колір">Сірий</param>
+    <param name="Матеріал">Гума</param>
+    <param name="Высота" unit="см">10</param>
+    <param name="Длина" unit="м">1500</param>
+    <param name="Тип полимера" unit="">EVA</param>
+    <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Ширина" unit="мм">1000</param>
   </offer>
   <offer id="2862066015" available="false">
     <url>https://ukrizol.xyz/ua/p2862066015-skotch-alyuminiyevij-armovanij.html</url>
     <price>228</price>
     <currencyId>UAH</currencyId>
-    <categoryId>146756413</categoryId>
+    <categoryId>72154835</categoryId>
+    <picture>https://images.prom.ua/4073515341_skotch-alyuminiyevij-armovanij.jpg</picture>
+    <picture>https://images.prom.ua/4073515342_skotch-alyuminiyevij-armovanij.jpg</picture>
+    <picture>https://images.prom.ua/4073515343_skotch-alyuminiyevij-armovanij.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Скотч алюмінієвий армований UKRIZOL 75 мм х 25 м</name>
     <vendor>Укрізол</vendor>
-    <vendorCode>00002487</vendorCode>
+    <vendorCode>889730</vendorCode>
     <sales_notes>предоплата</sales_notes>
+    <param name="Армований скотч">Так</param>
+    <param name="Відносне подовження на розрив" unit="%">3</param>
+    <param name="Довжина" unit="м">25</param>
+    <param name="Ширина" unit="мм">75</param>
   </offer>
   <offer id="2862066016" available="false">
     <url>https://ukrizol.xyz/ua/p2862066016-skotch-alyuminiyevij-armovanij.html</url>
     <price>304</price>
     <currencyId>UAH</currencyId>
-    <categoryId>146756413</categoryId>
+    <categoryId>72154835</categoryId>
+    <picture>https://images.prom.ua/4073515341_skotch-alyuminiyevij-armovanij.jpg</picture>
+    <picture>https://images.prom.ua/4073515342_skotch-alyuminiyevij-armovanij.jpg</picture>
+    <picture>https://images.prom.ua/4073515343_skotch-alyuminiyevij-armovanij.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Скотч алюмінієвий армований UKRIZOL 100 мм х 25 м</name>
     <vendor>Укрізол</vendor>
     <vendorCode>889731</vendorCode>
     <sales_notes>предоплата</sales_notes>
+    <param name="Армований скотч">Так</param>
+    <param name="Відносне подовження на розрив" unit="%">3</param>
+    <param name="Довжина" unit="м">25</param>
+    <param name="Ширина" unit="мм">100</param>
   </offer>
   <offer id="2862172243" available="true">
     <url>https://ukrizol.xyz/ua/p2862172243-ventilyatsijna-strichka-konika.html</url>
@@ -113946,6 +113971,17 @@
     <param name="Форма матеріалу, що поставляється">Рулон</param>
     <param name="Ширина" unit="м">0.31</param>
     <param name="Материал мембраны" unit="">Нетканое полотно</param>
+  </offer>
+  <offer id="2863131707" available="false">
+    <url>https://ukrizol.xyz/ua/p2863131707-zvukoizolyatsijna-samokleyucha-strichka.html</url>
+    <price>1379</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756405</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Звукоізоляційна самоклеюча стрічка XPE 3х300 мм, довжина 30 м</name>
+    <vendorCode>00002492</vendorCode>
+    <sales_notes>предоплата</sales_notes>
   </offer>
 
 

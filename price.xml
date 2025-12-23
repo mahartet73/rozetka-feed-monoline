@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-22 17:00">
+<yml_catalog date="2025-12-23 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.47291" />
+      <currency id="USD" rate="46.36302" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.41975" />
+      <currency id="EUR" rate="54.43944" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -63848,7 +63848,7 @@
     <param name="Конструкция" unit="">Цельная</param>
     <param name="Толщина (мм)" unit="мм">4.5</param>
   </offer>
-  <offer id="1758785464" available="true">
+  <offer id="1758785464" available="false">
     <url>https://ukrizol.xyz/ua/p1758785464-masazhnij-roler-easyfit.html</url>
     <price>306</price>
     <currencyId>UAH</currencyId>
@@ -81010,7 +81010,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2058077937" available="false">
+  <offer id="2058077937" available="true">
     <url>https://ukrizol.xyz/ua/p2058077937-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -83822,7 +83822,7 @@
     <param name="Товщина" unit="мм">8</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-  <offer id="2127159210" available="false">
+  <offer id="2127159210" available="true">
     <url>https://ukrizol.xyz/ua/p2127159210-kilimok-turistichnij-turist.html</url>
     <price>297</price>
     <currencyId>UAH</currencyId>
@@ -111161,6 +111161,46 @@
     <param name="Товщина стінки" unit="мм">2.7</param>
     <param name="Форма">Кругла</param>
   </offer>
+  <offer id="2745956706" available="true">
+    <url>https://ukrizol.xyz/ua/p2745956706-armovana-klejka-strichka.html</url>
+    <price>200</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72154835</categoryId>
+    <picture>https://images.prom.ua/6895250316_armovana-klejka-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6895250317_armovana-klejka-strichka.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Армована клейка стрічка, армований скотч 50 мм х 50 м.п. гідроізоляційний жовта</name>
+    <vendorCode>889658</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Ширина" unit="мм">50</param>
+    <param name="Довжина" unit="м">50</param>
+    <param name="Армований скотч">Так</param>
+    <param name="Цвет" unit="">Желтый</param>
+    <param name="Клейкие стороны ленты" unit="">Односторонняя</param>
+    <param name="Ширина клеящей ленты" unit="мм">50</param>
+    <param name="Длина клеящей ленты" unit="м">50</param>
+  </offer>
+  <offer id="2745956707" available="true">
+    <url>https://ukrizol.xyz/ua/p2745956707-armovana-klejka-strichka.html</url>
+    <price>200</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72154835</categoryId>
+    <picture>https://images.prom.ua/6895252828_armovana-klejka-strichka.jpg</picture>
+    <picture>https://images.prom.ua/6895252827_armovana-klejka-strichka.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Армована клейка стрічка, армований скотч 50 мм х 50 м.п. гідроізоляційний біла</name>
+    <vendorCode>889657</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Ширина" unit="мм">50</param>
+    <param name="Довжина" unit="м">50</param>
+    <param name="Армований скотч">Так</param>
+    <param name="Цвет" unit="">Белый</param>
+    <param name="Клейкие стороны ленты" unit="">Односторонняя</param>
+    <param name="Ширина клеящей ленты" unit="мм">50</param>
+    <param name="Длина клеящей ленты" unit="м">50</param>
+  </offer>
   <offer id="2761219381" available="false">
     <url>https://ukrizol.xyz/ua/p2761219381-skakalka-tapout-280.html</url>
     <price>127</price>
@@ -112090,7 +112130,7 @@
     <param name="Колір">Синій</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2814242749" available="true">
+  <offer id="2814242749" available="false">
     <url>https://ukrizol.xyz/ua/p2814242749-filament-dsf-petg.html</url>
     <price>511</price>
     <currencyId>UAH</currencyId>

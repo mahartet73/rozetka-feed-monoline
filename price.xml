@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-24 10:00">
+<yml_catalog date="2025-12-24 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -2471,7 +2471,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="м">0.15</param>
   </offer>
-  <offer id="1016523149" available="false">
+  <offer id="1016523149" available="true">
     <url>https://ukrizol.xyz/ua/p1016523149-paroizolyatsijna-strichka-stk.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
@@ -4477,7 +4477,7 @@
     <param name="Основа" unit="">Бутил-каучук</param>
     <param name="Толщина фольги" unit="">40 мкм</param>
   </offer>
-  <offer id="1056254235" available="true">
+  <offer id="1056254235" available="false">
     <url>https://ukrizol.xyz/ua/p1056254235-uschilnyuvalna-porolonova-strichka.html</url>
     <price>26</price>
     <currencyId>UAH</currencyId>
@@ -6032,7 +6032,7 @@
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="см">100</param>
   </offer>
-  <offer id="1116601700" available="false">
+  <offer id="1116601700" available="true">
     <url>https://ukrizol.xyz/ua/p1116601700-sportivnij-mat-tatami.html</url>
     <price>880</price>
     <currencyId>UAH</currencyId>
@@ -18427,7 +18427,7 @@
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="1427230535" available="false">
+  <offer id="1427230535" available="true">
     <url>https://ukrizol.xyz/ua/p1427230535-dzhgut-uschilnyuvalnij-ukrizol.html</url>
     <price>60</price>
     <currencyId>UAH</currencyId>
@@ -21885,7 +21885,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482984" available="true">
+  <offer id="1553482984" available="false">
     <url>https://ukrizol.xyz/ua/p1553482984-izolyatsiya-trub-ukrizol.html</url>
     <price>30</price>
     <currencyId>UAH</currencyId>
@@ -88024,7 +88024,7 @@
   </offer>
   <offer id="2183163996" available="true">
     <url>https://ukrizol.xyz/ua/p2183163996-skovoroda-chavunna-optima.html</url>
-    <price>933</price>
+    <price>1043</price>
     <currencyId>UAH</currencyId>
     <categoryId>130263366</categoryId>
     <picture>https://images.prom.ua/5715011539_skovoroda-chavunna-optima-bordo.jpg</picture>
@@ -90820,7 +90820,7 @@
   </offer>
   <offer id="2183164076" available="true">
     <url>https://ukrizol.xyz/ua/p2183164076-skovoroda-chavunna-optima.html</url>
-    <price>724</price>
+    <price>801</price>
     <currencyId>UAH</currencyId>
     <categoryId>130261837</categoryId>
     <picture>https://images.prom.ua/5714989248_skovoroda-chavunna-optima.jpg</picture>
@@ -91693,7 +91693,7 @@
   </offer>
   <offer id="2183164102" available="true">
     <url>https://ukrizol.xyz/ua/p2183164102-skovoroda-chavunna-chavunnoyu.html</url>
-    <price>1285</price>
+    <price>1512</price>
     <currencyId>UAH</currencyId>
     <categoryId>130277462</categoryId>
     <picture>https://images.prom.ua/5714980734_skovoroda-chavunna-30.jpg</picture>
@@ -94257,7 +94257,7 @@
   </offer>
   <offer id="2183164799" available="true">
     <url>https://ukrizol.xyz/ua/p2183164799-skovoroda-chavunna-next.html</url>
-    <price>724</price>
+    <price>858</price>
     <currencyId>UAH</currencyId>
     <categoryId>130261837</categoryId>
     <picture>https://images.prom.ua/5714983111_skovoroda-chavunna-next.jpg</picture>
@@ -97846,19 +97846,19 @@
     <vendorCode>KA12-3</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Вага" unit="кг">11.86</param>
-    <param name="Матеріал">Чавун</param>
     <param name="Призначення">Для відкритого вогню</param>
-    <param name="Дужка для підвішування">Є</param>
-    <param name="Матеріал кришки">Чавун</param>
-    <param name="Товщина стінок казана" unit="мм">3.8</param>
-    <param name="Висота з кришкою" unit="мм">195.6</param>
-    <param name="Тринога">Немає</param>
+    <param name="Матеріал">Чавун</param>
+    <param name="Об`єм" unit="л">12</param>
+    <param name="Діаметр" unit="мм">400</param>
+    <param name="Висота" unit="мм">157</param>
     <param name="Кришка">Є</param>
+    <param name="Матеріал кришки">Чавун</param>
+    <param name="Висота з кришкою" unit="мм">195.6</param>
+    <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Товщина дна казана" unit="мм">3.8</param>
-    <param name="Объем" unit="мл">12.0</param>
-    <param name="Высота" unit="см">157.0</param>
-    <param name="Диаметр" unit="см">400.0</param>
+    <param name="Вага" unit="кг">11.86</param>
+    <param name="Дужка для підвішування">Є</param>
+    <param name="Тринога">Немає</param>
   </offer>
   <offer id="2183246863" available="false">
     <url>https://ukrizol.xyz/ua/p2183246863-chajnik-emalovanij-vitaly.html</url>
@@ -99382,7 +99382,7 @@
   </offer>
   <offer id="2199289908" available="true">
     <url>https://ukrizol.xyz/ua/p2199289908-skovoroda-chavunna-wok.html</url>
-    <price>1406</price>
+    <price>1655</price>
     <currencyId>UAH</currencyId>
     <categoryId>130266227</categoryId>
     <picture>https://images.prom.ua/5770195985_skovoroda-chavunna-wok.jpg</picture>

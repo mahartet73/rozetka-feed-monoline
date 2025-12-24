@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-23 17:00">
+<yml_catalog date="2025-12-24 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.36302" />
+      <currency id="USD" rate="46.31033" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.43944" />
+      <currency id="EUR" rate="54.59993" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -4477,7 +4477,7 @@
     <param name="Основа" unit="">Бутил-каучук</param>
     <param name="Толщина фольги" unit="">40 мкм</param>
   </offer>
-  <offer id="1056254235" available="false">
+  <offer id="1056254235" available="true">
     <url>https://ukrizol.xyz/ua/p1056254235-uschilnyuvalna-porolonova-strichka.html</url>
     <price>26</price>
     <currencyId>UAH</currencyId>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-25 17:00">
+<yml_catalog date="2025-12-26 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.36951" />
+      <currency id="USD" rate="46.12641" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.65108" />
+      <currency id="EUR" rate="54.36915" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -111577,7 +111577,7 @@
     <param name="Колір">Бежевий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838132" available="false">
+  <offer id="2807838132" available="true">
     <url>https://ukrizol.xyz/ua/p2807838132-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>

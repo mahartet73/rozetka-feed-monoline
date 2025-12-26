@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-26 10:00">
+<yml_catalog date="2025-12-26 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -53998,22 +53998,22 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
-    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Щільність" unit="кг/м³">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для инженерного оборудования|Для потолков|Для пола|Для стен|Для каркасных конструкций</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">4</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">50</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Максимальная рабочая температура" unit="град.">120.0</param>
   </offer>
   <offer id="1650744757" available="false">
     <url>https://ukrizol.xyz/ua/p1650744757-spinenij-kauchuk-flex.html</url>
@@ -75630,7 +75630,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Щільність" unit="кг/м3">26</param>
   </offer>
-  <offer id="2021493569" available="true">
+  <offer id="2021493569" available="false">
     <url>https://ukrizol.xyz/ua/p2021493569-akvapalka-nudls-dlya.html</url>
     <price>110</price>
     <currencyId>UAH</currencyId>
@@ -77106,7 +77106,7 @@
     <param name="Форма">Пряма</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2034417481" available="true">
+  <offer id="2034417481" available="false">
     <url>https://ukrizol.xyz/ua/p2034417481-lapi-bokserski-everlast.html</url>
     <price>1320</price>
     <currencyId>UAH</currencyId>
@@ -91104,7 +91104,7 @@
     <param name="Объем, л" unit="">0.7</param>
     <param name="Габарити підставки, мм" unit="">260</param>
   </offer>
-  <offer id="2183164085" available="true">
+  <offer id="2183164085" available="false">
     <url>https://ukrizol.xyz/ua/p2183164085-skovoroda-chavunna-sklyanoyu.html</url>
     <price>1043</price>
     <currencyId>UAH</currencyId>
@@ -107290,7 +107290,7 @@
     <param name="Тип">Лапа</param>
     <param name="Форма">Гнута</param>
   </offer>
-  <offer id="2568779862" available="true">
+  <offer id="2568779862" available="false">
     <url>https://ukrizol.xyz/ua/p2568779862-lapi-bokserski-boxer.html</url>
     <price>616</price>
     <currencyId>UAH</currencyId>
@@ -108525,7 +108525,7 @@
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Ширина листа" unit="см">100</param>
   </offer>
-  <offer id="2601819749" available="true">
+  <offer id="2601819749" available="false">
     <url>https://ukrizol.xyz/ua/p2601819749-dityachij-dvostoronnij-kilimok.html</url>
     <price>1078</price>
     <currencyId>UAH</currencyId>
@@ -111577,7 +111577,7 @@
     <param name="Колір">Бежевий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838132" available="true">
+  <offer id="2807838132" available="false">
     <url>https://ukrizol.xyz/ua/p2807838132-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>

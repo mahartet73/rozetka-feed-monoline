@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-26 17:00">
+<yml_catalog date="2025-12-27 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.12641" />
+      <currency id="USD" rate="46.27007" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.36915" />
+      <currency id="EUR" rate="54.51072" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -91104,7 +91104,7 @@
     <param name="Объем, л" unit="">0.7</param>
     <param name="Габарити підставки, мм" unit="">260</param>
   </offer>
-  <offer id="2183164085" available="false">
+  <offer id="2183164085" available="true">
     <url>https://ukrizol.xyz/ua/p2183164085-skovoroda-chavunna-sklyanoyu.html</url>
     <price>1043</price>
     <currencyId>UAH</currencyId>
@@ -106328,7 +106328,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Фіолетовий</param>
   </offer>
-  <offer id="2501299612" available="true">
+  <offer id="2501299612" available="false">
     <url>https://ukrizol.xyz/ua/p2501299612-bokserski-rukavichki-grant.html</url>
     <price>1270</price>
     <currencyId>UAH</currencyId>

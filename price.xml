@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-29 10:00">
+<yml_catalog date="2025-12-29 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -180,6 +180,7 @@
       <category id="84776284" parentId="84776005">Спінений каучук</category>
       <category id="84776005">Спінений (синтетичний) каучук</category>
       <category id="148353593">3D-друк</category>
+      <category id="148855694" parentId="141469697">Знято з виробництва</category>
       <category id="148643543" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 90 мм</category>
       <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
       <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
@@ -4477,7 +4478,7 @@
     <param name="Основа" unit="">Бутил-каучук</param>
     <param name="Толщина фольги" unit="">40 мкм</param>
   </offer>
-  <offer id="1056254235" available="false">
+  <offer id="1056254235" available="true">
     <url>https://ukrizol.xyz/ua/p1056254235-uschilnyuvalna-porolonova-strichka.html</url>
     <price>26</price>
     <currencyId>UAH</currencyId>
@@ -9065,7 +9066,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1210407910" available="true">
+  <offer id="1210407910" available="false">
     <url>https://ukrizol.xyz/ua/p1210407910-kauchukova-izolyatsiya-dlya.html</url>
     <price>20</price>
     <currencyId>UAH</currencyId>
@@ -21885,7 +21886,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482984" available="false">
+  <offer id="1553482984" available="true">
     <url>https://ukrizol.xyz/ua/p1553482984-izolyatsiya-trub-ukrizol.html</url>
     <price>30</price>
     <currencyId>UAH</currencyId>
@@ -43035,7 +43036,7 @@
     <url>https://ukrizol.xyz/ua/p1567930360-sholom-bokserskij-boxer.html</url>
     <price>660</price>
     <currencyId>UAH</currencyId>
-    <categoryId>94947438</categoryId>
+    <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
     <picture>https://images.prom.ua/3616988322_sholom-bokserskij-boxer.jpg</picture>
     <picture>https://images.prom.ua/3616988326_sholom-bokserskij-boxer.jpg</picture>
@@ -43661,7 +43662,7 @@
     <url>https://ukrizol.xyz/ua/p1571964031-bokserski-rukavichki-boxer.html</url>
     <price>880</price>
     <currencyId>UAH</currencyId>
-    <categoryId>98020300</categoryId>
+    <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/2975773037_bokserski-rukavichki-boxer.jpg</picture>
@@ -43727,7 +43728,7 @@
     <url>https://ukrizol.xyz/ua/p1571970947-bokserski-rukavichki-boxer.html</url>
     <price>880</price>
     <currencyId>UAH</currencyId>
-    <categoryId>105224308</categoryId>
+    <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/2975773037_bokserski-rukavichki-boxer.jpg</picture>
@@ -44118,7 +44119,7 @@
     <param name="Тип">Еластичні бинти</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1575341738" available="true">
+  <offer id="1575341738" available="false">
     <url>https://ukrizol.xyz/ua/p1575341738-blok-dlya-jogi.html</url>
     <price>151</price>
     <currencyId>UAH</currencyId>
@@ -55951,7 +55952,7 @@
     <param name="Плотность, кг/м³" unit="кг/м³">33</param>
     <param name="Тип коврика" unit="">Каремат</param>
   </offer>
-  <offer id="1651134414" available="true">
+  <offer id="1651134414" available="false">
     <url>https://ukrizol.xyz/ua/p1651134414-kilimok-dlya-fitnesu.html</url>
     <price>231</price>
     <currencyId>UAH</currencyId>
@@ -68641,6 +68642,54 @@
     <param name="Ширина" unit="см">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">33</param>
   </offer>
+  <offer id="1842840555" available="false">
+    <url>https://ukrizol.xyz/ua/p1842840555-sholom-trenuvalnij-karate.html</url>
+    <price>962</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261312_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкірвініл синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2036-02С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1842846974" available="false">
+    <url>https://ukrizol.xyz/ua/p1842846974-sholom-trenuvalnij-karate.html</url>
+    <price>962</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2036-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1842849909" available="true">
     <url>https://ukrizol.xyz/ua/p1842849909-sholom-trenuvalnij-karate.html</url>
     <price>1045</price>
@@ -69931,7 +69980,7 @@
     <url>https://ukrizol.xyz/ua/p1876619414-zahist-gomilki-stopi.html</url>
     <price>781</price>
     <currencyId>UAH</currencyId>
-    <categoryId>94947440</categoryId>
+    <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/4645418593_zahist-gomilki-ta.jpg</picture>
     <picture>https://images.prom.ua/4645418591_zahist-gomilki-ta.jpg</picture>
     <picture>https://images.prom.ua/4645418594_zahist-gomilki-ta.jpg</picture>
@@ -74739,7 +74788,7 @@
     <param name="Особливості">Чохол</param>
     <param name="Цвет" unit="">Прозрачный</param>
   </offer>
-  <offer id="1992138942" available="true">
+<offer id="1992138942" available="true">
     <url>https://ukrizol.xyz/ua/p1992138942-kapa-badboy-futlyari.html</url>
     <price>125</price>
     <currencyId>UAH</currencyId>
@@ -74759,267 +74808,6 @@
     <param name="Матеріал">Термопластик</param>
     <param name="Особливості">Чохол</param>
     <param name="Колір">Чорний</param>
-  </offer>
-  <offer id="1992627372" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627372-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>163</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5008661652_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590424_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2975745167_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590419_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/3629611121_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/5008661657_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590428_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен НХ (Splen-nx) 5 мм</name>
-    <vendorCode>901052Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Капот|Дах|Двері|Кришка багажника|Дверні панелі|Підлогу автомобіля|Стеля автомобіля|Пол багажника|Стінки багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">5</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-<offer id="1992627373" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627373-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>271</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5008661652_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590424_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2975745167_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590419_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/5008661657_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/3629611121_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590428_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен НХ (Splen-nx) 10 мм</name>
-    <vendorCode>901102Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">10</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627374" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627374-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>289</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 5 мм</name>
-    <vendorCode>902052Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">5</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627375" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627375-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>227</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5008661652_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2975745167_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590424_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/5008661657_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/3629611121_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590419_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590428_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен НХ (Splen-nx) 8 мм</name>
-    <vendorCode>901082Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">8</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627376" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627376-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>566</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 10 мм</name>
-    <vendorCode>902102Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">10</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627377" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627377-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>396</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 8 мм</name>
-    <vendorCode>902082Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Капот|Дах|Двері|Кришка багажника|Дверні панелі|Підлогу автомобіля|Стеля автомобіля|Пол багажника|Стінки багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">8</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627378" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627378-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>162</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 2 мм</name>
-    <vendorCode>902022Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Капот|Дах|Двері|Кришка багажника|Дверні панелі|Підлогу автомобіля|Стеля автомобіля|Пол багажника|Стінки багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">2</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627379" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627379-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>191</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 3 мм</name>
-    <vendorCode>902032Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">3</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627380" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627380-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>237</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5547879996_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен (Splen) 4 мм</name>
-    <vendorCode>902042Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Капот|Дах|Двері|Кришка багажника|Дверні панелі|Підлогу автомобіля|Стеля автомобіля|Пол багажника|Стінки багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">4</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992627381" available="true">
-    <url>https://ukrizol.xyz/ua/p1992627381-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>141</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5008661652_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590424_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2975745167_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590419_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/3629611121_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/5008661657_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590428_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен НХ (Splen-nx) 4мм</name>
-    <vendorCode>901042Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">4</param>
-    <param name="Ширина листа" unit="см">100</param>
-  </offer>
-  <offer id="1992956256" available="true">
-    <url>https://ukrizol.xyz/ua/p1992956256-shumoizolyatsiya-avtomobilya-splen.html</url>
-    <price>135</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>112741855</categoryId>
-    <picture>https://images.prom.ua/5008661652_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590424_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2975745167_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590419_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/3629611121_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/5008661657_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <picture>https://images.prom.ua/2731590428_shumoizolyatsiya-avtomobilya-splen.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоізоляція автомобіля Сплен НХ (Splen-nx) 3 мм</name>
-    <vendorCode>901032Д</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <param name="Довжина листа" unit="см">100</param>
-    <param name="Необхідність нагріву">Ні</param>
-    <param name="Площа аркуша" unit="кв.м">1</param>
-    <param name="Застосування матеріалу">Підлогу автомобіля|Стеля автомобіля|Двері|Дах|Капот|Пол багажника|Дверні панелі|Стінки багажника|Кришка багажника|Колісні арки</param>
-    <param name="Стан">Новий</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Товщина" unit="мм">3</param>
-    <param name="Ширина листа" unit="см">100</param>
   </offer>
   <offer id="1993043310" available="false">
     <url>https://ukrizol.xyz/ua/p1993043310-pokrivelna-strichka-300.html</url>
@@ -80562,7 +80350,7 @@
     <param name="Форма">Гнута</param>
     <param name="Колір">Червоний</param>
   </offer>
-<offer id="2034417631" available="false">
+  <offer id="2034417631" available="false">
     <url>https://ukrizol.xyz/ua/p2034417631-sholom-maska-trenuvalna.html</url>
     <price>1061</price>
     <currencyId>UAH</currencyId>
@@ -80781,7 +80569,7 @@
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Вид полимера" unit="">Неорганический</param>
   </offer>
-  <offer id="2040448477" available="false">
+<offer id="2040448477" available="false">
     <url>https://ukrizol.xyz/ua/p2040448477-germetizuyucha-strichka-stk.html</url>
     <price>680</price>
     <currencyId>UAH</currencyId>
@@ -82926,7 +82714,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2099372893" available="false">
+  <offer id="2099372893" available="true">
     <url>https://ukrizol.xyz/ua/p2099372893-izolyatsiya-trub-ukrizol.html</url>
     <price>47</price>
     <currencyId>UAH</currencyId>
@@ -87462,7 +87250,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-<offer id="2183163980" available="true">
+  <offer id="2183163980" available="true">
     <url>https://ukrizol.xyz/ua/p2183163980-skovoroda-chavunna-optima.html</url>
     <price>603</price>
     <currencyId>UAH</currencyId>
@@ -87759,7 +87547,7 @@
     <param name="Діаметр основи, мм" unit="">168</param>
     <param name="Объем, л" unit="">1.46</param>
   </offer>
-  <offer id="2183163989" available="true">
+<offer id="2183163989" available="true">
     <url>https://ukrizol.xyz/ua/p2183163989-skovoroda-chavunna-140.html</url>
     <price>313</price>
     <currencyId>UAH</currencyId>
@@ -95856,7 +95644,7 @@
     <param name="Тип">Кришка</param>
     <param name="Вес, гр" unit="гр">1700</param>
   </offer>
-<offer id="2183246789" available="true">
+  <offer id="2183246789" available="true">
     <url>https://ukrizol.xyz/ua/p2183246789-kazan-chavunnij-aziatskij.html</url>
     <price>2549</price>
     <currencyId>UAH</currencyId>
@@ -96101,7 +95889,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Немає</param>
   </offer>
-  <offer id="2183246798" available="true">
+<offer id="2183246798" available="true">
     <url>https://ukrizol.xyz/ua/p2183246798-kazan-chavunnij-aziatskij.html</url>
     <price>2891</price>
     <currencyId>UAH</currencyId>
@@ -100119,10 +99907,10 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Товщина" unit="мм">50</param>
-    <param name="Ширина листа" unit="см">100</param>
-    <param name="Тип">Шумоізоляція</param>
-    <param name="Площа аркуша" unit="кв.м">2</param>
     <param name="Длина листа" unit="м">2</param>
+    <param name="Площадь листа" unit="кв.м">2.0</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Ширина листа" unit="см">100.0</param>
   </offer>
   <offer id="2274040676" available="true">
     <url>https://ukrizol.xyz/ua/p2274040676-akustichna-panel-piramida.html</url>
@@ -102410,7 +102198,7 @@
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
-    <param name="Особливості">Захист щік</param>
+    <param name="Особливості">Защита щек</param>
     <param name="Розмір">M</param>
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
@@ -102442,7 +102230,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Мішок</param>
   </offer>
-<offer id="2328217262" available="true">
+  <offer id="2328217262" available="true">
     <url>https://ukrizol.xyz/ua/p2328217262-sholom-bokserskij-boxer.html</url>
     <price>1188</price>
     <currencyId>UAH</currencyId>
@@ -102664,7 +102452,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2330281779" available="false">
+<offer id="2330281779" available="false">
     <url>https://ukrizol.xyz/ua/p2330281779-sholom-maska-trenuvalna.html</url>
     <price>918</price>
     <currencyId>UAH</currencyId>
@@ -106248,7 +106036,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Длина рулона, п.м." unit="">10</param>
   </offer>
-  <offer id="2493753060" available="false">
+  <offer id="2493753060" available="true">
     <url>https://ukrizol.xyz/ua/p2493753060-nabir-dlya-boksu.html</url>
     <price>330</price>
     <currencyId>UAH</currencyId>
@@ -106380,7 +106168,7 @@
     <param name="Вага" unit="oz">12</param>
     <param name="Колір">Жовтий</param>
   </offer>
-  <offer id="2511698884" available="true">
+  <offer id="2511698884" available="false">
     <url>https://ukrizol.xyz/ua/p2511698884-kilimok-dlya-fitnesu.html</url>
     <price>231</price>
     <currencyId>UAH</currencyId>
@@ -107250,7 +107038,7 @@
     <url>https://ukrizol.xyz/ua/p2568779860-zahist-gomilki-stopi.html</url>
     <price>814</price>
     <currencyId>UAH</currencyId>
-    <categoryId>141469697</categoryId>
+    <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/6895503263_zahist-gomilki-ta.jpg</picture>
     <picture>https://images.prom.ua/6895503264_zahist-gomilki-ta.jpg</picture>
     <picture>https://images.prom.ua/6895503265_zahist-gomilki-ta.jpg</picture>
@@ -107545,7 +107333,7 @@
     <url>https://ukrizol.xyz/ua/p2568903852-sholom-bokserskij-vidkritoyu.html</url>
     <price>682</price>
     <currencyId>UAH</currencyId>
-    <categoryId>141469697</categoryId>
+    <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/6895503702_sholom-bokserskij-z.jpg</picture>
     <picture>https://images.prom.ua/6895503704_sholom-bokserskij-z.jpg</picture>
     <picture>https://images.prom.ua/6895503705_sholom-bokserskij-z.jpg</picture>
@@ -107754,7 +107542,7 @@
     <url>https://ukrizol.xyz/ua/p2568903861-bokserski-rukavichki-boxer.html</url>
     <price>847</price>
     <currencyId>UAH</currencyId>
-    <categoryId>141469697</categoryId>
+    <categoryId>98020300</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/6895502620_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/6895502617_bokserski-rukavichki-boxer.jpg</picture>
@@ -107918,7 +107706,7 @@
     <url>https://ukrizol.xyz/ua/p2568903868-bokserski-rukavichki-boxer.html</url>
     <price>847</price>
     <currencyId>UAH</currencyId>
-    <categoryId>141469697</categoryId>
+    <categoryId>105224308</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/6895502617_bokserski-rukavichki-boxer.jpg</picture>
     <picture>https://images.prom.ua/6895502619_bokserski-rukavichki-boxer.jpg</picture>
@@ -108548,7 +108336,7 @@
     <param name="Ширина" unit="мм">1800</param>
     <param name="Форма ковра" unit="">Прямоугольный</param>
   </offer>
-<offer id="2602639914" available="true">
+  <offer id="2602639914" available="true">
     <url>https://ukrizol.xyz/ua/p2602639914-kauchukova-izolyatsiya-dlya.html</url>
     <price>57</price>
     <currencyId>UAH</currencyId>
@@ -108803,7 +108591,7 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Плотность" unit="">33</param>
   </offer>
-  <offer id="2603855194" available="true">
+<offer id="2603855194" available="true">
     <url>https://ukrizol.xyz/ua/p2603855194-zvukoizolyatsijna-samokleyucha-strichka.html</url>
     <price>157</price>
     <currencyId>UAH</currencyId>
@@ -111559,7 +111347,7 @@
     <param name="Колір">Зелений</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838131" available="false">
+  <offer id="2807838131" available="true">
     <url>https://ukrizol.xyz/ua/p2807838131-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -111577,7 +111365,7 @@
     <param name="Колір">Бежевий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838132" available="false">
+  <offer id="2807838132" available="true">
     <url>https://ukrizol.xyz/ua/p2807838132-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -112181,7 +111969,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2814242752" available="true">
+  <offer id="2814242752" available="false">
     <url>https://ukrizol.xyz/ua/p2814242752-filament-dsf-petg.html</url>
     <price>511</price>
     <currencyId>UAH</currencyId>
@@ -112216,7 +112004,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392471" available="false">
+  <offer id="2816392471" available="true">
     <url>https://ukrizol.xyz/ua/p2816392471-filament-dsf-petg.html</url>
     <price>1603</price>
     <currencyId>UAH</currencyId>

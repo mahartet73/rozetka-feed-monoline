@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-31 10:00">
+<yml_catalog date="2025-12-31 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -12,6 +12,280 @@
       <currency id="EUR" rate="54.84215" />
     </currencies>
     <categories>
+      <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
+      <category id="148483984" parentId="148353593">PETG філамент</category>
+      <category id="148353601" parentId="148353593">PLA філамент</category>
+      <category id="111560669">Тактичне спорядження</category>
+      <category id="86349089">Інструменти</category>
+      <category id="106755271" parentId="103078088">Звукоізоляційні панелі з кварцовим піском</category>
+      <category id="103078088">Матеріали для шумоізоляції приміщень</category>
+      <category id="112743101" parentId="89570715">Автомобільна вібро-шумоізоляція</category>
+      <category id="112743094" parentId="89570715">Автомобільний килим, карпет, автолін</category>
+      <category id="112741855" parentId="89570715">Автомобільна шумоізоляція</category>
+      <category id="89570715">Вібро-шумоізоляція для автомобілів</category>
+      <category id="111304934" parentId="105605131">Стійки для віджимань</category>
+      <category id="105652635" parentId="105605131">Ролики для преса</category>
+      <category id="105605131" parentId="75989985">Товари для фітнесу і аеробіки</category>
+      <category id="97793857" parentId="105605131">Диск здоров'я Грація</category>
+      <category id="105224309" parentId="75989985">Хулахуп, обруч для схуднення, талії, масажний</category>
+      <category id="104947481" parentId="75989985">Обважнювачі для рук і ніг</category>
+      <category id="98767005" parentId="75989985">Турніки</category>
+      <category id="98426004" parentId="75989985">Тенти туристичні</category>
+      <category id="94947445" parentId="94947444">Аксесуари до велосипедів</category>
+      <category id="94947444" parentId="75989985">Велосипеди</category>
+      <category id="84132040" parentId="75989985">Спортивні мати</category>
+      <category id="105889723" parentId="75989985">Аксесуари для килимків</category>
+      <category id="105859077" parentId="75989985">Сидушки туристичні</category>
+      <category id="105676661" parentId="75989985">Масажні килимки</category>
+      <category id="105181243" parentId="109345694">Килимки Пазл для дітей</category>
+      <category id="109345694" parentId="75989985">Килимки для дітей</category>
+      <category id="98072109" parentId="75989985">Килимки для пляжу</category>
+      <category id="110245890" parentId="75989985">Килимки для йоги та пілатесу</category>
+      <category id="102655433" parentId="75989985">Килимки для фітнесу</category>
+      <category id="105904860" parentId="75989985">Килимки туристичні, каремати</category>
+      <category id="105224308" parentId="94947437">Боксерські рукавички 16 унцій</category>
+      <category id="98020300" parentId="94947437">Боксерські рукавички 14 унцій</category>
+      <category id="94947455" parentId="94947437">Накладки для єдиноборств</category>
+      <category id="94947454" parentId="94947437">Рукавички MMA</category>
+      <category id="94947453" parentId="94947437">Рукавички для єдиноборств</category>
+      <category id="94947452" parentId="94947437">Тренувальні, снарядні рукавички</category>
+      <category id="94947451" parentId="94947437">Рукавички для боксу 4 унції</category>
+      <category id="94947450" parentId="94947437">Боксерські рукавиці 12 унцій</category>
+      <category id="94947449" parentId="94947437">Боксерські рукавички 10 унцій</category>
+      <category id="94947448" parentId="94947437">Боксерські рукавички 8 унцій</category>
+      <category id="94947446" parentId="97788202">Пояс для кімоно</category>
+      <category id="94947443" parentId="97788202">Капи,бинти</category>
+      <category id="94947440" parentId="97788202">Захисна екіпіровка для єдиноборств</category>
+      <category id="94947439" parentId="97788202">Лапи, пади для боксу та єдиноборств</category>
+      <category id="94947438" parentId="97788202">Шоломи для боксу та єдиноборств</category>
+      <category id="94947436" parentId="97788202">Груші боксерські мішки</category>
+      <category id="94947435" parentId="97788202">Маківари (великі та малі)</category>
+      <category id="97788202" parentId="75989985">Екіпірування для боксу та єдиноборств</category>
+      <category id="109832278" parentId="105605131">Жилет обтяжувач</category>
+      <category id="109147086" parentId="105605131">Лямки, ремні, крючки</category>
+      <category id="105921690" parentId="105605131">Аквааеробіка</category>
+      <category id="97788066" parentId="105605131">Гантелі</category>
+      <category id="75989985">Товари для спорту, відпочинку, туризму</category>
+      <category id="146505387" parentId="130261512">Сковорідка алюмінієва</category>
+      <category id="130357891" parentId="130261512">Аксесуари для посуди</category>
+      <category id="130357537" parentId="130261512">Дошки для нарізки та подачі</category>
+      <category id="130349255" parentId="130261512">Менажниці</category>
+      <category id="130349214" parentId="130261512">Притиск чавунний</category>
+      <category id="130348777" parentId="130261512">Кришка-сковорода чавунна</category>
+      <category id="130334824" parentId="130261512">Плато чавунне</category>
+      <category id="130334569" parentId="130261512">Чавунна кришка</category>
+      <category id="130333078" parentId="130261512">Скляна кришка</category>
+      <category id="130300101" parentId="130261512">Емальований посуд Elmani</category>
+      <category id="130300073" parentId="130261512">Каструля алюмінієва</category>
+      <category id="130300046" parentId="130261512">Каструля чавунна</category>
+      <category id="130278720" parentId="130261512">Садж чавунний</category>
+      <category id="130275559" parentId="130261512">Сковорода чавунна з литою ручкою</category>
+      <category id="130266814" parentId="130261512">Порційний чавунний посуд HoReCa</category>
+      <category id="130266227" parentId="130261512">Чавунна сковорода WOK</category>
+      <category id="130264729" parentId="130261512">Сковорода чавунна гриль</category>
+      <category id="130264687" parentId="130261512">Сковорода для млинців чавунна</category>
+      <category id="130263595" parentId="130261512">Сковороди з антипригарним покриттям</category>
+      <category id="130263366" parentId="130261512">Сковорода чавунна з кришкою</category>
+      <category id="130261512" parentId="76812238">Чавунний посуд</category>
+      <category id="130359504" parentId="130261512">Алюмінієва кришка</category>
+      <category id="130272708" parentId="130261512">Казан алюмінієвий</category>
+      <category id="130272186" parentId="130261512">Казан чавунний</category>
+      <category id="110729178" parentId="76812238">Дитяча безпека</category>
+      <category id="110729176" parentId="76812238">Аксесуари для крісел</category>
+      <category id="76812238">Товари для дому</category>
+      <category id="94789639">Пакувальні матеріали</category>
+      <category id="72946682">Покрівельні герметики та мастики</category>
+      <category id="72154835">Скотчі будівельні</category>
+      <category id="105685612" parentId="72154840">Шиповидна мембрана</category>
+      <category id="83164475" parentId="72154840">Пароізоляційні мембрани</category>
+      <category id="72154840">Будівельні мембрани</category>
+      <category id="109022086">Теплоізоляційні матеріали</category>
+      <category id="100113539">Екструдовані пінополістироли</category>
+      <category id="101204356" parentId="101204355">Покриття для труб і теплоізоляції</category>
+      <category id="104800416" parentId="101204355">Бандажні хомути</category>
+      <category id="104775393" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 80 мм</category>
+      <category id="104775392" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 70 мм</category>
+      <category id="104775391" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 60 мм</category>
+      <category id="104775388" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 30 мм</category>
+      <category id="104775387" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 80 мм</category>
+      <category id="104775386" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 70 мм</category>
+      <category id="104775385" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 60 мм</category>
+      <category id="104775384" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 50 мм</category>
+      <category id="104775383" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 40 мм</category>
+      <category id="104775382" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 30 мм</category>
+      <category id="104775381" parentId="104775379">Базальтова шкаралупа, циліндри базальтові з фольгою</category>
+      <category id="104775380" parentId="104775379">Базальтова шкаралупа, циліндри базальтові без покриття</category>
+      <category id="104775379" parentId="101204355">Базальтова шкаралупа, циліндри базальтові</category>
+      <category id="104767553" parentId="104765296">Шкаралупа ППУ армована фольгою</category>
+      <category id="104767359" parentId="104765296">Шкаралупа ППУ з фольгопергаміном, фольгоізолом</category>
+      <category id="104766733" parentId="104765296">Шкаралупа ППУ, трубна ізоляція пінополіуретанова</category>
+      <category id="104765297" parentId="104765296">Шкаралупа ППУ, трубна ізоляція з пергаміном</category>
+      <category id="104765296" parentId="101204355">Ізоляція труб ППУ, шкаралупи ППУ</category>
+      <category id="104765197" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 50 мм</category>
+      <category id="104765039" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 30 мм</category>
+      <category id="104764608" parentId="104335465">Утеплювач для труб із пінопласту з фольгою</category>
+      <category id="104335472" parentId="104335464">Утеплювач для труб із пінопласту, товщина 80 мм.</category>
+      <category id="104335471" parentId="104335464">Утеплювач для труб із пінопласту, товщина 70 мм.</category>
+      <category id="104335470" parentId="104335464">Утеплювач для труб із пінопласту, товщина 60 мм.</category>
+      <category id="104335469" parentId="104335464">Утеплювач для труб із пінопласту, товщина 50 мм.</category>
+      <category id="101204355">Трубна ізоляція, утеплювачі для труб</category>
+      <category id="98466498" parentId="88505658">Каучукова ізоляція товщина 19 мм</category>
+      <category id="113653443" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) в рулонах самоклеючий</category>
+      <category id="113653442" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) у рулонах</category>
+      <category id="113653434" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) у листах</category>
+      <category id="109024182">Спінений етиленвінілацетат (матеріал EVA)</category>
+      <category id="129346159" parentId="72154836">Звукоізоляційна самоклеюча стрічка XPE</category>
+      <category id="129346090" parentId="72154836">Стрічка ущільнююча Діхтунг (Діхтунгсбанд)</category>
+      <category id="72154836">Стрічка ущільнювальна звукоізоляційна</category>
+      <category id="108814460">Опалубка колон</category>
+      <category id="132071313">Металевий профіль</category>
+      <category id="118480866" parentId="83643595">Хімічно зшитий поліетилен ТУРЕЧЧИНА</category>
+      <category id="104489812" parentId="83643595">Захисні профілі</category>
+      <category id="98069020" parentId="83643595">Ущільнювальні джгути</category>
+      <category id="94748046" parentId="83643595">Фізично зшитий поліетилен листовий</category>
+      <category id="94748037" parentId="83643595">Фізично зшитий поліетилен фольгований</category>
+      <category id="94748025" parentId="83643595">Фізично зшитий, спінений поліетилен</category>
+      <category id="94677747" parentId="83643595">Газоспінений поліетилен листовий</category>
+      <category id="94675690" parentId="83643595">Газоспінений поліетилен фольгований з двох сторін</category>
+      <category id="94572374" parentId="83643595">Хімічно зшитий поліетилен фольгований</category>
+      <category id="92893370" parentId="83643595">Хімічно зшитий спінений поліетилен, самоклеючий, фольгований</category>
+      <category id="84626943" parentId="83643595">Ізолон кольоровий</category>
+      <category id="84597135" parentId="83643595">Фізично зшитий поліетилен фольгований з клейкою стороною</category>
+      <category id="84589242" parentId="83643595">Хімічно зшитий поліетилен самоклеючий</category>
+      <category id="84589221" parentId="83643595">Хімічно зшитий поліетилен в листах</category>
+      <category id="84586744" parentId="83643595">Фізично зшитий спінений поліетилен з клейкою стороною</category>
+      <category id="84271260" parentId="83643595">Хімічно зшитий поліетилен</category>
+      <category id="84267961" parentId="83643595">Газоспінений поліетилен фольгований</category>
+      <category id="84096927" parentId="83643595">Газоспінений поліетилен ламінований</category>
+      <category id="83675151" parentId="83643595">Газоспінений поліетилен фольгований самоклеючий</category>
+      <category id="83643688" parentId="83643595">Газоспінений поліетилен</category>
+      <category id="83643595">Спінені поліетилени, пінополіетилени</category>
+      <category id="110728989" parentId="72955321">Стрічки для склеювання будівельних мембран</category>
+      <category id="72955590" parentId="72955321">Віконні стрічки</category>
+      <category id="73036762" parentId="72955321">Бутилкаучукові шнури</category>
+      <category id="88896303" parentId="72955321">Демпферні стрічки</category>
+      <category id="88895683" parentId="72955321">Стрічка коника</category>
+      <category id="88895651" parentId="72955321">Стрічки двосторонні без основи</category>
+      <category id="88895646" parentId="72955321">Стрічки з нетканим полотном</category>
+      <category id="88895630" parentId="72955321">Стрічки з фольгованою основою</category>
+      <category id="75229604" parentId="72955590">Гідро - і пароізоляційні стрічки для монтажу вікон</category>
+      <category id="75229603" parentId="72955590">Пароізоляційні стрічки з утеплювачем</category>
+      <category id="72955321">Гідроізолюючі стрічки та шнури</category>
+      <category id="72154837">Покрівельні стрічки</category>
+      <category id="89248459" parentId="84776005">Матеріали для монтажу спіненого каучуку</category>
+      <category id="89592209" parentId="84776005">Спінений каучук ламінований металізованою плівкою</category>
+      <category id="84867538" parentId="84776005">Спінений каучук самоклеючий фольгований</category>
+      <category id="95078199" parentId="84776005">Спінений каучук фольгований</category>
+      <category id="84860081" parentId="84776005">Спінений каучук самоклеючий</category>
+      <category id="84776284" parentId="84776005">Спінений каучук</category>
+      <category id="84776005">Спінений (синтетичний) каучук</category>
+      <category id="148353593">3D-друк</category>
+      <category id="148643543" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 90 мм</category>
+      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
+      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
+      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
+      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
+      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
+      <category id="146756409" parentId="130262773">Минеральная вата</category>
+      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
+      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
+      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
+      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
+      <category id="146756404" parentId="122197667">Спортивные маты</category>
+      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
+      <category id="146756402" parentId="138243656">Тяги для тренировки шеи</category>
+      <category id="146756401" parentId="138243656">Спортивные утяжелители</category>
+      <category id="146756400" parentId="138243656">Атлетические пояса</category>
+      <category id="146756399" parentId="122260379">Блоки и ролики для йоги</category>
+      <category id="146756398" parentId="122260378">Упоры для отжиманий</category>
+      <category id="146756397" parentId="122260378">Гимнастические обручи</category>
+      <category id="146756396" parentId="122260378">Скакалки</category>
+      <category id="146756395" parentId="122260378">Коврики для йоги и фитнеса</category>
+      <category id="146756394" parentId="122260378">Гимнастические диски</category>
+      <category id="146756393" parentId="122260378">Фитболы</category>
+      <category id="146756392" parentId="122260377">Боксерские бинты</category>
+      <category id="146756391" parentId="122260377">Капы</category>
+      <category id="146756390" parentId="122260377">Шлемы для бокса и единоборств</category>
+      <category id="146756389" parentId="122260377">Защита для боевых искусств</category>
+      <category id="146756388" parentId="122260377">Лапы, макивары ручные</category>
+      <category id="146756386" parentId="130262770">Доски для плавания, колобашки</category>
+      <category id="146756385" parentId="132071281">Аквапалки</category>
+      <category id="146756384" parentId="130262768">Велочехлы и велонакидки</category>
+      <category id="146756383" parentId="130262728">Пляжные коврики</category>
+      <category id="146756382" parentId="130262727">Спортивная форма</category>
+      <category id="146756381" parentId="130262726">Тренажеры для пресса, гиперэкстензии</category>
+      <category id="146756380" parentId="130262726">Комплектующие и аксессуары для тренажеров</category>
+      <category id="146756379" parentId="130262726">Эспандеры</category>
+      <category id="146756378" parentId="130262726">Спортивные стенки и турники для дома</category>
+      <category id="146756377" parentId="130262726">Гантели, гири, штанги и диски</category>
+      <category id="146756376" parentId="130262760">Трекинговые палки и аксессуары к ним</category>
+      <category id="146756375" parentId="130262759">Костровые подставки и треноги</category>
+      <category id="146756374" parentId="130262759">Казаны</category>
+      <category id="146756373" parentId="130262725">Карематы и сидушки</category>
+      <category id="146756372" parentId="130262725">Туристические палатки и тенты</category>
+      <category id="146756371" parentId="122459407">Стретч-пленка</category>
+      <category id="146756370" parentId="122459407">Пленка воздушно-пузырчатая</category>
+      <category id="146756369" parentId="130262724">Стяжки упаковочные</category>
+      <category id="146756368" parentId="130262724">Защитные и противоударные упаковочные материалы</category>
+      <category id="146756367" parentId="130262723">Клейкая универсальная лента</category>
+      <category id="146756366" parentId="130262723">Строительные и промышленные клеи</category>
+      <category id="146756365" parentId="130262752">Защитные коврики под кресла</category>
+      <category id="146756364" parentId="132071260">Решетки для гриля и барбекю</category>
+      <category id="146756363" parentId="130262750">Мебельный поролон</category>
+      <category id="146756362" parentId="132071258">Блюда, стойки для тортов</category>
+      <category id="146756361" parentId="132071258">Кофейники, заварочные чайники и аксессуары</category>
+      <category id="146756360" parentId="132071258">Менажницы</category>
+      <category id="146756359" parentId="132071257">Доски разделочные</category>
+      <category id="146756358" parentId="132071256">Кастрюли</category>
+      <category id="146756357" parentId="132071256">Сковородки, сотейники, жаровни</category>
+      <category id="146756356" parentId="132071256">Комплектующие для кухонной посуды</category>
+      <category id="146756355" parentId="132071256">Кухонные ковши и кокотницы</category>
+      <category id="146756354" parentId="130262718">Емкости для хранения пищевых продуктов</category>
+      <category id="146756353" parentId="130262717">Разгрузочные жилеты и плитоноски без плит</category>
+      <category id="146756352" parentId="130262744">Материалы для вибро и шумоизоляции автомобиля</category>
+      <category id="146756351" parentId="130262744">Ткани для обивки салона автомобилей</category>
+      <category id="146756350" parentId="130262715">Автомобильные герметики, клея</category>
+      <category id="146756349" parentId="130262714">Герметики и силиконы</category>
+      <category id="146756348" parentId="130262713">Подложки и настилы для пола</category>
+      <category id="146756347" parentId="130262712">Хомуты, зажимы</category>
+      <category id="146756346" parentId="130262711">Уплотнители для окон, дверей</category>
+      <category id="146756345" parentId="130262738">Массажеры для ног</category>
+      <category id="146756344" parentId="130262738">Массажеры для шеи и плеч</category>
+      <category id="146756343" parentId="130262738">Массажные дорожки и коврики</category>
+      <category id="146756342" parentId="130262709">Многофункциональные инструменты</category>
+      <category id="146756341" parentId="123072298">Полимеры</category>
+      <category id="146756340" parentId="130262691">Сырье для тяжелой промышленности</category>
+      <category id="146756339" parentId="130262707">Пух и перья</category>
+      <category id="146756338" parentId="130262706">Развивающие и игровые коврики</category>
+      <category id="146756337" parentId="130262705">Детские мячи</category>
+      <category id="146756336" parentId="130262690">Товары для детей, общее</category>
+      <category id="146756335" parentId="130262703">Рубильники</category>
+      <category id="146756334" parentId="130262689">Комплектующие электрооборудования</category>
+      <category id="121069509" parentId="89570715">ЕВА автокаремат</category>
+      <category id="142964119" parentId="122260377">Боксерские груши и снаряды</category>
+      <category id="138243656" parentId="122197666">Тяжелая атлетика</category>
+      <category id="112741847" parentId="89570715">Автомобільна віброізоляція</category>
+      <category id="121984912" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 100 мм</category>
+      <category id="135249027" parentId="120415998">Рулонные и листовые гидроизоляционные материалы</category>
+      <category id="104335468" parentId="104335464">Утеплювач для труб із пінопласту, товщина 40 мм.</category>
+      <category id="104335467" parentId="104335464">Утеплювач для труб із пінопласту, товщина 30 мм.</category>
+      <category id="104335465" parentId="101204355">Утеплювач для труб із пінопласту</category>
+      <category id="104335464" parentId="104335465">Утеплювач для труб з пінопласту</category>
+      <category id="108916198" parentId="104684096">Ізоляція труб TUBEX</category>
+      <category id="104702315" parentId="104684096">Ізоляція труб UKRIZOL товщиною 20 мм</category>
+      <category id="104701615" parentId="104684096">Ізоляція труб UKRIZOL товщиною 9 мм</category>
+      <category id="104684098" parentId="104684096">Ізоляція труб UKRIZOL товщиною 6 мм</category>
+      <category id="104684096" parentId="101204355">Трубна ізоляція, утеплювачі для труб</category>
+      <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
+      <category id="108916200" parentId="88505658">Каучукова ізоляція товщина 25 мм</category>
+      <category id="98429202" parentId="88505658">Каучукова ізоляція товщина 13 мм</category>
+      <category id="98423702" parentId="88505658">Каучукова ізоляція товщина 9 мм</category>
+      <category id="98423668" parentId="88505658">Каучукова ізоляція товщина 6 мм</category>
+      <category id="88505658" parentId="101204355">Каучукова трубна ізоляція</category>
+      <category id="127456739" parentId="104684096">Ізоляція труб UKRIZOL товщиною 25 мм</category>
+      <category id="122460470" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 70 мм</category>
+      <category id="111432834" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 100 мм</category>
+      <category id="104775389" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 40 мм</category>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
       <category id="104765052" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 40 мм</category>
       <category id="123068172" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 80 мм</category>
@@ -25,292 +299,18 @@
       <category id="130261837" parentId="130261512">Сковорода чавунна</category>
       <category id="94947437" parentId="97788202">Рукавички для боксу та єдиноборств</category>
       <category id="94947447" parentId="94947437">Рукавички для боксу 6 унцій</category>
-      <category id="148643543" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 90 мм</category>
-      <category id="110245890" parentId="75989985">Килимки для йоги та пілатесу</category>
       <category id="105685613" parentId="105605131">Фітболи</category>
       <category id="122197666" parentId="122197664">Спортивні товари</category>
       <category id="122197667" parentId="122197666">Гімнастика</category>
-      <category id="121984912" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 100 мм</category>
       <category id="104702314" parentId="104684096">Ізоляція труб UKRIZOL товщиною 13 мм</category>
       <category id="104775390" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 50 мм</category>
       <category id="106044039" parentId="103078088">Супутні товари</category>
-      <category id="73036762" parentId="72955321">Бутилкаучукові шнури</category>
       <category id="105685611" parentId="105605131">Фітнес резинки</category>
       <category id="74071810" parentId="72154840">Паро-гідроізоляційні мембрани</category>
       <category id="88517828" parentId="72154840">Вітроізоляційних мембрани</category>
       <category id="120415998" parentId="120310314">Гідроізоляційні матеріали</category>
-      <category id="98072109" parentId="75989985">Килимки для пляжу</category>
-      <category id="98426004" parentId="75989985">Тенти туристичні</category>
-      <category id="84776284" parentId="84776005">Спінений каучук</category>
-      <category id="84860081" parentId="84776005">Спінений каучук самоклеючий</category>
-      <category id="84867538" parentId="84776005">Спінений каучук самоклеючий фольгований</category>
-      <category id="95078199" parentId="84776005">Спінений каучук фольгований</category>
-      <category id="148353593">3D-друк</category>
-      <category id="72154837">Покрівельні стрічки</category>
-      <category id="101204356" parentId="101204355">Покриття для труб і теплоізоляції</category>
-      <category id="104775389" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 40 мм</category>
-      <category id="89592209" parentId="84776005">Спінений каучук ламінований металізованою плівкою</category>
-      <category id="111432834" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 100 мм</category>
-      <category id="122460470" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 70 мм</category>
-      <category id="127456739" parentId="104684096">Ізоляція труб UKRIZOL товщиною 25 мм</category>
-      <category id="88505658" parentId="101204355">Каучукова трубна ізоляція</category>
-      <category id="98423668" parentId="88505658">Каучукова ізоляція товщина 6 мм</category>
-      <category id="98423702" parentId="88505658">Каучукова ізоляція товщина 9 мм</category>
-      <category id="98429202" parentId="88505658">Каучукова ізоляція товщина 13 мм</category>
-      <category id="108916200" parentId="88505658">Каучукова ізоляція товщина 25 мм</category>
-      <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
-      <category id="104684096" parentId="101204355">Трубна ізоляція, утеплювачі для труб</category>
-      <category id="104684098" parentId="104684096">Ізоляція труб UKRIZOL товщиною 6 мм</category>
-      <category id="104701615" parentId="104684096">Ізоляція труб UKRIZOL товщиною 9 мм</category>
-      <category id="104702315" parentId="104684096">Ізоляція труб UKRIZOL товщиною 20 мм</category>
-      <category id="108916198" parentId="104684096">Ізоляція труб TUBEX</category>
-      <category id="104335464" parentId="104335465">Утеплювач для труб з пінопласту</category>
-      <category id="104335465" parentId="101204355">Утеплювач для труб із пінопласту</category>
-      <category id="104335467" parentId="104335464">Утеплювач для труб із пінопласту, товщина 30 мм.</category>
-      <category id="104335468" parentId="104335464">Утеплювач для труб із пінопласту, товщина 40 мм.</category>
-      <category id="104335469" parentId="104335464">Утеплювач для труб із пінопласту, товщина 50 мм.</category>
-      <category id="104335470" parentId="104335464">Утеплювач для труб із пінопласту, товщина 60 мм.</category>
-      <category id="104335471" parentId="104335464">Утеплювач для труб із пінопласту, товщина 70 мм.</category>
-      <category id="104335472" parentId="104335464">Утеплювач для труб із пінопласту, товщина 80 мм.</category>
-      <category id="104764608" parentId="104335465">Утеплювач для труб із пінопласту з фольгою</category>
-      <category id="104765039" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 30 мм</category>
-      <category id="104765197" parentId="104764608">Утеплювач для труб із пінопласту з фольгою товщиною 50 мм</category>
-      <category id="104765296" parentId="101204355">Ізоляція труб ППУ, шкаралупи ППУ</category>
-      <category id="104765297" parentId="104765296">Шкаралупа ППУ, трубна ізоляція з пергаміном</category>
-      <category id="104766733" parentId="104765296">Шкаралупа ППУ, трубна ізоляція пінополіуретанова</category>
-      <category id="104767359" parentId="104765296">Шкаралупа ППУ з фольгопергаміном, фольгоізолом</category>
-      <category id="104767553" parentId="104765296">Шкаралупа ППУ армована фольгою</category>
-      <category id="104775379" parentId="101204355">Базальтова шкаралупа, циліндри базальтові</category>
-      <category id="104775380" parentId="104775379">Базальтова шкаралупа, циліндри базальтові без покриття</category>
-      <category id="104775381" parentId="104775379">Базальтова шкаралупа, циліндри базальтові з фольгою</category>
-      <category id="89248459" parentId="84776005">Матеріали для монтажу спіненого каучуку</category>
-      <category id="75229603" parentId="72955590">Пароізоляційні стрічки з утеплювачем</category>
-      <category id="75229604" parentId="72955590">Гідро - і пароізоляційні стрічки для монтажу вікон</category>
-      <category id="88895683" parentId="72955321">Стрічка коника</category>
-      <category id="104775382" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 30 мм</category>
-      <category id="104775383" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 40 мм</category>
-      <category id="104775384" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 50 мм</category>
-      <category id="104775385" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 60 мм</category>
-      <category id="104775386" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 70 мм</category>
-      <category id="88895630" parentId="72955321">Стрічки з фольгованою основою</category>
-      <category id="104775387" parentId="104775380">Базальтова шкаралупа, базальтові циліндри товщиною 80 мм</category>
-      <category id="104775388" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 30 мм</category>
-      <category id="88895646" parentId="72955321">Стрічки з нетканим полотном</category>
-      <category id="88895651" parentId="72955321">Стрічки двосторонні без основи</category>
-      <category id="88896303" parentId="72955321">Демпферні стрічки</category>
-      <category id="72955590" parentId="72955321">Віконні стрічки</category>
-      <category id="110728989" parentId="72955321">Стрічки для склеювання будівельних мембран</category>
-      <category id="104775391" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 60 мм</category>
-      <category id="83643595">Спінені поліетилени, пінополіетилени</category>
-      <category id="104775392" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 70 мм</category>
-      <category id="83643688" parentId="83643595">Газоспінений поліетилен</category>
-      <category id="83675151" parentId="83643595">Газоспінений поліетилен фольгований самоклеючий</category>
-      <category id="84096927" parentId="83643595">Газоспінений поліетилен ламінований</category>
-      <category id="84267961" parentId="83643595">Газоспінений поліетилен фольгований</category>
-      <category id="84271260" parentId="83643595">Хімічно зшитий поліетилен</category>
-      <category id="84586744" parentId="83643595">Фізично зшитий спінений поліетилен з клейкою стороною</category>
-      <category id="84589221" parentId="83643595">Хімічно зшитий поліетилен в листах</category>
-      <category id="84589242" parentId="83643595">Хімічно зшитий поліетилен самоклеючий</category>
-      <category id="84597135" parentId="83643595">Фізично зшитий поліетилен фольгований з клейкою стороною</category>
-      <category id="84626943" parentId="83643595">Ізолон кольоровий</category>
-      <category id="92893370" parentId="83643595">Хімічно зшитий спінений поліетилен, самоклеючий, фольгований</category>
-      <category id="94572374" parentId="83643595">Хімічно зшитий поліетилен фольгований</category>
-      <category id="94675690" parentId="83643595">Газоспінений поліетилен фольгований з двох сторін</category>
-      <category id="94677747" parentId="83643595">Газоспінений поліетилен листовий</category>
-      <category id="94748025" parentId="83643595">Фізично зшитий, спінений поліетилен</category>
-      <category id="94748037" parentId="83643595">Фізично зшитий поліетилен фольгований</category>
-      <category id="94748046" parentId="83643595">Фізично зшитий поліетилен листовий</category>
-      <category id="98069020" parentId="83643595">Ущільнювальні джгути</category>
-      <category id="104489812" parentId="83643595">Захисні профілі</category>
-      <category id="118480866" parentId="83643595">Хімічно зшитий поліетилен ТУРЕЧЧИНА</category>
-      <category id="108814460">Опалубка колон</category>
-      <category id="104775393" parentId="104775381">Базальтова шкаралупа, циліндри базальтові з фольгою товщиною 80 мм</category>
-      <category id="72154836">Стрічка ущільнювальна звукоізоляційна</category>
-      <category id="129346090" parentId="72154836">Стрічка ущільнююча Діхтунг (Діхтунгсбанд)</category>
-      <category id="129346159" parentId="72154836">Звукоізоляційна самоклеюча стрічка XPE</category>
-      <category id="113653434" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) у листах</category>
-      <category id="113653442" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) у рулонах</category>
-      <category id="113653443" parentId="109024182">Спінений етиленвінілацетат (матеріал EVA) в рулонах самоклеючий</category>
-      <category id="98466498" parentId="88505658">Каучукова ізоляція товщина 19 мм</category>
-      <category id="104800416" parentId="101204355">Бандажні хомути</category>
-      <category id="101204355">Трубна ізоляція, утеплювачі для труб</category>
-      <category id="72154840">Будівельні мембрани</category>
-      <category id="83164475" parentId="72154840">Пароізоляційні мембрани</category>
-      <category id="105685612" parentId="72154840">Шиповидна мембрана</category>
-      <category id="72946682">Покрівельні герметики та мастики</category>
-      <category id="110729176" parentId="76812238">Аксесуари для крісел</category>
-      <category id="110729178" parentId="76812238">Дитяча безпека</category>
-      <category id="130261512" parentId="76812238">Чавунний посуд</category>
-      <category id="130272186" parentId="130261512">Казан чавунний</category>
-      <category id="130272708" parentId="130261512">Казан алюмінієвий</category>
-      <category id="130359504" parentId="130261512">Алюмінієва кришка</category>
-      <category id="130263366" parentId="130261512">Сковорода чавунна з кришкою</category>
-      <category id="130263595" parentId="130261512">Сковороди з антипригарним покриттям</category>
-      <category id="130264687" parentId="130261512">Сковорода для млинців чавунна</category>
-      <category id="130264729" parentId="130261512">Сковорода чавунна гриль</category>
-      <category id="130266227" parentId="130261512">Чавунна сковорода WOK</category>
-      <category id="130266814" parentId="130261512">Порційний чавунний посуд HoReCa</category>
-      <category id="130275559" parentId="130261512">Сковорода чавунна з литою ручкою</category>
-      <category id="130278720" parentId="130261512">Садж чавунний</category>
-      <category id="130300046" parentId="130261512">Каструля чавунна</category>
-      <category id="130300073" parentId="130261512">Каструля алюмінієва</category>
-      <category id="130300101" parentId="130261512">Емальований посуд Elmani</category>
-      <category id="130333078" parentId="130261512">Скляна кришка</category>
-      <category id="130334569" parentId="130261512">Чавунна кришка</category>
-      <category id="130334824" parentId="130261512">Плато чавунне</category>
-      <category id="130348777" parentId="130261512">Кришка-сковорода чавунна</category>
-      <category id="130349214" parentId="130261512">Притиск чавунний</category>
-      <category id="130349255" parentId="130261512">Менажниці</category>
-      <category id="130357537" parentId="130261512">Дошки для нарізки та подачі</category>
-      <category id="130357891" parentId="130261512">Аксесуари для посуди</category>
-      <category id="146505387" parentId="130261512">Сковорідка алюмінієва</category>
-      <category id="97788066" parentId="105605131">Гантелі</category>
-      <category id="102655433" parentId="75989985">Килимки для фітнесу</category>
-      <category id="105921690" parentId="105605131">Аквааеробіка</category>
-      <category id="109147086" parentId="105605131">Лямки, ремні, крючки</category>
-      <category id="109345694" parentId="75989985">Килимки для дітей</category>
-      <category id="109832278" parentId="105605131">Жилет обтяжувач</category>
-      <category id="97788202" parentId="75989985">Екіпірування для боксу та єдиноборств</category>
-      <category id="94947435" parentId="97788202">Маківари (великі та малі)</category>
-      <category id="94947436" parentId="97788202">Груші боксерські мішки</category>
-      <category id="94947438" parentId="97788202">Шоломи для боксу та єдиноборств</category>
-      <category id="94947439" parentId="97788202">Лапи, пади для боксу та єдиноборств</category>
-      <category id="94947440" parentId="97788202">Захисна екіпіровка для єдиноборств</category>
-      <category id="94947443" parentId="97788202">Капи,бинти</category>
-      <category id="94947446" parentId="97788202">Пояс для кімоно</category>
-      <category id="94947448" parentId="94947437">Боксерські рукавички 8 унцій</category>
-      <category id="94947449" parentId="94947437">Боксерські рукавички 10 унцій</category>
-      <category id="94947450" parentId="94947437">Боксерські рукавиці 12 унцій</category>
-      <category id="94947451" parentId="94947437">Рукавички для боксу 4 унції</category>
-      <category id="94947452" parentId="94947437">Тренувальні, снарядні рукавички</category>
-      <category id="94947453" parentId="94947437">Рукавички для єдиноборств</category>
-      <category id="94947454" parentId="94947437">Рукавички MMA</category>
-      <category id="94947455" parentId="94947437">Накладки для єдиноборств</category>
-      <category id="98020300" parentId="94947437">Боксерські рукавички 14 унцій</category>
-      <category id="105224308" parentId="94947437">Боксерські рукавички 16 унцій</category>
-      <category id="105904860" parentId="75989985">Килимки туристичні, каремати</category>
-      <category id="105181243" parentId="109345694">Килимки Пазл для дітей</category>
-      <category id="105676661" parentId="75989985">Масажні килимки</category>
-      <category id="105859077" parentId="75989985">Сидушки туристичні</category>
-      <category id="105889723" parentId="75989985">Аксесуари для килимків</category>
-      <category id="84132040" parentId="75989985">Спортивні мати</category>
-      <category id="94947444" parentId="75989985">Велосипеди</category>
-      <category id="94947445" parentId="94947444">Аксесуари до велосипедів</category>
-      <category id="98767005" parentId="75989985">Турніки</category>
-      <category id="104947481" parentId="75989985">Обважнювачі для рук і ніг</category>
-      <category id="105224309" parentId="75989985">Хулахуп, обруч для схуднення, талії, масажний</category>
-      <category id="97793857" parentId="105605131">Диск здоров'я Грація</category>
-      <category id="105605131" parentId="75989985">Товари для фітнесу і аеробіки</category>
-      <category id="105652635" parentId="105605131">Ролики для преса</category>
-      <category id="111304934" parentId="105605131">Стійки для віджимань</category>
-      <category id="89570715">Вібро-шумоізоляція для автомобілів</category>
-      <category id="112741855" parentId="89570715">Автомобільна шумоізоляція</category>
-      <category id="112743094" parentId="89570715">Автомобільний килим, карпет, автолін</category>
-      <category id="112743101" parentId="89570715">Автомобільна вібро-шумоізоляція</category>
-      <category id="106755271" parentId="103078088">Звукоізоляційні панелі з кварцовим піском</category>
-      <category id="111560669">Тактичне спорядження</category>
-      <category id="148353601" parentId="148353593">PLA філамент</category>
-      <category id="112741847" parentId="89570715">Автомобільна віброізоляція</category>
       <category id="130277462" parentId="130261512">Сковорода чавунна без ручки</category>
       <category id="129892612" parentId="122260377">Крепления, стойки для груш</category>
-      <category id="121069509" parentId="89570715">ЕВА автокаремат</category>
-      <category id="135249027" parentId="120415998">Рулонные и листовые гидроизоляционные материалы</category>
-      <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
-      <category id="138243656" parentId="122197666">Тяжелая атлетика</category>
-      <category id="84776005">Спінений (синтетичний) каучук</category>
-      <category id="72955321">Гідроізолюючі стрічки та шнури</category>
-      <category id="109024182">Спінений етиленвінілацетат (матеріал EVA)</category>
-      <category id="132071313">Металевий профіль</category>
-      <category id="100113539">Екструдовані пінополістироли</category>
-      <category id="109022086">Теплоізоляційні матеріали</category>
-      <category id="72154835">Скотчі будівельні</category>
-      <category id="94789639">Пакувальні матеріали</category>
-      <category id="76812238">Товари для дому</category>
-      <category id="75989985">Товари для спорту, відпочинку, туризму</category>
-      <category id="103078088">Матеріали для шумоізоляції приміщень</category>
-      <category id="86349089">Інструменти</category>
-      <category id="142964119" parentId="122260377">Боксерские груши и снаряды</category>
-      <category id="148483984" parentId="148353593">PETG філамент</category>
-      <category id="146756334" parentId="130262689">Комплектующие электрооборудования</category>
-      <category id="146756335" parentId="130262703">Рубильники</category>
-      <category id="146756336" parentId="130262690">Товары для детей, общее</category>
-      <category id="146756337" parentId="130262705">Детские мячи</category>
-      <category id="146756338" parentId="130262706">Развивающие и игровые коврики</category>
-      <category id="146756339" parentId="130262707">Пух и перья</category>
-      <category id="146756340" parentId="130262691">Сырье для тяжелой промышленности</category>
-      <category id="146756341" parentId="123072298">Полимеры</category>
-      <category id="146756342" parentId="130262709">Многофункциональные инструменты</category>
-      <category id="146756343" parentId="130262738">Массажные дорожки и коврики</category>
-      <category id="146756344" parentId="130262738">Массажеры для шеи и плеч</category>
-      <category id="146756345" parentId="130262738">Массажеры для ног</category>
-      <category id="146756346" parentId="130262711">Уплотнители для окон, дверей</category>
-      <category id="146756347" parentId="130262712">Хомуты, зажимы</category>
-      <category id="146756348" parentId="130262713">Подложки и настилы для пола</category>
-      <category id="146756349" parentId="130262714">Герметики и силиконы</category>
-      <category id="146756350" parentId="130262715">Автомобильные герметики, клея</category>
-      <category id="146756351" parentId="130262744">Ткани для обивки салона автомобилей</category>
-      <category id="146756352" parentId="130262744">Материалы для вибро и шумоизоляции автомобиля</category>
-      <category id="146756353" parentId="130262717">Разгрузочные жилеты и плитоноски без плит</category>
-      <category id="146756354" parentId="130262718">Емкости для хранения пищевых продуктов</category>
-      <category id="146756355" parentId="132071256">Кухонные ковши и кокотницы</category>
-      <category id="146756356" parentId="132071256">Комплектующие для кухонной посуды</category>
-      <category id="146756357" parentId="132071256">Сковородки, сотейники, жаровни</category>
-      <category id="146756358" parentId="132071256">Кастрюли</category>
-      <category id="146756359" parentId="132071257">Доски разделочные</category>
-      <category id="146756360" parentId="132071258">Менажницы</category>
-      <category id="146756361" parentId="132071258">Кофейники, заварочные чайники и аксессуары</category>
-      <category id="146756362" parentId="132071258">Блюда, стойки для тортов</category>
-      <category id="146756363" parentId="130262750">Мебельный поролон</category>
-      <category id="146756364" parentId="132071260">Решетки для гриля и барбекю</category>
-      <category id="146756365" parentId="130262752">Защитные коврики под кресла</category>
-      <category id="146756366" parentId="130262723">Строительные и промышленные клеи</category>
-      <category id="146756367" parentId="130262723">Клейкая универсальная лента</category>
-      <category id="146756368" parentId="130262724">Защитные и противоударные упаковочные материалы</category>
-      <category id="146756369" parentId="130262724">Стяжки упаковочные</category>
-      <category id="146756370" parentId="122459407">Пленка воздушно-пузырчатая</category>
-      <category id="146756371" parentId="122459407">Стретч-пленка</category>
-      <category id="146756372" parentId="130262725">Туристические палатки и тенты</category>
-      <category id="146756373" parentId="130262725">Карематы и сидушки</category>
-      <category id="146756374" parentId="130262759">Казаны</category>
-      <category id="146756375" parentId="130262759">Костровые подставки и треноги</category>
-      <category id="146756376" parentId="130262760">Трекинговые палки и аксессуары к ним</category>
-      <category id="146756377" parentId="130262726">Гантели, гири, штанги и диски</category>
-      <category id="146756378" parentId="130262726">Спортивные стенки и турники для дома</category>
-      <category id="146756379" parentId="130262726">Эспандеры</category>
-      <category id="146756380" parentId="130262726">Комплектующие и аксессуары для тренажеров</category>
-      <category id="146756381" parentId="130262726">Тренажеры для пресса, гиперэкстензии</category>
-      <category id="146756382" parentId="130262727">Спортивная форма</category>
-      <category id="146756383" parentId="130262728">Пляжные коврики</category>
-      <category id="146756384" parentId="130262768">Велочехлы и велонакидки</category>
-      <category id="146756385" parentId="132071281">Аквапалки</category>
-      <category id="146756386" parentId="130262770">Доски для плавания, колобашки</category>
-      <category id="146756388" parentId="122260377">Лапы, макивары ручные</category>
-      <category id="146756389" parentId="122260377">Защита для боевых искусств</category>
-      <category id="146756390" parentId="122260377">Шлемы для бокса и единоборств</category>
-      <category id="146756391" parentId="122260377">Капы</category>
-      <category id="146756392" parentId="122260377">Боксерские бинты</category>
-      <category id="146756393" parentId="122260378">Фитболы</category>
-      <category id="146756394" parentId="122260378">Гимнастические диски</category>
-      <category id="146756395" parentId="122260378">Коврики для йоги и фитнеса</category>
-      <category id="146756396" parentId="122260378">Скакалки</category>
-      <category id="146756397" parentId="122260378">Гимнастические обручи</category>
-      <category id="146756398" parentId="122260378">Упоры для отжиманий</category>
-      <category id="146756399" parentId="122260379">Блоки и ролики для йоги</category>
-      <category id="146756400" parentId="138243656">Атлетические пояса</category>
-      <category id="146756401" parentId="138243656">Спортивные утяжелители</category>
-      <category id="146756402" parentId="138243656">Тяги для тренировки шеи</category>
-      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
-      <category id="146756404" parentId="122197667">Спортивные маты</category>
-      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
-      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
-      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
-      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
-      <category id="146756409" parentId="130262773">Минеральная вата</category>
-      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
-      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
-      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
-      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
-      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
     </categories>
   <offers>
 <offer id="1016523068" available="true">

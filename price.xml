@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-02 10:00">
+<yml_catalog date="2026-01-02 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -3240,7 +3240,7 @@
     <param name="Ширина" unit="м">1.6</param>
     <param name="Ширина упакування" unit="мм">10</param>
   </offer>
-  <offer id="1016524110" available="true">
+  <offer id="1016524110" available="false">
     <url>https://ukrizol.xyz/ua/p1016524110-paro-gidroizolyatsijna-membrana.html</url>
     <price>595</price>
     <currencyId>UAH</currencyId>
@@ -18684,17 +18684,17 @@
     <vendorCode>06/6ОДЕ</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Зовнішній діаметр труби" unit="мм">6</param>
-    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Довжина" unit="м">2</param>
-    <param name="Клас матеріалу по теплопровідності">Низька</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
     <param name="Матеріал ізоляції">Спінений каучук</param>
-    <param name="Щільність" unit="кг/м3">55</param>
-    <param name="Теплопровідність" unit="Вт/мК">0.032</param>
-    <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
+    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Клас матеріалу по теплопровідності">Низька</param>
+    <param name="Теплопровідність" unit="Вт/мК">0.032</param>
+    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Товщина ізоляції" unit="мм">6</param>
+    <param name="Довжина" unit="м">2</param>
+    <param name="Внутрішній діаметр трубки утеплювача" unit="мм">6</param>
   </offer>
   <offer id="1436163132" available="true">
     <url>https://ukrizol.xyz/ua/p1436163132-kauchukova-izolyatsiya-dlya.html</url>
@@ -65588,7 +65588,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1805941016" available="true">
+  <offer id="1805941016" available="false">
     <url>https://ukrizol.xyz/ua/p1805941016-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -69927,7 +69927,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1876619414" available="false">
+  <offer id="1876619414" available="true">
     <url>https://ukrizol.xyz/ua/p1876619414-zahist-gomilki-stopi.html</url>
     <price>781</price>
     <currencyId>UAH</currencyId>
@@ -76166,7 +76166,7 @@
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2034295272" available="true">
+  <offer id="2034295272" available="false">
     <url>https://ukrizol.xyz/ua/p2034295272-grusha-bokserska-lev.html</url>
     <price>2035</price>
     <currencyId>UAH</currencyId>
@@ -98812,17 +98812,18 @@
     <vendorCode>12/6ОДЕ</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Зовнішній діаметр труби" unit="мм">12</param>
-    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Довжина" unit="м">2</param>
-    <param name="Клас матеріалу по теплопровідності">Низька</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
     <param name="Матеріал ізоляції">Спінений каучук</param>
-    <param name="Щільність" unit="кг/м3">55</param>
-    <param name="Теплопровідність" unit="Вт/мК">0.032</param>
-    <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
+    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Клас матеріалу по теплопровідності">Низька</param>
+    <param name="Теплопровідність" unit="Вт/мК">0.032</param>
+    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Товщина ізоляції" unit="мм">6</param>
+    <param name="Довжина" unit="м">2</param>
+    <param name="Внутрішній діаметр трубки ізоляції" unit="мм">12</param>
+    <param name="Зовнішній діаметр ізоляції" unit="мм">24</param>
   </offer>
   <offer id="2195884090" available="false">
     <url>https://ukrizol.xyz/ua/p2195884090-kauchukova-izolyatsiya-dlya.html</url>
@@ -105987,7 +105988,7 @@
     <param name="Екологічний матеріал">Так</param>
     <param name="Длина рулона, п.м." unit="">10</param>
   </offer>
-  <offer id="2493753060" available="false">
+  <offer id="2493753060" available="true">
     <url>https://ukrizol.xyz/ua/p2493753060-nabir-dlya-boksu.html</url>
     <price>330</price>
     <currencyId>UAH</currencyId>

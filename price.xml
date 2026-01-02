@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-01 17:00">
+<yml_catalog date="2026-01-02 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.58852" />
+      <currency id="USD" rate="46.38711" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.77417" />
+      <currency id="EUR" rate="54.50489" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -43055,7 +43055,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="1567962809" available="true">
+  <offer id="1567962809" available="false">
     <url>https://ukrizol.xyz/ua/p1567962809-sholom-karate-boxer.html</url>
     <price>1100</price>
     <currencyId>UAH</currencyId>
@@ -112097,7 +112097,7 @@
     <param name="Колір">Синій</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2816392479" available="true">
+  <offer id="2816392479" available="false">
     <url>https://ukrizol.xyz/ua/p2816392479-filament-dsf-pla.html</url>
     <price>1835</price>
     <currencyId>UAH</currencyId>

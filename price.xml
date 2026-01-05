@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-04 17:00">
+<yml_catalog date="2026-01-05 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -313,6 +313,8 @@
       <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
     </categories>
   <offers>
+
+
 <offer id="1016523068" available="true">
     <url>https://ukrizol.xyz/ua/p1016523068-germetizuyucha-strichka-stk.html</url>
     <price>353</price>
@@ -75695,7 +75697,7 @@
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="2021580117" available="true">
+  <offer id="2021580117" available="false">
     <url>https://ukrizol.xyz/ua/p2021580117-ortopedichnij-masazhnij-kilimok.html</url>
     <price>2472</price>
     <currencyId>UAH</currencyId>

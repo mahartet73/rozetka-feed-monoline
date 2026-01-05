@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-05 10:00">
+<yml_catalog date="2026-01-05 15:10">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -313,8 +313,6 @@
       <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
     </categories>
   <offers>
-
-
 <offer id="1016523068" available="true">
     <url>https://ukrizol.xyz/ua/p1016523068-germetizuyucha-strichka-stk.html</url>
     <price>353</price>
@@ -70185,7 +70183,7 @@
     <param name="Материал" unit="">Искусственная кожа</param>
     <param name="Тип" unit="">Защита голени/стопы</param>
   </offer>
-  <offer id="1876619730" available="true">
+  <offer id="1876619730" available="false">
     <url>https://ukrizol.xyz/ua/p1876619730-bokserski-rukavichki-boxer.html</url>
     <price>797</price>
     <currencyId>UAH</currencyId>
@@ -75697,7 +75695,7 @@
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="2021580117" available="false">
+  <offer id="2021580117" available="true">
     <url>https://ukrizol.xyz/ua/p2021580117-ortopedichnij-masazhnij-kilimok.html</url>
     <price>2472</price>
     <currencyId>UAH</currencyId>
@@ -80855,7 +80853,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2058077937" available="true">
+  <offer id="2058077937" available="false">
     <url>https://ukrizol.xyz/ua/p2058077937-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -102802,7 +102800,7 @@
     <param name="Матеріал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2334691140" available="true">
+  <offer id="2334691140" available="false">
     <url>https://ukrizol.xyz/ua/p2334691140-grusha-bokserska-everlast.html</url>
     <price>1595</price>
     <currencyId>UAH</currencyId>
@@ -109319,7 +109317,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2642800176" available="true">
+  <offer id="2642800176" available="false">
     <url>https://ukrizol.xyz/ua/p2642800176-grusha-bokserska-boxer.html</url>
     <price>863</price>
     <currencyId>UAH</currencyId>

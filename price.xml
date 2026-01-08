@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-07 17:00">
+<yml_catalog date="2026-01-08 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="46.81974" />
+      <currency id="USD" rate="46.98705" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.77912" />
+      <currency id="EUR" rate="54.91376" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -313,6 +313,8 @@
       <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
     </categories>
   <offers>
+
+
 <offer id="1016523068" available="true">
     <url>https://ukrizol.xyz/ua/p1016523068-germetizuyucha-strichka-stk.html</url>
     <price>353</price>
@@ -10703,7 +10705,7 @@
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1287898778" available="false">
+  <offer id="1287898778" available="true">
     <url>https://ukrizol.xyz/ua/p1287898778-shumoizolyatsiya-kauchukova-samokleyucha.html</url>
     <price>300</price>
     <currencyId>UAH</currencyId>
@@ -16126,22 +16128,22 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Щільність" unit="кг/м³">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для пола|Для потолков|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">25</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Максимальная рабочая температура" unit="град.">120.0</param>
   </offer>
   <offer id="1361449974" available="true">
     <url>https://ukrizol.xyz/ua/p1361449974-spinenij-kauchuk-flex.html</url>
@@ -18451,7 +18453,7 @@
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="1427230535" available="true">
+  <offer id="1427230535" available="false">
     <url>https://ukrizol.xyz/ua/p1427230535-dzhgut-uschilnyuvalnij-ukrizol.html</url>
     <price>60</price>
     <currencyId>UAH</currencyId>
@@ -85288,7 +85290,7 @@
     <param name="Зовнішній діаметр" unit="мм">28</param>
     <param name="Область застосування труби">Для гарячого водопостачання|Для холодного водопостачання|Для газопостачання|Для систем опалення</param>
     <param name="Перетин труби">Кругле</param>
-    <param name="Колір">Синій</param>
+    <param name="Цвет" unit="">Синий</param>
   </offer>
   <offer id="2163941165" available="false">
     <url>https://ukrizol.xyz/ua/p2163941165-gofrotruba-dlya-vodopostachannya.html</url>

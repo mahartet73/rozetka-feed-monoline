@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-09 17:00">
+<yml_catalog date="2026-01-10 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.28944" />
+      <currency id="USD" rate="47.38327" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.19382" />
+      <currency id="EUR" rate="55.15884" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -13320,6 +13320,28 @@
     <param name="Товщина" unit="см">12</param>
     <param name="Колір">Чорний</param>
   </offer>
+  <offer id="1358320703" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320703-bokserski-rukavichki-boxer.html</url>
+    <price>1584</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 oz шкіра чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="1358320704" available="true">
     <url>https://ukrizol.xyz/ua/p1358320704-bokserski-rukavichki-boxer.html</url>
     <price>1584</price>
@@ -13338,6 +13360,50 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">10</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1358320705" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320705-bokserski-rukavichki-boxer.html</url>
+    <price>1441</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 8 oz шкіра чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-03Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">8</param>
+    <param name="Вікова група">Дитяча</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1358320706" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320706-bokserski-rukavichki-boxer.html</url>
+    <price>1441</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 6 oz шкіра чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-04Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">6</param>
+    <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
     <param name="Колір">Чорний</param>
@@ -13430,6 +13496,27 @@
     <param name="Тип">Бокс</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="1358320713" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320713-bokserski-rukavichki-boxer.html</url>
+    <price>495</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958434988_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958406728_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958406805_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 оz комбіновані чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2025-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Комбінований</param>
+    <param name="Тип">Бойові</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="1358320716" available="false">
     <url>https://ukrizol.xyz/ua/p1358320716-rukavichki-trenuvalni-boxer.html</url>
     <price>902</price>
@@ -13446,6 +13533,29 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Тренувальні</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1358320717" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320717-rukavichki-trenuvalni-boxer.html</url>
+    <price>506</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3016237206_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3016236805_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3016236979_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3016237186_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3016237209_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER L шкірвініл чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2015-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
     <param name="Тип">Тренувальні</param>
     <param name="Колір">Чорний</param>
@@ -13540,6 +13650,31 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="1358320724" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320724-sholom-bokserskij-boxer.html</url>
+    <price>660</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621159812_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159813_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159815_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159814_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER L шкірвініл синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2028-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Синій</param>
+  </offer>
   <offer id="1358320725" available="false">
     <url>https://ukrizol.xyz/ua/p1358320725-sholom-karate-boxer.html</url>
     <price>1100</price>
@@ -13565,6 +13700,30 @@
     <param name="Стан">Новий</param>
     <param name="Тип">Закритий</param>
     <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1358320726" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320726-sholom-karate-boxer.html</url>
+    <price>715</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/5119470663_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856359_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER L шкірвініл синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2030-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Синій</param>
   </offer>
   <offer id="1358320727" available="true">
     <url>https://ukrizol.xyz/ua/p1358320727-lapi-bokserski-boxer.html</url>
@@ -13613,6 +13772,52 @@
     <param name="Форма">Пряма</param>
     <param name="Колір">Червоний</param>
     <param name="Ширина" unit="см">20</param>
+  </offer>
+  <offer id="1358320729" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320729-lapi-bokserski-boxer.html</url>
+    <price>1199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2990920095_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2990920146_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2990920104_lapi-bokserski-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лапи боксерські BOXER гнуті шкіра жовті</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2010-01Ж</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Довжина" unit="см">24</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Лапа</param>
+    <param name="Товщина" unit="см">4.5</param>
+    <param name="Форма">Гнута</param>
+    <param name="Колір">Жовтий</param>
+    <param name="Ширина" unit="см">20</param>
+  </offer>
+  <offer id="1358320730" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320730-lapi-bokserski-boxer.html</url>
+    <price>649</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2991826720_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2991826715_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2991826716_lapi-bokserski-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лапи боксерські BOXER гнуті шкірвініл червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2011-01К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Колір">Червоний</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Лапа</param>
+    <param name="Форма">Гнута</param>
+    <param name="Длина" unit="м">24</param>
+    <param name="Толщина" unit="">4.5</param>
+    <param name="Ширина" unit="мм">20</param>
   </offer>
   <offer id="1358320731" available="true">
     <url>https://ukrizol.xyz/ua/p1358320731-lapi-kikbokserski-boxer.html</url>
@@ -14316,7 +14521,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1358320798" available="true">
+<offer id="1358320798" available="true">
     <url>https://ukrizol.xyz/ua/p1358320798-sholom-karate-boxer.html</url>
     <price>715</price>
     <currencyId>UAH</currencyId>
@@ -14454,6 +14659,27 @@
     <param name="Вага" unit="кг">0.5</param>
     <param name="Комплектация" unit="">Чехол, вставка под вилку, мешочек для хранения, именной брелок</param>
   </offer>
+  <offer id="1358320849" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320849-zahisnij-zhilet-dlya.html</url>
+    <price>792</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3098401903_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401902_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401905_zahisnij-zhilet-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захисний жилет для єдиноборств BOXER Еліт вінілшкіряний L червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2037-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Захист корпусу</param>
+    <param name="Колір">Червоний</param>
+    <param name="Фиксация" unit="">Ременная</param>
+  </offer>
   <offer id="1358320853" available="true">
     <url>https://ukrizol.xyz/ua/p1358320853-velochohol-kisheneyu-dlya.html</url>
     <price>1078</price>
@@ -14517,7 +14743,7 @@
     <param name="Форма">Гнута</param>
     <param name="Колір">Жовтий</param>
   </offer>
-<offer id="1358320862" available="true">
+  <offer id="1358320862" available="true">
     <url>https://ukrizol.xyz/ua/p1358320862-bokserski-rukavichki-boxer.html</url>
     <price>2068</price>
     <currencyId>UAH</currencyId>
@@ -14559,6 +14785,31 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
     <param name="Колір">Червоний</param>
+  </offer>
+  <offer id="1358320865" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320865-sholom-bokserskij-boxer.html</url>
+    <price>1320</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3118708191_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3118708171_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3118708190_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3118708211_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER Еліт L шкіра чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2031-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1358320866" available="true">
     <url>https://ukrizol.xyz/ua/p1358320866-sholom-bokserskij-boxer.html</url>
@@ -14899,6 +15150,72 @@
     <param name="Тип">Бокс</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="1358320899" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320899-bokserski-rukavichki-boxer.html</url>
+    <price>1441</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958333358_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958333313_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958333360_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 8 oz шкіра сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-03С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">8</param>
+    <param name="Вікова група">Дитяча</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1358320901" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320901-bokserski-rukavichki-boxer.html</url>
+    <price>410</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958434988_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958406728_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958406805_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 8 оz комбіновані чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2025-03Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">8</param>
+    <param name="Вікова група">Дитяча</param>
+    <param name="Матеріал">Комбінований</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1358320902" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320902-bokserski-rukavichki-boxer.html</url>
+    <price>445</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958407374_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958407349_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958407366_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz комбіновані червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2025-01К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Комбінований</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1358320904" available="true" group_id="853831702">
     <url>https://ukrizol.xyz/ua/p1358320904-bokserski-rukavichki-boxer.html</url>
     <price>500</price>
@@ -14944,6 +15261,32 @@
     <param name="Кріплення">4 болта</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Груша</param>
+  </offer>
+  <offer id="1358320907" available="false">
+    <url>https://ukrizol.xyz/ua/p1358320907-sholom-trenuvalnij-karate.html</url>
+    <price>1567</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261310_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261313_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт L шкіра чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2033-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Матеріал підкладки">Замша</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1358320908" available="true">
     <url>https://ukrizol.xyz/ua/p1358320908-sholom-trenuvalnij-karate.html</url>
@@ -15580,6 +15923,27 @@
     <param name="Тип">Бокс</param>
     <param name="Колір">Чорний</param>
   </offer>
+  <offer id="1361040050" available="false">
+    <url>https://ukrizol.xyz/ua/p1361040050-bokserski-rukavichki-boxer.html</url>
+    <price>1441</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958333142_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958333136_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 8 oz шкіра червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-03К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">8</param>
+    <param name="Вікова група">Дитяча</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1361449969" available="true">
     <url>https://ukrizol.xyz/ua/p1361449969-spinenij-kauchuk-flex.html</url>
     <price>258</price>
@@ -15836,6 +16200,29 @@
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
+  <offer id="1365140333" available="false">
+    <url>https://ukrizol.xyz/ua/p1365140333-bokserski-rukavichki-boxer.html</url>
+    <price>1441</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958334103_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334078_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334101_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334105_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 6 oz шкіра білі</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-04Б</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">6</param>
+    <param name="Вікова група">Дитяча</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Білий</param>
+  </offer>
   <offer id="1367373732" available="true">
     <url>https://ukrizol.xyz/ua/p1367373732-bokserski-rukavichki-boxer.html</url>
     <price>797</price>
@@ -16064,6 +16451,90 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
   </offer>
+  <offer id="1374092930" available="false">
+    <url>https://ukrizol.xyz/ua/p1374092930-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987071709_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987071707_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-04К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Червоний</param>
+  </offer>
+  <offer id="1374094115" available="false">
+    <url>https://ukrizol.xyz/ua/p1374094115-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987073924_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987073923_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-03С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1374094163" available="false">
+    <url>https://ukrizol.xyz/ua/p1374094163-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987074571_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987074578_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-03Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1374100520" available="false">
+    <url>https://ukrizol.xyz/ua/p1374100520-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987071709_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987071707_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-03К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1374101719" available="true">
     <url>https://ukrizol.xyz/ua/p1374101719-bokserski-rukavichki-boxer.html</url>
     <price>1540</price>
@@ -16153,6 +16624,49 @@
     <param name="Форма">Гнута</param>
     <param name="Колір">Синій</param>
     <param name="Ширина" unit="см">20</param>
+  </offer>
+  <offer id="1375704716" available="false">
+    <url>https://ukrizol.xyz/ua/p1375704716-lapi-bokserski-boxer.html</url>
+    <price>649</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/6862755959_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6862755960_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6862755961_lapi-bokserski-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лапи боксерські BOXER гнуті шкірвініл сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2011-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Довжина" unit="см">24</param>
+    <param name="Колір">Синій</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Лапа</param>
+    <param name="Товщина" unit="см">4.5</param>
+    <param name="Форма">Гнута</param>
+    <param name="Ширина" unit="см">20</param>
+  </offer>
+  <offer id="1376119343" available="false">
+    <url>https://ukrizol.xyz/ua/p1376119343-lapi-bokserski-boxer.html</url>
+    <price>1012</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2993298026_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2993298016_lapi-bokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2993298029_lapi-bokserski-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лапи боксерські BOXER гнуті шкірвініл Еліт сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2013-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Лапа</param>
+    <param name="Форма">Гнута</param>
+    <param name="Колір">Синій</param>
   </offer>
   <offer id="1376247391" available="true">
     <url>https://ukrizol.xyz/ua/p1376247391-lapi-bokserski-boxer.html</url>
@@ -16602,6 +17116,70 @@
     <param name="Розмір">XL</param>
     <param name="Тип">MMA</param>
     <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1381617096" available="false">
+    <url>https://ukrizol.xyz/ua/p1381617096-zahist-gomilki-stopi.html</url>
+    <price>742</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3011548285_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011534725_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011548262_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4181817018_zahist-gomilki-ta.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захист гомілки та стопи BOXER шкірвініл L чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2002-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Захист гомілки/стопи</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1381621259" available="false">
+    <url>https://ukrizol.xyz/ua/p1381621259-zahist-gomilki-stopi.html</url>
+    <price>742</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3011534030_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011534725_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011534036_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011534048_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4181817018_zahist-gomilki-ta.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захист гомілки та стопи BOXER шкірвініл XL синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2002-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">XL</param>
+    <param name="Тип">Захист гомілки/стопи</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1381622977" available="false">
+    <url>https://ukrizol.xyz/ua/p1381622977-zahist-gomilki-stopi.html</url>
+    <price>742</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3011548285_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011534725_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/3011548262_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4181817018_zahist-gomilki-ta.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захист гомілки та стопи BOXER шкірвініл XL чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2002-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">XL</param>
+    <param name="Тип">Захист гомілки/стопи</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1384404462" available="true">
     <url>https://ukrizol.xyz/ua/p1384404462-bokserska-grusha-rukavichki.html</url>
@@ -20366,7 +20944,7 @@
     <param name="Тип використання">Універсальний</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1531239508" available="true">
+<offer id="1531239508" available="true">
     <url>https://ukrizol.xyz/ua/p1531239508-germetik-pokrivelnij-stk.html</url>
     <price>157</price>
     <currencyId>UAH</currencyId>
@@ -20566,7 +21144,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Термопластик</param>
-    <param name="Особливості">Чехол</param>
+    <param name="Особливості">Чохол</param>
     <param name="Колір">Синій</param>
     <param name="В комплекте" unit="">Капа</param>
   </offer>
@@ -21082,7 +21660,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1553477033" available="true">
+  <offer id="1553477033" available="true">
     <url>https://ukrizol.xyz/ua/p1553477033-izolyatsiya-trub-ukrizol.html</url>
     <price>33</price>
     <currencyId>UAH</currencyId>
@@ -28683,7 +29261,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1554581885" available="true">
+<offer id="1554581885" available="true">
     <url>https://ukrizol.xyz/ua/p1554581885-uteplyuvach-dlya-trub.html</url>
     <price>1184</price>
     <currencyId>UAH</currencyId>
@@ -29501,7 +30079,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1554643967" available="true">
+  <offer id="1554643967" available="true">
     <url>https://ukrizol.xyz/ua/p1554643967-trubna-izolyatsiya-ukrizol.html</url>
     <price>1223</price>
     <currencyId>UAH</currencyId>
@@ -36196,7 +36774,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1554857085" available="true">
+<offer id="1554857085" available="true">
     <url>https://ukrizol.xyz/ua/p1554857085-trubna-izolyatsiya-ukrizol.html</url>
     <price>481</price>
     <currencyId>UAH</currencyId>
@@ -36924,7 +37502,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1554857122" available="true">
+  <offer id="1554857122" available="true">
     <url>https://ukrizol.xyz/ua/p1554857122-trubna-izolyatsiya-ukrizol.html</url>
     <price>677</price>
     <currencyId>UAH</currencyId>
@@ -42283,6 +42861,29 @@
     <param name="Тип">Гладкий</param>
     <param name="Колір">Фіолетовий</param>
   </offer>
+  <offer id="1566793268" available="false">
+    <url>https://ukrizol.xyz/ua/p1566793268-sholom-bokserskij-boxer.html</url>
+    <price>1012</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/5119469309_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5119469310_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5119469311_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER М шкіра червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2027-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1567925113" available="true">
     <url>https://ukrizol.xyz/ua/p1567925113-sholom-bokserskij-boxer.html</url>
     <price>1012</price>
@@ -42382,6 +42983,55 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="1567926840" available="false">
+    <url>https://ukrizol.xyz/ua/p1567926840-sholom-bokserskij-boxer.html</url>
+    <price>660</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988322_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988326_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER L шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2028-01К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
+  <offer id="1567927488" available="false">
+    <url>https://ukrizol.xyz/ua/p1567927488-sholom-bokserskij-boxer.html</url>
+    <price>660</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159815_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159813_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159814_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER L шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2028-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="1567928445" available="true">
     <url>https://ukrizol.xyz/ua/p1567928445-sholom-bokserskij-boxer.html</url>
     <price>660</price>
@@ -42431,6 +43081,30 @@
     <param name="Стан">Новий</param>
     <param name="Тип">Закритий</param>
     <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1567930360" available="false">
+    <url>https://ukrizol.xyz/ua/p1567930360-sholom-bokserskij-boxer.html</url>
+    <price>660</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988322_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988326_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER М шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2028-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
   </offer>
   <offer id="1567962809" available="false">
     <url>https://ukrizol.xyz/ua/p1567962809-sholom-karate-boxer.html</url>
@@ -42482,6 +43156,83 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="1568152649" available="false">
+    <url>https://ukrizol.xyz/ua/p1568152649-sholom-karate-boxer.html</url>
+    <price>715</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621856358_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856357_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856356_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856359_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER L шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2030-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">L</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1568156375" available="false">
+    <url>https://ukrizol.xyz/ua/p1568156375-sholom-karate-boxer.html</url>
+    <price>715</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621856358_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856357_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856356_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856359_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER М шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2030-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1568156678" available="false">
+    <url>https://ukrizol.xyz/ua/p1568156678-sholom-karate-boxer.html</url>
+    <price>715</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621856356_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621856357_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER М шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2030-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1568157226" available="true">
     <url>https://ukrizol.xyz/ua/p1568157226-sholom-karate-boxer.html</url>
     <price>715</price>
@@ -42506,7 +43257,57 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1569826076" available="true">
+  <offer id="1568165104" available="false">
+    <url>https://ukrizol.xyz/ua/p1568165104-sholom-bokserskij-boxer.html</url>
+    <price>863</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621159812_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159815_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159814_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3621159813_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER Еліт L шкірвініл синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2034-01С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Особливості">Захист щік</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1568169354" available="false">
+    <url>https://ukrizol.xyz/ua/p1568169354-sholom-trenuvalnij-karate.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261312_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт L шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2036-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+<offer id="1569826076" available="true">
     <url>https://ukrizol.xyz/ua/p1569826076-rukavichki-trenuvalni-boxer.html</url>
     <price>506</price>
     <currencyId>UAH</currencyId>
@@ -42571,6 +43372,26 @@
     <param name="Розмір">L</param>
     <param name="Тип">Тренувальні</param>
     <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1569875835" available="false">
+    <url>https://ukrizol.xyz/ua/p1569875835-rukavichki-trenuvalni-boxer.html</url>
+    <price>682</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3627219174_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3627219029_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER L шкірвініл Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2016-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Тренувальні</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1569882099" available="true">
     <url>https://ukrizol.xyz/ua/p1569882099-rukavichki-trenuvalni-boxer.html</url>
@@ -42821,6 +43642,28 @@
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
+  <offer id="1571524156" available="false">
+    <url>https://ukrizol.xyz/ua/p1571524156-bokserski-rukavichki-boxer.html</url>
+    <price>709</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958330786_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958330784_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958330790_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 оz шкірвініл сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2024-02С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Синій</param>
+  </offer>
   <offer id="1571952106" available="true">
     <url>https://ukrizol.xyz/ua/p1571952106-bokserski-rukavichki-boxer.html</url>
     <price>797</price>
@@ -42864,6 +43707,28 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Бокс</param>
     <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1571964031" available="false">
+    <url>https://ukrizol.xyz/ua/p1571964031-bokserski-rukavichki-boxer.html</url>
+    <price>880</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2975773037_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2964082822_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 14 оz шкірвініл Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2022-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">14</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1571968665" available="true">
     <url>https://ukrizol.xyz/ua/p1571968665-bokserski-rukavichki-boxer.html</url>
@@ -42909,6 +43774,28 @@
     <param name="Тип">Бокс</param>
     <param name="Колір">Синій</param>
   </offer>
+  <offer id="1571970947" available="false">
+    <url>https://ukrizol.xyz/ua/p1571970947-bokserski-rukavichki-boxer.html</url>
+    <price>880</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2975773037_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2964082822_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 16 оz шкірвініл Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2022-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">16</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="1571983607" available="true">
     <url>https://ukrizol.xyz/ua/p1571983607-bokserski-rukavichki-boxer.html</url>
     <price>1078</price>
@@ -42950,6 +43837,71 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Бокс</param>
     <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1571992592" available="false">
+    <url>https://ukrizol.xyz/ua/p1571992592-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987073924_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987073923_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-04С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1571994154" available="false">
+    <url>https://ukrizol.xyz/ua/p1571994154-bokserski-rukavichki-boxer.html</url>
+    <price>1116</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2987074571_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2987074578_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 оz шкірвініл Еліт ШИРОКИЙ МАНЖЕТ чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2122-04Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="1572073337" available="false">
+    <url>https://ukrizol.xyz/ua/p1572073337-bokserski-rukavichki-boxer.html</url>
+    <price>1584</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958334103_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334078_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334101_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958334105_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 10 oz шкіра білі</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2023-02Б</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Білий</param>
   </offer>
   <offer id="1572093576" available="true">
     <url>https://ukrizol.xyz/ua/p1572093576-bokserski-rukavichki-boxer.html</url>
@@ -42995,6 +43947,28 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
   </offer>
+  <offer id="1572093901" available="false">
+    <url>https://ukrizol.xyz/ua/p1572093901-bokserski-rukavichki-boxer.html</url>
+    <price>1540</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 14 оz шкіра Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2021-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">14</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+  </offer>
   <offer id="1572095358" available="true">
     <url>https://ukrizol.xyz/ua/p1572095358-bokserski-rukavichki-boxer.html</url>
     <price>1540</price>
@@ -43036,6 +44010,28 @@
     <param name="Вага" unit="oz">16</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+  </offer>
+  <offer id="1572095548" available="false">
+    <url>https://ukrizol.xyz/ua/p1572095548-bokserski-rukavichki-boxer.html</url>
+    <price>1540</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 16 оz шкіра Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2021-01Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">16</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
   </offer>
@@ -43331,7 +44327,7 @@
     <param name="Толщина (мм)" unit="мм">75</param>
     <param name="Вес, гр" unit="гр">170</param>
   </offer>
-<offer id="1576618597" available="false">
+  <offer id="1576618597" available="false">
     <url>https://ukrizol.xyz/ua/p1576618597-disk-zdorovya-gratsiya.html</url>
     <price>495</price>
     <currencyId>UAH</currencyId>
@@ -48337,8 +49333,8 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="кг">19.2</param>
     <param name="Довжина" unit="мм">1200</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Поліпшення акустики приміщень</param>
-    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасних конструкцій|Для інженерного обладнання</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Щільність" unit="кг/м³">1450</param>
     <param name="Ступінь жорсткості">Твердий</param>
     <param name="Товщина" unit="мм">14</param>
@@ -48362,8 +49358,8 @@
     <vendorCode>110109</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="кг">12</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Поліпшення акустики приміщень</param>
-    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасних конструкцій|Для інженерного обладнання</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Щільність" unit="кг/м³">1450</param>
     <param name="Ступінь жорсткості">Твердий</param>
     <param name="Форма поставки матеріалу">Лист</param>
@@ -48385,14 +49381,14 @@
     <vendorCode>110108</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="кг">17.5</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Поліпшення акустики приміщень</param>
-    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасних конструкцій|Для інженерного обладнання</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Щільність" unit="кг/м³">1450</param>
     <param name="Ступінь жорсткості">Твердий</param>
     <param name="Форма поставки матеріалу">Лист</param>
     <param name="Колір">Коричневий</param>
   </offer>
-  <offer id="1603122003" available="false">
+<offer id="1603122003" available="false">
     <url>https://ukrizol.xyz/ua/p1603122003-panel-bagatosharova-zvukoizolyatsijna.html</url>
     <price>485</price>
     <currencyId>UAH</currencyId>
@@ -48408,8 +49404,8 @@
     <vendorCode>110107</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="кг">24</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Поліпшення акустики приміщень</param>
-    <param name="Область застосування">Для стін|Для підлоги|Для стель|Для каркасних конструкцій|Для інженерного обладнання</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Щільність" unit="кг/м³">1450</param>
     <param name="Ступінь жорсткості">Твердий</param>
     <param name="Форма поставки матеріалу">Лист</param>
@@ -48709,7 +49705,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Довжина" unit="м">5</param>
-    <param name="Призначення матеріалу">Для покрівлі|Для фасадів|Для стін|Для балконів</param>
+    <param name="Призначення матеріалу">Для кровли|Для фасадов|Для стен|Для балконов</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
     <param name="Товщина (мм)">1.5</param>
     <param name="Форма матеріалу, що поставляється">Рулон</param>
@@ -48982,7 +49978,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Довжина" unit="м">50</param>
-    <param name="Призначення матеріалу">Для балконів|Для фасадів|Для покрівлі|Для стін</param>
+    <param name="Призначення матеріалу">Для балконов|Для фасадов|Для кровли|Для стен</param>
     <param name="Загальна площа мембрани в рулоні" unit="м2">75</param>
     <param name="Розривне навантаження (по довжині)" unit="Н/5 см">300</param>
     <param name="Розривне навантаження (по ширині)" unit="Н/5 см">250</param>
@@ -49004,7 +50000,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
-    <param name="Призначення матеріалу">Для підлог|Для резервуарів|Для підвалів|Для цоколів|Для стін|Для покрівлі|Для фасадів</param>
+    <param name="Призначення матеріалу">Для полов|Для резервуарів|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
     <param name="Витрата матеріалу" unit="кг/м2">1.4</param>
     <param name="Стан при застосуванні">Холодне</param>
     <param name="Спосіб нанесення">Ручний</param>
@@ -49030,7 +50026,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
-    <param name="Призначення матеріалу">Для покрівлі|Для підлог|Для підвалів|Для цоколів|Для резервуарів|Для фасадів|Для стін</param>
+    <param name="Призначення матеріалу">Для кровли|Для полов|Для подвалов|Для цоколей|Для резервуарів|Для фасадов|Для стен</param>
     <param name="Витрата матеріалу" unit="кг/м2">1.4</param>
     <param name="Стан при застосуванні">Холодне</param>
     <param name="Спосіб нанесення">Ручний</param>
@@ -49504,7 +50500,7 @@
     <param name="Диаметр, мм" unit="">406</param>
     <param name="Материал" unit="">многослойный картон с пропиткой</param>
   </offer>
-<offer id="1639607114" available="true">
+  <offer id="1639607114" available="true">
     <url>https://ukrizol.xyz/ua/p1639607114-opalubka-kolon-315.html</url>
     <price>2013</price>
     <currencyId>UAH</currencyId>
@@ -55176,7 +56172,7 @@
     <param name="Плотность материала" unit="">33</param>
     <param name="Тип коврика" unit="">Каремат</param>
   </offer>
-  <offer id="1651146938" available="true">
+<offer id="1651146938" available="true">
     <url>https://ukrizol.xyz/ua/p1651146938-kilimok-turistichnij-turist.html</url>
     <price>302</price>
     <currencyId>UAH</currencyId>
@@ -56193,7 +57189,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1654598702" available="false">
+  <offer id="1654598702" available="false">
     <url>https://ukrizol.xyz/ua/p1654598702-sidushka-armijska-polova.html</url>
     <price>84</price>
     <currencyId>UAH</currencyId>
@@ -60393,7 +61389,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Силікон</param>
-    <param name="Особливості">Чехол</param>
+    <param name="Особливості">Чохол</param>
     <param name="Колір">Салатний</param>
     <param name="В комплекте" unit="">Капа</param>
   </offer>
@@ -61442,7 +62438,7 @@
     <param name="Відносне подовження на розрив" unit="%">3</param>
     <param name="Ширина" unit="мм">50</param>
   </offer>
-  <offer id="1707313928" available="true">
+<offer id="1707313928" available="true">
     <url>https://ukrizol.xyz/ua/p1707313928-skotch-alyuminiyevij-flex.html</url>
     <price>135</price>
     <currencyId>UAH</currencyId>
@@ -62494,7 +63490,7 @@
     <param name="Фасовка материала (л)" unit="л">0.75</param>
     <param name="Цвет" unit="">Светло-бежевый</param>
   </offer>
-<offer id="1738090682" available="true">
+  <offer id="1738090682" available="true">
     <url>https://ukrizol.xyz/ua/p1738090682-klej-ukrizol-dlya.html</url>
     <price>915</price>
     <currencyId>UAH</currencyId>
@@ -62516,7 +63512,7 @@
     <param name="Кількість компонентів">Однокомпонентний</param>
     <param name="Стан клею">Готова емульсія</param>
     <param name="Тип використання">Універсальний</param>
-    <param name="Тип матеріалу, що приклеюється">ДВП|ПВХ|Метал|Дерево|Гума|Картон|Шкіра|МДФ|Скло|ДСП|Папір|Текстиль</param>
+    <param name="Тип матеріалу, що приклеюється">ДВП|ПВХ|Металл|Дерево|Резина|Картон|Кожа|МДФ|Стекло|ДСП|Бумага|Текстиль</param>
     <param name="Фасовка матеріалу (л)" unit="л">3</param>
   </offer>
   <offer id="1741686654" available="false">
@@ -63744,7 +64740,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Довжина" unit="см">150</param>
     <param name="Матеріал">Пінополіетилен</param>
-    <param name="Особливості">Стяжки в комплекті</param>
+    <param name="Особливості">Стяжки в комплекте</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Килимок/мат</param>
     <param name="Товщина" unit="мм">5</param>
@@ -64135,6 +65131,31 @@
     <param name="Колір">Білий</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
+  <offer id="1793204915" available="false">
+    <url>https://ukrizol.xyz/ua/p1793204915-zahisnij-zhilet-dlya.html</url>
+    <price>726</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3616830421_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876110_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876201_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876332_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876343_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401902_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401905_zahisnij-zhilet-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захисний жилет для єдиноборств BOXER Еліт вінілшкіряний M синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2037-03C</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Захист корпусу</param>
+    <param name="Колір">Синій</param>
+    <param name="Фиксация" unit="">Ременная</param>
+  </offer>
   <offer id="1793204916" available="true">
     <url>https://ukrizol.xyz/ua/p1793204916-zahisnij-zhilet-dlya.html</url>
     <price>847</price>
@@ -64158,6 +65179,27 @@
     <param name="Розмір">XL</param>
     <param name="Тип">Захист корпусу</param>
     <param name="Колір">Синій</param>
+    <param name="Фиксация" unit="">Ременная</param>
+  </offer>
+  <offer id="1793204917" available="false">
+    <url>https://ukrizol.xyz/ua/p1793204917-zahisnij-zhilet-dlya.html</url>
+    <price>726</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/4344725654_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/4344725655_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/4344725656_zahisnij-zhilet-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захисний жилет для єдиноборств BOXER Еліт вінілшкіряний M червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2037-03К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Захист корпусу</param>
+    <param name="Колір">Червоний</param>
     <param name="Фиксация" unit="">Ременная</param>
   </offer>
   <offer id="1793204918" available="true">
@@ -65876,6 +66918,29 @@
     <param name="Верхние покрытие" unit="">Фольга</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
+  <offer id="1816760820" available="false">
+    <url>https://ukrizol.xyz/ua/p1816760820-sholom-karate-boxer.html</url>
+    <price>830</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/4260364055_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4260364057_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER Еліт M шкірвініл червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2035-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Матеріал підкладки">Штучна шкіра</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1816762608" available="false">
     <url>https://ukrizol.xyz/ua/p1816762608-sholom-karate-boxer.html</url>
     <price>830</price>
@@ -65902,6 +66967,28 @@
     <param name="Розмір">M</param>
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
+  </offer>
+  <offer id="1816766029" available="false">
+    <url>https://ukrizol.xyz/ua/p1816766029-sholom-karate-boxer.html</url>
+    <price>830</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621856358_sholom-karate-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-karate-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом карате BOXER Еліт М шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2035-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Стан">Новий</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1816866350" available="false">
     <url>https://ukrizol.xyz/ua/p1816866350-sholom-karate-boxer.html</url>
@@ -66294,7 +67381,7 @@
     <param name="Кількість компонентів">Однокомпонентний</param>
     <param name="Стан клею">Готова емульсія</param>
     <param name="Тип використання">Універсальний</param>
-    <param name="Тип матеріалу, що приклеюється">ДВП|ПВХ|Метал|Дерево|Гума|Картон|Шкіра|МДФ|Скло|ДСП|Папір|Текстиль</param>
+    <param name="Тип матеріалу, що приклеюється">ДВП|ПВХ|Металл|Дерево|Резина|Картон|Кожа|МДФ|Стекло|ДСП|Бумага|Текстиль</param>
     <param name="Фасовка матеріалу (л)" unit="л">10</param>
   </offer>
   <offer id="1821689773" available="false">
@@ -67527,7 +68614,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1836783953" available="false">
+<offer id="1836783953" available="false">
     <url>https://ukrizol.xyz/ua/p1836783953-kapa-badboy-proseries.html</url>
     <price>206</price>
     <currencyId>UAH</currencyId>
@@ -67543,7 +68630,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Силікон</param>
-    <param name="Особливості">Чехол</param>
+    <param name="Особливості">Чохол</param>
     <param name="Колір">Синій</param>
   </offer>
   <offer id="1837373869" available="false">
@@ -68120,8 +69207,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">45</param>
@@ -68160,8 +69247,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">45</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -68761,7 +69848,7 @@
     <param name="Колір">Сірий</param>
     <param name="Ширина" unit="см">150</param>
   </offer>
-<offer id="1875766746" available="true">
+  <offer id="1875766746" available="true">
     <url>https://ukrizol.xyz/ua/p1875766746-kilimok-taktichnij-vijskovij.html</url>
     <price>275</price>
     <currencyId>UAH</currencyId>
@@ -68850,6 +69937,32 @@
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Синій</param>
   </offer>
+  <offer id="1876619410" available="false">
+    <url>https://ukrizol.xyz/ua/p1876619410-sholom-trenuvalnij-karate.html</url>
+    <price>1474</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261310_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261313_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкіра чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2033-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Матеріал підкладки">Замша</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="1876619411" available="true">
     <url>https://ukrizol.xyz/ua/p1876619411-zahist-gomilki-stopi.html</url>
     <price>748</price>
@@ -68892,6 +70005,31 @@
     <param name="Розмір">M</param>
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Червоний</param>
+  </offer>
+  <offer id="1876619413" available="false">
+    <url>https://ukrizol.xyz/ua/p1876619413-sholom-trenuvalnij-karate.html</url>
+    <price>1474</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261312_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкіра синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2033-02С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Матеріал підкладки">Замша</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Синій</param>
   </offer>
   <offer id="1876619414" available="true">
     <url>https://ukrizol.xyz/ua/p1876619414-zahist-gomilki-stopi.html</url>
@@ -68957,6 +70095,31 @@
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Чорний</param>
   </offer>
+  <offer id="1876619417" available="false">
+    <url>https://ukrizol.xyz/ua/p1876619417-sholom-trenuvalnij-karate.html</url>
+    <price>1474</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261312_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261311_sholom-trenuvalnij-karate.jpg</picture>
+    <picture>https://images.prom.ua/3621261314_sholom-trenuvalnij-karate.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом тренувальний карате BOXER Еліт M шкіра червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2033-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Матеріал підкладки">Замша</param>
+    <param name="Особливості">Захист щік|Захист підборіддя</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Закритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="1876619727" available="true">
     <url>https://ukrizol.xyz/ua/p1876619727-zahist-gomilki-stopi.html</url>
     <price>814</price>
@@ -68998,6 +70161,49 @@
     <param name="Розмір">XL</param>
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Червоний</param>
+  </offer>
+  <offer id="1876619729" available="false">
+    <url>https://ukrizol.xyz/ua/p1876619729-zahist-gomilki-stopi.html</url>
+    <price>781</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/4645418604_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4645418603_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4645418605_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/4181817018_zahist-gomilki-ta.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захист гомілки та стопи BOXER вінілшкіряний Еліт L чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2004-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Цвет" unit="">Черный</param>
+    <param name="Размер" unit="">L</param>
+    <param name="Материал" unit="">Искусственная кожа</param>
+    <param name="Тип" unit="">Защита голени/стопы</param>
+  </offer>
+  <offer id="1876619730" available="false">
+    <url>https://ukrizol.xyz/ua/p1876619730-bokserski-rukavichki-boxer.html</url>
+    <price>797</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2975773037_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2964082822_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz вінілшкіряні Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2022-03Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Бокс</param>
+    <param name="Колір">Чорний</param>
   </offer>
   <offer id="1882245319" available="false">
     <url>https://ukrizol.xyz/ua/p1882245319-opalubka-kolon-406.html</url>
@@ -69581,8 +70787,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -71318,8 +72524,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">13</param>
@@ -71348,8 +72554,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">9</param>
@@ -71378,8 +72584,8 @@
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">6</param>
@@ -71410,8 +72616,8 @@
     <vendorCode>39520</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71436,8 +72642,8 @@
     <vendorCode>33020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71462,8 +72668,8 @@
     <vendorCode>37020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71488,8 +72694,8 @@
     <vendorCode>31030</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для підлоги|Для стін|Для стель</param>
+    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Поліпшення акустики приміщень</param>
+    <param name="Область застосування">Для інженерного обладнання|Для каркасних конструкцій|Для підлоги|Для стін|Для стель</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71533,8 +72739,8 @@
     <vendorCode>310020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71559,8 +72765,8 @@
     <vendorCode>34020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71585,8 +72791,8 @@
     <vendorCode>39020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71611,8 +72817,8 @@
     <vendorCode>22030</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">2</param>
@@ -71637,8 +72843,8 @@
     <vendorCode>32520</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71663,8 +72869,8 @@
     <vendorCode>36020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71689,8 +72895,8 @@
     <vendorCode>32020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71715,8 +72921,8 @@
     <vendorCode>35020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71741,8 +72947,8 @@
     <vendorCode>38020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71767,8 +72973,8 @@
     <vendorCode>37520</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">3</param>
@@ -71793,8 +72999,8 @@
     <vendorCode>51520</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">5</param>
@@ -71819,8 +73025,8 @@
     <vendorCode>52020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для підлоги|Для стель|Для каркасных конструкций|Для стін|Для инженерного оборудования</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Поліпшення акустики приміщень|Звукоизоляция</param>
+    <param name="Область застосування">Для підлоги|Для стель|Для каркасних конструкцій|Для стін|Для інженерного обладнання</param>
     <param name="Щільність" unit="кг/м³">33</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">5</param>
@@ -72400,6 +73606,31 @@
     <param name="Толщина (мм)" unit="мм">75</param>
     <param name="Вес, гр" unit="гр">170</param>
     <param name="Длина, мм" unit="">229</param>
+  </offer>
+  <offer id="1970068296" available="false">
+    <url>https://ukrizol.xyz/ua/p1970068296-zahisnij-zhilet-dlya.html</url>
+    <price>792</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3616830421_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876110_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876201_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876332_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3616876343_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401902_zahisnij-zhilet-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3098401905_zahisnij-zhilet-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Захисний жилет для єдиноборств BOXER Еліт вінілшкіряний L синій</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2037-02С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Захист корпусу</param>
+    <param name="Колір">Синій</param>
+    <param name="Фиксация" unit="">Ременная</param>
   </offer>
   <offer id="1970068298" available="false">
     <url>https://ukrizol.xyz/ua/p1970068298-kilimok-taktichnij-vijskovij.html</url>
@@ -73657,7 +74888,7 @@
     <param name="Верхние покрытие" unit="">Фольга</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
-  <offer id="1993304877" available="false">
+<offer id="1993304877" available="false">
     <url>https://ukrizol.xyz/ua/p1993304877-fizichno-zshitij-spinenij.html</url>
     <price>158</price>
     <currencyId>UAH</currencyId>
@@ -73989,6 +75220,31 @@
     <param name="Кріплення">4 болта</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Груша</param>
+  </offer>
+  <offer id="2005551545" available="false">
+    <url>https://ukrizol.xyz/ua/p2005551545-lapi-kikbokserski-boxer.html</url>
+    <price>1529</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/5326196202_lapi-kikbokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5326196194_lapi-kikbokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5326196198_lapi-kikbokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5326196200_lapi-kikbokserski-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5326196205_lapi-kikbokserski-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лапи кікбоксерські BOXER шкіра жовті</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2007-01Ж</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Довжина" unit="см">40</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Лапа</param>
+    <param name="Товщина" unit="см">5</param>
+    <param name="Форма">Пряма</param>
+    <param name="Колір">Жовтий</param>
+    <param name="Ширина" unit="см">20</param>
   </offer>
   <offer id="2006946685" available="true">
     <url>https://ukrizol.xyz/ua/p2006946685-mat-bazaltovij-rockwool.html</url>
@@ -74897,7 +76153,7 @@
     <param name="Колір">Синій</param>
     <param name="Фиксация" unit="">Ременная</param>
   </offer>
-<offer id="2034295266" available="true">
+  <offer id="2034295266" available="true">
     <url>https://ukrizol.xyz/ua/p2034295266-grusha-bokserska-lev.html</url>
     <price>2189</price>
     <currencyId>UAH</currencyId>
@@ -79385,7 +80641,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Довжина" unit="м">20</param>
-    <param name="Призначення матеріалу">Для підлог|Для кровли|Для балконов|Для стен|Для підвалів|Для цоколів|Для фасадов</param>
+    <param name="Призначення матеріалу">Для підлог|Для покрівлі|Для балконів|Для стін|Для підвалів|Для цоколів|Для фасадів</param>
     <param name="Загальна площа мембрани в рулоні" unit="м2">2</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1.5</param>
@@ -79412,6 +80668,28 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <param name="Вага" unit="oz">10</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Тип">Бокс</param>
+  </offer>
+<offer id="2042479686" available="false">
+    <url>https://ukrizol.xyz/ua/p2042479686-bokserski-rukavichki-boxer.html</url>
+    <price>1540</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/2958332873_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3526481090_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332863_bokserski-rukavichki-boxer.jpg</picture>
+    <picture>https://images.prom.ua/2958332865_bokserski-rukavichki-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Боксерські рукавички BOXER 12 оz шкіра Еліт чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2021-03Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Натуральна шкіра</param>
@@ -80752,7 +82030,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Груша</param>
   </offer>
-<offer id="2088437611" available="true">
+  <offer id="2088437611" available="true">
     <url>https://ukrizol.xyz/ua/p2088437611-grusha-bokserska-boxer.html</url>
     <price>396</price>
     <currencyId>UAH</currencyId>
@@ -84081,6 +85359,31 @@
     <param name="Перетин труби">Кругле</param>
     <param name="Колір">Червоний</param>
   </offer>
+  <offer id="2166535284" available="false">
+    <url>https://ukrizol.xyz/ua/p2166535284-sholom-bokserskij-boxer.html</url>
+    <price>830</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/5720862677_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5720862662_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5720862664_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5720862663_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/5720862665_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER Еліт M шкірвініл чорний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2034-02Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Штучна шкіра</param>
+    <param name="Особливості">Захист щік</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Чорний</param>
+  </offer>
   <offer id="2166535285" available="true">
     <url>https://ukrizol.xyz/ua/p2166535285-sholom-bokserskij-boxer.html</url>
     <price>830</price>
@@ -86379,7 +87682,7 @@
     <param name="Діаметр основи, мм" unit="">247</param>
     <param name="Объем, л" unit="">1.85</param>
   </offer>
-  <offer id="2183163991" available="true">
+<offer id="2183163991" available="true">
     <url>https://ukrizol.xyz/ua/p2183163991-skovoroda-dlya-mlintsiv.html</url>
     <price>493</price>
     <currencyId>UAH</currencyId>
@@ -88379,7 +89682,7 @@
     <param name="Діаметр основи, мм" unit="">108</param>
     <param name="Объем, л" unit="">2.2</param>
   </offer>
-<offer id="2183164048" available="false">
+  <offer id="2183164048" available="false">
     <url>https://ukrizol.xyz/ua/p2183164048-skovoroda-portsijna-260.html</url>
     <price>572</price>
     <currencyId>UAH</currencyId>
@@ -94703,7 +96006,7 @@
     <param name="Вес, гр" unit="гр">400</param>
     <param name="Высота" unit="см">6.1</param>
   </offer>
-  <offer id="2183246800" available="false">
+<offer id="2183246800" available="false">
     <url>https://ukrizol.xyz/ua/p2183246800-kazan-chavunnij-aziatskij.html</url>
     <price>2560</price>
     <currencyId>UAH</currencyId>
@@ -96434,7 +97737,7 @@
     <param name="Материал чайника" unit="">Эмалированный металл</param>
     <param name="Общий объем чайника" unit="">2.2 (л)</param>
   </offer>
-<offer id="2183246864" available="false">
+  <offer id="2183246864" available="false">
     <url>https://ukrizol.xyz/ua/p2183246864-kazan-chavunnij-aziatskij.html</url>
     <price>1779</price>
     <currencyId>UAH</currencyId>
@@ -101024,6 +102327,29 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Чорний</param>
   </offer>
+  <offer id="2328217263" available="false">
+    <url>https://ukrizol.xyz/ua/p2328217263-sholom-bokserskij-boxer.html</url>
+    <price>1188</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>148855694</categoryId>
+    <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988322_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3616988326_sholom-bokserskij-boxer.jpg</picture>
+    <picture>https://images.prom.ua/4327360328_sholom-bokserskij-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом боксерський BOXER Еліт M шкіра червоний</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2031-02К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <param name="Вид шолома">Бокс</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Відкритий</param>
+    <param name="Колір">Червоний</param>
+  </offer>
   <offer id="2328281453" available="false">
     <url>https://ukrizol.xyz/ua/p2328281453-sholom-karate-boxer.html</url>
     <price>1419</price>
@@ -101243,7 +102569,7 @@
     <param name="Тип">MMA</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2330281781" available="true">
+<offer id="2330281781" available="true">
     <url>https://ukrizol.xyz/ua/p2330281781-sholom-maska-trenuvalna.html</url>
     <price>1182</price>
     <currencyId>UAH</currencyId>
@@ -101625,7 +102951,7 @@
     <sales_notes>предоплата</sales_notes>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Силікон</param>
-    <param name="Особливості">Чехол</param>
+    <param name="Особливості">Чохол</param>
     <param name="Колір">Синій</param>
   </offer>
   <offer id="2353534285" available="true">
@@ -102638,7 +103964,7 @@
     <param name="Товщина" unit="мм">1.5</param>
     <param name="Ширина листа" unit="см">60</param>
   </offer>
-<offer id="2373369268" available="true">
+  <offer id="2373369268" available="true">
     <url>https://ukrizol.xyz/ua/p2373369268-vibroizolyatsiya-acoustics-profy.html</url>
     <price>108</price>
     <currencyId>UAH</currencyId>
@@ -107394,7 +108720,7 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Плотность" unit="">33</param>
   </offer>
-  <offer id="2603855196" available="true">
+<offer id="2603855196" available="true">
     <url>https://ukrizol.xyz/ua/p2603855196-zvukoizolyatsijna-samokleyucha-strichka.html</url>
     <price>126</price>
     <currencyId>UAH</currencyId>
@@ -108800,7 +110126,7 @@
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
   </offer>
-<offer id="2682799247" available="true">
+  <offer id="2682799247" available="true">
     <url>https://ukrizol.xyz/ua/p2682799247-profil-zahisnij-dlya.html</url>
     <price>13</price>
     <currencyId>UAH</currencyId>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-11 17:00">
+<yml_catalog date="2026-01-12 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -517,7 +517,7 @@
     <vendorCode>20110</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>254</quantity_in_stock>
+    <quantity_in_stock>251</quantity_in_stock>
     <param name="Гарантийный срок" unit="мес">12</param>
     <param name="Состояние" unit="">Новое</param>
     <param name="Тип упаковки" unit="">Бумажная коробка</param>
@@ -7974,7 +7974,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2842</quantity_in_stock>
+    <quantity_in_stock>2770</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -13640,7 +13640,7 @@
     <vendorCode>2002-02К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
     <param name="Тип">Захист гомілки/стопи</param>
@@ -18228,7 +18228,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>153</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Максимальна вага" unit="кг">100</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Ланцюг для підвісу</param>
@@ -20463,7 +20463,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>593</quantity_in_stock>
+    <quantity_in_stock>551</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -45766,7 +45766,7 @@
     <vendorCode>EF-1818-2</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Помаранчевий</param>
     <param name="Матеріал">EVA піна</param>
     <param name="Стан">Новий</param>
@@ -45963,7 +45963,7 @@
     <vendorCode>149543</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Конструкція">Розбірна</param>
     <param name="Максимальна вага користувача" unit="кг">160</param>
     <param name="Призначення">Домашнє</param>
@@ -48634,7 +48634,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>647</quantity_in_stock>
+    <quantity_in_stock>635</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -53196,12 +53196,12 @@
     <quantity_in_stock>385</quantity_in_stock>
     <param name="Колір">Білий</param>
     <param name="Ширина" unit="мм">1500</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
+    <param name="Тип полимера" unit="">EVA</param>
     <param name="Толщина (мм)" unit="мм">1.5</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
-    <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
   </offer>
   <offer id="1641836471" available="true">
     <url>https://ukrizol.xyz/ua/p1641836471-izolyatsiya-trub-tubex.html</url>
@@ -53762,8 +53762,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>111</quantity_in_stock>
     <param name="Вид полімеру">Неорганічний</param>
-    <param name="Тип полімеру">EVA</param>
     <param name="Колір">Білий</param>
+    <param name="Тип полімеру">EVA</param>
     <param name="Ширина" unit="мм">1500</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
@@ -53811,11 +53811,11 @@
     <quantity_in_stock>141</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">10</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">10</param>
   </offer>
   <offer id="1641907898" available="true">
     <url>https://ukrizol.xyz/ua/p1641907898-material-eva-eva.html</url>
@@ -53835,11 +53835,12 @@
     <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Матеріал">ЕВА</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">2.5</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">2.5</param>
   </offer>
   <offer id="1641911087" available="true">
     <url>https://ukrizol.xyz/ua/p1641911087-material-eva-eva.html</url>
@@ -53859,11 +53860,11 @@
     <quantity_in_stock>175</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">3</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">3</param>
   </offer>
   <offer id="1641911696" available="true">
     <url>https://ukrizol.xyz/ua/p1641911696-material-eva-eva.html</url>
@@ -53883,11 +53884,11 @@
     <quantity_in_stock>138</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">5</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">5</param>
   </offer>
   <offer id="1641913094" available="true">
     <url>https://ukrizol.xyz/ua/p1641913094-material-eva-eva.html</url>
@@ -53907,11 +53908,11 @@
     <quantity_in_stock>300</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">8</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">8</param>
   </offer>
   <offer id="1644393879" available="false">
     <url>https://ukrizol.xyz/ua/p1644393879-mineralna-vata-isover.html</url>
@@ -54205,7 +54206,7 @@
     <vendorCode>112573</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Діаметр" unit="см">94</param>
     <param name="Конструкція">Цілісна</param>
     <param name="Матеріал">Сталь</param>
@@ -67933,12 +67934,12 @@
     <quantity_in_stock>142</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
+    <param name="Тип полимера" unit="">EVA</param>
     <param name="Толщина (мм)" unit="мм">2</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
-    <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
   </offer>
   <offer id="1799607181" available="true">
     <url>https://ukrizol.xyz/ua/p1799607181-dityachij-kilimok-pazl.html</url>
@@ -69595,11 +69596,11 @@
     <quantity_in_stock />
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1500</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">4</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">4</param>
   </offer>
   <offer id="1818080152" available="true">
     <url>https://ukrizol.xyz/ua/p1818080152-sportivnij-mat-tatami.html</url>
@@ -77139,14 +77140,14 @@
     <vendorCode>889133</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1500</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">1.5</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">1.5</param>
   </offer>
   <offer id="1982559210" available="false">
     <url>https://ukrizol.xyz/ua/p1982559210-izolyatsiya-trub-ukrizol.html</url>
@@ -77213,8 +77214,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид полімеру">Неорганічний</param>
-    <param name="Тип полімеру">EVA</param>
     <param name="Колір">Білий</param>
+    <param name="Тип полімеру">EVA</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
@@ -77448,8 +77449,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид полімеру">Неорганічний</param>
-    <param name="Тип полімеру">EVA</param>
     <param name="Колір">Білий</param>
+    <param name="Тип полімеру">EVA</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Длина, метр погонный" unit="">50</param>
     <param name="Плотность" unit="">75</param>
@@ -77973,7 +77974,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">27</param>
     <param name="Висота" unit="см">120</param>
     <param name="Вікова група">Доросла</param>
@@ -83014,7 +83015,7 @@
     <vendorCode>889330</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Колір">Червоний</param>
     <param name="Возрастная группа" unit="">Взрослая</param>
     <param name="Размер" unit="">M</param>
@@ -83616,11 +83617,11 @@
     <quantity_in_stock>232</quantity_in_stock>
     <param name="Колір">Білий</param>
     <param name="Ширина" unit="мм">1500</param>
+    <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
-    <param name="Толщина (мм)" unit="мм">3</param>
     <param name="Тип полимера" unit="">EVA</param>
-    <param name="Вид полимера" unit="">Неорганический</param>
+    <param name="Толщина (мм)" unit="мм">3</param>
   </offer>
   <offer id="2040448477" available="false">
     <url>https://ukrizol.xyz/ua/p2040448477-germetizuyucha-strichka-stk.html</url>
@@ -86202,7 +86203,7 @@
     <vendorCode>889452</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">S</param>
@@ -108194,7 +108195,7 @@
     <vendorCode>Н11006005СТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Довжина" unit="см">110</param>
     <param name="Матеріал">Пінополіетилен</param>
     <param name="Особливості">Стяжки в комплекте</param>
@@ -113505,7 +113506,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889621</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
     <param name="Высота" unit="см">10</param>
@@ -114335,7 +114336,7 @@
     <vendorCode>63501</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Консистенція">Стрічка</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Чорний</param>
@@ -115571,7 +115572,7 @@
     <param name="Колір">Червоний</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838133" available="true">
+  <offer id="2807838133" available="false">
     <url>https://ukrizol.xyz/ua/p2807838133-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -115584,7 +115585,7 @@
     <vendorCode>889669</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Вага" unit="кг">0.75</param>
     <param name="Матеріал">PLA</param>
@@ -116572,7 +116573,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -117073,7 +117074,7 @@
     <param name="Материал" unit="">ПВХ</param>
     <param name="Тип мяча" unit="">Массажно-игровой</param>
   </offer>
-  <offer id="2847952350" available="true">
+  <offer id="2847952350" available="false">
     <url>https://ukrizol.xyz/ua/p2847952350-zahist-gomilki-stopi.html</url>
     <price>1155</price>
     <currencyId>UAH</currencyId>
@@ -117089,7 +117090,7 @@
     <vendorCode>889723</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>

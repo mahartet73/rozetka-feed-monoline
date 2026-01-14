@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-13 17:00">
+<yml_catalog date="2026-01-14 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.38327" />
+      <currency id="USD" rate="47.58072" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.15884" />
+      <currency id="EUR" rate="55.57904" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -1354,7 +1354,7 @@
     <vendorCode>62758</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -5182,7 +5182,7 @@
     <vendorCode>900054</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1636</quantity_in_stock>
+    <quantity_in_stock>1686</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -6687,7 +6687,7 @@
     <vendorCode>901101150</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1800</quantity_in_stock>
+    <quantity_in_stock>1801</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -7728,7 +7728,7 @@
     <vendorCode>500131</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>467</quantity_in_stock>
+    <quantity_in_stock>465</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8054,7 +8054,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1023</quantity_in_stock>
+    <quantity_in_stock>978</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8494,7 +8494,7 @@
     <vendorCode>63334</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>74</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -9810,7 +9810,7 @@
     <param name="Толщина изоляции" unit="мкм">3</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="1229478863" available="true">
+  <offer id="1229478863" available="false">
     <url>https://ukrizol.xyz/ua/p1229478863-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>390</price>
     <currencyId>UAH</currencyId>
@@ -9832,7 +9832,7 @@
     <vendorCode>310015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Колір">Чорний</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -11602,7 +11602,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>184</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -13995,7 +13995,7 @@
     <param name="Тип">Тренувальні</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1358320717" available="false">
+  <offer id="1358320717" available="true">
     <url>https://ukrizol.xyz/ua/p1358320717-rukavichki-trenuvalni-boxer.html</url>
     <price>506</price>
     <currencyId>UAH</currencyId>
@@ -14012,7 +14012,7 @@
     <vendorCode>2015-01Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -14115,7 +14115,7 @@
   </offer>
   <offer id="1358320724" available="false">
     <url>https://ukrizol.xyz/ua/p1358320724-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621159812_sholom-bokserskij-boxer.jpg</picture>
@@ -14168,7 +14168,7 @@
   </offer>
   <offer id="1358320726" available="false">
     <url>https://ukrizol.xyz/ua/p1358320726-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/5119470663_sholom-karate-boxer.jpg</picture>
@@ -14916,7 +14916,7 @@
     <vendorCode>2026-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <param name="Вага" unit="oz">4</param>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -15023,7 +15023,7 @@
   </offer>
 <offer id="1358320798" available="true">
     <url>https://ukrizol.xyz/ua/p1358320798-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621856356_sholom-karate-boxer.jpg</picture>
@@ -15580,7 +15580,7 @@
     <vendorCode>2024-04С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вага" unit="oz">6</param>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -15948,7 +15948,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1358320921" available="false">
+  <offer id="1358320921" available="true">
     <url>https://ukrizol.xyz/ua/p1358320921-sholom-bokserskij-boxer.html</url>
     <price>1012</price>
     <currencyId>UAH</currencyId>
@@ -15966,7 +15966,7 @@
     <vendorCode>2027-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
@@ -18228,7 +18228,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>160</quantity_in_stock>
     <param name="Максимальна вага" unit="кг">100</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Ланцюг для підвісу</param>
@@ -18650,7 +18650,7 @@
     <vendorCode>163107</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -19581,7 +19581,7 @@
     <vendorCode>28/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>514</quantity_in_stock>
+    <quantity_in_stock>488</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -20531,7 +20531,7 @@
     <vendorCode>83930</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>605</quantity_in_stock>
+    <quantity_in_stock>606</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -22640,7 +22640,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1553482981" available="true">
+  <offer id="1553482981" available="false">
     <url>https://ukrizol.xyz/ua/p1553482981-izolyatsiya-trub-ukrizol.html</url>
     <price>30</price>
     <currencyId>UAH</currencyId>
@@ -22652,7 +22652,7 @@
     <vendorCode>ВП52/13</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>408</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -44384,7 +44384,7 @@
     <vendorCode>2027-02Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
@@ -44472,7 +44472,7 @@
   </offer>
   <offer id="1567926840" available="false">
     <url>https://ukrizol.xyz/ua/p1567926840-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
@@ -44497,7 +44497,7 @@
   </offer>
   <offer id="1567927488" available="false">
     <url>https://ukrizol.xyz/ua/p1567927488-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
@@ -44523,7 +44523,7 @@
   </offer>
   <offer id="1567928445" available="true">
     <url>https://ukrizol.xyz/ua/p1567928445-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621159812_sholom-bokserskij-boxer.jpg</picture>
@@ -44549,7 +44549,7 @@
   </offer>
   <offer id="1567930032" available="true">
     <url>https://ukrizol.xyz/ua/p1567930032-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
@@ -44573,9 +44573,9 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1567930360" available="false">
+  <offer id="1567930360" available="true">
     <url>https://ukrizol.xyz/ua/p1567930360-sholom-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
@@ -44589,7 +44589,7 @@
     <vendorCode>2028-02К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Штучна шкіра</param>
@@ -44652,7 +44652,7 @@
   </offer>
   <offer id="1568152649" available="false">
     <url>https://ukrizol.xyz/ua/p1568152649-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621856358_sholom-karate-boxer.jpg</picture>
@@ -44679,7 +44679,7 @@
   </offer>
   <offer id="1568156375" available="false">
     <url>https://ukrizol.xyz/ua/p1568156375-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621856358_sholom-karate-boxer.jpg</picture>
@@ -44707,7 +44707,7 @@
   </offer>
   <offer id="1568156678" available="false">
     <url>https://ukrizol.xyz/ua/p1568156678-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621856356_sholom-karate-boxer.jpg</picture>
@@ -44732,7 +44732,7 @@
   </offer>
   <offer id="1568157226" available="true">
     <url>https://ukrizol.xyz/ua/p1568157226-sholom-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/5119470663_sholom-karate-boxer.jpg</picture>
@@ -44823,7 +44823,7 @@
     <vendorCode>2015-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -44846,7 +44846,7 @@
     <vendorCode>2015-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -51016,7 +51016,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>543</quantity_in_stock>
+    <quantity_in_stock>544</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -63694,7 +63694,7 @@
     <vendorCode>163115</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -67844,7 +67844,7 @@
     <vendorCode>FT-1025/B-S</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Розмір">S</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Чорний</param>
@@ -68857,7 +68857,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>213</quantity_in_stock>
+    <quantity_in_stock>217</quantity_in_stock>
     <param name="Вага" unit="кг">0.95</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Капот|Дах|Підлогу автомобіля|Стеля автомобіля|Колісні арки|Пол багажника</param>
@@ -69493,7 +69493,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>299</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стінки багажника|Стеля автомобіля|Підлогу автомобіля|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -70898,7 +70898,7 @@
     <vendorCode>888922</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>80</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
     <param name="Стан">Новий</param>
@@ -72469,7 +72469,7 @@
   </offer>
   <offer id="1876619409" available="true">
     <url>https://ukrizol.xyz/ua/p1876619409-zahist-gomilki-stopi.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418597_zahist-gomilki-ta.jpg</picture>
@@ -72519,7 +72519,7 @@
   </offer>
   <offer id="1876619411" available="true">
     <url>https://ukrizol.xyz/ua/p1876619411-zahist-gomilki-stopi.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418597_zahist-gomilki-ta.jpg</picture>
@@ -72542,7 +72542,7 @@
   </offer>
   <offer id="1876619412" available="true">
     <url>https://ukrizol.xyz/ua/p1876619412-zahist-gomilki-stopi.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418593_zahist-gomilki-ta.jpg</picture>
@@ -72590,7 +72590,7 @@
   </offer>
   <offer id="1876619414" available="true">
     <url>https://ukrizol.xyz/ua/p1876619414-zahist-gomilki-stopi.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418593_zahist-gomilki-ta.jpg</picture>
@@ -72612,7 +72612,7 @@
   </offer>
   <offer id="1876619415" available="true">
     <url>https://ukrizol.xyz/ua/p1876619415-zahist-gomilki-stopi.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418597_zahist-gomilki-ta.jpg</picture>
@@ -72635,7 +72635,7 @@
   </offer>
   <offer id="1876619416" available="true">
     <url>https://ukrizol.xyz/ua/p1876619416-zahist-gomilki-stopi.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418604_zahist-gomilki-ta.jpg</picture>
@@ -72683,7 +72683,7 @@
   </offer>
   <offer id="1876619727" available="true">
     <url>https://ukrizol.xyz/ua/p1876619727-zahist-gomilki-stopi.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418604_zahist-gomilki-ta.jpg</picture>
@@ -72705,7 +72705,7 @@
   </offer>
   <offer id="1876619728" available="true">
     <url>https://ukrizol.xyz/ua/p1876619728-zahist-gomilki-stopi.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
     <picture>https://images.prom.ua/4645418593_zahist-gomilki-ta.jpg</picture>
@@ -72727,7 +72727,7 @@
   </offer>
   <offer id="1876619729" available="false">
     <url>https://ukrizol.xyz/ua/p1876619729-zahist-gomilki-stopi.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/4645418604_zahist-gomilki-ta.jpg</picture>
@@ -74106,7 +74106,7 @@
     <name>Поролон для спортивних матів 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Товщина" unit="мм">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">50</param>
   </offer>
@@ -78303,7 +78303,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889374</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>291</quantity_in_stock>
+    <quantity_in_stock>287</quantity_in_stock>
     <param name="Діаметр" unit="см">5</param>
     <param name="Цвет" unit="">Персиковый</param>
     <param name="Длина" unit="м">150.0</param>
@@ -78389,7 +78389,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889377</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>163</quantity_in_stock>
     <param name="Колір">Зелений</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Длина" unit="м">150.0</param>
@@ -82101,7 +82101,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XS</param>
@@ -84026,7 +84026,7 @@
     <param name="Вид основного сырья" unit="">Неорганическое</param>
     <param name="Длина рулона, п.м." unit="">50</param>
   </offer>
-  <offer id="2071599530" available="true">
+  <offer id="2071599530" available="false">
     <url>https://ukrizol.xyz/ua/p2071599530-alyubond-bond-mkm.html</url>
     <price>57</price>
     <currencyId>UAH</currencyId>
@@ -84044,7 +84044,7 @@
     <vendorCode>889388</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Армована фольга">Так</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
@@ -85078,7 +85078,7 @@
     <vendorCode>1008-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вага" unit="кг">3</param>
     <param name="Висота" unit="см">35</param>
     <param name="Вікова група">Дитяча</param>
@@ -103255,7 +103255,7 @@
     <vendorCode>889502</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -103639,7 +103639,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>43</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Товщина" unit="мм">20</param>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2.0</param>
@@ -108383,7 +108383,7 @@
     <vendorCode>2038-04</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">S</param>
     <param name="Тип">Захист корпусу</param>
@@ -110728,7 +110728,7 @@
     <vendorCode>2004-N2С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Колір">Синій</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -110774,7 +110774,7 @@
     <vendorCode>2004-N3Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>
@@ -110940,7 +110940,7 @@
     <vendorCode>2004-N2Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -111055,7 +111055,7 @@
     <vendorCode>2004-N2К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -111086,7 +111086,7 @@
     <param name="Тип">Лапа</param>
     <param name="Форма">Гнута</param>
   </offer>
-  <offer id="2568779862" available="false">
+  <offer id="2568779862" available="true">
     <url>https://ukrizol.xyz/ua/p2568779862-lapi-bokserski-boxer.html</url>
     <price>616</price>
     <currencyId>UAH</currencyId>
@@ -111103,7 +111103,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Довжина" unit="см">24</param>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -111317,7 +111317,7 @@
     <vendorCode>2036-N1Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -111437,14 +111437,14 @@
     <vendorCode>2030-N2Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
     <param name="Розмір">M</param>
     <param name="Тип">Відкритий</param>
   </offer>
-  <offer id="2568903856" available="false">
+  <offer id="2568903856" available="true">
     <url>https://ukrizol.xyz/ua/p2568903856-bokserski-rukavichki-boxer.html</url>
     <price>797</price>
     <currencyId>UAH</currencyId>
@@ -111462,7 +111462,7 @@
     <vendorCode>2022-0N4К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вага" unit="oz">10</param>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -111492,7 +111492,7 @@
     <param name="Тип">Бокс</param>
     <param name="Размер" unit="">12 oz</param>
   </offer>
-  <offer id="2568903858" available="false">
+  <offer id="2568903858" available="true">
     <url>https://ukrizol.xyz/ua/p2568903858-sholom-karate-posilenoyu.html</url>
     <price>737</price>
     <currencyId>UAH</currencyId>
@@ -111509,7 +111509,7 @@
     <vendorCode>2030-N1К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
@@ -111534,7 +111534,7 @@
     <vendorCode>2030-N2С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Синій</param>
@@ -111802,7 +111802,7 @@
     <vendorCode>2030-N2К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
@@ -111852,7 +111852,7 @@
     <vendorCode>2030-N1Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -111921,7 +111921,7 @@
     <vendorCode>2022-0N4С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Вага" unit="oz">10</param>
     <param name="Колір">Синій</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -114088,7 +114088,7 @@
     <vendorCode>2030-N1С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Синій</param>
@@ -115547,7 +115547,7 @@
     <vendorCode>889668</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">0.75</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Бежевий</param>
@@ -116573,7 +116573,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -116809,7 +116809,7 @@
     <vendorCode>2021-0N3Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -117525,7 +117525,7 @@
     <vendorCode>250315</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Колір">Чорний</param>
@@ -118148,7 +118148,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
   </offer>
-  <offer id="2873014093" available="false">
+  <offer id="2873014093" available="true">
     <url>https://ukrizol.xyz/ua/p2873014093-sholom-trenuvalnij-povnim.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -118159,10 +118159,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002509</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2873014094" available="false">
+  <offer id="2873014094" available="true">
     <url>https://ukrizol.xyz/ua/p2873014094-bokserski-rukavichki-boxer.html</url>
     <price>1540</price>
     <currencyId>UAH</currencyId>
@@ -118173,10 +118173,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002495</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="2873014099" available="false">
+  <offer id="2873014099" available="true">
     <url>https://ukrizol.xyz/ua/p2873014099-sholom-trenuvalnij-povnim.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -118187,10 +118187,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002507</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2873014100" available="false">
+  <offer id="2873014100" available="true">
     <url>https://ukrizol.xyz/ua/p2873014100-bokserski-rukavichki-boxer.html</url>
     <price>1540</price>
     <currencyId>UAH</currencyId>
@@ -118201,9 +118201,9 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002496</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
   </offer>
-  <offer id="2873014101" available="false">
+  <offer id="2873014101" available="true">
     <url>https://ukrizol.xyz/ua/p2873014101-sholom-trenuvalnij-povnim.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -118214,10 +118214,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002508</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2873014102" available="false">
+  <offer id="2873014102" available="true">
     <url>https://ukrizol.xyz/ua/p2873014102-sholom-trenuvalnij-povnim.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -118228,10 +118228,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002511</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="2873014107" available="false">
+  <offer id="2873014107" available="true">
     <url>https://ukrizol.xyz/ua/p2873014107-sholom-trenuvalnij-povnim.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -118242,7 +118242,7 @@
     <vendor>Boxer</vendor>
     <vendorCode>00002510</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Синій</param>
   </offer>
   <offer id="2876592408" available="true">

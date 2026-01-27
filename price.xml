@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-26 17:00">
+<yml_catalog date="2026-01-27 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.45301" />
+      <currency id="USD" rate="47.43783" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.71929" />
+      <currency id="EUR" rate="56.17117" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -900,7 +900,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>188</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Довжина" unit="м">45</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1</param>
@@ -2726,7 +2726,7 @@
     <vendorCode>61112</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>231</quantity_in_stock>
+    <quantity_in_stock>230</quantity_in_stock>
     <param name="Довжина" unit="м">2.5</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="м">0.008</param>
@@ -10800,7 +10800,7 @@
     <vendorCode>62765</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <param name="Довжина" unit="м">3</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10997,7 +10997,7 @@
     <vendorCode>500092Д</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
     <param name="Товщина" unit="мм">9</param>
@@ -16616,9 +16616,9 @@
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Колір">Чорний</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Виброизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для пола|Для потолков|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
@@ -20110,11 +20110,11 @@
     <param name="Товщина" unit="мм">6</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для пола|Для инженерного оборудования|Для каркасных конструкций|Для потолков|Для стен</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -20890,22 +20890,22 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Товщина" unit="мм">9</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
+    <param name="Колір">Чорний</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Форма поставки матеріалу">Рулон</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Материал изоляции" unit="">Вспененный каучук</param>
     <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Назначение материала" unit="">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений|Виброизоляция</param>
-    <param name="Область применения" unit="">Для стен|Для инженерного оборудования|Для потолков|Для каркасных конструкций|Для пола</param>
     <param name="Плотность" unit="">55</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность" unit="Вт/мК">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
     <param name="Необходимость нагрева" unit="">False</param>
     <param name="Тип" unit="">Шумоизоляция</param>
   </offer>
@@ -21725,7 +21725,7 @@
     <vendorCode>070484</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Виброизоляция|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
   </offer>
   <offer id="1548424565" available="true">
@@ -53726,7 +53726,7 @@
     <vendorCode>832582</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>120</quantity_in_stock>
+    <quantity_in_stock>119</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -53823,7 +53823,7 @@
     <vendorCode>832587</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>220</quantity_in_stock>
+    <quantity_in_stock>219</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -66029,7 +66029,7 @@
     <vendorCode>832615</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>142</quantity_in_stock>
+    <quantity_in_stock>140</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Длина рулона, п.м." unit="">50</param>
@@ -82019,7 +82019,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XS</param>
@@ -88213,7 +88213,7 @@
     <vendorCode>036030</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Призначення матеріалу">Звукоізоляція|Віброізоляція|Поліпшення акустики приміщень|Зниження ударного шуму</param>
     <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">33</param>
@@ -103557,7 +103557,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Товщина" unit="мм">20</param>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2.0</param>
@@ -108608,9 +108608,9 @@
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Колір">Чорний</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для пола|Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
@@ -108964,11 +108964,11 @@
     <param name="Товщина" unit="мм">19</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стен|Для инженерного оборудования|Для потолков|Для пола|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">5</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -109001,11 +109001,11 @@
     <param name="Товщина" unit="мм">6</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений|Виброизоляция</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для каркасных конструкций|Для пола|Для инженерного оборудования|Для стен|Для потолков</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -109038,11 +109038,11 @@
     <param name="Товщина" unit="мм">13</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стен|Для инженерного оборудования|Для потолков|Для пола|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">8</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -109075,11 +109075,11 @@
     <param name="Товщина" unit="мм">13</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стен|Для инженерного оборудования|Для потолков|Для пола|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">7</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -109112,11 +109112,11 @@
     <param name="Товщина" unit="мм">9</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для стен|Для инженерного оборудования|Для потолков|Для пола|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Класс материала по теплопроводности" unit="">Низкая</param>
@@ -115862,7 +115862,7 @@
     <vendorCode>889691</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
@@ -115993,7 +115993,7 @@
     <vendorCode>889692</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Чорний</param>
@@ -117951,7 +117951,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 1500×1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889729</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
     <param name="Высота" unit="см">10</param>

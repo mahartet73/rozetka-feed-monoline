@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-31 17:00">
+<yml_catalog date="2026-02-01 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -9299,7 +9299,7 @@
     <vendorCode>06/9П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>718</quantity_in_stock>
+    <quantity_in_stock>710</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -56823,7 +56823,7 @@
     <vendorCode>10/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>764</quantity_in_stock>
+    <quantity_in_stock>756</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -70610,7 +70610,7 @@
     <vendorCode>888921</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
     <param name="Стан">Новий</param>
@@ -79441,7 +79441,7 @@
     <vendorCode>889347</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Форма">Гнута</param>
     <param name="Колір">Синій</param>
@@ -103278,7 +103278,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Товщина" unit="мм">20</param>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2.0</param>
@@ -115145,7 +115145,7 @@
     <param name="Колір">Зелений</param>
     <param name="Матеріал">PLA</param>
   </offer>
-  <offer id="2807838131" available="true">
+  <offer id="2807838131" available="false">
     <url>https://ukrizol.xyz/ua/p2807838131-filament-dsf-pla.html</url>
     <price>522</price>
     <currencyId>UAH</currencyId>
@@ -115158,7 +115158,7 @@
     <vendorCode>889668</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вага" unit="кг">0.75</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Бежевий</param>
@@ -115252,7 +115252,7 @@
     <vendorCode>889667</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вага" unit="кг">0.75</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Білий</param>
@@ -116187,7 +116187,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Матеріал">Гума</param>
     <param name="Колір">Чорний</param>
     <param name="Довжина" unit="мм">1500</param>

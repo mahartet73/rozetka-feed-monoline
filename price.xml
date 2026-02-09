@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-08 17:00">
+<yml_catalog date="2026-02-09 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -420,7 +420,7 @@
     <vendorCode>20104</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
@@ -517,7 +517,7 @@
     <vendorCode>20110</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>241</quantity_in_stock>
+    <quantity_in_stock>240</quantity_in_stock>
     <param name="Гарантийный срок" unit="мес">12</param>
     <param name="Состояние" unit="">Новое</param>
     <param name="Тип упаковки" unit="">Бумажная коробка</param>
@@ -982,7 +982,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>116</quantity_in_stock>
+    <quantity_in_stock>117</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -7934,7 +7934,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>492</quantity_in_stock>
+    <quantity_in_stock>489</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -10406,7 +10406,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1624</quantity_in_stock>
+    <quantity_in_stock>1616</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -16487,7 +16487,7 @@
     <vendorCode>500095</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -18568,7 +18568,7 @@
     <vendorCode>163107</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -18880,7 +18880,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>155</quantity_in_stock>
+    <quantity_in_stock>153</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -43960,7 +43960,7 @@
     <param name="Тип">Масажний</param>
     <param name="Колір">Різні кольори</param>
   </offer>
-  <offer id="1565855118" available="false">
+  <offer id="1565855118" available="true">
     <url>https://ukrizol.xyz/ua/p1565855118-hulahup-obruch-zdorovya.html</url>
     <price>566</price>
     <currencyId>UAH</currencyId>
@@ -43976,7 +43976,7 @@
     <vendorCode>112572</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Діаметр" unit="см">80</param>
     <param name="Конструкція">Цілісна</param>
     <param name="Матеріал">Неопрен</param>
@@ -50520,7 +50520,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
     <param name="Тип килимка">Каремат</param>
@@ -53613,7 +53613,7 @@
     <vendorCode>832586</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -59003,7 +59003,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1692</quantity_in_stock>
+    <quantity_in_stock>1688</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -62349,7 +62349,7 @@
     <vendorCode>Н10020010С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
     <param name="Стан">Новий</param>
@@ -65590,7 +65590,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Стеля автомобіля|Двері|Підлогу автомобіля|Стінки багажника</param>
     <param name="Товщина" unit="мм">2</param>
@@ -75514,7 +75514,7 @@
     <vendorCode>EF-3924-GY</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Довжина палиці">Регульована</param>
     <param name="Кількість секцій палиці">3</param>
     <param name="Максимальна довжина" unit="см">135</param>
@@ -78439,7 +78439,7 @@
     <vendorCode>889384</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1533</quantity_in_stock>
+    <quantity_in_stock>1493</quantity_in_stock>
     <param name="Ширина" unit="мм">1010</param>
     <param name="Довжина" unit="м">20</param>
     <param name="Армована фольга">Так</param>
@@ -89592,7 +89592,7 @@
     <vendorCode>M2460U-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.6</param>
@@ -91498,7 +91498,7 @@
     <vendorCode>M2660P-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">3.6</param>
@@ -115351,7 +115351,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>951</quantity_in_stock>
+    <quantity_in_stock>921</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">2</param>
@@ -115534,13 +115534,13 @@
     <vendorCode>889683</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Бірюзовий</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2814242738" available="true">
+  <offer id="2814242738" available="false">
     <url>https://ukrizol.xyz/ua/p2814242738-filament-dsf-petg.html</url>
     <price>511</price>
     <currencyId>UAH</currencyId>
@@ -115553,7 +115553,7 @@
     <vendorCode>889691</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
@@ -115647,7 +115647,7 @@
     <vendorCode>889686</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Оливковий</param>
@@ -115721,7 +115721,7 @@
     <vendorCode>889694</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Червоний</param>
@@ -115764,7 +115764,7 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2814242750" available="true">
+  <offer id="2814242750" available="false">
     <url>https://ukrizol.xyz/ua/p2814242750-filament-dsf-petg.html</url>
     <price>511</price>
     <currencyId>UAH</currencyId>
@@ -115777,7 +115777,7 @@
     <vendorCode>889698</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">0.78</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-10 10:28">
+<yml_catalog date="2026-02-10 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -883,7 +883,7 @@
     <param name="Ширина" unit="м">0.015</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
-  <offer id="1016523092" available="true">
+  <offer id="1016523092" available="false">
     <url>https://ukrizol.xyz/ua/p1016523092-butilova-strichka-ukrizol.html</url>
     <price>323</price>
     <currencyId>UAH</currencyId>
@@ -900,7 +900,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Довжина" unit="м">45</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1</param>
@@ -4793,7 +4793,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>775</quantity_in_stock>
+    <quantity_in_stock>774</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -4826,7 +4826,7 @@
     <vendorCode>900081</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>737</quantity_in_stock>
+    <quantity_in_stock>736</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -5182,7 +5182,7 @@
     <vendorCode>900054</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>62</quantity_in_stock>
+    <quantity_in_stock>962</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -5772,7 +5772,7 @@
     <vendorCode>900035</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>482</quantity_in_stock>
+    <quantity_in_stock>382</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -6687,7 +6687,7 @@
     <vendorCode>901101150</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1651</quantity_in_stock>
+    <quantity_in_stock>1551</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -6850,7 +6850,7 @@
     <name>Фізично зшитий спінений поліетилен самоклеючий 2 мм (темно-сірий)</name>
     <vendorCode>902022</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>220</quantity_in_stock>
+    <quantity_in_stock>218</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Тип покрытия" unit="">С одной стороны и самоклеещееся с другой</param>
     <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
@@ -7352,7 +7352,7 @@
     <name>Фізично зшитий спінений поліетилен фольгований самоклеючий 8 мм</name>
     <vendorCode>902083</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -7728,7 +7728,7 @@
     <vendorCode>500131</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>429</quantity_in_stock>
+    <quantity_in_stock>438</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -7934,7 +7934,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>484</quantity_in_stock>
+    <quantity_in_stock>394</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -7974,7 +7974,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2308</quantity_in_stock>
+    <quantity_in_stock>2278</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8014,7 +8014,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>681</quantity_in_stock>
+    <quantity_in_stock>651</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8054,7 +8054,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>783</quantity_in_stock>
+    <quantity_in_stock>713</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9608,7 +9608,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>664</quantity_in_stock>
+    <quantity_in_stock>648</quantity_in_stock>
     <param name="Довжина" unit="мм">25</param>
     <param name="Колір">Чорний</param>
     <param name="Форма поставки матеріалу">Штука</param>
@@ -9795,7 +9795,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>504</quantity_in_stock>
+    <quantity_in_stock>461</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Колір">Чорний</param>
@@ -10379,7 +10379,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2150</quantity_in_stock>
+    <quantity_in_stock>2125</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10406,7 +10406,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1596</quantity_in_stock>
+    <quantity_in_stock>1590</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10433,7 +10433,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1101</quantity_in_stock>
+    <quantity_in_stock>1095</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10664,7 +10664,7 @@
     <vendorCode>500032</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>953</quantity_in_stock>
+    <quantity_in_stock>950</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для стен|Для каркасных конструкций|Для потолков|Для инженерного оборудования|Для пола</param>
@@ -11317,7 +11317,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Двери|Пол автомобиля|Стенки багажника|Потолок автомобиля</param>
     <param name="Товщина" unit="мм">2</param>
@@ -11520,7 +11520,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>396</quantity_in_stock>
+    <quantity_in_stock>407</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -14255,7 +14255,7 @@
   </offer>
   <offer id="1358320734" available="true">
     <url>https://ukrizol.xyz/ua/p1358320734-grusha-bokserska-boxer.html</url>
-    <price>704</price>
+    <price>726</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936811375_grusha-bokserska-boxer.jpg</picture>
@@ -14281,7 +14281,7 @@
   </offer>
   <offer id="1358320735" available="true">
     <url>https://ukrizol.xyz/ua/p1358320735-grusha-bokserska-boxer.html</url>
-    <price>863</price>
+    <price>726</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936811375_grusha-bokserska-boxer.jpg</picture>
@@ -14294,7 +14294,7 @@
     <vendorCode>1006-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вага" unit="кг">13</param>
     <param name="Висота" unit="см">95</param>
     <param name="Діаметр" unit="см">26</param>
@@ -14305,7 +14305,7 @@
   </offer>
   <offer id="1358320736" available="true">
     <url>https://ukrizol.xyz/ua/p1358320736-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936820542_grusha-bokserska-boxer.jpg</picture>
@@ -14328,7 +14328,7 @@
   </offer>
   <offer id="1358320737" available="true">
     <url>https://ukrizol.xyz/ua/p1358320737-grusha-bokserska-boxer.html</url>
-    <price>990</price>
+    <price>1023</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075286751_grusha-bokserska-boxer.jpg</picture>
@@ -14352,7 +14352,7 @@
   </offer>
   <offer id="1358320738" available="true">
     <url>https://ukrizol.xyz/ua/p1358320738-grusha-bokserska-boxer.html</url>
-    <price>1171</price>
+    <price>1210</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075286751_grusha-bokserska-boxer.jpg</picture>
@@ -14376,7 +14376,7 @@
   </offer>
   <offer id="1358320739" available="true">
     <url>https://ukrizol.xyz/ua/p1358320739-grusha-bokserska-boxer.html</url>
-    <price>1978</price>
+    <price>2046</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936820542_grusha-bokserska-boxer.jpg</picture>
@@ -14399,7 +14399,7 @@
   </offer>
   <offer id="1358320740" available="true">
     <url>https://ukrizol.xyz/ua/p1358320740-grusha-bokserska-boxer.html</url>
-    <price>1298</price>
+    <price>1342</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
@@ -14426,7 +14426,7 @@
   </offer>
   <offer id="1358320741" available="true">
     <url>https://ukrizol.xyz/ua/p1358320741-grusha-bokserska-boxer.html</url>
-    <price>1353</price>
+    <price>1397</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075286751_grusha-bokserska-boxer.jpg</picture>
@@ -14450,7 +14450,7 @@
   </offer>
   <offer id="1358320743" available="true">
     <url>https://ukrizol.xyz/ua/p1358320743-grusha-bokserska-boxer.html</url>
-    <price>1710</price>
+    <price>1771</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
@@ -14476,7 +14476,7 @@
   </offer>
   <offer id="1358320744" available="true">
     <url>https://ukrizol.xyz/ua/p1358320744-grusha-bokserska-boxer.html</url>
-    <price>1892</price>
+    <price>1958</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
@@ -14607,7 +14607,7 @@
   </offer>
   <offer id="1358320749" available="true">
     <url>https://ukrizol.xyz/ua/p1358320749-grusha-bokserska-boxer.html</url>
-    <price>808</price>
+    <price>836</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2942947180_grusha-bokserska-boxer.jpg</picture>
@@ -14619,7 +14619,7 @@
     <vendorCode>1005-02</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Вага" unit="кг">7</param>
     <param name="Висота" unit="см">75</param>
     <param name="Вікова група">Доросла</param>
@@ -14631,7 +14631,7 @@
   </offer>
   <offer id="1358320750" available="true">
     <url>https://ukrizol.xyz/ua/p1358320750-grusha-bokserska-boxer.html</url>
-    <price>990</price>
+    <price>1023</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2942947180_grusha-bokserska-boxer.jpg</picture>
@@ -14643,7 +14643,7 @@
     <vendorCode>1005-01</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вага" unit="кг">13</param>
     <param name="Висота" unit="см">95</param>
     <param name="Вікова група">Дитяча</param>
@@ -14655,7 +14655,7 @@
   </offer>
   <offer id="1358320751" available="true">
     <url>https://ukrizol.xyz/ua/p1358320751-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
@@ -14681,7 +14681,7 @@
   </offer>
   <offer id="1358320752" available="true">
     <url>https://ukrizol.xyz/ua/p1358320752-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075286751_grusha-bokserska-boxer.jpg</picture>
@@ -14843,7 +14843,7 @@
   </offer>
   <offer id="1358320766" available="true">
     <url>https://ukrizol.xyz/ua/p1358320766-bokserska-grusha-rukavichki.html</url>
-    <price>896</price>
+    <price>825</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947437</categoryId>
     <picture>https://images.prom.ua/3020605576_bokserska-grusha-ta.jpg</picture>
@@ -14992,7 +14992,7 @@
   </offer>
 <offer id="1358320801" available="true">
     <url>https://ukrizol.xyz/ua/p1358320801-grusha-bokserska-boxer.html</url>
-    <price>704</price>
+    <price>726</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936811374_grusha-bokserska-boxer.jpg</picture>
@@ -15690,7 +15690,7 @@
   </offer>
   <offer id="1358320905" available="true">
     <url>https://ukrizol.xyz/ua/p1358320905-grusha-bokserska-boxer.html</url>
-    <price>1353</price>
+    <price>1397</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075289335_grusha-bokserska-boxer.jpg</picture>
@@ -15703,7 +15703,7 @@
     <vendorCode>1003-02К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вага" unit="кг">27</param>
     <param name="Висота" unit="см">120</param>
     <param name="Вікова група">Доросла</param>
@@ -15816,7 +15816,7 @@
   </offer>
   <offer id="1358320916" available="true">
     <url>https://ukrizol.xyz/ua/p1358320916-grusha-bokserska-boxer.html</url>
-    <price>1171</price>
+    <price>1210</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075289335_grusha-bokserska-boxer.jpg</picture>
@@ -16116,7 +16116,7 @@
   </offer>
   <offer id="1358320933" available="true">
     <url>https://ukrizol.xyz/ua/p1358320933-grusha-bokserska-boxer.html</url>
-    <price>594</price>
+    <price>660</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967434_grusha-bokserska-boxer.jpg</picture>
@@ -16140,7 +16140,7 @@
   </offer>
   <offer id="1358320934" available="true">
     <url>https://ukrizol.xyz/ua/p1358320934-grusha-bokserska-boxer.html</url>
-    <price>539</price>
+    <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967437_grusha-bokserska-boxer.jpg</picture>
@@ -16163,7 +16163,7 @@
   </offer>
   <offer id="1358320935" available="true">
     <url>https://ukrizol.xyz/ua/p1358320935-grusha-bokserska-boxer.html</url>
-    <price>539</price>
+    <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967439_grusha-bokserska-boxer.jpg</picture>
@@ -16189,7 +16189,7 @@
   </offer>
   <offer id="1358320936" available="false">
     <url>https://ukrizol.xyz/ua/p1358320936-grusha-nabivna-boxer.html</url>
-    <price>649</price>
+    <price>709</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967444_grusha-nabivna-boxer.jpg</picture>
@@ -16215,7 +16215,7 @@
   </offer>
   <offer id="1358320937" available="true">
     <url>https://ukrizol.xyz/ua/p1358320937-grusha-nabivna-boxer.html</url>
-    <price>577</price>
+    <price>638</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967449_grusha-nabivna-boxer.jpg</picture>
@@ -16241,7 +16241,7 @@
   </offer>
   <offer id="1358320938" available="true">
     <url>https://ukrizol.xyz/ua/p1358320938-grusha-nabivna-boxer.html</url>
-    <price>577</price>
+    <price>638</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967454_grusha-nabivna-boxer.jpg</picture>
@@ -16263,7 +16263,7 @@
   </offer>
   <offer id="1358320939" available="true">
     <url>https://ukrizol.xyz/ua/p1358320939-grusha-nabivna-boxer.html</url>
-    <price>451</price>
+    <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967454_grusha-nabivna-boxer.jpg</picture>
@@ -16286,7 +16286,7 @@
   </offer>
   <offer id="1358320940" available="true">
     <url>https://ukrizol.xyz/ua/p1358320940-grusha-nabivna-boxer.html</url>
-    <price>451</price>
+    <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967457_grusha-nabivna-boxer.jpg</picture>
@@ -16444,7 +16444,7 @@
     <vendorCode>500065</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>189</quantity_in_stock>
+    <quantity_in_stock>196</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Максимальна робоча температура" unit="град.">120</param>
@@ -17713,7 +17713,7 @@
   </offer>
   <offer id="1384404462" available="true">
     <url>https://ukrizol.xyz/ua/p1384404462-bokserska-grusha-rukavichki.html</url>
-    <price>896</price>
+    <price>825</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947437</categoryId>
     <picture>https://images.prom.ua/3020760120_bokserska-grusha-ta.jpg</picture>
@@ -17794,7 +17794,7 @@
   </offer>
   <offer id="1401898933" available="false">
     <url>https://ukrizol.xyz/ua/p1401898933-grusha-bokserska-boxer.html</url>
-    <price>990</price>
+    <price>1023</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075289335_grusha-bokserska-boxer.jpg</picture>
@@ -17819,7 +17819,7 @@
   </offer>
   <offer id="1401899751" available="true">
     <url>https://ukrizol.xyz/ua/p1401899751-grusha-bokserska-boxer.html</url>
-    <price>990</price>
+    <price>1023</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3072994027_grusha-bokserska-boxer.jpg</picture>
@@ -17845,7 +17845,7 @@
   </offer>
   <offer id="1402706268" available="true">
     <url>https://ukrizol.xyz/ua/p1402706268-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3075289335_grusha-bokserska-boxer.jpg</picture>
@@ -17870,7 +17870,7 @@
   </offer>
   <offer id="1402706395" available="true">
     <url>https://ukrizol.xyz/ua/p1402706395-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3072994027_grusha-bokserska-boxer.jpg</picture>
@@ -18134,7 +18134,7 @@
   </offer>
   <offer id="1410619237" available="true">
     <url>https://ukrizol.xyz/ua/p1410619237-kriplennya-dlya-pidvisu.html</url>
-    <price>291</price>
+    <price>319</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3652251556_kriplennya-dlya-pidvisu.jpg</picture>
@@ -18880,7 +18880,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>151</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -20213,7 +20213,7 @@
     <vendorCode>2701-1</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Термопластик</param>
     <param name="Тип">Двощелепний</param>
@@ -20221,7 +20221,7 @@
   </offer>
   <offer id="1451239725" available="true">
     <url>https://ukrizol.xyz/ua/p1451239725-grusha-bokserska-boxer.html</url>
-    <price>863</price>
+    <price>726</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936811373_grusha-bokserska-boxer.jpg</picture>
@@ -21603,7 +21603,7 @@
     <vendorCode>56359</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>201</quantity_in_stock>
+    <quantity_in_stock>200</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Матеріал">Бітум</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
@@ -21660,7 +21660,7 @@
   </offer>
 <offer id="1539857044" available="false">
     <url>https://ukrizol.xyz/ua/p1539857044-grusha-bokserska-boxer.html</url>
-    <price>2068</price>
+    <price>2233</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
@@ -21686,7 +21686,7 @@
   </offer>
   <offer id="1540494095" available="true">
     <url>https://ukrizol.xyz/ua/p1540494095-grusha-bokserska-boxer.html</url>
-    <price>1798</price>
+    <price>1870</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/3530361382_grusha-bokserska-boxer.jpg</picture>
@@ -22058,7 +22058,7 @@
     <vendorCode>163102</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>42</quantity_in_stock>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
     <param name="Стан">Новий</param>
@@ -44690,7 +44690,7 @@
     <vendorCode>56440</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>234</quantity_in_stock>
+    <quantity_in_stock>224</quantity_in_stock>
     <param name="Вага" unit="кг">0.77</param>
     <param name="Довжина листа" unit="см">37</param>
     <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Пол багажника</param>
@@ -48366,7 +48366,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>213</quantity_in_stock>
+    <quantity_in_stock>189</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -49941,7 +49941,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>65</quantity_in_stock>
+    <quantity_in_stock>67</quantity_in_stock>
     <param name="Довжина" unit="м">35</param>
     <param name="Максимальна робоча температура" unit="град.">90</param>
     <param name="Мінімальна робоча температура" unit="град.">-40</param>
@@ -49953,7 +49953,7 @@
   </offer>
   <offer id="1586275944" available="true">
     <url>https://ukrizol.xyz/ua/p1586275944-grusha-nabivna-boxer.html</url>
-    <price>616</price>
+    <price>561</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/2932967444_grusha-nabivna-boxer.jpg</picture>
@@ -50955,7 +50955,7 @@
     <vendorCode>КФ18006008К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Матеріал">Пінополіетилен</param>
     <param name="Стан">Новий</param>
@@ -50978,7 +50978,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>236</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -53637,7 +53637,7 @@
     <vendorCode>832587</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>213</quantity_in_stock>
+    <quantity_in_stock>209</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -59096,7 +59096,7 @@
     <vendorCode>900057</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>360</quantity_in_stock>
+    <quantity_in_stock>354</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -63449,7 +63449,7 @@
     <vendorCode>163117</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -63496,7 +63496,7 @@
     <vendorCode>163116</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -65590,7 +65590,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Стеля автомобіля|Двері|Підлогу автомобіля|Стінки багажника</param>
     <param name="Товщина" unit="мм">2</param>
@@ -66117,7 +66117,7 @@
   </offer>
   <offer id="1761198835" available="false">
     <url>https://ukrizol.xyz/ua/p1761198835-grusha-bokserska-boxer.html</url>
-    <price>1529</price>
+    <price>1584</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/4260370959_grusha-bokserska-boxer.jpg</picture>
@@ -67620,7 +67620,7 @@
     <vendorCode>FT-1025/B-L</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Розмір">L</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Чорний</param>
@@ -67919,7 +67919,7 @@
     <param name="Форма поставляемого сырья" unit="">Лист</param>
     <param name="Ширина" unit="мм">1000.0</param>
   </offer>
-  <offer id="1806044167" available="false">
+  <offer id="1806044167" available="true">
     <url>https://ukrizol.xyz/ua/p1806044167-list-eva-eva.html</url>
     <price>891</price>
     <currencyId>UAH</currencyId>
@@ -67930,17 +67930,17 @@
     <picture>https://images.prom.ua/4482122425_list-eva-eva.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Лист ЕВА (EVA) коричневий 1400×1000х12 мм (автокилим, ромб)</name>
+    <name>Лист ЕВА (EVA) коричневий 1500×1000х12 мм (автокилим, ромб)</name>
     <vendorCode>832624</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Колір">Коричневий</param>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Высота" unit="см">12</param>
-    <param name="Длина" unit="м">1400</param>
-    <param name="Тип полимера" unit="">EVA</param>
-    <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Довжина" unit="мм">1500</param>
+    <param name="Колір">Коричневий</param>
     <param name="Материал" unit="">Резина</param>
+    <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Высота" unit="см">12</param>
+    <param name="Тип полимера" unit="">EVA</param>
   </offer>
   <offer id="1806046673" available="false">
     <url>https://ukrizol.xyz/ua/p1806046673-list-eva-eva.html</url>
@@ -68589,7 +68589,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>239</quantity_in_stock>
+    <quantity_in_stock>209</quantity_in_stock>
     <param name="Вага" unit="кг">0.95</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Капот|Дах|Підлогу автомобіля|Стеля автомобіля|Колісні арки|Пол багажника</param>
@@ -74815,7 +74815,7 @@
     <vendorCode>889022</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>472</quantity_in_stock>
+    <quantity_in_stock>484</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -75474,7 +75474,7 @@
   </offer>
   <offer id="1970067728" available="true">
     <url>https://ukrizol.xyz/ua/p1970067728-grusha-bokserska-boxer.html</url>
-    <price>1798</price>
+    <price>1870</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5158804095_grusha-bokserska-boxer.jpg</picture>
@@ -75526,7 +75526,7 @@
   </offer>
   <offer id="1970067730" available="false">
     <url>https://ukrizol.xyz/ua/p1970067730-grusha-bokserska-boxer.html</url>
-    <price>1798</price>
+    <price>1870</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5158794763_grusha-bokserska-boxer.jpg</picture>
@@ -77579,7 +77579,7 @@
   </offer>
   <offer id="2005551543" available="false">
     <url>https://ukrizol.xyz/ua/p2005551543-grusha-bokserska-boxer.html</url>
-    <price>1171</price>
+    <price>1210</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5158794763_grusha-bokserska-boxer.jpg</picture>
@@ -77602,7 +77602,7 @@
   </offer>
 <offer id="2005551544" available="true">
     <url>https://ukrizol.xyz/ua/p2005551544-grusha-bokserska-boxer.html</url>
-    <price>1353</price>
+    <price>1397</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5158794763_grusha-bokserska-boxer.jpg</picture>
@@ -78028,7 +78028,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889377</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>110</quantity_in_stock>
+    <quantity_in_stock>107</quantity_in_stock>
     <param name="Колір">Зелений</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Длина" unit="м">150.0</param>
@@ -78357,17 +78357,17 @@
     <picture>https://images.prom.ua/4482122425_list-eva-eva.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Лист ЕВА (EVA) коричневий 1400х1000х10 мм (автокилим, ромб)</name>
+    <name>Лист ЕВА (EVA) коричневий 1500х1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889390</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
-    <param name="Колір">Коричневий</param>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Высота" unit="см">10</param>
-    <param name="Длина" unit="м">1400</param>
-    <param name="Тип полимера" unit="">EVA</param>
-    <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Довжина" unit="мм">1500</param>
+    <param name="Колір">Коричневий</param>
     <param name="Материал" unit="">Резина</param>
+    <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Высота" unit="см">10</param>
+    <param name="Тип полимера" unit="">EVA</param>
   </offer>
   <offer id="2030682740" available="false">
     <url>https://ukrizol.xyz/ua/p2030682740-trubna-izolyatsiya-ukrizol.html</url>
@@ -78416,7 +78416,7 @@
     <vendorCode>889385</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1141</quantity_in_stock>
+    <quantity_in_stock>1143</quantity_in_stock>
     <param name="Ширина" unit="мм">1010</param>
     <param name="Довжина" unit="м">20</param>
     <param name="Армована фольга">Так</param>
@@ -78486,7 +78486,7 @@
     <vendorCode>889395</vendorCode>
     <country_of_origin>Польща</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>63</quantity_in_stock>
     <param name="Консистенція">Аерозоль</param>
     <param name="Об`єм" unit="мл">500</param>
   </offer>
@@ -79265,7 +79265,7 @@
     <vendorCode>889204</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Розмір">M</param>
@@ -79441,7 +79441,7 @@
     <vendorCode>889347</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Форма">Гнута</param>
     <param name="Колір">Синій</param>
@@ -83502,7 +83502,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2058077937" available="false">
+  <offer id="2058077937" available="true">
     <url>https://ukrizol.xyz/ua/p2058077937-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -83513,7 +83513,7 @@
     <name>Лист ЕВА (EVA) чорний 1400х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889409</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -83522,7 +83522,7 @@
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
   </offer>
-  <offer id="2058077938" available="false">
+  <offer id="2058077938" available="true">
     <url>https://ukrizol.xyz/ua/p2058077938-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -83533,7 +83533,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 1400×1000х10 мм (автокилим, сота)</name>
     <vendorCode>889408</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
     <param name="Высота" unit="см">10</param>
@@ -84622,7 +84622,7 @@
     <vendorCode>889441</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>215</quantity_in_stock>
+    <quantity_in_stock>217</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -84654,7 +84654,7 @@
   </offer>
   <offer id="2088320516" available="true">
     <url>https://ukrizol.xyz/ua/p2088320516-grusha-bokserska-boxer.html</url>
-    <price>539</price>
+    <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5389675073_grusha-bokserska-boxer.jpg</picture>
@@ -84705,7 +84705,7 @@
   </offer>
   <offer id="2088437610" available="true">
     <url>https://ukrizol.xyz/ua/p2088437610-grusha-bokserska-boxer.html</url>
-    <price>396</price>
+    <price>412</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5389690845_grusha-bokserska-boxer.jpg</picture>
@@ -84729,7 +84729,7 @@
   </offer>
   <offer id="2088437611" available="true">
     <url>https://ukrizol.xyz/ua/p2088437611-grusha-bokserska-boxer.html</url>
-    <price>396</price>
+    <price>412</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/5389692958_grusha-bokserska-boxer.jpg</picture>
@@ -86878,7 +86878,7 @@
     <vendorCode>60/32П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>318</quantity_in_stock>
+    <quantity_in_stock>315</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -86909,7 +86909,7 @@
     <vendorCode>901022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>71</quantity_in_stock>
+    <quantity_in_stock>67</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -102895,7 +102895,7 @@
     <vendorCode>889502</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -103279,7 +103279,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Товщина" unit="мм">20</param>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2.0</param>
@@ -104348,7 +104348,7 @@
     <vendorCode>9000519</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>944</quantity_in_stock>
+    <quantity_in_stock>594</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -104597,7 +104597,7 @@
     <vendorCode>9002019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>95</quantity_in_stock>
+    <quantity_in_stock>89</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -104674,7 +104674,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="2292946160" available="false">
+  <offer id="2292946160" available="true">
     <url>https://ukrizol.xyz/ua/p2292946160-gazospinenij-polietilen-ukrizol.html</url>
     <price>1024</price>
     <currencyId>UAH</currencyId>
@@ -104687,7 +104687,7 @@
     <vendorCode>9005019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -104717,7 +104717,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -105598,7 +105598,7 @@
   </offer>
   <offer id="2328217259" available="true">
     <url>https://ukrizol.xyz/ua/p2328217259-grusha-nabivna-boxer.html</url>
-    <price>577</price>
+    <price>638</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/6554347514_grusha-nabivna-boxer.jpg</picture>
@@ -105655,7 +105655,7 @@
   </offer>
   <offer id="2328217261" available="true">
     <url>https://ukrizol.xyz/ua/p2328217261-grusha-nabivna-boxer.html</url>
-    <price>451</price>
+    <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/6554347514_grusha-nabivna-boxer.jpg</picture>
@@ -107319,7 +107319,7 @@
     <vendorCode>57097</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>191</quantity_in_stock>
+    <quantity_in_stock>183</quantity_in_stock>
     <param name="Вага" unit="кг">0.64</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Колісні арки|Пол багажника</param>
@@ -112952,7 +112952,7 @@
   </offer>
   <offer id="2642800176" available="false">
     <url>https://ukrizol.xyz/ua/p2642800176-grusha-bokserska-boxer.html</url>
-    <price>863</price>
+    <price>726</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/6889475034_grusha-bokserska-boxer.jpg</picture>
@@ -112974,6 +112974,32 @@
     <param name="Колір">Чорний</param>
     <param name="Кріплення">1 болт</param>
     <param name="Матеріал">Штучна шкіра</param>
+    <param name="Тип">Груша</param>
+  </offer>
+  <offer id="2642800177" available="true">
+    <url>https://ukrizol.xyz/ua/p2642800177-grusha-bokserska-boxer.html</url>
+    <price>2145</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94947436</categoryId>
+    <picture>https://images.prom.ua/2936832989_grusha-bokserska-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3077869764_grusha-bokserska-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3077875649_grusha-bokserska-boxer.jpg</picture>
+    <picture>https://images.prom.ua/3077875648_grusha-bokserska-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Груша боксерська BOXER Класик 1,6м кирза</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>1002-002</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>3</quantity_in_stock>
+    <param name="Вага" unit="кг">30</param>
+    <param name="Висота" unit="см">160</param>
+    <param name="Вікова група">Доросла</param>
+    <param name="Діаметр" unit="см">33</param>
+    <param name="Колір">Чорний</param>
+    <param name="Кріплення">4 болта</param>
+    <param name="Матеріал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
   <offer id="2643745731" available="true">
@@ -113065,7 +113091,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 1500×1000х10 мм (автокилим, сота)</name>
     <vendorCode>889620</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -113118,7 +113144,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889621</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
     <param name="Высота" unit="см">10</param>
@@ -113957,7 +113983,7 @@
   </offer>
   <offer id="2694938848" available="true">
     <url>https://ukrizol.xyz/ua/p2694938848-grusha-bokserska-boxer.html</url>
-    <price>1892</price>
+    <price>1958</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/6889594443_grusha-bokserska-boxer.jpg</picture>
@@ -114742,7 +114768,7 @@
     <name>Армована клейка стрічка, армований скотч 50 мм х 50 м.п. гідроізоляційний жовта</name>
     <vendorCode>889658</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Армований скотч">Так</param>
@@ -114891,7 +114917,7 @@
     <vendorCode>57720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Об`єм" unit="л">0.5</param>
   </offer>
@@ -115044,7 +115070,7 @@
     <vendor>Izocam</vendor>
     <vendorCode>889664</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Вид мінеральної вати">Скловата</param>
     <param name="Довжина" unit="мм">10000</param>
     <param name="Покриття">Фольгований</param>
@@ -115329,7 +115355,7 @@
     <vendorCode>889671</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вага" unit="кг">0.75</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Синій</param>
@@ -115351,7 +115377,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>919</quantity_in_stock>
+    <quantity_in_stock>916</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">2</param>
@@ -116188,7 +116214,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Матеріал">Гума</param>
     <param name="Колір">Чорний</param>
     <param name="Довжина" unit="мм">1500</param>
@@ -117609,7 +117635,7 @@
     <vendorCode>500061У</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1405</quantity_in_stock>
+    <quantity_in_stock>1400</quantity_in_stock>
     <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -118481,6 +118507,18 @@
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Помаранчевий</param>
     <param name="Матеріал">PLA</param>
+  </offer>
+  <offer id="2911851009" available="true">
+    <url>https://ukrizol.xyz/ua/p2911851009-avtokilim-eva-chornij.html</url>
+    <price>808</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756341</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Автокилим ЕВА чорний 1400х1000х10 мм (СОТА) УЦІНКА</name>
+    <vendorCode>00002544</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>1</quantity_in_stock>
   </offer>
 
 

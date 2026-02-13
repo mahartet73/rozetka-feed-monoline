@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-12 17:00">
+<yml_catalog date="2026-02-13 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.33498" />
+      <currency id="USD" rate="47.2923" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.32858" />
+      <currency id="EUR" rate="56.13828" />
     </currencies>
     <categories>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
@@ -420,7 +420,7 @@
     <vendorCode>20104</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
@@ -982,7 +982,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>112</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1412,7 +1412,7 @@
     <vendorCode>62756</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -4694,7 +4694,7 @@
     <vendorCode>9000212</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>108</quantity_in_stock>
+    <quantity_in_stock>107</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -4859,7 +4859,7 @@
     <vendorCode>900101</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>327</quantity_in_stock>
+    <quantity_in_stock>302</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -7974,7 +7974,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2211</quantity_in_stock>
+    <quantity_in_stock>2226</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8134,7 +8134,7 @@
     <vendorCode>500322</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2224</quantity_in_stock>
+    <quantity_in_stock>2175</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9281,7 +9281,7 @@
   </offer>
   <offer id="1210380268" available="true">
     <url>https://ukrizol.xyz/ua/p1210380268-kauchukova-izolyatsiya-dlya.html</url>
-    <price>15</price>
+    <price>19</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -9383,7 +9383,7 @@
   </offer>
   <offer id="1210407910" available="false">
     <url>https://ukrizol.xyz/ua/p1210407910-kauchukova-izolyatsiya-dlya.html</url>
-    <price>20</price>
+    <price>24</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -9417,7 +9417,7 @@
   </offer>
   <offer id="1210409374" available="true">
     <url>https://ukrizol.xyz/ua/p1210409374-kauchukova-izolyatsiya-dlya.html</url>
-    <price>23</price>
+    <price>34</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -9608,7 +9608,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>646</quantity_in_stock>
+    <quantity_in_stock>606</quantity_in_stock>
     <param name="Довжина" unit="мм">25</param>
     <param name="Колір">Чорний</param>
     <param name="Форма поставки матеріалу">Штука</param>
@@ -10406,7 +10406,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1530</quantity_in_stock>
+    <quantity_in_stock>1524</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11500,7 +11500,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>823</quantity_in_stock>
+    <quantity_in_stock>825</quantity_in_stock>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
     <param name="Эластичность материала" unit="">Да</param>
@@ -11816,7 +11816,7 @@
   </offer>
   <offer id="1334291634" available="true">
     <url>https://ukrizol.xyz/ua/p1334291634-kauchukova-izolyatsiya-dlya.html</url>
-    <price>51</price>
+    <price>48</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -11884,7 +11884,7 @@
   </offer>
   <offer id="1334304879" available="true">
     <url>https://ukrizol.xyz/ua/p1334304879-kauchukova-izolyatsiya-dlya.html</url>
-    <price>28</price>
+    <price>29</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -12288,7 +12288,7 @@
   </offer>
   <offer id="1351038179" available="true">
     <url>https://ukrizol.xyz/ua/p1351038179-kauchukova-izolyatsiya-dlya.html</url>
-    <price>64</price>
+    <price>69</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -15387,7 +15387,7 @@
     <vendorCode>2024-02Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вага" unit="oz">10</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -15912,7 +15912,7 @@
     <vendorCode>2024-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -19098,7 +19098,7 @@
     <vendorCode>901051100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>871</quantity_in_stock>
+    <quantity_in_stock>851</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -19315,7 +19315,7 @@
   </offer>
   <offer id="1436163132" available="true">
     <url>https://ukrizol.xyz/ua/p1436163132-kauchukova-izolyatsiya-dlya.html</url>
-    <price>35</price>
+    <price>36</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19417,7 +19417,7 @@
   </offer>
   <offer id="1436174609" available="true">
     <url>https://ukrizol.xyz/ua/p1436174609-kauchukova-izolyatsiya-dlya.html</url>
-    <price>34</price>
+    <price>39</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19451,7 +19451,7 @@
   </offer>
   <offer id="1436178125" available="true">
     <url>https://ukrizol.xyz/ua/p1436178125-kauchukova-izolyatsiya-dlya.html</url>
-    <price>41</price>
+    <price>44</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19485,7 +19485,7 @@
   </offer>
   <offer id="1436178601" available="true">
     <url>https://ukrizol.xyz/ua/p1436178601-kauchukova-izolyatsiya-dlya.html</url>
-    <price>49</price>
+    <price>57</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19519,7 +19519,7 @@
   </offer>
   <offer id="1436179161" available="true">
     <url>https://ukrizol.xyz/ua/p1436179161-kauchukova-izolyatsiya-dlya.html</url>
-    <price>82</price>
+    <price>94</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19553,7 +19553,7 @@
   </offer>
   <offer id="1436179448" available="true">
     <url>https://ukrizol.xyz/ua/p1436179448-kauchukova-izolyatsiya-dlya.html</url>
-    <price>92</price>
+    <price>99</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19587,7 +19587,7 @@
   </offer>
   <offer id="1436182446" available="true">
     <url>https://ukrizol.xyz/ua/p1436182446-kauchukova-izolyatsiya-dlya.html</url>
-    <price>107</price>
+    <price>115</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19621,7 +19621,7 @@
   </offer>
   <offer id="1436183261" available="true">
     <url>https://ukrizol.xyz/ua/p1436183261-kauchukova-izolyatsiya-dlya.html</url>
-    <price>119</price>
+    <price>134</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19689,7 +19689,7 @@
   </offer>
   <offer id="1436184999" available="true">
     <url>https://ukrizol.xyz/ua/p1436184999-kauchukova-izolyatsiya-dlya.html</url>
-    <price>110</price>
+    <price>134</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19723,7 +19723,7 @@
   </offer>
   <offer id="1436185517" available="true">
     <url>https://ukrizol.xyz/ua/p1436185517-kauchukova-izolyatsiya-dlya.html</url>
-    <price>150</price>
+    <price>199</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19757,7 +19757,7 @@
   </offer>
   <offer id="1436189662" available="true">
     <url>https://ukrizol.xyz/ua/p1436189662-kauchukova-izolyatsiya-dlya.html</url>
-    <price>57</price>
+    <price>63</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19791,7 +19791,7 @@
   </offer>
   <offer id="1436356499" available="true">
     <url>https://ukrizol.xyz/ua/p1436356499-kauchukova-izolyatsiya-dlya.html</url>
-    <price>64</price>
+    <price>70</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19825,7 +19825,7 @@
   </offer>
   <offer id="1436360640" available="true">
     <url>https://ukrizol.xyz/ua/p1436360640-kauchukova-izolyatsiya-dlya.html</url>
-    <price>68</price>
+    <price>77</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19859,7 +19859,7 @@
   </offer>
   <offer id="1436360931" available="true">
     <url>https://ukrizol.xyz/ua/p1436360931-kauchukova-izolyatsiya-dlya.html</url>
-    <price>77</price>
+    <price>88</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19893,7 +19893,7 @@
   </offer>
   <offer id="1436361237" available="true">
     <url>https://ukrizol.xyz/ua/p1436361237-kauchukova-izolyatsiya-dlya.html</url>
-    <price>90</price>
+    <price>102</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19927,7 +19927,7 @@
   </offer>
   <offer id="1436361567" available="true">
     <url>https://ukrizol.xyz/ua/p1436361567-kauchukova-izolyatsiya-dlya.html</url>
-    <price>96</price>
+    <price>111</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19961,7 +19961,7 @@
   </offer>
   <offer id="1436361982" available="true">
     <url>https://ukrizol.xyz/ua/p1436361982-kauchukova-izolyatsiya-dlya.html</url>
-    <price>125</price>
+    <price>128</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -19995,7 +19995,7 @@
   </offer>
   <offer id="1436362368" available="true">
     <url>https://ukrizol.xyz/ua/p1436362368-kauchukova-izolyatsiya-dlya.html</url>
-    <price>129</price>
+    <price>147</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -20029,7 +20029,7 @@
   </offer>
   <offer id="1436362713" available="true">
     <url>https://ukrizol.xyz/ua/p1436362713-kauchukova-izolyatsiya-dlya.html</url>
-    <price>198</price>
+    <price>205</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -20818,7 +20818,7 @@
   </offer>
   <offer id="1489182535" available="true">
     <url>https://ukrizol.xyz/ua/p1489182535-kauchukova-izolyatsiya-dlya.html</url>
-    <price>46</price>
+    <price>55</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -21539,7 +21539,7 @@
   </offer>
   <offer id="1530177478" available="true">
     <url>https://ukrizol.xyz/ua/p1530177478-kauchukova-izolyatsiya-dlya.html</url>
-    <price>41</price>
+    <price>42</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -32284,7 +32284,7 @@
     <vendorCode>ППУ108/40ФП</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>178</quantity_in_stock>
+    <quantity_in_stock>164</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">108</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -45161,7 +45161,7 @@
     <vendorCode>369853</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Довжина" unit="см">300</param>
     <param name="Кількість">2</param>
     <param name="Матеріал">Бавовна</param>
@@ -45182,7 +45182,7 @@
     <vendorCode>369854</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Довжина" unit="см">300</param>
     <param name="Кількість">2</param>
     <param name="Матеріал">Бавовна</param>
@@ -45535,7 +45535,7 @@
     <vendorCode>149545</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Конструкція">Розбірна</param>
     <param name="Максимальна вага користувача" unit="кг">160</param>
     <param name="Призначення">Домашнє</param>
@@ -52638,7 +52638,7 @@
   </offer>
   <offer id="1641406332" available="true">
     <url>https://ukrizol.xyz/ua/p1641406332-kauchukova-izolyatsiya-dlya.html</url>
-    <price>18</price>
+    <price>23</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52818,7 +52818,7 @@
   </offer>
   <offer id="1641844664" available="true">
     <url>https://ukrizol.xyz/ua/p1641844664-kauchukova-izolyatsiya-dlya.html</url>
-    <price>253</price>
+    <price>322</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52852,7 +52852,7 @@
   </offer>
   <offer id="1641846173" available="true">
     <url>https://ukrizol.xyz/ua/p1641846173-kauchukova-izolyatsiya-dlya.html</url>
-    <price>253</price>
+    <price>322</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52886,7 +52886,7 @@
   </offer>
   <offer id="1641847596" available="true">
     <url>https://ukrizol.xyz/ua/p1641847596-kauchukova-izolyatsiya-dlya.html</url>
-    <price>344</price>
+    <price>379</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52920,7 +52920,7 @@
   </offer>
   <offer id="1641848930" available="true">
     <url>https://ukrizol.xyz/ua/p1641848930-kauchukova-izolyatsiya-dlya.html</url>
-    <price>99</price>
+    <price>105</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52954,7 +52954,7 @@
   </offer>
   <offer id="1641850222" available="true">
     <url>https://ukrizol.xyz/ua/p1641850222-kauchukova-izolyatsiya-dlya.html</url>
-    <price>107</price>
+    <price>114</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -52988,7 +52988,7 @@
   </offer>
   <offer id="1641851712" available="true">
     <url>https://ukrizol.xyz/ua/p1641851712-kauchukova-izolyatsiya-dlya.html</url>
-    <price>116</price>
+    <price>126</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53022,7 +53022,7 @@
   </offer>
   <offer id="1641853768" available="true">
     <url>https://ukrizol.xyz/ua/p1641853768-kauchukova-izolyatsiya-dlya.html</url>
-    <price>140</price>
+    <price>146</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53056,7 +53056,7 @@
   </offer>
   <offer id="1641855069" available="true">
     <url>https://ukrizol.xyz/ua/p1641855069-kauchukova-izolyatsiya-dlya.html</url>
-    <price>160</price>
+    <price>165</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53090,7 +53090,7 @@
   </offer>
   <offer id="1641856522" available="true">
     <url>https://ukrizol.xyz/ua/p1641856522-kauchukova-izolyatsiya-dlya.html</url>
-    <price>174</price>
+    <price>188</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53124,7 +53124,7 @@
   </offer>
   <offer id="1641857329" available="true">
     <url>https://ukrizol.xyz/ua/p1641857329-kauchukova-izolyatsiya-dlya.html</url>
-    <price>185</price>
+    <price>218</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53158,7 +53158,7 @@
   </offer>
   <offer id="1641857907" available="true">
     <url>https://ukrizol.xyz/ua/p1641857907-kauchukova-izolyatsiya-dlya.html</url>
-    <price>204</price>
+    <price>289</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53192,7 +53192,7 @@
   </offer>
   <offer id="1641858488" available="true">
     <url>https://ukrizol.xyz/ua/p1641858488-kauchukova-izolyatsiya-dlya.html</url>
-    <price>266</price>
+    <price>310</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53226,7 +53226,7 @@
   </offer>
   <offer id="1641859115" available="true">
     <url>https://ukrizol.xyz/ua/p1641859115-kauchukova-izolyatsiya-dlya.html</url>
-    <price>275</price>
+    <price>322</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -53321,7 +53321,7 @@
     <vendorCode>832582</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>89</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -56042,7 +56042,7 @@
   </offer>
   <offer id="1650807813" available="false">
     <url>https://ukrizol.xyz/ua/p1650807813-kauchukova-izolyatsiya-dlya.html</url>
-    <price>31</price>
+    <price>30</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56076,7 +56076,7 @@
   </offer>
   <offer id="1650868033" available="true">
     <url>https://ukrizol.xyz/ua/p1650868033-kauchukova-izolyatsiya-dlya.html</url>
-    <price>62</price>
+    <price>56</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56144,7 +56144,7 @@
   </offer>
   <offer id="1650871500" available="false">
     <url>https://ukrizol.xyz/ua/p1650871500-kauchukova-izolyatsiya-dlya.html</url>
-    <price>70</price>
+    <price>77</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56178,7 +56178,7 @@
   </offer>
   <offer id="1650872116" available="true">
     <url>https://ukrizol.xyz/ua/p1650872116-kauchukova-izolyatsiya-dlya.html</url>
-    <price>77</price>
+    <price>89</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56246,7 +56246,7 @@
   </offer>
   <offer id="1650872330" available="true">
     <url>https://ukrizol.xyz/ua/p1650872330-kauchukova-izolyatsiya-dlya.html</url>
-    <price>89</price>
+    <price>103</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56314,7 +56314,7 @@
   </offer>
   <offer id="1650873116" available="true">
     <url>https://ukrizol.xyz/ua/p1650873116-kauchukova-izolyatsiya-dlya.html</url>
-    <price>110</price>
+    <price>103</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56348,7 +56348,7 @@
   </offer>
   <offer id="1650873492" available="true">
     <url>https://ukrizol.xyz/ua/p1650873492-kauchukova-izolyatsiya-dlya.html</url>
-    <price>122</price>
+    <price>160</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56382,7 +56382,7 @@
   </offer>
   <offer id="1650873923" available="false">
     <url>https://ukrizol.xyz/ua/p1650873923-kauchukova-izolyatsiya-dlya.html</url>
-    <price>17</price>
+    <price>20</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56416,7 +56416,7 @@
   </offer>
   <offer id="1650878684" available="false">
     <url>https://ukrizol.xyz/ua/p1650878684-kauchukova-izolyatsiya-dlya.html</url>
-    <price>26</price>
+    <price>27</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56450,7 +56450,7 @@
   </offer>
   <offer id="1650880668" available="true">
     <url>https://ukrizol.xyz/ua/p1650880668-kauchukova-izolyatsiya-dlya.html</url>
-    <price>63</price>
+    <price>60</price>
     <currencyId>UAH</currencyId>
     <categoryId>98423702</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56518,7 +56518,7 @@
   </offer>
   <offer id="1650942488" available="true">
     <url>https://ukrizol.xyz/ua/p1650942488-kauchukova-izolyatsiya-dlya.html</url>
-    <price>26</price>
+    <price>31</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56552,7 +56552,7 @@
   </offer>
   <offer id="1650943033" available="false">
     <url>https://ukrizol.xyz/ua/p1650943033-kauchukova-izolyatsiya-dlya.html</url>
-    <price>29</price>
+    <price>36</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56586,7 +56586,7 @@
   </offer>
   <offer id="1650943574" available="true">
     <url>https://ukrizol.xyz/ua/p1650943574-kauchukova-izolyatsiya-dlya.html</url>
-    <price>30</price>
+    <price>33</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56620,7 +56620,7 @@
   </offer>
   <offer id="1650943946" available="false">
     <url>https://ukrizol.xyz/ua/p1650943946-kauchukova-izolyatsiya-dlya.html</url>
-    <price>31</price>
+    <price>33</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56654,7 +56654,7 @@
   </offer>
   <offer id="1650944017" available="true">
     <url>https://ukrizol.xyz/ua/p1650944017-kauchukova-izolyatsiya-dlya.html</url>
-    <price>37</price>
+    <price>40</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56688,7 +56688,7 @@
   </offer>
   <offer id="1650944084" available="true">
     <url>https://ukrizol.xyz/ua/p1650944084-kauchukova-izolyatsiya-dlya.html</url>
-    <price>72</price>
+    <price>78</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56790,7 +56790,7 @@
   </offer>
   <offer id="1650944641" available="false">
     <url>https://ukrizol.xyz/ua/p1650944641-kauchukova-izolyatsiya-dlya.html</url>
-    <price>96</price>
+    <price>106</price>
     <currencyId>UAH</currencyId>
     <categoryId>98429202</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56824,7 +56824,7 @@
   </offer>
   <offer id="1650952915" available="true">
     <url>https://ukrizol.xyz/ua/p1650952915-kauchukova-izolyatsiya-dlya.html</url>
-    <price>61</price>
+    <price>68</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56858,7 +56858,7 @@
   </offer>
   <offer id="1650954224" available="true">
     <url>https://ukrizol.xyz/ua/p1650954224-kauchukova-izolyatsiya-dlya.html</url>
-    <price>72</price>
+    <price>85</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56892,7 +56892,7 @@
   </offer>
   <offer id="1650955541" available="true">
     <url>https://ukrizol.xyz/ua/p1650955541-kauchukova-izolyatsiya-dlya.html</url>
-    <price>115</price>
+    <price>121</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56960,7 +56960,7 @@
   </offer>
   <offer id="1650957674" available="false">
     <url>https://ukrizol.xyz/ua/p1650957674-kauchukova-izolyatsiya-dlya.html</url>
-    <price>143</price>
+    <price>179</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -56994,7 +56994,7 @@
   </offer>
   <offer id="1650959009" available="true">
     <url>https://ukrizol.xyz/ua/p1650959009-kauchukova-izolyatsiya-dlya.html</url>
-    <price>154</price>
+    <price>178</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -57130,7 +57130,7 @@
   </offer>
   <offer id="1650964095" available="true">
     <url>https://ukrizol.xyz/ua/p1650964095-kauchukova-izolyatsiya-dlya.html</url>
-    <price>223</price>
+    <price>288</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -57198,7 +57198,7 @@
   </offer>
   <offer id="1650971469" available="true">
     <url>https://ukrizol.xyz/ua/p1650971469-kauchukova-izolyatsiya-dlya.html</url>
-    <price>114</price>
+    <price>122</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -57232,7 +57232,7 @@
   </offer>
   <offer id="1650971540" available="false">
     <url>https://ukrizol.xyz/ua/p1650971540-kauchukova-izolyatsiya-dlya.html</url>
-    <price>214</price>
+    <price>295</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916200</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -62153,7 +62153,7 @@
     <vendorCode>Н10010010К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Довжина" unit="см">100</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
     <param name="Стан">Новий</param>
@@ -67363,7 +67363,7 @@
     <vendorCode>FT-1025/B-L</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Розмір">L</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Чорний</param>
@@ -68968,7 +68968,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>209</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стінки багажника|Стеля автомобіля|Підлогу автомобіля|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -71698,7 +71698,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1869733299" available="true">
+  <offer id="1869733299" available="false">
     <url>https://ukrizol.xyz/ua/p1869733299-himichno-zshitij-spinenij.html</url>
     <price>190</price>
     <currencyId>UAH</currencyId>
@@ -71714,7 +71714,7 @@
     <vendorCode>889012</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -73012,7 +73012,7 @@
   </offer>
   <offer id="1910016462" available="false">
     <url>https://ukrizol.xyz/ua/p1910016462-skotch-strichka-pvh.html</url>
-    <price>132</price>
+    <price>126</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
     <picture>https://images.prom.ua/4744768677_skotch-strichka-pvh.jpg</picture>
@@ -73073,7 +73073,7 @@
   </offer>
   <offer id="1910016465" available="true">
     <url>https://ukrizol.xyz/ua/p1910016465-skotch-strichka-pvh.html</url>
-    <price>132</price>
+    <price>126</price>
     <currencyId>UAH</currencyId>
     <categoryId>89248459</categoryId>
     <picture>https://images.prom.ua/4744768678_skotch-strichka-pvh.jpg</picture>
@@ -73084,7 +73084,7 @@
     <vendorCode>889096</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>529</quantity_in_stock>
+    <quantity_in_stock>59</quantity_in_stock>
     <param name="Довжина" unit="м">22</param>
     <param name="Максимальна робоча температура" unit="град.">70</param>
     <param name="Мінімальна робоча температура" unit="град.">-20</param>
@@ -77990,7 +77990,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-0015-BL</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">1.5</param>
     <param name="Конструкція">Цілісна</param>
     <param name="Покриття млинців">Вініл</param>
@@ -80672,7 +80672,7 @@
     <vendorCode>889174</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="oz">8</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
@@ -81474,7 +81474,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XS</param>
@@ -84378,7 +84378,7 @@
     <vendorCode>889440</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>178</quantity_in_stock>
+    <quantity_in_stock>176</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -85550,7 +85550,7 @@
     <vendorCode>889451</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XS</param>
@@ -86390,7 +86390,7 @@
   </offer>
   <offer id="2136613486" available="true">
     <url>https://ukrizol.xyz/ua/p2136613486-kauchukova-izolyatsiya-dlya.html</url>
-    <price>309</price>
+    <price>332</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86424,7 +86424,7 @@
   </offer>
   <offer id="2136613487" available="true">
     <url>https://ukrizol.xyz/ua/p2136613487-kauchukova-izolyatsiya-dlya.html</url>
-    <price>556</price>
+    <price>589</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86458,7 +86458,7 @@
   </offer>
   <offer id="2136613488" available="true">
     <url>https://ukrizol.xyz/ua/p2136613488-kauchukova-izolyatsiya-dlya.html</url>
-    <price>187</price>
+    <price>244</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86492,7 +86492,7 @@
   </offer>
   <offer id="2136613489" available="true">
     <url>https://ukrizol.xyz/ua/p2136613489-kauchukova-izolyatsiya-dlya.html</url>
-    <price>216</price>
+    <price>264</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86526,7 +86526,7 @@
   </offer>
   <offer id="2136613490" available="true">
     <url>https://ukrizol.xyz/ua/p2136613490-kauchukova-izolyatsiya-dlya.html</url>
-    <price>394</price>
+    <price>459</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86560,7 +86560,7 @@
   </offer>
   <offer id="2136613491" available="true">
     <url>https://ukrizol.xyz/ua/p2136613491-kauchukova-izolyatsiya-dlya.html</url>
-    <price>181</price>
+    <price>218</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -86594,7 +86594,7 @@
   </offer>
   <offer id="2136613492" available="true">
     <url>https://ukrizol.xyz/ua/p2136613492-kauchukova-izolyatsiya-dlya.html</url>
-    <price>249</price>
+    <price>321</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -103730,7 +103730,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>448</quantity_in_stock>
+    <quantity_in_stock>413</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Ширина" unit="мм">60</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -104916,7 +104916,7 @@
   </offer>
   <offer id="2306749335" available="true">
     <url>https://ukrizol.xyz/ua/p2306749335-kauchukova-izolyatsiya-dlya.html</url>
-    <price>155</price>
+    <price>178</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/6174240959_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -107046,7 +107046,7 @@
     <vendorCode>57097</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>179</quantity_in_stock>
+    <quantity_in_stock>173</quantity_in_stock>
     <param name="Вага" unit="кг">0.64</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Колісні арки|Пол багажника</param>
@@ -107918,25 +107918,25 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Улучшение акустики помещений|Виброизоляция|Звукоизоляция</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков|Для стен</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Максимальная рабочая температура" unit="град.">120.0</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
-    <param name="Назначение материала" unit="">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Область применения" unit="">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
     <param name="Толщина" unit="">6.0</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="2437850646" available="false">
     <url>https://ukrizol.xyz/ua/p2437850646-spinenij-kauchuk-samokleyuchij.html</url>
@@ -108083,7 +108083,7 @@
     <vendorCode>889564У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -108145,24 +108145,24 @@
     <vendorCode>889566У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
-    <param name="Щільність" unit="кг/м3">55</param>
+    <param name="Щільність" unit="кг/м³">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для пола|Для инженерного оборудования|Для стен|Для каркасных конструкций|Для потолков</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">7</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">13</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Максимальная рабочая температура" unit="град.">120.0</param>
   </offer>
   <offer id="2437850658" available="false">
     <url>https://ukrizol.xyz/ua/p2437850658-spinenij-kauchuk-samokleyuchij.html</url>
@@ -108904,7 +108904,7 @@
     <vendorCode>11468</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Довжина" unit="см">25</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -109904,7 +109904,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-1953</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Довжина" unit="см">120</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -109948,7 +109948,7 @@
     <vendorCode>321209</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>85</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -111730,7 +111730,7 @@
   </offer>
   <offer id="2602639914" available="true">
     <url>https://ukrizol.xyz/ua/p2602639914-kauchukova-izolyatsiya-dlya.html</url>
-    <price>57</price>
+    <price>64</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -111764,7 +111764,7 @@
   </offer>
   <offer id="2602639915" available="true">
     <url>https://ukrizol.xyz/ua/p2602639915-kauchukova-izolyatsiya-dlya.html</url>
-    <price>40</price>
+    <price>59</price>
     <currencyId>UAH</currencyId>
     <categoryId>98466498</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -111818,7 +111818,7 @@
   </offer>
   <offer id="2602639917" available="false">
     <url>https://ukrizol.xyz/ua/p2602639917-kauchukova-izolyatsiya-dlya.html</url>
-    <price>162</price>
+    <price>184</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -111852,7 +111852,7 @@
   </offer>
   <offer id="2602639918" available="false">
     <url>https://ukrizol.xyz/ua/p2602639918-kauchukova-izolyatsiya-dlya.html</url>
-    <price>146</price>
+    <price>160</price>
     <currencyId>UAH</currencyId>
     <categoryId>108916201</categoryId>
     <picture>https://images.prom.ua/2856710912_kauchukova-izolyatsiya-dlya.jpg</picture>
@@ -115094,7 +115094,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>916</quantity_in_stock>
+    <quantity_in_stock>904</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">2</param>
@@ -115122,7 +115122,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>638</quantity_in_stock>
+    <quantity_in_stock>635</quantity_in_stock>
     <param name="Застосування матеріалу">Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -115931,7 +115931,7 @@
     <name>Лист ЕВА (EVA) чорний 1500х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Матеріал">Гума</param>
     <param name="Колір">Чорний</param>
     <param name="Довжина" unit="мм">1500</param>
@@ -116425,7 +116425,7 @@
     <vendorCode>EF-1818-R</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">EVA піна</param>
     <param name="Стан">Новий</param>
@@ -116596,7 +116596,7 @@
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
-  <offer id="2848202422" available="false">
+  <offer id="2848202422" available="true">
     <url>https://ukrizol.xyz/ua/p2848202422-kauchukova-zvukoizolyatsijna-strichka.html</url>
     <price>374</price>
     <currencyId>UAH</currencyId>
@@ -116612,7 +116612,7 @@
     <vendorCode>910010</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
@@ -118224,16 +118224,24 @@
     <param name="Матеріал">PLA</param>
   </offer>
   <offer id="2911851009" available="true">
-    <url>https://ukrizol.xyz/ua/p2911851009-avtokilim-eva-chornij.html</url>
+    <url>https://ukrizol.xyz/ua/p2911851009-list-eva-eva.html</url>
     <price>808</price>
     <currencyId>UAH</currencyId>
     <categoryId>121069509</categoryId>
+    <picture>https://images.prom.ua/5276415799_list-eva-eva.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Автокилим ЕВА чорний 1400х1000х10 мм (СОТА) УЦІНКА</name>
-    <vendorCode>00002544</vendorCode>
+    <name>Лист ЕВА (EVA) чорний 1400х1000х10 мм (автокилим, сота) УЦІНКА</name>
+    <vendorCode>889753</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
+    <param name="Колір">Чорний</param>
+    <param name="Матеріал">Гума</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Высота" unit="см">10</param>
+    <param name="Длина" unit="м">1400</param>
+    <param name="Тип полимера" unit="">EVA</param>
+    <param name="Форма поставляемого сырья" unit="">Лист</param>
   </offer>
   <offer id="2913194260" available="false">
     <url>https://ukrizol.xyz/ua/p2913194260-ekstrudovanij-pinopolistirol-1200h600h20.html</url>
@@ -118338,6 +118346,19 @@
     <param name="Ширина" unit="мм">585</param>
     <param name="Довжина" unit="мм">1185</param>
     <param name="Количество в упаковке, шт" unit="">10</param>
+  </offer>
+  <offer id="2914405771" available="true">
+    <url>https://ukrizol.xyz/ua/p2914405771-skotch-strichka-pvh.html</url>
+    <price>132</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756413</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Скотч, стрічка пвх (pvc) 100 мм х 25 м.п. білий</name>
+    <vendor>Onefleх</vendor>
+    <vendorCode>00002551</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>455</quantity_in_stock>
   </offer>
 
 

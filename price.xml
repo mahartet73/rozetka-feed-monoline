@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-21 17:00">
+<yml_catalog date="2026-02-22 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -982,7 +982,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>100</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1470,7 +1470,7 @@
     <vendorCode>62759</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -68217,7 +68217,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>203</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Стенки багажника|Кришка багажника|Двери|Дверні панелі|Капот|Дах|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
@@ -103103,7 +103103,7 @@
     <vendorCode>889512</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2.0</param>
     <param name="Тип" unit="">Шумоизоляция</param>
@@ -109893,7 +109893,7 @@
     <param name="Колір">Коричневий</param>
     <param name="Ширина" unit="см">61</param>
   </offer>
-  <offer id="2537446217" available="true">
+  <offer id="2537446217" available="false">
     <url>https://ukrizol.xyz/ua/p2537446217-ortopedichnij-masazhnij-kilimok.html</url>
     <price>477</price>
     <currencyId>UAH</currencyId>
@@ -109907,7 +109907,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-1953</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Довжина" unit="см">120</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -110464,7 +110464,7 @@
     <vendorCode>2009-N1К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Довжина" unit="см">41</param>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>

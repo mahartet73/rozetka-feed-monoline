@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-27 17:00">
+<yml_catalog date="2026-02-28 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.52891" />
+      <currency id="USD" rate="47.40956" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.12684" />
+      <currency id="EUR" rate="55.95271" />
     </currencies>
     <categories>
       <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
@@ -9333,7 +9333,7 @@
     <vendorCode>08/9О</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>621</quantity_in_stock>
+    <quantity_in_stock>601</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -9795,7 +9795,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>93</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Колір">Чорний</param>
@@ -10460,7 +10460,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>200</quantity_in_stock>
+    <quantity_in_stock>199</quantity_in_stock>
     <param name="Вага" unit="кг">2.09</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11319,7 +11319,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>287</quantity_in_stock>
+    <quantity_in_stock>272</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Тип тканини">Замша</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
@@ -11501,7 +11501,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>769</quantity_in_stock>
+    <quantity_in_stock>765</quantity_in_stock>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
     <param name="Эластичность материала" unit="">Да</param>
@@ -14624,7 +14624,7 @@
     <vendorCode>1005-02</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вага" unit="кг">7</param>
     <param name="Висота" unit="см">75</param>
     <param name="Вікова група">Доросла</param>
@@ -15145,7 +15145,7 @@
     <vendorCode>2013-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Лапа</param>
     <param name="Форма">Гнута</param>
@@ -18151,7 +18151,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>138</quantity_in_stock>
     <param name="Максимальна вага" unit="кг">100</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Ланцюг для підвісу</param>
@@ -28431,7 +28431,7 @@
     <vendorCode>П63/40ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -46068,7 +46068,7 @@
     <param name="Размер" unit="">26 * 26</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="1577334833" available="false">
+  <offer id="1577334833" available="true">
     <url>https://ukrizol.xyz/ua/p1577334833-ortopedichnij-masazhnij-kilimok.html</url>
     <price>201</price>
     <currencyId>UAH</currencyId>
@@ -46087,7 +46087,7 @@
     <vendorCode>07787</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Довжина" unit="см">25</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -46259,7 +46259,7 @@
     <param name="Размер" unit="">26 * 26</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="1577334840" available="false">
+  <offer id="1577334840" available="true">
     <url>https://ukrizol.xyz/ua/p1577334840-ortopedichnij-masazhnij-kilimok.html</url>
     <price>201</price>
     <currencyId>UAH</currencyId>
@@ -46276,7 +46276,7 @@
     <vendorCode>09423</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Довжина" unit="см">25</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -47009,7 +47009,7 @@
     <param name="Размер в упаковке, см" unit="">13,5 х 13,5 х 32</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="1577334867" available="false">
+  <offer id="1577334867" available="true">
     <url>https://ukrizol.xyz/ua/p1577334867-ortopedichnij-masazhnij-kilimok.html</url>
     <price>201</price>
     <currencyId>UAH</currencyId>
@@ -47025,7 +47025,7 @@
     <vendorCode>10261</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Довжина" unit="см">25</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -62093,7 +62093,7 @@
     <vendorCode>Н10020010С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
     <param name="Стан">Новий</param>
@@ -73183,7 +73183,7 @@
     <vendorCode>889106</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>153</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -77764,7 +77764,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889377</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Колір">Зелений</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Длина" unit="м">150.0</param>
@@ -80897,7 +80897,7 @@
     <vendorCode>889173</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="oz">6</param>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Натуральна шкіра</param>
@@ -86580,7 +86580,7 @@
     <vendorCode>35/32П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>180</quantity_in_stock>
+    <quantity_in_stock>173</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -102722,7 +102722,7 @@
     <vendorCode>889506</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>429</quantity_in_stock>
+    <quantity_in_stock>425</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -103013,7 +103013,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2</param>
     <param name="Тип" unit="">Шумоизоляция</param>
@@ -106577,7 +106577,7 @@
     <vendorCode>11272</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">26</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -107161,7 +107161,7 @@
     <vendorCode>41027</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>114</quantity_in_stock>
+    <quantity_in_stock>111</quantity_in_stock>
     <param name="Вага" unit="кг">0.833</param>
     <param name="Довжина листа" unit="см">37</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -108009,7 +108009,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2437850648" available="false">
+  <offer id="2437850648" available="true">
     <url>https://ukrizol.xyz/ua/p2437850648-spinenij-kauchuk-samokleyuchij.html</url>
     <price>2173</price>
     <currencyId>UAH</currencyId>
@@ -108021,7 +108021,7 @@
     <vendorCode>889573У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">5</param>
     <param name="Щільність" unit="кг/м3">55</param>
@@ -117300,7 +117300,7 @@
     <vendorCode>889724</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Застосування матеріалу">Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>

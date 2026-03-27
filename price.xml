@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-26 17:00">
+<yml_catalog date="2026-03-27 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.25942" />
+      <currency id="USD" rate="48.2735" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.93753" />
+      <currency id="EUR" rate="55.67144" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -151,10 +151,6 @@
       <category id="130334824" parentId="130261512">Плато чавунне</category>
       <category id="130348777" parentId="130261512">Кришка-сковорода чавунна</category>
       <category id="130349214" parentId="130261512">Притиск чавунний</category>
-      <category id="130349255" parentId="130261512">Менажниці</category>
-      <category id="130357537" parentId="130261512">Дошки для нарізки та подачі</category>
-      <category id="130357891" parentId="130261512">Аксесуари для посуди</category>
-      <category id="146505387" parentId="130261512">Сковорідка алюмінієва</category>
       <category id="97788066" parentId="105605131">Гантелі</category>
       <category id="102655433" parentId="75989985">Килимки для фітнесу</category>
       <category id="105921690" parentId="105605131">Аквааеробіка</category>
@@ -169,28 +165,21 @@
       <category id="94947440" parentId="97788202">Захисна екіпіровка для єдиноборств</category>
       <category id="94947443" parentId="97788202">Капи,бинти</category>
       <category id="94947446" parentId="97788202">Пояс для кімоно</category>
-      <category id="94947448" parentId="94947437">Боксерські рукавички 8 унцій</category>
       <category id="94947449" parentId="94947437">Боксерські рукавички 10 унцій</category>
       <category id="94947450" parentId="94947437">Боксерські рукавиці 12 унцій</category>
       <category id="94947451" parentId="94947437">Рукавички для боксу 4 унції</category>
       <category id="94947452" parentId="94947437">Тренувальні, снарядні рукавички</category>
       <category id="94947453" parentId="94947437">Рукавички для єдиноборств</category>
-      <category id="94947454" parentId="94947437">Рукавички MMA</category>
       <category id="94947455" parentId="94947437">Накладки для єдиноборств</category>
       <category id="98020300" parentId="94947437">Боксерські рукавички 14 унцій</category>
       <category id="105224308" parentId="94947437">Боксерські рукавички 16 унцій</category>
-      <category id="105904860" parentId="75989985">Килимки туристичні, каремати</category>
       <category id="105181243" parentId="109345694">Килимки Пазл для дітей</category>
       <category id="105676661" parentId="75989985">Масажні килимки</category>
-      <category id="105859077" parentId="75989985">Сидушки туристичні</category>
       <category id="105889723" parentId="75989985">Аксесуари для килимків</category>
       <category id="84132040" parentId="75989985">Спортивні мати</category>
-      <category id="94947444" parentId="75989985">Велосипеди</category>
-      <category id="94947445" parentId="94947444">Аксесуари до велосипедів</category>
       <category id="98767005" parentId="75989985">Турніки</category>
       <category id="104947481" parentId="75989985">Обважнювачі для рук і ніг</category>
       <category id="105224309" parentId="75989985">Хулахуп, обруч для схуднення, талії, масажний</category>
-      <category id="97793857" parentId="105605131">Диск здоров'я Грація</category>
       <category id="105605131" parentId="75989985">Товари для фітнесу і аеробіки</category>
       <category id="105652635" parentId="105605131">Ролики для преса</category>
       <category id="111304934" parentId="105605131">Стійки для віджимань</category>
@@ -198,19 +187,11 @@
       <category id="112741855" parentId="89570715">Автомобільна шумоізоляція</category>
       <category id="112743094" parentId="89570715">Автомобільний килим, карпет, автолін</category>
       <category id="112743101" parentId="89570715">Автомобільна вібро-шумоізоляція</category>
-      <category id="111560669">Тактичне спорядження</category>
       <category id="148353601" parentId="148353593">PLA філамент</category>
       <category id="112741847" parentId="89570715">Автомобільна віброізоляція</category>
-      <category id="130277462" parentId="130261512">Сковорода чавунна без ручки</category>
-      <category id="129892612" parentId="122260377">Крепления, стойки для груш</category>
-      <category id="121069509" parentId="89570715">ЕВА автокаремат</category>
       <category id="135249027" parentId="120415998">Рулонные и листовые гидроизоляционные материалы</category>
-      <category id="141469697">BOXER-NEW</category>
-      <category id="148855694" parentId="141469697">Знято з виробництва</category>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
       <category id="138243656" parentId="122197666">Тяжелая атлетика</category>
-      <category id="84776005">Спінений (синтетичний) каучук</category>
-      <category id="72955321">Гідроізолюючі стрічки та шнури</category>
       <category id="109024182">Спінений етиленвінілацетат (матеріал EVA)</category>
       <category id="132071313">Металевий профіль</category>
       <category id="100113539">Екструдовані пінополістироли</category>
@@ -222,13 +203,11 @@
       <category id="103078088">Матеріали для шумоізоляції приміщень</category>
       <category id="86349089">Інструменти</category>
       <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
-      <category id="98423668" parentId="88505658">Каучукова ізоляція товщина 6 мм</category>
       <category id="98423702" parentId="88505658">Каучукова ізоляція товщина 9 мм</category>
       <category id="98429202" parentId="88505658">Каучукова ізоляція товщина 13 мм</category>
       <category id="98466498" parentId="88505658">Каучукова ізоляція товщина 19 мм</category>
       <category id="108916200" parentId="88505658">Каучукова ізоляція товщина 25 мм</category>
       <category id="142964119" parentId="122260377">Боксерские груши и снаряды</category>
-      <category id="148483984" parentId="148353593">PETG філамент</category>
       <category id="146756334" parentId="130262689">Комплектующие электрооборудования</category>
       <category id="146756335" parentId="130262703">Рубильники</category>
       <category id="146756336" parentId="130262690">Товары для детей, общее</category>
@@ -248,6 +227,52 @@
       <category id="146756350" parentId="130262715">Автомобильные герметики, клея</category>
       <category id="146756351" parentId="130262744">Ткани для обивки салона автомобилей</category>
       <category id="146756352" parentId="130262744">Материалы для вибро и шумоизоляции автомобиля</category>
+      <category id="146756390" parentId="122260377">Шлемы для бокса и единоборств</category>
+      <category id="146756391" parentId="122260377">Капы</category>
+      <category id="146756392" parentId="122260377">Боксерские бинты</category>
+      <category id="146756393" parentId="122260378">Фитболы</category>
+      <category id="146756394" parentId="122260378">Гимнастические диски</category>
+      <category id="146756395" parentId="122260378">Коврики для йоги и фитнеса</category>
+      <category id="146756396" parentId="122260378">Скакалки</category>
+      <category id="146756397" parentId="122260378">Гимнастические обручи</category>
+      <category id="146756398" parentId="122260378">Упоры для отжиманий</category>
+      <category id="146756399" parentId="122260379">Блоки и ролики для йоги</category>
+      <category id="146756400" parentId="138243656">Атлетические пояса</category>
+      <category id="146756401" parentId="138243656">Спортивные утяжелители</category>
+      <category id="146756402" parentId="138243656">Тяги для тренировки шеи</category>
+      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
+      <category id="146756404" parentId="122197667">Спортивные маты</category>
+      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
+      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
+      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
+      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
+      <category id="146756409" parentId="130262773">Минеральная вата</category>
+      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
+      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
+      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
+      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
+      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
+      <category id="130349255" parentId="130261512">Менажниці</category>
+      <category id="130357537" parentId="130261512">Дошки для нарізки та подачі</category>
+      <category id="130357891" parentId="130261512">Аксесуари для посуди</category>
+      <category id="146505387" parentId="130261512">Сковорідка алюмінієва</category>
+      <category id="94947448" parentId="94947437">Боксерські рукавички 8 унцій</category>
+      <category id="94947454" parentId="94947437">Рукавички MMA</category>
+      <category id="105904860" parentId="75989985">Килимки туристичні, каремати</category>
+      <category id="105859077" parentId="75989985">Сидушки туристичні</category>
+      <category id="94947444" parentId="75989985">Велосипеди</category>
+      <category id="94947445" parentId="94947444">Аксесуари до велосипедів</category>
+      <category id="97793857" parentId="105605131">Диск здоров'я Грація</category>
+      <category id="111560669">Тактичне спорядження</category>
+      <category id="130277462" parentId="130261512">Сковорода чавунна без ручки</category>
+      <category id="129892612" parentId="122260377">Крепления, стойки для груш</category>
+      <category id="121069509" parentId="89570715">ЕВА автокаремат</category>
+      <category id="141469697">BOXER-NEW</category>
+      <category id="148855694" parentId="141469697">Знято з виробництва</category>
+      <category id="84776005">Спінений (синтетичний) каучук</category>
+      <category id="72955321">Гідроізолюючі стрічки та шнури</category>
+      <category id="98423668" parentId="88505658">Каучукова ізоляція товщина 6 мм</category>
+      <category id="148483984" parentId="148353593">PETG філамент</category>
       <category id="146756353" parentId="130262717">Разгрузочные жилеты и плитоноски без плит</category>
       <category id="146756354" parentId="130262718">Емкости для хранения пищевых продуктов</category>
       <category id="146756355" parentId="132071256">Кухонные ковши и кокотницы</category>
@@ -284,31 +309,6 @@
       <category id="146756386" parentId="130262770">Доски для плавания, колобашки</category>
       <category id="146756388" parentId="122260377">Лапы, макивары ручные</category>
       <category id="146756389" parentId="122260377">Защита для боевых искусств</category>
-      <category id="146756390" parentId="122260377">Шлемы для бокса и единоборств</category>
-      <category id="146756391" parentId="122260377">Капы</category>
-      <category id="146756392" parentId="122260377">Боксерские бинты</category>
-      <category id="146756393" parentId="122260378">Фитболы</category>
-      <category id="146756394" parentId="122260378">Гимнастические диски</category>
-      <category id="146756395" parentId="122260378">Коврики для йоги и фитнеса</category>
-      <category id="146756396" parentId="122260378">Скакалки</category>
-      <category id="146756397" parentId="122260378">Гимнастические обручи</category>
-      <category id="146756398" parentId="122260378">Упоры для отжиманий</category>
-      <category id="146756399" parentId="122260379">Блоки и ролики для йоги</category>
-      <category id="146756400" parentId="138243656">Атлетические пояса</category>
-      <category id="146756401" parentId="138243656">Спортивные утяжелители</category>
-      <category id="146756402" parentId="138243656">Тяги для тренировки шеи</category>
-      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
-      <category id="146756404" parentId="122197667">Спортивные маты</category>
-      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
-      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
-      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
-      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
-      <category id="146756409" parentId="130262773">Минеральная вата</category>
-      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
-      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
-      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
-      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
-      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
     </categories>
   <offers>
 <offer id="1016523068" available="false">
@@ -344,7 +344,7 @@
   </offer>
   <offer id="1016523069" available="true">
     <url>https://ukrizol.xyz/ua/p1016523069-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>61</price>
+    <price>65</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589433_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -360,7 +360,7 @@
   </offer>
   <offer id="1016523070" available="false">
     <url>https://ukrizol.xyz/ua/p1016523070-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>124</price>
+    <price>131</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589434_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -376,7 +376,7 @@
   </offer>
   <offer id="1016523071" available="true">
     <url>https://ukrizol.xyz/ua/p1016523071-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>207</price>
+    <price>218</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589435_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -392,7 +392,7 @@
   </offer>
   <offer id="1016523072" available="true">
     <url>https://ukrizol.xyz/ua/p1016523072-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>259</price>
+    <price>273</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589436_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -408,7 +408,7 @@
   </offer>
   <offer id="1016523073" available="true">
     <url>https://ukrizol.xyz/ua/p1016523073-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>311</price>
+    <price>326</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589437_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -424,7 +424,7 @@
   </offer>
   <offer id="1016523074" available="true">
     <url>https://ukrizol.xyz/ua/p1016523074-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>391</price>
+    <price>410</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589438_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -440,7 +440,7 @@
   </offer>
   <offer id="1016523075" available="false">
     <url>https://ukrizol.xyz/ua/p1016523075-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>415</price>
+    <price>436</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589981_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -456,7 +456,7 @@
   </offer>
   <offer id="1016523076" available="false">
     <url>https://ukrizol.xyz/ua/p1016523076-skotch-alyuminiyevij-ukrizol.html</url>
-    <price>520</price>
+    <price>547</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/1911589982_skotch-alyuminiyevij-ukrizol.jpg</picture>
@@ -1178,7 +1178,7 @@
     <vendorCode>62722</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1914,7 +1914,7 @@
     <param name="Верхние покрытие" unit="">Фольга</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
-  <offer id="1016523128" available="true">
+  <offer id="1016523128" available="false">
     <url>https://ukrizol.xyz/ua/p1016523128-germetizuyucha-strichka-stk.html</url>
     <price>275</price>
     <currencyId>UAH</currencyId>
@@ -1933,7 +1933,7 @@
     <vendorCode>62135</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Довжина" unit="м">3</param>
     <param name="Призначення матеріалу">Для полов|Для кровли|Для стен|Для цоколей|Для подвалов|Для резервуаров|Для балконов|Для фасадов</param>
     <param name="Тип використання">Універсальний</param>
@@ -2124,7 +2124,7 @@
     <param name="Верхние покрытие" unit="">Нетканое полотно</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
-  <offer id="1016523135" available="true">
+  <offer id="1016523135" available="false">
     <url>https://ukrizol.xyz/ua/p1016523135-germetizuyucha-strichka-stk.html</url>
     <price>1233</price>
     <currencyId>UAH</currencyId>
@@ -2143,7 +2143,7 @@
     <vendorCode>62111</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для полов|Для кровли|Для стен|Для цоколей|Для подвалов|Для резервуаров|Для балконов|Для фасадов</param>
     <param name="Тип використання">Універсальний</param>
@@ -2266,7 +2266,7 @@
     <vendorCode>62012</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>185</quantity_in_stock>
+    <quantity_in_stock>184</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для доріг|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -2839,7 +2839,7 @@
   </offer>
   <offer id="1016523161" available="true">
     <url>https://ukrizol.xyz/ua/p1016523161-mastika-pokrivelna-stk.html</url>
-    <price>131</price>
+    <price>148</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/1911600576_mastika-pokrivelna-stk.jpg</picture>
@@ -2864,7 +2864,7 @@
   </offer>
   <offer id="1016523162" available="true">
     <url>https://ukrizol.xyz/ua/p1016523162-mastika-pokrivelna-stk.html</url>
-    <price>284</price>
+    <price>309</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/1911600577_mastika-pokrivelna-stk.jpg</picture>
@@ -2875,7 +2875,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>267</quantity_in_stock>
+    <quantity_in_stock>265</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -2890,7 +2890,7 @@
   </offer>
   <offer id="1016523163" available="true">
     <url>https://ukrizol.xyz/ua/p1016523163-mastika-pokrivelna-stk.html</url>
-    <price>741</price>
+    <price>754</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/6428935356_mastika-pokrivelna-stk.jpg</picture>
@@ -2919,7 +2919,7 @@
   </offer>
   <offer id="1016523164" available="false">
     <url>https://ukrizol.xyz/ua/p1016523164-mastika-pokrivelna-stk.html</url>
-    <price>1361</price>
+    <price>1506</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/6428935558_mastika-pokrivelna-stk.jpg</picture>
@@ -2947,7 +2947,7 @@
   </offer>
   <offer id="1016523165" available="true">
     <url>https://ukrizol.xyz/ua/p1016523165-prajmer-stk-butilkauchukovij.html</url>
-    <price>126</price>
+    <price>129</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/1911600925_prajmer-stk-butilkauchukovij.jpg</picture>
@@ -2973,7 +2973,7 @@
   </offer>
   <offer id="1016523166" available="true">
     <url>https://ukrizol.xyz/ua/p1016523166-prajmer-stk-butilkauchukovij.html</url>
-    <price>271</price>
+    <price>275</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/1911600926_prajmer-stk-butilkauchukovij.jpg</picture>
@@ -2999,7 +2999,7 @@
   </offer>
   <offer id="1016523167" available="false">
     <url>https://ukrizol.xyz/ua/p1016523167-prajmer-stk-butilkauchukovij.html</url>
-    <price>1321</price>
+    <price>1328</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/6428936229_prajmer-stk-butilkauchukovij.jpg</picture>
@@ -3024,7 +3024,7 @@
   </offer>
   <offer id="1016523168" available="true">
     <url>https://ukrizol.xyz/ua/p1016523168-prajmer-stk-butilkauchukovij.html</url>
-    <price>719</price>
+    <price>667</price>
     <currencyId>UAH</currencyId>
     <categoryId>72946682</categoryId>
     <picture>https://images.prom.ua/6428935830_prajmer-stk-butilkauchukovij.jpg</picture>
@@ -4665,7 +4665,7 @@
     <vendorCode>04455</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <param name="Верхнє покриття">Плівка</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Щільність" unit="г/м2">23</param>
@@ -4791,7 +4791,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1606</quantity_in_stock>
+    <quantity_in_stock>1556</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -7766,7 +7766,7 @@
     <vendorCode>500191</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>84</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -7932,7 +7932,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>829</quantity_in_stock>
+    <quantity_in_stock>827</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8132,7 +8132,7 @@
     <vendorCode>500322</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1000</quantity_in_stock>
+    <quantity_in_stock>970</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для стен|Для потолков|Для каркасных конструкций|Для пола|Для инженерного оборудования</param>
@@ -10377,7 +10377,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>550</quantity_in_stock>
+    <quantity_in_stock>575</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10770,7 +10770,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>91</quantity_in_stock>
+    <quantity_in_stock>90</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10849,7 +10849,7 @@
     <vendorCode>889038</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>379</quantity_in_stock>
+    <quantity_in_stock>378</quantity_in_stock>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Дах|Двери|Капот|Дверні панелі|Стенки багажника|Кришка багажника</param>
     <param name="Стан">Новий</param>
@@ -11319,7 +11319,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1053</quantity_in_stock>
+    <quantity_in_stock>1055</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
@@ -11503,7 +11503,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>957</quantity_in_stock>
+    <quantity_in_stock>955</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
@@ -13697,7 +13697,7 @@
   </offer>
   <offer id="1358320699" available="true">
     <url>https://ukrizol.xyz/ua/p1358320699-makivara-boxer-velika.html</url>
-    <price>1932</price>
+    <price>1485</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934419106_makivara-boxer-velika.jpg</picture>
@@ -13722,7 +13722,7 @@
   </offer>
   <offer id="1358320700" available="false" group_id="867149402">
     <url>https://ukrizol.xyz/ua/p1358320700-makivara-boxer-velika.html</url>
-    <price>2992</price>
+    <price>2808</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934436882_makivara-boxer-velika.jpg</picture>
@@ -13748,7 +13748,7 @@
   </offer>
   <offer id="1358320701" available="true">
     <url>https://ukrizol.xyz/ua/p1358320701-makivara-boxer-mala.html</url>
-    <price>1680</price>
+    <price>1648</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934436882_makivara-boxer-mala.jpg</picture>
@@ -13771,7 +13771,7 @@
   </offer>
   <offer id="1358320702" available="true">
     <url>https://ukrizol.xyz/ua/p1358320702-makivara-boxer-mala.html</url>
-    <price>966</price>
+    <price>908</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934419106_makivara-boxer-mala.jpg</picture>
@@ -13888,7 +13888,7 @@
   </offer>
   <offer id="1358320707" available="true">
     <url>https://ukrizol.xyz/ua/p1358320707-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/4502935290_bokserski-rukavichki-boxer.jpg</picture>
@@ -13911,7 +13911,7 @@
   </offer>
   <offer id="1358320708" available="true">
     <url>https://ukrizol.xyz/ua/p1358320708-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/2958330334_bokserski-rukavichki-boxer.jpg</picture>
@@ -13934,7 +13934,7 @@
   </offer>
   <offer id="1358320709" available="true">
     <url>https://ukrizol.xyz/ua/p1358320709-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/4502935290_bokserski-rukavichki-boxer.jpg</picture>
@@ -13957,7 +13957,7 @@
   </offer>
   <offer id="1358320710" available="true">
     <url>https://ukrizol.xyz/ua/p1358320710-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/4502935290_bokserski-rukavichki-boxer.jpg</picture>
@@ -14023,7 +14023,7 @@
   </offer>
   <offer id="1358320717" available="false">
     <url>https://ukrizol.xyz/ua/p1358320717-rukavichki-trenuvalni-boxer.html</url>
-    <price>483</price>
+    <price>498</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3016237206_rukavichki-trenuvalni-boxer.jpg</picture>
@@ -14243,7 +14243,7 @@
   </offer>
   <offer id="1358320728" available="true">
     <url>https://ukrizol.xyz/ua/p1358320728-lapi-bokserski-boxer.html</url>
-    <price>808</price>
+    <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6858421049_lapi-bokserski-boxer.jpg</picture>
@@ -14269,7 +14269,7 @@
   </offer>
   <offer id="1358320729" available="false">
     <url>https://ukrizol.xyz/ua/p1358320729-lapi-bokserski-boxer.html</url>
-    <price>1144</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2990920095_lapi-bokserski-boxer.jpg</picture>
@@ -14293,7 +14293,7 @@
   </offer>
   <offer id="1358320730" available="false">
     <url>https://ukrizol.xyz/ua/p1358320730-lapi-bokserski-boxer.html</url>
-    <price>619</price>
+    <price>651</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2991826720_lapi-bokserski-boxer.jpg</picture>
@@ -14341,7 +14341,7 @@
   </offer>
   <offer id="1358320732" available="true">
     <url>https://ukrizol.xyz/ua/p1358320732-lapi-kikbokserski-boxer.html</url>
-    <price>924</price>
+    <price>798</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/2993874057_lapi-kikbokserski-boxer.jpg</picture>
@@ -14836,7 +14836,7 @@
   </offer>
   <offer id="1358320755" available="true">
     <url>https://ukrizol.xyz/ua/p1358320755-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/2964082846_bokserski-rukavichki-boxer.jpg</picture>
@@ -14859,7 +14859,7 @@
   </offer>
   <offer id="1358320756" available="true">
     <url>https://ukrizol.xyz/ua/p1358320756-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
@@ -14882,7 +14882,7 @@
   </offer>
   <offer id="1358320757" available="true">
     <url>https://ukrizol.xyz/ua/p1358320757-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
@@ -14905,7 +14905,7 @@
   </offer>
   <offer id="1358320758" available="true">
     <url>https://ukrizol.xyz/ua/p1358320758-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2964082846_bokserski-rukavichki-boxer.jpg</picture>
@@ -14928,7 +14928,7 @@
   </offer>
   <offer id="1358320759" available="true">
     <url>https://ukrizol.xyz/ua/p1358320759-bokserski-rukavichki-boxer.html</url>
-    <price>477</price>
+    <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947451</categoryId>
     <picture>https://images.prom.ua/4502912820_bokserski-rukavichki-boxer.jpg</picture>
@@ -15235,7 +15235,7 @@
   </offer>
   <offer id="1358320860" available="true">
     <url>https://ukrizol.xyz/ua/p1358320860-lapi-bokserski-boxer.html</url>
-    <price>966</price>
+    <price>976</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/2993295348_lapi-bokserski-boxer.jpg</picture>
@@ -15256,7 +15256,7 @@
   </offer>
   <offer id="1358320861" available="true">
     <url>https://ukrizol.xyz/ua/p1358320861-lapi-bokserski-boxer.html</url>
-    <price>1407</price>
+    <price>1470</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6858411138_lapi-bokserski-boxer.jpg</picture>
@@ -15281,7 +15281,7 @@
   </offer>
   <offer id="1358320862" available="true">
     <url>https://ukrizol.xyz/ua/p1358320862-bokserski-rukavichki-boxer.html</url>
-    <price>1974</price>
+    <price>1785</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/3635410554_bokserski-rukavichki-boxer.jpg</picture>
@@ -15303,7 +15303,7 @@
   </offer>
   <offer id="1358320864" available="true">
     <url>https://ukrizol.xyz/ua/p1358320864-bokserski-rukavichki-boxer.html</url>
-    <price>1974</price>
+    <price>1785</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2967030131_bokserski-rukavichki-boxer.jpg</picture>
@@ -15326,7 +15326,7 @@
   </offer>
   <offer id="1358320865" available="false">
     <url>https://ukrizol.xyz/ua/p1358320865-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
@@ -15406,7 +15406,7 @@
   </offer>
   <offer id="1358320868" available="true">
     <url>https://ukrizol.xyz/ua/p1358320868-sholom-trenuvalnij-karate.html</url>
-    <price>1065</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
@@ -15431,7 +15431,7 @@
   </offer>
   <offer id="1358320883" available="true">
     <url>https://ukrizol.xyz/ua/p1358320883-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/2958330786_bokserski-rukavichki-boxer.jpg</picture>
@@ -15454,7 +15454,7 @@
   </offer>
   <offer id="1358320884" available="true">
     <url>https://ukrizol.xyz/ua/p1358320884-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/2958229545_bokserski-rukavichki-boxer.jpg</picture>
@@ -15477,7 +15477,7 @@
   </offer>
   <offer id="1358320885" available="false">
     <url>https://ukrizol.xyz/ua/p1358320885-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/2958229545_bokserski-rukavichki-boxer.jpg</picture>
@@ -15592,7 +15592,7 @@
   </offer>
   <offer id="1358320892" available="true">
     <url>https://ukrizol.xyz/ua/p1358320892-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/2958330786_bokserski-rukavichki-boxer.jpg</picture>
@@ -15615,7 +15615,7 @@
   </offer>
   <offer id="1358320894" available="true">
     <url>https://ukrizol.xyz/ua/p1358320894-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2964070265_bokserski-rukavichki-boxer.jpg</picture>
@@ -15638,7 +15638,7 @@
   </offer>
   <offer id="1358320896" available="true">
     <url>https://ukrizol.xyz/ua/p1358320896-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2958229545_bokserski-rukavichki-boxer.jpg</picture>
@@ -15775,7 +15775,7 @@
   </offer>
   <offer id="1358320904" available="true" group_id="853831702">
     <url>https://ukrizol.xyz/ua/p1358320904-bokserski-rukavichki-boxer.html</url>
-    <price>477</price>
+    <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947451</categoryId>
     <picture>https://images.prom.ua/4502908929_bokserski-rukavichki-boxer.jpg</picture>
@@ -15823,7 +15823,7 @@
   </offer>
   <offer id="1358320907" available="false">
     <url>https://ukrizol.xyz/ua/p1358320907-sholom-trenuvalnij-karate.html</url>
-    <price>1496</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
@@ -15850,7 +15850,7 @@
   </offer>
   <offer id="1358320908" available="true">
     <url>https://ukrizol.xyz/ua/p1358320908-sholom-trenuvalnij-karate.html</url>
-    <price>1496</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
@@ -15876,7 +15876,7 @@
   </offer>
   <offer id="1358320909" available="true">
     <url>https://ukrizol.xyz/ua/p1358320909-sholom-trenuvalnij-karate.html</url>
-    <price>1496</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
@@ -16002,7 +16002,7 @@
   </offer>
   <offer id="1358320923" available="true">
     <url>https://ukrizol.xyz/ua/p1358320923-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2958330786_bokserski-rukavichki-boxer.jpg</picture>
@@ -16128,7 +16128,7 @@
   </offer>
   <offer id="1358320929" available="true">
     <url>https://ukrizol.xyz/ua/p1358320929-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/2964082846_bokserski-rukavichki-boxer.jpg</picture>
@@ -16142,7 +16142,7 @@
     <vendorCode>2022-05К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вага" unit="oz">8</param>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -16152,7 +16152,7 @@
   </offer>
   <offer id="1358320930" available="true">
     <url>https://ukrizol.xyz/ua/p1358320930-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/2964070265_bokserski-rukavichki-boxer.jpg</picture>
@@ -16176,7 +16176,7 @@
   </offer>
   <offer id="1358320931" available="true">
     <url>https://ukrizol.xyz/ua/p1358320931-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/2964082846_bokserski-rukavichki-boxer.jpg</picture>
@@ -16200,7 +16200,7 @@
   </offer>
   <offer id="1358320932" available="true">
     <url>https://ukrizol.xyz/ua/p1358320932-bokserski-rukavichki-boxer.html</url>
-    <price>724</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/2964070265_bokserski-rukavichki-boxer.jpg</picture>
@@ -16421,7 +16421,7 @@
   </offer>
   <offer id="1358320941" available="true">
     <url>https://ukrizol.xyz/ua/p1358320941-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1071</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999352131_rukavichki-dlya-zmishanih.jpg</picture>
@@ -16444,7 +16444,7 @@
   </offer>
   <offer id="1358320942" available="true">
     <url>https://ukrizol.xyz/ua/p1358320942-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999474526_rukavichki-dlya-zmishanih.jpg</picture>
@@ -16467,7 +16467,7 @@
   </offer>
   <offer id="1358320943" available="true">
     <url>https://ukrizol.xyz/ua/p1358320943-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2932968804_rukavichki-dlya-zmishanih.jpg</picture>
@@ -16490,7 +16490,7 @@
   </offer>
   <offer id="1360132716" available="true">
     <url>https://ukrizol.xyz/ua/p1360132716-bokserski-rukavichki-boxer.html</url>
-    <price>640</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947447</categoryId>
     <picture>https://images.prom.ua/2958229545_bokserski-rukavichki-boxer.jpg</picture>
@@ -16822,7 +16822,7 @@
   </offer>
   <offer id="1367373732" available="false">
     <url>https://ukrizol.xyz/ua/p1367373732-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2964070265_bokserski-rukavichki-boxer.jpg</picture>
@@ -17192,7 +17192,7 @@
   </offer>
   <offer id="1375383834" available="true">
     <url>https://ukrizol.xyz/ua/p1375383834-lapi-bokserski-boxer.html</url>
-    <price>1144</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/2990929388_lapi-bokserski-boxer.jpg</picture>
@@ -17216,7 +17216,7 @@
   </offer>
   <offer id="1375385027" available="false">
     <url>https://ukrizol.xyz/ua/p1375385027-lapi-bokserski-boxer.html</url>
-    <price>1144</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/2990931457_lapi-bokserski-boxer.jpg</picture>
@@ -17240,7 +17240,7 @@
   </offer>
   <offer id="1375704716" available="false">
     <url>https://ukrizol.xyz/ua/p1375704716-lapi-bokserski-boxer.html</url>
-    <price>619</price>
+    <price>651</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/6862755959_lapi-bokserski-boxer.jpg</picture>
@@ -17264,7 +17264,7 @@
   </offer>
   <offer id="1376119343" available="false">
     <url>https://ukrizol.xyz/ua/p1376119343-lapi-bokserski-boxer.html</url>
-    <price>966</price>
+    <price>976</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2993298026_lapi-bokserski-boxer.jpg</picture>
@@ -17333,7 +17333,7 @@
   </offer>
   <offer id="1376319781" available="true">
     <url>https://ukrizol.xyz/ua/p1376319781-lapi-bokserski-boxer.html</url>
-    <price>808</price>
+    <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6858423441_lapi-bokserski-boxer.jpg</picture>
@@ -17359,7 +17359,7 @@
   </offer>
   <offer id="1376322950" available="true">
     <url>https://ukrizol.xyz/ua/p1376322950-lapi-kikbokserski-boxer.html</url>
-    <price>924</price>
+    <price>798</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/2993876691_lapi-kikbokserski-boxer.jpg</picture>
@@ -17399,7 +17399,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>193</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентний</param>
     <param name="Стан клею">Готова емульсія</param>
     <param name="Тип використання">Універсальний</param>
@@ -17409,7 +17409,7 @@
   </offer>
   <offer id="1378086465" available="true">
     <url>https://ukrizol.xyz/ua/p1378086465-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999572413_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17432,7 +17432,7 @@
   </offer>
   <offer id="1378088771" available="true">
     <url>https://ukrizol.xyz/ua/p1378088771-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2932968804_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17455,7 +17455,7 @@
   </offer>
   <offer id="1379706521" available="true">
     <url>https://ukrizol.xyz/ua/p1379706521-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999474526_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17478,7 +17478,7 @@
   </offer>
   <offer id="1379711361" available="true">
     <url>https://ukrizol.xyz/ua/p1379711361-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>787</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999572413_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17501,7 +17501,7 @@
   </offer>
   <offer id="1379735728" available="true">
     <url>https://ukrizol.xyz/ua/p1379735728-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>745</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2932968804_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17524,7 +17524,7 @@
   </offer>
   <offer id="1379735743" available="true">
     <url>https://ukrizol.xyz/ua/p1379735743-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>745</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999572413_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17547,7 +17547,7 @@
   </offer>
   <offer id="1379735808" available="true">
     <url>https://ukrizol.xyz/ua/p1379735808-rukavichki-dlya-zmishanih.html</url>
-    <price>813</price>
+    <price>745</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999474526_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17570,7 +17570,7 @@
   </offer>
   <offer id="1379737151" available="true">
     <url>https://ukrizol.xyz/ua/p1379737151-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1071</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004922744_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17593,7 +17593,7 @@
   </offer>
   <offer id="1379739071" available="true">
     <url>https://ukrizol.xyz/ua/p1379739071-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1071</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004938779_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17616,7 +17616,7 @@
   </offer>
   <offer id="1379915308" available="true">
     <url>https://ukrizol.xyz/ua/p1379915308-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999352131_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17639,7 +17639,7 @@
   </offer>
   <offer id="1379915322" available="true">
     <url>https://ukrizol.xyz/ua/p1379915322-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004922744_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17662,7 +17662,7 @@
   </offer>
   <offer id="1379915326" available="true">
     <url>https://ukrizol.xyz/ua/p1379915326-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004938779_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17685,7 +17685,7 @@
   </offer>
   <offer id="1379916129" available="true">
     <url>https://ukrizol.xyz/ua/p1379916129-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/2999352131_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17708,7 +17708,7 @@
   </offer>
   <offer id="1379916136" available="true">
     <url>https://ukrizol.xyz/ua/p1379916136-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004922744_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17731,7 +17731,7 @@
   </offer>
   <offer id="1379916161" available="true">
     <url>https://ukrizol.xyz/ua/p1379916161-rukavichki-dlya-zmishanih.html</url>
-    <price>1170</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947454</categoryId>
     <picture>https://images.prom.ua/3004938779_rukavichki-dlya-zmishanih.jpg</picture>
@@ -17966,7 +17966,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вага" unit="кг">30</param>
     <param name="Висота" unit="см">140</param>
     <param name="Вікова група">Доросла</param>
@@ -18216,7 +18216,7 @@
   </offer>
   <offer id="1410460376" available="false">
     <url>https://ukrizol.xyz/ua/p1410460376-sholom-trenuvalnij-karate.html</url>
-    <price>1065</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
@@ -19505,7 +19505,7 @@
     <vendorCode>15/13О</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>169</quantity_in_stock>
+    <quantity_in_stock>165</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -19573,7 +19573,7 @@
     <vendorCode>22/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>236</quantity_in_stock>
+    <quantity_in_stock>232</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -20491,7 +20491,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2940</quantity_in_stock>
+    <quantity_in_stock>2858</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -20559,7 +20559,7 @@
     <vendorCode>83930</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>421</quantity_in_stock>
+    <quantity_in_stock>386</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -42927,7 +42927,7 @@
     <vendorCode>EF-AWTS-250</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Особенности" unit="">Неопреновое покрытие|Подходит для ног и рук</param>
     <param name="Количество утяжелителей" unit="">2</param>
@@ -43979,7 +43979,7 @@
   </offer>
   <offer id="1566793268" available="false">
     <url>https://ukrizol.xyz/ua/p1566793268-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/5119469309_sholom-bokserskij-boxer.jpg</picture>
@@ -44003,7 +44003,7 @@
   </offer>
   <offer id="1567925113" available="true">
     <url>https://ukrizol.xyz/ua/p1567925113-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/5119469321_sholom-bokserskij-boxer.jpg</picture>
@@ -44028,7 +44028,7 @@
   </offer>
   <offer id="1567925178" available="false">
     <url>https://ukrizol.xyz/ua/p1567925178-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/5119469311_sholom-bokserskij-boxer.jpg</picture>
@@ -44054,7 +44054,7 @@
   </offer>
   <offer id="1567926156" available="false">
     <url>https://ukrizol.xyz/ua/p1567926156-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/5126134337_sholom-bokserskij-boxer.jpg</picture>
@@ -44082,7 +44082,7 @@
   </offer>
   <offer id="1567926241" available="false">
     <url>https://ukrizol.xyz/ua/p1567926241-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
@@ -44417,7 +44417,7 @@
   </offer>
   <offer id="1568169354" available="false">
     <url>https://ukrizol.xyz/ua/p1568169354-sholom-trenuvalnij-karate.html</url>
-    <price>1065</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
@@ -44443,7 +44443,7 @@
   </offer>
   <offer id="1569826076" available="true">
     <url>https://ukrizol.xyz/ua/p1569826076-rukavichki-trenuvalni-boxer.html</url>
-    <price>483</price>
+    <price>498</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947452</categoryId>
     <picture>https://images.prom.ua/3627017740_rukavichki-trenuvalni-boxer.jpg</picture>
@@ -44466,7 +44466,7 @@
   </offer>
   <offer id="1569827873" available="true">
     <url>https://ukrizol.xyz/ua/p1569827873-rukavichki-trenuvalni-boxer.html</url>
-    <price>483</price>
+    <price>498</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947452</categoryId>
     <picture>https://images.prom.ua/3627023202_rukavichki-trenuvalni-boxer.jpg</picture>
@@ -44489,7 +44489,7 @@
   </offer>
   <offer id="1569846875" available="false">
     <url>https://ukrizol.xyz/ua/p1569846875-rukavichki-trenuvalni-boxer.html</url>
-    <price>861</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947452</categoryId>
     <picture>https://images.prom.ua/3627105244_rukavichki-trenuvalni-boxer.jpg</picture>
@@ -44790,7 +44790,7 @@
   </offer>
   <offer id="1571524156" available="false">
     <url>https://ukrizol.xyz/ua/p1571524156-bokserski-rukavichki-boxer.html</url>
-    <price>677</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/2958330786_bokserski-rukavichki-boxer.jpg</picture>
@@ -44813,7 +44813,7 @@
   </offer>
   <offer id="1571952106" available="true">
     <url>https://ukrizol.xyz/ua/p1571952106-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
@@ -45201,7 +45201,7 @@
   </offer>
   <offer id="1572511026" available="true">
     <url>https://ukrizol.xyz/ua/p1572511026-bokserski-rukavichki-boxer.html</url>
-    <price>1974</price>
+    <price>1785</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/3635418199_bokserski-rukavichki-boxer.jpg</picture>
@@ -45222,7 +45222,7 @@
   </offer>
   <offer id="1572536364" available="true">
     <url>https://ukrizol.xyz/ua/p1572536364-bokserski-rukavichki-boxer.html</url>
-    <price>1974</price>
+    <price>1785</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/3635418199_bokserski-rukavichki-boxer.jpg</picture>
@@ -48268,7 +48268,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1578</quantity_in_stock>
+    <quantity_in_stock>1580</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -53115,7 +53115,7 @@
     <vendorCode>28/25П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>624</quantity_in_stock>
+    <quantity_in_stock>618</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -62075,7 +62075,7 @@
   </offer>
   <offer id="1667339611" available="false">
     <url>https://ukrizol.xyz/ua/p1667339611-makivara-boxer-velika.html</url>
-    <price>2992</price>
+    <price>2808</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/5374204001_makivara-boxer-velika.jpg</picture>
@@ -62282,7 +62282,7 @@
     <vendorCode>Н10010010Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">100</param>
     <param name="Колір">Чорний</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
@@ -62565,7 +62565,7 @@
     <vendorCode>ВП18/13</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -64267,7 +64267,7 @@
     <vendorCode>20118</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>264</quantity_in_stock>
+    <quantity_in_stock>263</quantity_in_stock>
     <param name="Армований скотч">Так</param>
     <param name="Довжина" unit="м">25</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
@@ -64669,7 +64669,7 @@
     <vendorCode>Н11006005РТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Довжина" unit="см">110</param>
     <param name="Матеріал">Пінополіетилен</param>
     <param name="Особливості">Стяжки в комплекте</param>
@@ -68095,7 +68095,7 @@
     <vendorCode>41052</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>217</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Вага" unit="кг">1.75</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -68185,7 +68185,7 @@
     <vendorCode>41017</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Вага" unit="кг">1.61</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -68245,7 +68245,7 @@
     <vendorCode>41018</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>136</quantity_in_stock>
+    <quantity_in_stock>126</quantity_in_stock>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
@@ -69059,7 +69059,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>331</quantity_in_stock>
+    <quantity_in_stock>329</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -69086,7 +69086,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>390</quantity_in_stock>
+    <quantity_in_stock>388</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -70897,7 +70897,7 @@
   </offer>
   <offer id="1842849909" available="true">
     <url>https://ukrizol.xyz/ua/p1842849909-sholom-trenuvalnij-karate.html</url>
-    <price>997</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
@@ -71250,7 +71250,7 @@
     <vendorCode>EF-1454s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Конструкція">Стрічкова</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Для фітнесу</param>
@@ -72135,7 +72135,7 @@
   </offer>
   <offer id="1876619410" available="false">
     <url>https://ukrizol.xyz/ua/p1876619410-sholom-trenuvalnij-karate.html</url>
-    <price>1407</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621261030_sholom-trenuvalnij-karate.jpg</picture>
@@ -72207,7 +72207,7 @@
   </offer>
   <offer id="1876619413" available="false">
     <url>https://ukrizol.xyz/ua/p1876619413-sholom-trenuvalnij-karate.html</url>
-    <price>1407</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621267745_sholom-trenuvalnij-karate.jpg</picture>
@@ -72292,7 +72292,7 @@
     <vendorCode>2004-03Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>
     <param name="Тип">Захист гомілки/стопи</param>
@@ -72300,7 +72300,7 @@
   </offer>
   <offer id="1876619417" available="false">
     <url>https://ukrizol.xyz/ua/p1876619417-sholom-trenuvalnij-karate.html</url>
-    <price>1407</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3621271044_sholom-trenuvalnij-karate.jpg</picture>
@@ -72392,7 +72392,7 @@
   </offer>
   <offer id="1876619730" available="true">
     <url>https://ukrizol.xyz/ua/p1876619730-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/2975773070_bokserski-rukavichki-boxer.jpg</picture>
@@ -75537,7 +75537,7 @@
   </offer>
   <offer id="1970067733" available="true">
     <url>https://ukrizol.xyz/ua/p1970067733-lapi-bokserski-boxer.html</url>
-    <price>1407</price>
+    <price>1470</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6858408588_lapi-bokserski-boxer.jpg</picture>
@@ -75704,7 +75704,7 @@
   </offer>
   <offer id="1970067940" available="false">
     <url>https://ukrizol.xyz/ua/p1970067940-rukavichki-trenuvalni-boxer.html</url>
-    <price>861</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947452</categoryId>
     <picture>https://images.prom.ua/5314870281_rukavichki-trenuvalni-boxer.jpg</picture>
@@ -75774,7 +75774,7 @@
   </offer>
   <offer id="1970067943" available="true">
     <url>https://ukrizol.xyz/ua/p1970067943-lapi-bokserski-boxer.html</url>
-    <price>1407</price>
+    <price>1470</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6858388354_lapi-bokserski-boxer.jpg</picture>
@@ -78346,7 +78346,7 @@
     <vendorCode>889385</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>589</quantity_in_stock>
+    <quantity_in_stock>539</quantity_in_stock>
     <param name="Ширина" unit="мм">1010</param>
     <param name="Довжина" unit="м">20</param>
     <param name="Армована фольга">Так</param>
@@ -84544,7 +84544,7 @@
   </offer>
   <offer id="2086665694" available="true">
     <url>https://ukrizol.xyz/ua/p2086665694-skotch-termostijkij-200s.html</url>
-    <price>274</price>
+    <price>281</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/5389391597_skotch-termostijkij-200s.jpg</picture>
@@ -84566,7 +84566,7 @@
   </offer>
   <offer id="2086665695" available="true">
     <url>https://ukrizol.xyz/ua/p2086665695-skotch-termostijkij-200s.html</url>
-    <price>183</price>
+    <price>187</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/5389382917_skotch-termostijkij-200s.jpg</picture>
@@ -88361,7 +88361,7 @@
     <param name="Количество слоев" unit="">2</param>
     <param name="Ширина" unit="мм">1000</param>
   </offer>
-  <offer id="2183163932" available="true">
+  <offer id="2183163932" available="false">
     <url>https://ukrizol.xyz/ua/p2183163932-skovoroda-chavunna-optima.html</url>
     <price>1026</price>
     <currencyId>UAH</currencyId>
@@ -88375,7 +88375,7 @@
     <vendorCode>O2440-P-C</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.51</param>
@@ -88816,7 +88816,7 @@
     <param name="Діаметр основи, мм" unit="">125</param>
     <param name="Объем, л" unit="">0.74</param>
   </offer>
-  <offer id="2183163944" available="true">
+  <offer id="2183163944" available="false">
     <url>https://ukrizol.xyz/ua/p2183163944-skovoroda-dlya-mlintsiv.html</url>
     <price>555</price>
     <currencyId>UAH</currencyId>
@@ -88838,7 +88838,7 @@
     <vendorCode>O2415-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">1.61</param>
@@ -89402,7 +89402,7 @@
     <param name="Діаметр основи, мм" unit="">206</param>
     <param name="Объем, л" unit="">1.6</param>
   </offer>
-  <offer id="2183163960" available="true">
+  <offer id="2183163960" available="false">
     <url>https://ukrizol.xyz/ua/p2183163960-skovoroda-chavunna-chavunnoyu.html</url>
     <price>1668</price>
     <currencyId>UAH</currencyId>
@@ -89419,7 +89419,7 @@
     <vendorCode>M2860U-2</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">5.05</param>
@@ -89508,7 +89508,7 @@
     <param name="Товщина дна" unit="мм">4.4</param>
     <param name="Товщина стінок посуду" unit="мм">3.8</param>
   </offer>
-  <offer id="2183163963" available="true">
+  <offer id="2183163963" available="false">
     <url>https://ukrizol.xyz/ua/p2183163963-skovoroda-chavunna-sklyanoyu.html</url>
     <price>1038</price>
     <currencyId>UAH</currencyId>
@@ -89525,7 +89525,7 @@
     <vendorCode>M2460U-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.6</param>
@@ -89760,7 +89760,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.09</param>
   </offer>
-  <offer id="2183163970" available="true">
+  <offer id="2183163970" available="false">
     <url>https://ukrizol.xyz/ua/p2183163970-skovoroda-chavunna-litoyu.html</url>
     <price>1153</price>
     <currencyId>UAH</currencyId>
@@ -89780,7 +89780,7 @@
     <vendorCode>M2460P-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.9</param>
@@ -89800,7 +89800,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163971" available="false">
+  <offer id="2183163971" available="true">
     <url>https://ukrizol.xyz/ua/p2183163971-skovoroda-chavunna-ovalna.html</url>
     <price>313</price>
     <currencyId>UAH</currencyId>
@@ -89816,7 +89816,7 @@
     <vendorCode>H2214</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Тип посуду">Сковорода порційна</param>
     <param name="Матеріал">Чавун</param>
     <param name="Форма">Овальна</param>
@@ -90020,7 +90020,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.26</param>
   </offer>
-  <offer id="2183163977" available="true">
+  <offer id="2183163977" available="false">
     <url>https://ukrizol.xyz/ua/p2183163977-skovoroda-chavunna-optima.html</url>
     <price>1038</price>
     <currencyId>UAH</currencyId>
@@ -90034,7 +90034,7 @@
     <vendorCode>O2460-P-C</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.61</param>
@@ -90053,7 +90053,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163978" available="true">
+  <offer id="2183163978" available="false">
     <url>https://ukrizol.xyz/ua/p2183163978-skovoroda-chavunna-litoyu.html</url>
     <price>1615</price>
     <currencyId>UAH</currencyId>
@@ -90073,7 +90073,7 @@
     <vendorCode>M2660P-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">4.3</param>
@@ -90235,7 +90235,7 @@
     <param name="Объем, л" unit="">0.38</param>
     <param name="Габарити підставки, мм" unit="">213х135</param>
   </offer>
-  <offer id="2183163983" available="true">
+  <offer id="2183163983" available="false">
     <url>https://ukrizol.xyz/ua/p2183163983-skovoroda-chavunna-gril.html</url>
     <price>1258</price>
     <currencyId>UAH</currencyId>
@@ -90254,7 +90254,7 @@
     <vendorCode>O282850G-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Вага" unit="кг">3.82</param>
     <param name="Довжина посуду" unit="см">28</param>
@@ -90803,7 +90803,7 @@
     <param name="Товщина дна" unit="мм">3.8</param>
     <param name="Товщина стінок посуду" unit="мм">3.2</param>
   </offer>
-  <offer id="2183163999" available="true">
+  <offer id="2183163999" available="false">
     <url>https://ukrizol.xyz/ua/p2183163999-skovoroda-chavunna-240.html</url>
     <price>807</price>
     <currencyId>UAH</currencyId>
@@ -90824,7 +90824,7 @@
     <vendorCode>M2460P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.3</param>
@@ -90920,7 +90920,7 @@
     <param name="Діаметр основи, мм" unit="">118</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183164002" available="true">
+  <offer id="2183164002" available="false">
     <url>https://ukrizol.xyz/ua/p2183164002-skovoroda-chavunna-next.html</url>
     <price>702</price>
     <currencyId>UAH</currencyId>
@@ -90941,7 +90941,7 @@
     <vendorCode>N2447-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.3</param>
@@ -91126,7 +91126,7 @@
     <param name="Ширина" unit="мм">235</param>
     <param name="Вес, гр" unit="гр">600</param>
   </offer>
-  <offer id="2183164008" available="true">
+  <offer id="2183164008" available="false">
     <url>https://ukrizol.xyz/ua/p2183164008-skovoroda-chavunna-optima.html</url>
     <price>460</price>
     <currencyId>UAH</currencyId>
@@ -91144,7 +91144,7 @@
     <vendorCode>O2035-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">20 (см)</param>
     <param name="Вага" unit="кг">1.4</param>
@@ -91414,7 +91414,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.26</param>
   </offer>
-  <offer id="2183164016" available="true">
+  <offer id="2183164016" available="false">
     <url>https://ukrizol.xyz/ua/p2183164016-skovoroda-chavunna-litoyu.html</url>
     <price>1442</price>
     <currencyId>UAH</currencyId>
@@ -91431,7 +91431,7 @@
     <vendorCode>M2660P-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">3.6</param>
@@ -92366,7 +92366,7 @@
     <param name="Діаметр основи, мм" unit="">200</param>
     <param name="Объем, л" unit="">36</param>
   </offer>
-  <offer id="2183164043" available="false">
+  <offer id="2183164043" available="true">
     <url>https://ukrizol.xyz/ua/p2183164043-skovoroda-chavunna-ovalna.html</url>
     <price>597</price>
     <currencyId>UAH</currencyId>
@@ -92384,7 +92384,7 @@
     <vendorCode>H2214-D</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Тип посуду">Сковорода порційна</param>
     <param name="Матеріал">Чавун</param>
     <param name="Форма">Овальна</param>
@@ -92486,7 +92486,7 @@
     <param name="Діаметр основи, мм" unit="">108</param>
     <param name="Объем, л" unit="">2.2</param>
   </offer>
-  <offer id="2183164046" available="true">
+  <offer id="2183164046" available="false">
     <url>https://ukrizol.xyz/ua/p2183164046-skovoroda-chavunna-bez.html</url>
     <price>901</price>
     <currencyId>UAH</currencyId>
@@ -92508,7 +92508,7 @@
     <vendorCode>M2860U</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">2.95</param>
@@ -92625,7 +92625,7 @@
     <param name="Діаметр основи, мм" unit="">210</param>
     <param name="Объем, л" unit="">3.36</param>
   </offer>
-  <offer id="2183164050" available="true">
+  <offer id="2183164050" available="false">
     <url>https://ukrizol.xyz/ua/p2183164050-skovoroda-chavunna-wok.html</url>
     <price>1269</price>
     <currencyId>UAH</currencyId>
@@ -92646,7 +92646,7 @@
     <vendorCode>W26H-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">3.3</param>
@@ -92850,7 +92850,7 @@
     <param name="Діаметр основи, мм" unit="">219</param>
     <param name="Объем, л" unit="">3.17</param>
   </offer>
-  <offer id="2183164056" available="true">
+  <offer id="2183164056" available="false">
     <url>https://ukrizol.xyz/ua/p2183164056-skovoroda-chavunna-optima.html</url>
     <price>865</price>
     <currencyId>UAH</currencyId>
@@ -92864,7 +92864,7 @@
     <vendorCode>O2240-P-C</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">22 (см)</param>
     <param name="Вага" unit="кг">2.04</param>
@@ -92883,7 +92883,7 @@
     <param name="Діаметр основи, мм" unit="">165</param>
     <param name="Объем, л" unit="">1.38</param>
   </offer>
-  <offer id="2183164057" available="true">
+  <offer id="2183164057" available="false">
     <url>https://ukrizol.xyz/ua/p2183164057-skovoroda-chavunna-optima.html</url>
     <price>523</price>
     <currencyId>UAH</currencyId>
@@ -92901,7 +92901,7 @@
     <vendorCode>O2240-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">22 (см)</param>
     <param name="Вага" unit="кг">1.54</param>
@@ -93065,7 +93065,7 @@
     <param name="Ручка">Емальований метал</param>
     <param name="Тип">Каструля</param>
   </offer>
-  <offer id="2183164062" available="true">
+  <offer id="2183164062" available="false">
     <url>https://ukrizol.xyz/ua/p2183164062-skovoroda-chavunna-260.html</url>
     <price>996</price>
     <currencyId>UAH</currencyId>
@@ -93086,7 +93086,7 @@
     <vendorCode>M2660P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">2.9</param>
@@ -93212,7 +93212,7 @@
     <param name="Ручка">Емальований метал</param>
     <param name="Тип">Каструля</param>
   </offer>
-  <offer id="2183164066" available="true">
+  <offer id="2183164066" available="false">
     <url>https://ukrizol.xyz/ua/p2183164066-skovoroda-chavunna-next.html</url>
     <price>597</price>
     <currencyId>UAH</currencyId>
@@ -93233,7 +93233,7 @@
     <vendorCode>N2240-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">22 (см)</param>
     <param name="Вага" unit="кг">1.9</param>
@@ -93252,7 +93252,7 @@
     <param name="Діаметр основи, мм" unit="">179</param>
     <param name="Объем, л" unit="">1.4</param>
   </offer>
-  <offer id="2183164067" available="true">
+  <offer id="2183164067" available="false">
     <url>https://ukrizol.xyz/ua/p2183164067-skovoroda-chavunna-wok.html</url>
     <price>1107</price>
     <currencyId>UAH</currencyId>
@@ -93273,7 +93273,7 @@
     <vendorCode>W24H-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.8</param>
@@ -93577,7 +93577,7 @@
     <param name="Объем, л" unit="">0.7</param>
     <param name="Габарити підставки, мм" unit="">275x240</param>
   </offer>
-  <offer id="2183164076" available="true">
+  <offer id="2183164076" available="false">
     <url>https://ukrizol.xyz/ua/p2183164076-skovoroda-chavunna-optima.html</url>
     <price>891</price>
     <currencyId>UAH</currencyId>
@@ -93594,7 +93594,7 @@
     <vendorCode>O2840-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Тип посуду">Сковорода універсальна (класична)</param>
     <param name="Матеріал">Чавун</param>
     <param name="Форма">Кругла</param>
@@ -93872,7 +93872,7 @@
     <param name="Объем, л" unit="">0.7</param>
     <param name="Габарити підставки, мм" unit="">260</param>
   </offer>
-  <offer id="2183164085" available="true">
+  <offer id="2183164085" available="false">
     <url>https://ukrizol.xyz/ua/p2183164085-skovoroda-chavunna-sklyanoyu.html</url>
     <price>1500</price>
     <currencyId>UAH</currencyId>
@@ -93889,7 +93889,7 @@
     <vendorCode>M3060U-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">4.3</param>
@@ -94476,7 +94476,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.9</param>
   </offer>
-  <offer id="2183164102" available="true">
+  <offer id="2183164102" available="false">
     <url>https://ukrizol.xyz/ua/p2183164102-skovoroda-chavunna-chavunnoyu.html</url>
     <price>1888</price>
     <currencyId>UAH</currencyId>
@@ -94493,7 +94493,7 @@
     <vendorCode>M3060U-2</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">5.9</param>
@@ -94670,7 +94670,7 @@
     <param name="Объем, л" unit="">0.59</param>
     <param name="Габарити підставки, мм" unit="">220</param>
   </offer>
-  <offer id="2183164107" available="true">
+  <offer id="2183164107" available="false">
     <url>https://ukrizol.xyz/ua/p2183164107-skovoroda-chavunna-gril.html</url>
     <price>943</price>
     <currencyId>UAH</currencyId>
@@ -94688,7 +94688,7 @@
     <vendorCode>O2640G-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">2.92</param>
@@ -94706,7 +94706,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.09</param>
   </offer>
-  <offer id="2183164108" available="true">
+  <offer id="2183164108" available="false">
     <url>https://ukrizol.xyz/ua/p2183164108-skovoroda-dlya-mlintsiv.html</url>
     <price>460</price>
     <currencyId>UAH</currencyId>
@@ -94728,7 +94728,7 @@
     <vendorCode>O2215-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">22 (см)</param>
     <param name="Вага" unit="кг">1.36</param>
@@ -95139,7 +95139,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">1.75</param>
   </offer>
-  <offer id="2183164121" available="true">
+  <offer id="2183164121" available="false">
     <url>https://ukrizol.xyz/ua/p2183164121-skovoroda-chavunna-optima.html</url>
     <price>761</price>
     <currencyId>UAH</currencyId>
@@ -95153,7 +95153,7 @@
     <vendorCode>O2035-P-C</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">20 (см)</param>
     <param name="Вага" unit="кг">1.8</param>
@@ -95536,7 +95536,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.26</param>
   </offer>
-  <offer id="2183164132" available="true">
+  <offer id="2183164132" available="false">
     <url>https://ukrizol.xyz/ua/p2183164132-skovoroda-chavunna-gril.html</url>
     <price>1017</price>
     <currencyId>UAH</currencyId>
@@ -95556,7 +95556,7 @@
     <vendorCode>O262650G-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Вага" unit="кг">3.07</param>
     <param name="Довжина посуду" unit="см">26</param>
@@ -95747,7 +95747,7 @@
     <param name="Діаметр основи, мм" unit="">110</param>
     <param name="Объем, л" unit="">0.44</param>
   </offer>
-  <offer id="2183164138" available="true">
+  <offer id="2183164138" available="false">
     <url>https://ukrizol.xyz/ua/p2183164138-skovoroda-chavunna-wok.html</url>
     <price>1206</price>
     <currencyId>UAH</currencyId>
@@ -95765,7 +95765,7 @@
     <vendorCode>W30</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">2.9</param>
@@ -96045,7 +96045,7 @@
     <param name="Діаметр основи, мм" unit="">190</param>
     <param name="Объем, л" unit="">25</param>
   </offer>
-  <offer id="2183164769" available="true">
+  <offer id="2183164769" available="false">
     <url>https://ukrizol.xyz/ua/p2183164769-skovoroda-chavunna-wok.html</url>
     <price>1468</price>
     <currencyId>UAH</currencyId>
@@ -96066,7 +96066,7 @@
     <vendorCode>W26H-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">4</param>
@@ -96190,7 +96190,7 @@
     <param name="Діаметр основи, мм" unit="">145</param>
     <param name="Объем, л" unit="">0.95</param>
   </offer>
-  <offer id="2183164773" available="true">
+  <offer id="2183164773" available="false">
     <url>https://ukrizol.xyz/ua/p2183164773-skovoroda-chavunna-sklyanoyu.html</url>
     <price>1384</price>
     <currencyId>UAH</currencyId>
@@ -96207,7 +96207,7 @@
     <vendorCode>M2860U-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">3.65</param>
@@ -96471,7 +96471,7 @@
     <param name="Товщина стінок посуду" unit="мм">3.8</param>
     <param name="Вага" unit="кг">6.36</param>
   </offer>
-  <offer id="2183164781" available="true">
+  <offer id="2183164781" available="false">
     <url>https://ukrizol.xyz/ua/p2183164781-skovoroda-chavunna-gril.html</url>
     <price>1048</price>
     <currencyId>UAH</currencyId>
@@ -96488,7 +96488,7 @@
     <vendorCode>O2850G-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">3.37</param>
@@ -96861,7 +96861,7 @@
     <param name="Діаметр основи, мм" unit="">118</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183164792" available="true">
+  <offer id="2183164792" available="false">
     <url>https://ukrizol.xyz/ua/p2183164792-skovoroda-chavunna-wok.html</url>
     <price>1731</price>
     <currencyId>UAH</currencyId>
@@ -96880,7 +96880,7 @@
     <vendorCode>W30-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">3.72</param>
@@ -97114,7 +97114,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.09</param>
   </offer>
-  <offer id="2183164799" available="true">
+  <offer id="2183164799" available="false">
     <url>https://ukrizol.xyz/ua/p2183164799-skovoroda-chavunna-next.html</url>
     <price>1048</price>
     <currencyId>UAH</currencyId>
@@ -97135,7 +97135,7 @@
     <vendorCode>N2861-P</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">3</param>
@@ -97518,7 +97518,7 @@
     <param name="Диаметр" unit="см">19.5</param>
     <param name="Тип" unit="">Лопатка</param>
   </offer>
-  <offer id="2183246747" available="true">
+  <offer id="2183246747" available="false">
     <url>https://ukrizol.xyz/ua/p2183246747-kazan-alyuminiyevij-brizoll.html</url>
     <price>775</price>
     <currencyId>UAH</currencyId>
@@ -97537,7 +97537,7 @@
     <vendorCode>12-004-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">1.01</param>
     <param name="Висота" unit="мм">116.2</param>
     <param name="Висота з кришкою" unit="мм">142.2</param>
@@ -97727,7 +97727,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183246753" available="true">
+  <offer id="2183246753" available="false">
     <url>https://ukrizol.xyz/ua/p2183246753-kazan-chavunnij-aziatskij.html</url>
     <price>3234</price>
     <currencyId>UAH</currencyId>
@@ -97745,7 +97745,7 @@
     <vendorCode>KA08-2S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">7.71</param>
     <param name="Матеріал">Чавун</param>
     <param name="Объем" unit="мл">8.0</param>
@@ -97792,7 +97792,7 @@
     <param name="Тип посуду">Ківш кухонний</param>
     <param name="Довжина з ручками/вушками" unit="мм">310</param>
   </offer>
-  <offer id="2183246755" available="true">
+  <offer id="2183246755" available="false">
     <url>https://ukrizol.xyz/ua/p2183246755-chohol-kazan-turistichnij.html</url>
     <price>723</price>
     <currencyId>UAH</currencyId>
@@ -97804,13 +97804,13 @@
     <name>Чохол на казан туристичний 6 л і 8 л</name>
     <vendorCode>CH68TT</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Об`єм" unit="л">8</param>
     <param name="Ручки" unit="">Есть</param>
     <param name="Цвет" unit="">Черный</param>
     <param name="Чехол для хранения и транспортировки" unit="">Да</param>
   </offer>
-  <offer id="2183246756" available="true">
+  <offer id="2183246756" available="false">
     <url>https://ukrizol.xyz/ua/p2183246756-kazan-chavunnij-aziatskij.html</url>
     <price>3339</price>
     <currencyId>UAH</currencyId>
@@ -97827,7 +97827,7 @@
     <vendorCode>KA10-1S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">8.66</param>
     <param name="Висота" unit="мм">165</param>
     <param name="Висота з кришкою" unit="мм">227</param>
@@ -97966,7 +97966,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Немає</param>
   </offer>
-  <offer id="2183246762" available="true">
+  <offer id="2183246762" available="false">
     <url>https://ukrizol.xyz/ua/p2183246762-kazan-chavunnij-aziatskij.html</url>
     <price>3549</price>
     <currencyId>UAH</currencyId>
@@ -97987,7 +97987,7 @@
     <vendorCode>KA08-3S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">9.2</param>
     <param name="Матеріал">Чавун</param>
     <param name="Призначення">Для відкритого вогню</param>
@@ -98156,7 +98156,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183246769" available="true">
+  <offer id="2183246769" available="false">
     <url>https://ukrizol.xyz/ua/p2183246769-kazan-alyuminiyevij-brizoll.html</url>
     <price>628</price>
     <currencyId>UAH</currencyId>
@@ -98178,7 +98178,7 @@
     <vendorCode>12-002-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">0.63</param>
     <param name="Висота" unit="мм">112</param>
     <param name="Висота з кришкою" unit="мм">134</param>
@@ -98481,7 +98481,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Немає</param>
   </offer>
-  <offer id="2183246779" available="true">
+  <offer id="2183246779" available="false">
     <url>https://ukrizol.xyz/ua/p2183246779-kazan-alyuminiyevij-brizoll.html</url>
     <price>1258</price>
     <currencyId>UAH</currencyId>
@@ -98500,7 +98500,7 @@
     <vendorCode>12-010-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">1.82</param>
     <param name="Висота" unit="мм">161.2</param>
     <param name="Висота з кришкою" unit="мм">195.2</param>
@@ -98769,7 +98769,7 @@
     <param name="Тип">Кришка</param>
     <param name="Вес, гр" unit="гр">1700</param>
   </offer>
-  <offer id="2183246789" available="true">
+  <offer id="2183246789" available="false">
     <url>https://ukrizol.xyz/ua/p2183246789-kazan-chavunnij-aziatskij.html</url>
     <price>3234</price>
     <currencyId>UAH</currencyId>
@@ -98786,7 +98786,7 @@
     <vendorCode>KA08-1S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">8.61</param>
     <param name="Висота" unit="мм">136.7</param>
     <param name="Висота з кришкою" unit="мм">199.2</param>
@@ -99675,7 +99675,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Є</param>
   </offer>
-  <offer id="2183246821" available="true">
+  <offer id="2183246821" available="false">
     <url>https://ukrizol.xyz/ua/p2183246821-kazan-chavunnij-turistichnij.html</url>
     <price>2623</price>
     <currencyId>UAH</currencyId>
@@ -99693,7 +99693,7 @@
     <vendorCode>KT10-2</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">8.1</param>
     <param name="Матеріал">Чавун</param>
     <param name="Призначення">Для відкритого вогню</param>
@@ -99708,7 +99708,7 @@
     <param name="Высота" unit="см">191.0</param>
     <param name="Диаметр" unit="см">300.0</param>
   </offer>
-  <offer id="2183246822" available="true">
+  <offer id="2183246822" available="false">
     <url>https://ukrizol.xyz/ua/p2183246822-kazan-chavunnij-aziatskij.html</url>
     <price>3759</price>
     <currencyId>UAH</currencyId>
@@ -99730,7 +99730,7 @@
     <vendorCode>KA10-3S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">10</param>
     <param name="Матеріал">Чавун</param>
     <param name="Призначення">Для відкритого вогню</param>
@@ -99839,7 +99839,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Є</param>
   </offer>
-  <offer id="2183246827" available="true">
+  <offer id="2183246827" available="false">
     <url>https://ukrizol.xyz/ua/p2183246827-krishka-sklyana-metalevim.html</url>
     <price>452</price>
     <currencyId>UAH</currencyId>
@@ -99852,14 +99852,14 @@
     <vendorCode>4624</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Діаметр" unit="см">24</param>
     <param name="Матеріал">Жаростійке скло</param>
     <param name="Тип">Кришка</param>
     <param name="Вес, гр" unit="гр">600</param>
     <param name="Высота" unit="см">6.2</param>
   </offer>
-  <offer id="2183246828" available="true">
+  <offer id="2183246828" available="false">
     <url>https://ukrizol.xyz/ua/p2183246828-kazan-chavunnij-aziatskij.html</url>
     <price>2394</price>
     <currencyId>UAH</currencyId>
@@ -99875,7 +99875,7 @@
     <vendorCode>KA10S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">5.31</param>
     <param name="Кришка">Немає</param>
     <param name="Матеріал">Чавун</param>
@@ -100189,7 +100189,7 @@
     <param name="Діаметр основи, мм" unit="">278</param>
     <param name="Объем, л" unit="">6.8</param>
   </offer>
-  <offer id="2183246839" available="true">
+  <offer id="2183246839" available="false">
     <url>https://ukrizol.xyz/ua/p2183246839-zharovnya-chavunna-300.html</url>
     <price>1888</price>
     <currencyId>UAH</currencyId>
@@ -100207,7 +100207,7 @@
     <vendorCode>M3060U-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">5.1</param>
@@ -100325,7 +100325,7 @@
     <param name="Товщина стінок казана" unit="мм">3.8</param>
     <param name="Тринога">Немає</param>
   </offer>
-  <offer id="2183246845" available="true">
+  <offer id="2183246845" available="false">
     <url>https://ukrizol.xyz/ua/p2183246845-kazan-alyuminiyevij-brizoll.html</url>
     <price>943</price>
     <currencyId>UAH</currencyId>
@@ -100346,7 +100346,7 @@
     <vendorCode>12-006-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">1.31</param>
     <param name="Висота" unit="мм">127.2</param>
     <param name="Висота з кришкою" unit="мм">157.2</param>
@@ -100505,7 +100505,7 @@
     <param name="Тип посуду">Ківш кухонний</param>
     <param name="Довжина з ручками/вушками" unit="мм">310</param>
   </offer>
-  <offer id="2183246851" available="true">
+  <offer id="2183246851" available="false">
     <url>https://ukrizol.xyz/ua/p2183246851-kazan-alyuminiyevij-brizoll.html</url>
     <price>1048</price>
     <currencyId>UAH</currencyId>
@@ -100526,7 +100526,7 @@
     <vendorCode>12-008-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">1.57</param>
     <param name="Висота" unit="мм">145.2</param>
     <param name="Висота з кришкою" unit="мм">177.2</param>
@@ -101376,7 +101376,7 @@
     <param name="Діаметр основи, мм" unit="">278</param>
     <param name="Объем, л" unit="">6.8</param>
   </offer>
-  <offer id="2183246882" available="true">
+  <offer id="2183246882" available="false">
     <url>https://ukrizol.xyz/ua/p2183246882-kazan-chavunnij-aziatskij.html</url>
     <price>3339</price>
     <currencyId>UAH</currencyId>
@@ -101394,7 +101394,7 @@
     <vendorCode>KA10-2S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">8.21</param>
     <param name="Матеріал">Чавун</param>
     <param name="Объем" unit="мл">10.0</param>
@@ -101409,7 +101409,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183246883" available="true">
+  <offer id="2183246883" available="false">
     <url>https://ukrizol.xyz/ua/p2183246883-kazan-chavunnij-aziatskij.html</url>
     <price>2289</price>
     <currencyId>UAH</currencyId>
@@ -101425,7 +101425,7 @@
     <vendorCode>KA08S</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">4.81</param>
     <param name="Кришка">Немає</param>
     <param name="Матеріал">Чавун</param>
@@ -101680,7 +101680,7 @@
     <param name="Наявність кришки">Так</param>
     <param name="Форма">Кругла</param>
   </offer>
-  <offer id="2183354153" available="true">
+  <offer id="2183354153" available="false">
     <url>https://ukrizol.xyz/ua/p2183354153-pidstavka-pid-kazan.html</url>
     <price>820</price>
     <currencyId>UAH</currencyId>
@@ -101691,7 +101691,7 @@
     <name>Підставка під казан 340 мм, фарбована, висота 45 см</name>
     <vendorCode>P3445</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Высота" unit="см">450</param>
     <param name="Диаметр" unit="см">340</param>
     <param name="Назначение" unit="">Для казана</param>
@@ -102422,7 +102422,7 @@
     <param name="Длина рулона, м" unit="">10</param>
     <param name="Ширина, м" unit="">1.2</param>
   </offer>
-  <offer id="2199289908" available="true">
+  <offer id="2199289908" available="false">
     <url>https://ukrizol.xyz/ua/p2199289908-skovoroda-chavunna-wok.html</url>
     <price>2098</price>
     <currencyId>UAH</currencyId>
@@ -102438,7 +102438,7 @@
     <vendorCode>W30-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">30 (см)</param>
     <param name="Вага" unit="кг">4.6</param>
@@ -102457,7 +102457,7 @@
     <param name="Діаметр основи, мм" unit="">107</param>
     <param name="Объем, л" unit="">4.88</param>
   </offer>
-  <offer id="2199289909" available="true">
+  <offer id="2199289909" available="false">
     <url>https://ukrizol.xyz/ua/p2199289909-zharovnya-chavunna-280.html</url>
     <price>1678</price>
     <currencyId>UAH</currencyId>
@@ -102471,7 +102471,7 @@
     <vendorCode>M2860U-1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">28 (см)</param>
     <param name="Вага" unit="кг">4.55</param>
@@ -102490,7 +102490,7 @@
     <param name="Діаметр основи, мм" unit="">210</param>
     <param name="Объем, л" unit="">3.36</param>
   </offer>
-  <offer id="2199289910" available="true">
+  <offer id="2199289910" available="false">
     <url>https://ukrizol.xyz/ua/p2199289910-skovoroda-chavunna-litoyu.html</url>
     <price>1468</price>
     <currencyId>UAH</currencyId>
@@ -102512,7 +102512,7 @@
     <vendorCode>M2460P-2</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">2.9</param>
@@ -102816,7 +102816,7 @@
   </offer>
   <offer id="2238574502" available="true">
     <url>https://ukrizol.xyz/ua/p2238574502-skotch-termostijkij-200s.html</url>
-    <price>365</price>
+    <price>374</price>
     <currencyId>UAH</currencyId>
     <categoryId>72154835</categoryId>
     <picture>https://images.prom.ua/5941279773_skotch-termostijkij-200s.jpg</picture>
@@ -105211,7 +105211,7 @@
     <vendorCode>889537</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Вага" unit="г">350</param>
     <param name="Діаметр" unit="см">25</param>
     <param name="Колір">Фіолетовий</param>
@@ -105558,7 +105558,7 @@
   </offer>
   <offer id="2328217260" available="false">
     <url>https://ukrizol.xyz/ua/p2328217260-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/5126134337_sholom-bokserskij-boxer.jpg</picture>
@@ -105615,7 +105615,7 @@
   </offer>
   <offer id="2328217262" available="true">
     <url>https://ukrizol.xyz/ua/p2328217262-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/3621169708_sholom-bokserskij-boxer.jpg</picture>
@@ -105642,7 +105642,7 @@
   </offer>
   <offer id="2328217263" available="false">
     <url>https://ukrizol.xyz/ua/p2328217263-sholom-bokserskij-boxer.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>148855694</categoryId>
     <picture>https://images.prom.ua/3616988327_sholom-bokserskij-boxer.jpg</picture>
@@ -106191,7 +106191,7 @@
     <vendorCode>21040100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Диаметр пузырька" unit="мм">10</param>
@@ -108066,7 +108066,7 @@
     <vendorCode>889571У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Максимальна робоча температура" unit="град.">120</param>
     <param name="Щільність" unit="кг/м3">55</param>
@@ -108099,7 +108099,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Щільність" unit="кг/м3">55</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -109715,7 +109715,7 @@
   </offer>
   <offer id="2536391290" available="false">
     <url>https://ukrizol.xyz/ua/p2536391290-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/6552042776_bokserski-rukavichki-boxer.jpg</picture>
@@ -109741,7 +109741,7 @@
   </offer>
   <offer id="2536391291" available="true">
     <url>https://ukrizol.xyz/ua/p2536391291-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/6552043558_bokserski-rukavichki-boxer.jpg</picture>
@@ -109787,7 +109787,7 @@
   </offer>
   <offer id="2536391293" available="true">
     <url>https://ukrizol.xyz/ua/p2536391293-sholom-trenuvalnij-povnim.html</url>
-    <price>1491</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895503780_sholom-trenuvalnij-z.jpg</picture>
@@ -109832,7 +109832,7 @@
   </offer>
   <offer id="2536391296" available="true">
     <url>https://ukrizol.xyz/ua/p2536391296-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/6552043558_bokserski-rukavichki-boxer.jpg</picture>
@@ -109899,7 +109899,7 @@
   </offer>
   <offer id="2536391299" available="true">
     <url>https://ukrizol.xyz/ua/p2536391299-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/6552042776_bokserski-rukavichki-boxer.jpg</picture>
@@ -109925,7 +109925,7 @@
   </offer>
   <offer id="2536391300" available="true">
     <url>https://ukrizol.xyz/ua/p2536391300-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/6552045401_bokserski-rukavichki-boxer.jpg</picture>
@@ -109950,7 +109950,7 @@
   </offer>
   <offer id="2536391301" available="true">
     <url>https://ukrizol.xyz/ua/p2536391301-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/6552045401_bokserski-rukavichki-boxer.jpg</picture>
@@ -110248,7 +110248,7 @@
   </offer>
   <offer id="2568779847" available="true">
     <url>https://ukrizol.xyz/ua/p2568779847-lapi-kikbokserski-boxer.html</url>
-    <price>708</price>
+    <price>798</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503595_lapi-kikbokserski-boxer.jpg</picture>
@@ -110315,7 +110315,7 @@
   </offer>
   <offer id="2568779850" available="true">
     <url>https://ukrizol.xyz/ua/p2568779850-lapi-bokserski-boxer.html</url>
-    <price>845</price>
+    <price>976</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503556_lapi-bokserski-boxer.jpg</picture>
@@ -110340,7 +110340,7 @@
   </offer>
   <offer id="2568779851" available="true">
     <url>https://ukrizol.xyz/ua/p2568779851-lapi-bokserski-boxer.html</url>
-    <price>588</price>
+    <price>651</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6862755962_lapi-bokserski-boxer.jpg</picture>
@@ -110388,7 +110388,7 @@
   </offer>
   <offer id="2568779853" available="true">
     <url>https://ukrizol.xyz/ua/p2568779853-lapi-bokserski-boxer.html</url>
-    <price>845</price>
+    <price>976</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503527_lapi-bokserski-boxer.jpg</picture>
@@ -110413,7 +110413,7 @@
   </offer>
   <offer id="2568779854" available="true">
     <url>https://ukrizol.xyz/ua/p2568779854-lapi-bokserski-boxer.html</url>
-    <price>630</price>
+    <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503325_lapi-bokserski-boxer.jpg</picture>
@@ -110460,7 +110460,7 @@
   </offer>
   <offer id="2568779856" available="true">
     <url>https://ukrizol.xyz/ua/p2568779856-lapi-bokserski-boxer.html</url>
-    <price>630</price>
+    <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503312_lapi-bokserski-boxer.jpg</picture>
@@ -110506,7 +110506,7 @@
   </offer>
   <offer id="2568779858" available="true">
     <url>https://ukrizol.xyz/ua/p2568779858-lapi-bokserski-boxer.html</url>
-    <price>630</price>
+    <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503306_lapi-bokserski-boxer.jpg</picture>
@@ -110530,7 +110530,7 @@
   </offer>
   <offer id="2568779859" available="true">
     <url>https://ukrizol.xyz/ua/p2568779859-lapi-kikbokserski-boxer.html</url>
-    <price>708</price>
+    <price>798</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503602_lapi-kikbokserski-boxer.jpg</picture>
@@ -110575,7 +110575,7 @@
   </offer>
   <offer id="2568779861" available="true">
     <url>https://ukrizol.xyz/ua/p2568779861-lapi-bokserski-boxer.html</url>
-    <price>845</price>
+    <price>976</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503336_lapi-bokserski-boxer.jpg</picture>
@@ -110600,7 +110600,7 @@
   </offer>
   <offer id="2568779862" available="true">
     <url>https://ukrizol.xyz/ua/p2568779862-lapi-bokserski-boxer.html</url>
-    <price>588</price>
+    <price>651</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6862816752_lapi-bokserski-boxer.jpg</picture>
@@ -110626,7 +110626,7 @@
   </offer>
   <offer id="2568779863" available="true">
     <url>https://ukrizol.xyz/ua/p2568779863-lapi-kikbokserski-boxer.html</url>
-    <price>708</price>
+    <price>798</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6895503581_lapi-kikbokserski-boxer.jpg</picture>
@@ -110693,7 +110693,7 @@
   </offer>
   <offer id="2568779866" available="true">
     <url>https://ukrizol.xyz/ua/p2568779866-lapi-bokserski-boxer.html</url>
-    <price>588</price>
+    <price>651</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947439</categoryId>
     <picture>https://images.prom.ua/6862755967_lapi-bokserski-boxer.jpg</picture>
@@ -110720,7 +110720,7 @@
   </offer>
   <offer id="2568903846" available="true">
     <url>https://ukrizol.xyz/ua/p2568903846-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -110743,7 +110743,7 @@
   </offer>
   <offer id="2568903847" available="true">
     <url>https://ukrizol.xyz/ua/p2568903847-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502612_bokserski-rukavichki-boxer.jpg</picture>
@@ -110766,7 +110766,7 @@
   </offer>
   <offer id="2568903848" available="true">
     <url>https://ukrizol.xyz/ua/p2568903848-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6552043558_bokserski-rukavichki-boxer.jpg</picture>
@@ -110791,7 +110791,7 @@
   </offer>
   <offer id="2568903849" available="true">
     <url>https://ukrizol.xyz/ua/p2568903849-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502612_bokserski-rukavichki-boxer.jpg</picture>
@@ -110814,7 +110814,7 @@
   </offer>
   <offer id="2568903850" available="true">
     <url>https://ukrizol.xyz/ua/p2568903850-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/6895503797_sholom-trenuvalnij-z.jpg</picture>
@@ -110838,7 +110838,7 @@
   </offer>
   <offer id="2568903851" available="true">
     <url>https://ukrizol.xyz/ua/p2568903851-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895503797_sholom-trenuvalnij-z.jpg</picture>
@@ -110885,7 +110885,7 @@
   </offer>
   <offer id="2568903853" available="true">
     <url>https://ukrizol.xyz/ua/p2568903853-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/6895503785_sholom-trenuvalnij-z.jpg</picture>
@@ -110958,7 +110958,7 @@
   </offer>
   <offer id="2568903856" available="true">
     <url>https://ukrizol.xyz/ua/p2568903856-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502606_bokserski-rukavichki-boxer.jpg</picture>
@@ -110983,7 +110983,7 @@
   </offer>
   <offer id="2568903857" available="true">
     <url>https://ukrizol.xyz/ua/p2568903857-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502628_bokserski-rukavichki-boxer.jpg</picture>
@@ -111055,7 +111055,7 @@
   </offer>
   <offer id="2568903860" available="true">
     <url>https://ukrizol.xyz/ua/p2568903860-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/6895503791_sholom-trenuvalnij-z.jpg</picture>
@@ -111080,7 +111080,7 @@
   </offer>
   <offer id="2568903861" available="true">
     <url>https://ukrizol.xyz/ua/p2568903861-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>98020300</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -111103,7 +111103,7 @@
   </offer>
   <offer id="2568903862" available="true">
     <url>https://ukrizol.xyz/ua/p2568903862-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502606_bokserski-rukavichki-boxer.jpg</picture>
@@ -111152,7 +111152,7 @@
   </offer>
   <offer id="2568903864" available="false">
     <url>https://ukrizol.xyz/ua/p2568903864-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6552042776_bokserski-rukavichki-boxer.jpg</picture>
@@ -111178,7 +111178,7 @@
   </offer>
   <offer id="2568903865" available="true">
     <url>https://ukrizol.xyz/ua/p2568903865-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502606_bokserski-rukavichki-boxer.jpg</picture>
@@ -111203,7 +111203,7 @@
   </offer>
   <offer id="2568903866" available="true">
     <url>https://ukrizol.xyz/ua/p2568903866-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502612_bokserski-rukavichki-boxer.jpg</picture>
@@ -111226,7 +111226,7 @@
   </offer>
   <offer id="2568903867" available="true">
     <url>https://ukrizol.xyz/ua/p2568903867-bokserski-rukavichki-boxer.html</url>
-    <price>792</price>
+    <price>892</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6552045401_bokserski-rukavichki-boxer.jpg</picture>
@@ -111251,7 +111251,7 @@
   </offer>
   <offer id="2568903868" available="true">
     <url>https://ukrizol.xyz/ua/p2568903868-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>105224308</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -111274,7 +111274,7 @@
   </offer>
   <offer id="2568903869" available="true">
     <url>https://ukrizol.xyz/ua/p2568903869-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502606_bokserski-rukavichki-boxer.jpg</picture>
@@ -111323,7 +111323,7 @@
   </offer>
   <offer id="2568903871" available="true">
     <url>https://ukrizol.xyz/ua/p2568903871-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502621_bokserski-rukavichki-boxer.jpg</picture>
@@ -111396,7 +111396,7 @@
   </offer>
   <offer id="2568903874" available="true">
     <url>https://ukrizol.xyz/ua/p2568903874-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502612_bokserski-rukavichki-boxer.jpg</picture>
@@ -111419,7 +111419,7 @@
   </offer>
   <offer id="2568903875" available="true">
     <url>https://ukrizol.xyz/ua/p2568903875-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947449</categoryId>
     <picture>https://images.prom.ua/6895502612_bokserski-rukavichki-boxer.jpg</picture>
@@ -111442,7 +111442,7 @@
   </offer>
   <offer id="2568903876" available="true">
     <url>https://ukrizol.xyz/ua/p2568903876-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -111465,7 +111465,7 @@
   </offer>
   <offer id="2568903877" available="false">
     <url>https://ukrizol.xyz/ua/p2568903877-bokserski-rukavichki-boxer.html</url>
-    <price>761</price>
+    <price>840</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -111488,7 +111488,7 @@
   </offer>
   <offer id="2568903878" available="true">
     <url>https://ukrizol.xyz/ua/p2568903878-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895503785_sholom-trenuvalnij-z.jpg</picture>
@@ -111536,7 +111536,7 @@
   </offer>
   <offer id="2568903880" available="true">
     <url>https://ukrizol.xyz/ua/p2568903880-sholom-trenuvalnij-povnim.html</url>
-    <price>966</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/6895503791_sholom-trenuvalnij-z.jpg</picture>
@@ -111608,7 +111608,7 @@
   </offer>
   <offer id="2568903883" available="true">
     <url>https://ukrizol.xyz/ua/p2568903883-bokserski-rukavichki-boxer.html</url>
-    <price>708</price>
+    <price>782</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502616_bokserski-rukavichki-boxer.jpg</picture>
@@ -111631,7 +111631,7 @@
   </offer>
   <offer id="2568903884" available="true">
     <url>https://ukrizol.xyz/ua/p2568903884-bokserski-rukavichki-boxer.html</url>
-    <price>808</price>
+    <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6895502606_bokserski-rukavichki-boxer.jpg</picture>
@@ -113675,7 +113675,7 @@
     <vendorCode>889632</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>107</quantity_in_stock>
+    <quantity_in_stock>105</quantity_in_stock>
     <param name="Вага" unit="г">500</param>
     <param name="Консистенція">Аерозоль</param>
     <param name="Об`єм" unit="мл">600</param>
@@ -114399,7 +114399,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Щільність" unit="кг/м3">75</param>
   </offer>
-  <offer id="2743657380" available="true">
+  <offer id="2743657380" available="false">
     <url>https://ukrizol.xyz/ua/p2743657380-skovoroda-alyuminiyeva-240h60.html</url>
     <price>922</price>
     <currencyId>UAH</currencyId>
@@ -114421,7 +114421,7 @@
     <vendorCode>5-2460-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">1.3</param>
@@ -114436,7 +114436,7 @@
     <param name="Товщина стінки" unit="мм">2.7</param>
     <param name="Форма">Кругла</param>
   </offer>
-  <offer id="2743657381" available="true">
+  <offer id="2743657381" available="false">
     <url>https://ukrizol.xyz/ua/p2743657381-skovoroda-alyuminiyeva-260h60.html</url>
     <price>1038</price>
     <currencyId>UAH</currencyId>
@@ -114458,7 +114458,7 @@
     <vendorCode>5-2660-6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">1.6</param>
@@ -114473,7 +114473,7 @@
     <param name="Товщина стінки" unit="мм">2.7</param>
     <param name="Форма">Кругла</param>
   </offer>
-  <offer id="2743657382" available="true">
+  <offer id="2743657382" available="false">
     <url>https://ukrizol.xyz/ua/p2743657382-skovoroda-alyuminiyeva-260h60.html</url>
     <price>712</price>
     <currencyId>UAH</currencyId>
@@ -114495,7 +114495,7 @@
     <vendorCode>5-2660</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">26 (см)</param>
     <param name="Вага" unit="кг">0.7</param>
@@ -114584,7 +114584,7 @@
     <param name="Товщина стінок казана" unit="мм">4.1</param>
     <param name="Тринога">Немає</param>
   </offer>
-  <offer id="2743657386" available="true">
+  <offer id="2743657386" available="false">
     <url>https://ukrizol.xyz/ua/p2743657386-skovoroda-alyuminiyeva-240h60.html</url>
     <price>618</price>
     <currencyId>UAH</currencyId>
@@ -114606,7 +114606,7 @@
     <vendorCode>5-2460</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">0.7</param>
@@ -114621,7 +114621,7 @@
     <param name="Товщина стінки" unit="мм">2.7</param>
     <param name="Форма">Кругла</param>
   </offer>
-  <offer id="2743657387" available="true">
+  <offer id="2743657387" available="false">
     <url>https://ukrizol.xyz/ua/p2743657387-skovoroda-alyuminiyeva-240h60.html</url>
     <price>838</price>
     <currencyId>UAH</currencyId>
@@ -114642,7 +114642,7 @@
     <vendorCode>5-2460-4</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарне покриття">Немає</param>
     <param name="Верхній діаметр посуду">24 (см)</param>
     <param name="Вага" unit="кг">1</param>
@@ -115303,7 +115303,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>449</quantity_in_stock>
+    <quantity_in_stock>441</quantity_in_stock>
     <param name="Застосування матеріалу">Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -116255,7 +116255,7 @@
   </offer>
   <offer id="2836585360" available="true">
     <url>https://ukrizol.xyz/ua/p2836585360-bokserski-rukavichki-boxer.html</url>
-    <price>1680</price>
+    <price>1837</price>
     <currencyId>UAH</currencyId>
     <categoryId>98020300</categoryId>
     <picture>https://images.prom.ua/6973652400_bokserski-rukavichki-boxer.jpg</picture>
@@ -116281,7 +116281,7 @@
   </offer>
   <offer id="2836585361" available="true">
     <url>https://ukrizol.xyz/ua/p2836585361-bokserski-rukavichki-boxer.html</url>
-    <price>1260</price>
+    <price>1422</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6973653379_bokserski-rukavichki-boxer.jpg</picture>
@@ -116306,7 +116306,7 @@
   </offer>
   <offer id="2836585362" available="true">
     <url>https://ukrizol.xyz/ua/p2836585362-bokserski-rukavichki-boxer.html</url>
-    <price>1680</price>
+    <price>1837</price>
     <currencyId>UAH</currencyId>
     <categoryId>98020300</categoryId>
     <picture>https://images.prom.ua/6973653379_bokserski-rukavichki-boxer.jpg</picture>
@@ -116329,9 +116329,35 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
   </offer>
+  <offer id="2836585363" available="true">
+    <url>https://ukrizol.xyz/ua/p2836585363-rukavichki-trenuvalni-boxer.html</url>
+    <price>498</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94947452</categoryId>
+    <picture>https://images.prom.ua/6973707981_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707976_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707977_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707978_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707979_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707980_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/6973707982_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER NEW M вінілшкіряні чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2015-N3Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Тренувальні</param>
+  </offer>
   <offer id="2836585364" available="true">
     <url>https://ukrizol.xyz/ua/p2836585364-bokserski-rukavichki-boxer.html</url>
-    <price>1680</price>
+    <price>1837</price>
     <currencyId>UAH</currencyId>
     <categoryId>105224308</categoryId>
     <picture>https://images.prom.ua/6973653379_bokserski-rukavichki-boxer.jpg</picture>
@@ -116356,7 +116382,7 @@
   </offer>
   <offer id="2836585365" available="false">
     <url>https://ukrizol.xyz/ua/p2836585365-bokserski-rukavichki-boxer.html</url>
-    <price>1470</price>
+    <price>1596</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947450</categoryId>
     <picture>https://images.prom.ua/6973653379_bokserski-rukavichki-boxer.jpg</picture>
@@ -116381,7 +116407,7 @@
   </offer>
   <offer id="2836585366" available="true">
     <url>https://ukrizol.xyz/ua/p2836585366-bokserski-rukavichki-boxer.html</url>
-    <price>1260</price>
+    <price>1422</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6973652400_bokserski-rukavichki-boxer.jpg</picture>
@@ -116407,7 +116433,7 @@
   </offer>
   <offer id="2836585367" available="true">
     <url>https://ukrizol.xyz/ua/p2836585367-bokserski-rukavichki-boxer.html</url>
-    <price>1260</price>
+    <price>1422</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947448</categoryId>
     <picture>https://images.prom.ua/6973645579_bokserski-rukavichki-boxer.jpg</picture>
@@ -116431,7 +116457,7 @@
   </offer>
   <offer id="2836585368" available="true">
     <url>https://ukrizol.xyz/ua/p2836585368-bokserski-rukavichki-boxer.html</url>
-    <price>1680</price>
+    <price>1837</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/6973645579_bokserski-rukavichki-boxer.jpg</picture>
@@ -117088,7 +117114,7 @@
     <vendorCode>250315</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Колір">Чорний</param>
@@ -117766,7 +117792,7 @@
   </offer>
   <offer id="2873014092" available="true">
     <url>https://ukrizol.xyz/ua/p2873014092-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7040481972_sholom-turnirnij-vidkritij.jpg</picture>
@@ -117841,7 +117867,7 @@
   </offer>
   <offer id="2873014095" available="true">
     <url>https://ukrizol.xyz/ua/p2873014095-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7040481977_sholom-turnirnij-vidkritij.jpg</picture>
@@ -117866,7 +117892,7 @@
   </offer>
   <offer id="2873014096" available="true">
     <url>https://ukrizol.xyz/ua/p2873014096-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7040481990_sholom-turnirnij-vidkritij.jpg</picture>
@@ -117916,7 +117942,7 @@
   </offer>
   <offer id="2873014098" available="true">
     <url>https://ukrizol.xyz/ua/p2873014098-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7040481984_sholom-turnirnij-vidkritij.jpg</picture>
@@ -117940,7 +117966,7 @@
   </offer>
   <offer id="2873014099" available="true">
     <url>https://ukrizol.xyz/ua/p2873014099-sholom-trenuvalnij-povnim.html</url>
-    <price>1491</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/7166066998_sholom-trenuvalnij-z.jpg</picture>
@@ -117993,7 +118019,7 @@
   </offer>
   <offer id="2873014101" available="true">
     <url>https://ukrizol.xyz/ua/p2873014101-sholom-trenuvalnij-povnim.html</url>
-    <price>1491</price>
+    <price>1601</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7166003583_sholom-trenuvalnij-z.jpg</picture>
@@ -118047,7 +118073,7 @@
   </offer>
   <offer id="2873014103" available="false">
     <url>https://ukrizol.xyz/ua/p2873014103-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
     <picture>https://images.prom.ua/7040481967_sholom-turnirnij-vidkritij.jpg</picture>
@@ -118121,7 +118147,7 @@
   </offer>
   <offer id="2873014106" available="true">
     <url>https://ukrizol.xyz/ua/p2873014106-sholom-turnirnij-vidkritij.html</url>
-    <price>1333</price>
+    <price>1239</price>
     <currencyId>UAH</currencyId>
     <categoryId>141469697</categoryId>
     <picture>https://images.prom.ua/7040481998_sholom-turnirnij-vidkritij.jpg</picture>
@@ -118226,6 +118252,80 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Щільність" unit="кг/м3">75</param>
+  </offer>
+  <offer id="2879372610" available="true">
+    <url>https://ukrizol.xyz/ua/p2879372610-rukavichki-trenuvalni-boxer.html</url>
+    <price>892</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94947452</categoryId>
+    <picture>https://images.prom.ua/7166233020_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166233019_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166233018_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166233023_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166233022_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166233038_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER NEW L шкіра сині</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2014-0N1С</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>1</quantity_in_stock>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Синій</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Тренувальні</param>
+  </offer>
+  <offer id="2879372611" available="true">
+    <url>https://ukrizol.xyz/ua/p2879372611-rukavichki-trenuvalni-boxer.html</url>
+    <price>892</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94947452</categoryId>
+    <picture>https://images.prom.ua/7166246563_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166246558_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166246562_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166246557_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER NEW L шкіра чорні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2014-0N1Ч</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>2</quantity_in_stock>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Чорний</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Тренувальні</param>
+  </offer>
+  <offer id="2879372612" available="true">
+    <url>https://ukrizol.xyz/ua/p2879372612-rukavichki-trenuvalni-boxer.html</url>
+    <price>892</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94947452</categoryId>
+    <picture>https://images.prom.ua/7166211964_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211936_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211940_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211937_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211943_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211946_rukavichki-trenuvalni-boxer.jpg</picture>
+    <picture>https://images.prom.ua/7166211948_rukavichki-trenuvalni-boxer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рукавички Тренувальні BOXER NEW L шкіра червоні</name>
+    <vendor>Boxer</vendor>
+    <vendorCode>2014-0N1К</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>3</quantity_in_stock>
+    <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
+    <param name="Матеріал">Натуральна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Тренувальні</param>
   </offer>
   <offer id="2881075343" available="false">
     <url>https://ukrizol.xyz/ua/p2881075343-skotch-alyuminiyevij-armovanij.html</url>
@@ -118480,7 +118580,7 @@
     <param name="Теплопроводность" unit="Вт/мК">0.032</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="2892328646" available="false">
+<offer id="2892328646" available="false">
     <url>https://ukrizol.xyz/ua/p2892328646-uteplyuvach-dlya-trub.html</url>
     <price>320</price>
     <currencyId>UAH</currencyId>
@@ -118591,7 +118691,7 @@
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Толщина (мм)" unit="мм">10</param>
   </offer>
-<offer id="2904166189" available="false">
+  <offer id="2904166189" available="false">
     <url>https://ukrizol.xyz/ua/p2904166189-filament-dsf-pla.html</url>
     <price>514</price>
     <currencyId>UAH</currencyId>
@@ -119408,7 +119508,7 @@
     <param name="Длина листа" unit="м">2</param>
     <param name="Площадь листа" unit="кв.м">2</param>
   </offer>
-  <offer id="2939080745" available="false">
+  <offer id="2939080745" available="true">
     <url>https://ukrizol.xyz/ua/p2939080745-list-eva-eva.html</url>
     <price>1050</price>
     <currencyId>UAH</currencyId>
@@ -119421,7 +119521,7 @@
     <name>Лист ЕВА (EVA) сірий 1500х1000х10 мм (автокилим, ромб)</name>
     <vendorCode>889771</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
     <param name="Высота" unit="см">10</param>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-07 17:00">
+<yml_catalog date="2026-04-08 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="47.94141" />
+      <currency id="USD" rate="47.84406" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.3531" />
+      <currency id="EUR" rate="55.29821" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -952,7 +952,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>597</quantity_in_stock>
+    <quantity_in_stock>591</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2420,7 +2420,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>139</quantity_in_stock>
+    <quantity_in_stock>134</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2511,7 +2511,7 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>109</quantity_in_stock>
+    <quantity_in_stock>104</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Разрывная нагрузка (по длине)" unit="Н/5 см">160.0</param>
@@ -4677,7 +4677,7 @@
   </offer>
   <offer id="1099079093" available="true">
     <url>https://ukrizol.xyz/ua/p1099079093-gazospinenij-polietilen-ukrizol.html</url>
-    <price>910</price>
+    <price>913</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -4791,7 +4791,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1506</quantity_in_stock>
+    <quantity_in_stock>656</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -8012,7 +8012,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>56</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8578,7 +8578,7 @@
     <vendorCode>63335</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>106</quantity_in_stock>
+    <quantity_in_stock>105</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Разрывная нагрузка (по длине)" unit="Н/5 см">160.0</param>
@@ -9606,7 +9606,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1859</quantity_in_stock>
+    <quantity_in_stock>1854</quantity_in_stock>
     <param name="Довжина" unit="м">25</param>
     <param name="Ширина" unit="мм">50</param>
     <param name="Колір">Чорний</param>
@@ -9793,7 +9793,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1958</quantity_in_stock>
+    <quantity_in_stock>1955</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Колір">Чорний</param>
@@ -9862,7 +9862,7 @@
     <vendorCode>62762</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>71</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Довжина" unit="м">3</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10377,7 +10377,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>493</quantity_in_stock>
+    <quantity_in_stock>532</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10458,7 +10458,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>439</quantity_in_stock>
+    <quantity_in_stock>437</quantity_in_stock>
     <param name="Вага" unit="кг">2.09</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -14752,7 +14752,7 @@
     <vendorCode>1005-01</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вага" unit="кг">13</param>
     <param name="Висота" unit="см">95</param>
     <param name="Вікова група">Дитяча</param>
@@ -17947,7 +17947,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вага" unit="кг">30</param>
     <param name="Висота" unit="см">140</param>
     <param name="Вікова група">Доросла</param>
@@ -18235,7 +18235,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>116</quantity_in_stock>
+    <quantity_in_stock>117</quantity_in_stock>
     <param name="Максимальна вага" unit="кг">100</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Ланцюг для підвісу</param>
@@ -22496,7 +22496,7 @@
     <vendorCode>ВП60/9</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -22744,7 +22744,7 @@
     <vendorCode>ВП76/13</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>124</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -50849,7 +50849,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>137</quantity_in_stock>
+    <quantity_in_stock>135</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -51107,7 +51107,7 @@
   </offer>
   <offer id="1633838448" available="true">
     <url>https://ukrizol.xyz/ua/p1633838448-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1789</price>
+    <price>2066</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -51472,7 +51472,7 @@
   </offer>
   <offer id="1639565528" available="true">
     <url>https://ukrizol.xyz/ua/p1639565528-avtolin-turechchina.html</url>
-    <price>840</price>
+    <price>1050</price>
     <currencyId>UAH</currencyId>
     <categoryId>112743094</categoryId>
     <picture>https://images.prom.ua/3857662938_avtolin-turechchina-18.jpg</picture>
@@ -54037,7 +54037,7 @@
     <vendorCode>1502625</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>43</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Вид" unit="">Замки</param>
     <param name="Тип" unit="">Детская безопасность</param>
   </offer>
@@ -58295,7 +58295,7 @@
   </offer>
   <offer id="1652016675" available="true">
     <url>https://ukrizol.xyz/ua/p1652016675-gazospinenij-polietilen-ukrizol.html</url>
-    <price>2293</price>
+    <price>2280</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -58338,7 +58338,7 @@
     <vendorCode>900036</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Клас матеріалу по теплопровідності">Низька</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
@@ -58874,7 +58874,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1651</quantity_in_stock>
+    <quantity_in_stock>1653</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -59132,7 +59132,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>313</quantity_in_stock>
+    <quantity_in_stock>314</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -65364,7 +65364,7 @@
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентний</param>
     <param name="Стан клею">Готова емульсія</param>
     <param name="Тип використання">Універсальний</param>
@@ -67500,7 +67500,7 @@
     <vendorCode>832620</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>185</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -67618,7 +67618,7 @@
   </offer>
   <offer id="1804708214" available="true">
     <url>https://ukrizol.xyz/ua/p1804708214-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1820</price>
+    <price>1827</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -68281,7 +68281,7 @@
     <vendorCode>41020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>41</quantity_in_stock>
+    <quantity_in_stock>39</quantity_in_stock>
     <param name="Вага" unit="кг">1.925</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -68337,7 +68337,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>319</quantity_in_stock>
+    <quantity_in_stock>318</quantity_in_stock>
     <param name="Вага" unit="кг">1.67</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
@@ -68399,7 +68399,7 @@
     <vendorCode>56391</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>184</quantity_in_stock>
+    <quantity_in_stock>188</quantity_in_stock>
     <param name="Вага" unit="кг">2.13</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
@@ -77811,7 +77811,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889374</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>129</quantity_in_stock>
+    <quantity_in_stock>139</quantity_in_stock>
     <param name="Діаметр" unit="см">5</param>
     <param name="Цвет" unit="">Персиковый</param>
     <param name="Длина" unit="м">150.0</param>
@@ -78330,7 +78330,7 @@
     <vendorCode>889386</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>925</quantity_in_stock>
+    <quantity_in_stock>945</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Максимальна робоча температура" unit="град.">200</param>
     <param name="Ширина" unit="мм">1010</param>
@@ -78355,7 +78355,7 @@
     <vendorCode>889395</vendorCode>
     <country_of_origin>Польща</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>38</quantity_in_stock>
     <param name="Консистенція">Аерозоль</param>
     <param name="Об`єм" unit="мл">500</param>
   </offer>
@@ -81691,7 +81691,7 @@
     <vendorCode>889366</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Штучна шкіра</param>
@@ -103790,7 +103790,7 @@
   </offer>
   <offer id="2292878899" available="false">
     <url>https://ukrizol.xyz/ua/p2292878899-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1789</price>
+    <price>2066</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445800_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -103919,7 +103919,7 @@
   </offer>
   <offer id="2292878905" available="true">
     <url>https://ukrizol.xyz/ua/p2292878905-gazospinenij-polietilen-ukrizol.html</url>
-    <price>87</price>
+    <price>91</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445805_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -104090,7 +104090,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1999</quantity_in_stock>
+    <quantity_in_stock>1994</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -104119,7 +104119,7 @@
   </offer>
   <offer id="2292878914" available="false">
     <url>https://ukrizol.xyz/ua/p2292878914-gazospinenij-polietilen-ukrizol.html</url>
-    <price>2293</price>
+    <price>2280</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445811_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -104208,7 +104208,7 @@
   </offer>
   <offer id="2292878918" available="true">
     <url>https://ukrizol.xyz/ua/p2292878918-gazospinenij-polietilen-ukrizol.html</url>
-    <price>37</price>
+    <price>42</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146340348_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -104298,7 +104298,7 @@
   </offer>
   <offer id="2292878922" available="false">
     <url>https://ukrizol.xyz/ua/p2292878922-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1820</price>
+    <price>1827</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445815_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -104368,7 +104368,7 @@
   </offer>
   <offer id="2292878925" available="true">
     <url>https://ukrizol.xyz/ua/p2292878925-gazospinenij-polietilen-ukrizol.html</url>
-    <price>69</price>
+    <price>74</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445902_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -108254,7 +108254,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2437850654" available="true">
+  <offer id="2437850654" available="false">
     <url>https://ukrizol.xyz/ua/p2437850654-spinenij-kauchuk-samokleyuchij.html</url>
     <price>2790</price>
     <currencyId>UAH</currencyId>
@@ -108266,7 +108266,7 @@
     <vendorCode>889566У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Щільність" unit="кг/м3">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -110247,7 +110247,7 @@
     <vendorCode>2004-N1К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XL</param>
@@ -112515,7 +112515,7 @@
   </offer>
   <offer id="2619045180" available="false">
     <url>https://ukrizol.xyz/ua/p2619045180-gazospinenij-polietilen-ukrizol.html</url>
-    <price>4951</price>
+    <price>5707</price>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -114721,7 +114721,7 @@
     <vendorCode>57719</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Об`єм" unit="л">0.5</param>
   </offer>
@@ -118437,9 +118437,9 @@
     <param name="Теплопроводность" unit="Вт/мК">0.032</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="2889929729" available="true">
+  <offer id="2889929729" available="false">
     <url>https://ukrizol.xyz/ua/p2889929729-spinenij-kauchuk-flex.html</url>
-    <price>4402</price>
+    <price>5570</price>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762810933_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -118458,7 +118458,7 @@
     <vendorCode>5005020</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Колір">Чорний</param>
@@ -118552,6 +118552,74 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
+  <offer id="2898034916" available="false">
+    <url>https://ukrizol.xyz/ua/p2898034916-gazospinenij-polietilen-ukrizol.html</url>
+    <price>612</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94677747</categoryId>
+    <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906911_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906912_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906910_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2128569031_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2127483519_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газоспінений поліетилен UKRIZOL листовий 20 мм (2х1 м) білий 50 кг/м³</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>889738</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основної сировини">Неорганічне</param>
+    <param name="Водопоглинання" unit="%">1</param>
+    <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
+    <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Клас матеріалу по теплопровідності">Середня</param>
+    <param name="Максимальна робоча температура" unit="град.">75</param>
+    <param name="Мінімальна робоча температура" unit="град.">-60</param>
+    <param name="Покриття">Без покриття</param>
+    <param name="Тип матеріалу">Г (горючий)</param>
+    <param name="Товщина" unit="мм">20</param>
+    <param name="Форма поставки матеріалу">Плита</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Щільність" unit="кг/м3">50</param>
+  </offer>
+<offer id="2898034917" available="false">
+    <url>https://ukrizol.xyz/ua/p2898034917-gazospinenij-polietilen-ukrizol.html</url>
+    <price>1117</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>94677747</categoryId>
+    <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906911_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906912_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2913906910_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2128569031_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2127483519_gazospinenij-polietilen-ukrizol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газоспінений поліетилен UKRIZOL листовий 30 мм (2х1 м) білий 50 кг/м³</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>889739</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основної сировини">Неорганічне</param>
+    <param name="Водопоглинання" unit="%">1</param>
+    <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
+    <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Клас матеріалу по теплопровідності">Середня</param>
+    <param name="Максимальна робоча температура" unit="град.">75</param>
+    <param name="Мінімальна робоча температура" unit="град.">-60</param>
+    <param name="Покриття">Без покриття</param>
+    <param name="Тип матеріалу">Г (горючий)</param>
+    <param name="Товщина" unit="мм">30</param>
+    <param name="Форма поставки матеріалу">Плита</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Щільність" unit="кг/м3">50</param>
+  </offer>
   <offer id="2899209630" available="true">
     <url>https://ukrizol.xyz/ua/p2899209630-profil-zahisnij-podibnij.html</url>
     <price>115</price>
@@ -118579,7 +118647,7 @@
     <param name="Товщина" unit="мм">11</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
-<offer id="2899209631" available="true">
+  <offer id="2899209631" available="true">
     <url>https://ukrizol.xyz/ua/p2899209631-profil-zahisnij-podibnij.html</url>
     <price>38</price>
     <currencyId>UAH</currencyId>
@@ -119090,7 +119158,7 @@
     <vendorCode>EF-3007-BL</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Діаметр" unit="см">65</param>
     <param name="Колір">Синій</param>
     <param name="Максимальне навантаження" unit="кг">120</param>

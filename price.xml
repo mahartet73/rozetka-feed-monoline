@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-17 17:00">
+<yml_catalog date="2026-04-18 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.00048" />
+      <currency id="USD" rate="48.28373" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.56376" />
+      <currency id="EUR" rate="56.94337" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -951,7 +951,7 @@
     <vendorCode>62711</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>362</quantity_in_stock>
+    <quantity_in_stock>314</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1008,7 +1008,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>410</quantity_in_stock>
+    <quantity_in_stock>408</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2306,7 +2306,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>108</quantity_in_stock>
+    <quantity_in_stock>107</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для доріг|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -8191,7 +8191,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>68</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8232,7 +8232,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>159</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -10710,7 +10710,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1494</quantity_in_stock>
+    <quantity_in_stock>1492</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -10738,7 +10738,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1206</quantity_in_stock>
+    <quantity_in_stock>1200</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11173,7 +11173,7 @@
     <vendorCode>20500300</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>182</quantity_in_stock>
+    <quantity_in_stock>181</quantity_in_stock>
     <param name="Вага рулону" unit="кг">2.7</param>
     <param name="Вид плівки">Первинна</param>
     <param name="Довжина рулону" unit="м">300</param>
@@ -11683,7 +11683,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>849</quantity_in_stock>
+    <quantity_in_stock>839</quantity_in_stock>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
     <param name="Сумісність з моделлю">Civic|Getz|Peugeot 206|Scorpio|6|Santa Fe|RAV4|Camry|Focus|XC90|Ceed|C2|Chrysler|Avensis|Lupo|C5|Q5|A6|Renault Megane|Fiesta|Caliber|Tiguan|Tucson|Q7|Yaris|Primera|Almera|Mondeo|Passat|A4|Nissan Maxima|Sebring|Dodge|Sonata|Jazz|Accord|C4|Fusion|Colt|Matiz|Lancer|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -11873,7 +11873,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>871</quantity_in_stock>
+    <quantity_in_stock>866</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
     <param name="Сумісність з моделлю">XC90|Ceed|Getz|Caliber|C5|Q7|Sebring|Primera|Mondeo|Colt|Nissan Maxima|6|Tiguan|Avensis|Lancer|Sonata|Chrysler|Jazz|A6|Focus|RAV4|C2|Almera|Santa Fe|Fusion|Scorpio|A4|Accord|Renault Megane|Tucson|Fiesta|Q5|Dodge|Passat|Camry|Civic|Peugeot 206|Matiz|Lupo|Yaris|C4|206</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
@@ -15241,7 +15241,7 @@
     <vendorCode>1005-01</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вага" unit="кг">13</param>
     <param name="Висота" unit="см">95</param>
     <param name="Вікова група">Дитяча</param>
@@ -17415,7 +17415,7 @@
     <vendorCode>901052</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1717</quantity_in_stock>
+    <quantity_in_stock>1697</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -17974,7 +17974,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>153</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентний</param>
     <param name="Стан клею">Готова емульсія</param>
     <param name="Тип використання">Універсальний</param>
@@ -22786,7 +22786,7 @@
     <vendorCode>ВП22/6</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>776</quantity_in_stock>
+    <quantity_in_stock>676</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -46078,12 +46078,14 @@
     <quantity_in_stock>290</quantity_in_stock>
     <param name="Вага" unit="кг">0.77</param>
     <param name="Довжина листа" unit="см">37</param>
-    <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверні панелі|Дах|Пол багажника|Підлогу автомобіля|Кришка багажника|Стеля автомобіля|Стінки багажника|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.185</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Kia|Dodge|Ford|Fiat|Hyundai|Citroen|Chrysler|BMW|Honda|Peugeot|Toyota|Nissan|Mazda|Renault|Mitsubishi|Audi|Daewoo|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
@@ -46115,12 +46117,14 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>39</quantity_in_stock>
     <param name="Вага" unit="кг">7.85</param>
-    <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверні панелі|Дах|Пол багажника|Підлогу автомобіля|Кришка багажника|Стеля автомобіля|Стінки багажника|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">2.35</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">47</param>
+    <param name="Сумісність з маркою">Honda|Mitsubishi|Toyota|BMW|Mazda|Kia|Volvo|Ford|Nissan|Daewoo|Hyundai|Volkswagen|Dodge|Audi|Peugeot|Chrysler|Citroen|Fiat|Renault</param>
+    <param name="Сумісність з моделлю">Sebring|Fusion|Accord|Ceed|Passat|Nissan Maxima|Q7|Lupo|Caliber|Avensis|Tucson|Almera|C5|C4|Tiguan|Mondeo|Scorpio|C2|Primera|Santa Fe|Renault Megane|6|A4|Dodge|Q5|Lancer|Yaris|206|Fiesta|Matiz|Getz|Sonata|A6|Colt|XC90|RAV4|Civic|Chrysler|Jazz|Focus|Camry</param>
     <param name="Довжина" unit="м">5</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
@@ -46153,12 +46157,14 @@
     <quantity_in_stock>681</quantity_in_stock>
     <param name="Вага" unit="кг">1.55</param>
     <param name="Довжина листа" unit="см">70</param>
-    <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверні панелі|Дах|Пол багажника|Підлогу автомобіля|Кришка багажника|Стеля автомобіля|Стінки багажника|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Toyota|Chrysler|Volvo|Daewoo|Kia|Mitsubishi|Dodge|Hyundai|BMW|Peugeot|Renault|Citroen|Nissan|Fiat|Ford|Audi|Volkswagen|Honda|Mazda</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
@@ -65530,7 +65536,7 @@
     <vendorCode>163116</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -70500,7 +70506,7 @@
     <vendorCode>41015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>82</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <param name="Вага" unit="кг">1.015</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -70718,13 +70724,15 @@
     <quantity_in_stock>451</quantity_in_stock>
     <param name="Вага" unit="кг">0.78</param>
     <param name="Довжина листа" unit="см">50</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.175</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">5.5</param>
     <param name="Ширина листа" unit="см">35</param>
+    <param name="Сумісність з моделлю">500x</param>
+    <param name="Сумісність з маркою">Nissan|Honda|Volvo|Daewoo|Mazda|Ford|Mitsubishi|Toyota|Fiat|Citroen|Volkswagen|BMW|Kia|Dodge|Audi|Chrysler|Hyundai|Renault|Peugeot</param>
   </offer>
   <offer id="1806687124" available="true">
     <url>https://ukrizol.xyz/ua/p1806687124-vibroshumoizolyatsiya-acoustics-multi.html</url>
@@ -70747,13 +70755,15 @@
     <quantity_in_stock>236</quantity_in_stock>
     <param name="Вага" unit="кг">1.67</param>
     <param name="Довжина листа" unit="см">70</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">5.5</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Toyota|Chrysler|Volvo|Daewoo|Kia|Mitsubishi|Dodge|Hyundai|BMW|Peugeot|Renault|Citroen|Nissan|Fiat|Ford|Audi|Volkswagen|Honda|Mazda</param>
+    <param name="Сумісність з моделлю">Q7|C5|Scorpio|Matiz|C4|Chrysler|Focus|Yaris|Peugeot 206|Sonata|A6|C2|Lancer|Passat|RAV4|Dodge|Caliber|Lupo|Tucson|Colt|A4|Renault Megane|Avensis|Fusion|XC90|Primera|Tiguan|Q5|Nissan Maxima|Getz|Santa Fe|Almera|Civic|Camry|Sebring|Jazz|Ceed|Mondeo|6|Fiesta|Accord|206</param>
   </offer>
   <offer id="1806687125" available="true">
     <url>https://ukrizol.xyz/ua/p1806687125-vibroshumoizolyatsiya-acoustics-multi.html</url>
@@ -70779,13 +70789,15 @@
     <quantity_in_stock>210</quantity_in_stock>
     <param name="Вага" unit="кг">1.08</param>
     <param name="Довжина листа" unit="см">50</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.185</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">7.5</param>
     <param name="Ширина листа" unit="см">35</param>
+    <param name="Сумісність з моделлю">500x</param>
+    <param name="Сумісність з маркою">Honda|Mitsubishi|Toyota|BMW|Mazda|Kia|Volvo|Ford|Nissan|Daewoo|Hyundai|Volkswagen|Dodge|Audi|Peugeot|Chrysler|Citroen|Fiat|Renault</param>
   </offer>
   <offer id="1806687126" available="true">
     <url>https://ukrizol.xyz/ua/p1806687126-vibroshumoizolyatsiya-acoustics-multi.html</url>
@@ -70811,13 +70823,15 @@
     <quantity_in_stock>188</quantity_in_stock>
     <param name="Вага" unit="кг">2.13</param>
     <param name="Довжина листа" unit="см">70</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">7.5</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Toyota|Chrysler|Volvo|Daewoo|Kia|Mitsubishi|Dodge|Hyundai|BMW|Peugeot|Renault|Citroen|Nissan|Fiat|Ford|Audi|Volkswagen|Honda|Mazda</param>
+    <param name="Сумісність з моделлю">Q7|C5|Scorpio|Matiz|C4|Chrysler|Focus|Yaris|Peugeot 206|Sonata|A6|C2|Lancer|Passat|RAV4|Dodge|Caliber|Lupo|Tucson|Colt|A4|Renault Megane|Avensis|Fusion|XC90|Primera|Tiguan|Q5|Nissan Maxima|Getz|Santa Fe|Almera|Civic|Camry|Sebring|Jazz|Ceed|Mondeo|6|Fiesta|Accord</param>
   </offer>
   <offer id="1806687127" available="true">
     <url>https://ukrizol.xyz/ua/p1806687127-vibroshumoizolyatsiya-acoustics-multisoft.html</url>
@@ -70839,13 +70853,15 @@
     <quantity_in_stock>537</quantity_in_stock>
     <param name="Вага" unit="кг">0.95</param>
     <param name="Довжина листа" unit="см">70</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">6</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Peugeot|Hyundai|Daewoo|Ford|Audi|Nissan|Citroen|Mazda|Toyota|Honda|Fiat|BMW|Volvo|Mitsubishi|Dodge|Renault|Chrysler|Kia|Volkswagen</param>
+    <param name="Сумісність з моделлю">Camry|Ceed|Scorpio|Accord|Matiz|Sonata|Fusion|A4|A6|Nissan Maxima|Jazz|Civic|XC90|Primera|RAV4|C4|6|Avensis|Fiesta|Focus|Passat|Tiguan|Colt|Mondeo|Renault Megane|Dodge|Getz|C5|Lupo|Lancer|Yaris|Caliber|Sebring|Tucson|Chrysler|Q7|Q5|Almera|C2|Santa Fe|Peugeot 206</param>
   </offer>
   <offer id="1806687128" available="true">
     <url>https://ukrizol.xyz/ua/p1806687128-folga-klejovoyu-osnovoyu.html</url>
@@ -72660,13 +72676,15 @@
     <quantity_in_stock>196</quantity_in_stock>
     <param name="Вага" unit="кг">0.64</param>
     <param name="Довжина листа" unit="см">50</param>
-    <param name="Застосування матеріалу">Стенки багажника|Крышка багажника|Двери|Дверные панели|Капот|Крыша|Пол автомобиля|Потолок автомобиля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.25</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">15</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з моделлю">500x</param>
+    <param name="Сумісність з маркою">Audi|Toyota|Renault|Daewoo|Volkswagen|Hyundai|Volvo|BMW|Peugeot|Dodge|Citroen|Kia|Chrysler|Mazda|Mitsubishi|Nissan|Fiat|Honda|Ford</param>
   </offer>
   <offer id="1832277160" available="true">
     <url>https://ukrizol.xyz/ua/p1832277160-disk-zdorovya-gratsiya.html</url>
@@ -81458,7 +81476,7 @@
     <param name="Матеріал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2034295275" available="true">
+  <offer id="2034295275" available="false">
     <url>https://ukrizol.xyz/ua/p2034295275-zahist-stopi-lev.html</url>
     <price>1029</price>
     <price_old>1225</price_old>
@@ -81472,7 +81490,7 @@
     <vendorCode>889217</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>
     <param name="Тип">Захист гомілки/стопи</param>
@@ -81749,7 +81767,7 @@
     <vendorCode>889325</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Розмір">S</param>
@@ -81998,7 +82016,7 @@
     <param name="Тип">Закритий</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2034417476" available="true">
+  <offer id="2034417476" available="false">
     <url>https://ukrizol.xyz/ua/p2034417476-rukavichki-dlya-zmishanih.html</url>
     <price>1102</price>
     <price_old>1312</price_old>
@@ -82018,7 +82036,7 @@
     <vendorCode>889326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Розмір">M</param>
@@ -85588,7 +85606,7 @@
     <param name="Тип">Бойові</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2034417618" available="true">
+  <offer id="2034417618" available="false">
     <url>https://ukrizol.xyz/ua/p2034417618-sholom-maska-trenuvalna.html</url>
     <price>1176</price>
     <price_old>1400</price_old>
@@ -85609,7 +85627,7 @@
     <vendorCode>889354</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
@@ -87859,7 +87877,7 @@
     <vendorCode>ВП114/9</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>294</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -106774,7 +106792,7 @@
     <param name="Товщина" unit="">50</param>
     <param name="Ширина листа" unit="см">100</param>
   </offer>
-  <offer id="2274040676" available="true">
+  <offer id="2274040676" available="false">
     <url>https://ukrizol.xyz/ua/p2274040676-akustichna-panel-piramida.html</url>
     <price>753</price>
     <price_old>896</price_old>
@@ -106790,7 +106808,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Довжина листа" unit="м">2</param>
     <param name="Площа аркуша" unit="кв.м">2</param>
     <param name="Тип" unit="">Шумоизоляция</param>
@@ -110995,13 +111013,14 @@
     <quantity_in_stock>203</quantity_in_stock>
     <param name="Вага" unit="кг">0.64</param>
     <param name="Довжина листа" unit="см">50</param>
-    <param name="Застосування матеріалу">Стінки багажника|Кришка багажника|Двері|Дверні панелі|Дах|Підлогу автомобіля|Стеля автомобіля|Колісні арки|Пол багажника</param>
+    <param name="Застосування матеріалу">Дверні панелі|Колісні арки|Дах|Пол багажника|Підлогу автомобіля|Кришка багажника|Стеля автомобіля|Стінки багажника|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.25</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">15</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="2373369266" available="true">
     <url>https://ukrizol.xyz/ua/p2373369266-vibroizolyatsiya-acoustics-xtreme.html</url>
@@ -111942,7 +111961,7 @@
     <vendorCode>889565У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Щільність" unit="кг/м3">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -112045,7 +112064,7 @@
     <vendorCode>889564У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -121714,7 +121733,7 @@
     <vendorCode>500061У</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1400</quantity_in_stock>
+    <quantity_in_stock>1385</quantity_in_stock>
     <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -123591,7 +123610,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Товщина" unit="мм">20</param>
     <param name="Тип" unit="">Шумоизоляция</param>
-    <param name="Площадь листа" unit="кв.м">2</param>
+    <param name="Площа аркуша" unit="кв.м">2</param>
   </offer>
   <offer id="2931586053" available="false">
     <url>https://ukrizol.xyz/ua/p2931586053-akustichna-panel-piramida.html</url>
@@ -123616,7 +123635,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Товщина" unit="мм">20</param>
     <param name="Тип" unit="">Шумоизоляция</param>
-    <param name="Площадь листа" unit="кв.м">2</param>
+    <param name="Площа аркуша" unit="кв.м">2</param>
   </offer>
   <offer id="2931649243" available="true">
     <url>https://ukrizol.xyz/ua/p2931649243-akustichna-panel-10000h1000h20.html</url>
@@ -123807,8 +123826,8 @@
     <param name="Товщина" unit="мм">25</param>
     <param name="Ширина листа" unit="см">100</param>
     <param name="Тип" unit="">Шумоизоляция</param>
-    <param name="Длина листа" unit="м">2</param>
-    <param name="Площадь листа" unit="кв.м">2</param>
+    <param name="Довжина листа" unit="м">2</param>
+    <param name="Площа аркуша" unit="кв.м">2</param>
   </offer>
   <offer id="2939080745" available="false">
     <url>https://ukrizol.xyz/ua/p2939080745-list-eva-eva.html</url>
@@ -124258,15 +124277,28 @@
     <price_old>420</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>112743101</categoryId>
+    <picture>https://images.prom.ua/7286764938_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764939_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764940_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764941_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764942_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764943_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764944_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764945_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764946_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція автомобільна SANDWICH 5 мм 700x500</name>
-    <vendor>Нормаізол</vendor>
+    <vendor>СТК</vendor>
     <vendorCode>56433</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>48</quantity_in_stock>
+    <param name="Довжина листа" unit="см">70</param>
+    <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">5</param>
+    <param name="Ширина листа" unit="см">50</param>
   </offer>
   <offer id="3000773122" available="true">
     <url>https://ukrizol.xyz/ua/p3000773122-vibroizolyatsiya-avtomobilna-sandwich.html</url>
@@ -124274,15 +124306,28 @@
     <price_old>222</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>112743101</categoryId>
+    <picture>https://images.prom.ua/7286764947_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764949_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764950_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764951_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764952_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764953_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764954_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764955_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764956_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція автомобільна SANDWICH 5 мм 500x370</name>
-    <vendor>Нормаізол</vendor>
+    <vendor>СТК</vendor>
     <vendorCode>56431</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>48</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Площа аркуша" unit="кв.м">0.185</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">5</param>
+    <param name="Ширина листа" unit="см">37</param>
     <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="3000773123" available="true">
@@ -124291,15 +124336,28 @@
     <price_old>491</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>112743101</categoryId>
+    <picture>https://images.prom.ua/7286764957_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764958_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764959_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764960_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764961_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764962_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764963_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764964_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764965_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція автомобільна SANDWICH 8 мм 700x500</name>
-    <vendor>Нормаізол</vendor>
+    <vendor>СТК</vendor>
     <vendorCode>56434</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>50</quantity_in_stock>
+    <param name="Довжина листа" unit="см">70</param>
+    <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">8</param>
+    <param name="Ширина листа" unit="см">50</param>
   </offer>
   <offer id="3000773124" available="true">
     <url>https://ukrizol.xyz/ua/p3000773124-vibroizolyatsiya-avtomobilna-sandwich.html</url>
@@ -124307,15 +124365,28 @@
     <price_old>259</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>112743101</categoryId>
+    <picture>https://images.prom.ua/7286764966_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764967_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764968_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764969_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764970_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764971_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764972_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764973_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
+    <picture>https://images.prom.ua/7286764974_vibroizolyatsiya-avtomobilna-sandwich.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція автомобільна SANDWICH 8 мм 500x370</name>
-    <vendor>Нормаізол</vendor>
+    <vendor>СТК</vendor>
     <vendorCode>56432</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>48</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Площа аркуша" unit="кв.м">0.185</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">8</param>
+    <param name="Ширина листа" unit="см">37</param>
     <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="3006942354" available="true">

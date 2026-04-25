@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-25 10:00">
+<yml_catalog date="2026-04-25 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -3680,15 +3680,15 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>50</quantity_in_stock>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для пола|Для потолков|Для каркасных конструкций|Для стен|Для инженерного оборудования</param>
-    <param name="Щільність" unit="кг/м³">33</param>
+    <param name="Екологічний матеріал">Так</param>
+    <param name="Колір">Сірий</param>
+    <param name="Область застосування">Для потолков|Для стен|Для пола|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Виброизоляция|Снижение ударного шума|Звукоизоляция|Улучшение акустики помещений</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">2</param>
     <param name="Форма поставки матеріалу">Рулон</param>
-    <param name="Колір">Сірий</param>
     <param name="Ширина" unit="мм">90</param>
-    <param name="Екологічний матеріал">Так</param>
+    <param name="Щільність" unit="кг/м³">33</param>
     <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
   <offer id="1016524130" available="true">
@@ -3708,15 +3708,15 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>50</quantity_in_stock>
-    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
-    <param name="Область застосування">Для пола|Для потолков|Для каркасных конструкций|Для стен|Для инженерного оборудования</param>
-    <param name="Щільність" unit="кг/м³">33</param>
+    <param name="Екологічний матеріал">Так</param>
+    <param name="Колір">Сірий</param>
+    <param name="Область застосування">Для потолков|Для стен|Для пола|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Виброизоляция|Снижение ударного шума|Звукоизоляция|Улучшение акустики помещений</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">2</param>
     <param name="Форма поставки матеріалу">Рулон</param>
-    <param name="Колір">Сірий</param>
     <param name="Ширина" unit="мм">95</param>
-    <param name="Екологічний матеріал">Так</param>
+    <param name="Щільність" unit="кг/м³">33</param>
     <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
   <offer id="1016524132" available="true">
@@ -48385,7 +48385,7 @@
     <vendorCode>10008</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Стан">Новий</param>
   </offer>
   <offer id="1577334856" available="true">
@@ -65413,7 +65413,7 @@
     <vendorCode>EF-LGSTR-F8</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Манжета для тяги</param>
     <param name="Колір">Чорний</param>
@@ -70752,7 +70752,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>236</quantity_in_stock>
+    <quantity_in_stock>231</quantity_in_stock>
     <param name="Вага" unit="кг">1.67</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Дверные панели|Колісні арки|Крыша|Пол багажника|Пол автомобиля|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Двери</param>
@@ -108374,7 +108374,7 @@
     <vendorCode>10664</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
   </offer>
   <offer id="2301789490" available="false">
     <url>https://ukrizol.xyz/ua/p2301789490-zahist-nogi-gomilkostopom.html</url>
@@ -118716,7 +118716,7 @@
     <vendorCode>57718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Об`єм" unit="л">0.5</param>
   </offer>
   <offer id="2769607533" available="true">
@@ -119775,7 +119775,7 @@
     <vendorCode>889712</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вага" unit="кг">3</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Чорний</param>
@@ -123453,8 +123453,8 @@
   </offer>
   <offer id="2930040754" available="true">
     <url>https://ukrizol.xyz/ua/p2930040754-ekstrudovanij-pinopolistirol-2370h585h100.html</url>
-    <price>360</price>
-    <price_old>429</price_old>
+    <price>692</price>
+    <price_old>824</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>100113539</categoryId>
     <picture>https://images.prom.ua/7087898289_ekstrudovanij-pinopolistirol-2370h585h100.jpg</picture>
@@ -123675,7 +123675,7 @@
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Щільність" unit="кг/м3">33</param>
-    <param name="Покрытие" unit="">Без покрытия</param>
+    <param name="Покриття" unit="">Без покрытия</param>
     <param name="Товщина" unit="">8</param>
   </offer>
   <offer id="2937627469" available="true">
@@ -123700,7 +123700,7 @@
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Щільність" unit="кг/м3">33</param>
-    <param name="Покрытие" unit="">Без покрытия</param>
+    <param name="Покриття" unit="">Без покрытия</param>
   </offer>
   <offer id="2939080744" available="false">
     <url>https://ukrizol.xyz/ua/p2939080744-akustichna-panel-piramida.html</url>
@@ -123954,7 +123954,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>200</quantity_in_stock>
     <param name="Вид основної сировини" unit="">Неорганическое</param>
-    <param name="Покрытие" unit="">Без покрытия</param>
+    <param name="Покриття" unit="">Без покрытия</param>
     <param name="Товщина" unit="">3</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -124321,56 +124321,107 @@
     <price>630</price>
     <price_old>750</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756406</categoryId>
+    <categoryId>148483984</categoryId>
+    <picture>https://images.prom.ua/7318122691_filament-dsf-petg.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Філамент DSF PETG 1.75 мм, 1 кг, 330 м, Смарагдовий</name>
-    <vendorCode>00002617</vendorCode>
+    <vendor>DS</vendor>
+    <vendorCode>889790</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>5</quantity_in_stock>
+    <param name="Вага" unit="кг">1</param>
+    <param name="Діаметр нитки" unit="мм">1.75</param>
+    <param name="Матеріал">PETG</param>
   </offer>
   <offer id="3017450566" available="true">
     <url>https://ukrizol.xyz/ua/p3017450566-himichno-zshitij-spinenij.html</url>
     <price>198</price>
     <price_old>236</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756341</categoryId>
+    <categoryId>84271260</categoryId>
+    <picture>https://images.prom.ua/7318276906_himichno-zshitij-spinenij.jpg</picture>
+    <picture>https://images.prom.ua/2183780526_himichno-zshitij-spinenij.jpg</picture>
+    <picture>https://images.prom.ua/2191096253_himichno-zshitij-spinenij.jpg</picture>
+    <picture>https://images.prom.ua/2184335818_himichno-zshitij-spinenij.jpg</picture>
+    <picture>https://images.prom.ua/2183780530_himichno-zshitij-spinenij.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Хімічно зшитий спінений поліетилен УКРАЇНА 10 мм (ширина 1,5 м) щільність 25 кг/куб.м</name>
+    <name>Хімічно зшитий спінений поліетилен UKRIZOL 10 мм (ширина 1,5 м) щільність 25 кг/куб.м</name>
     <vendor>Укрізол</vendor>
-    <vendorCode>00002618</vendorCode>
+    <vendorCode>889791</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2400</quantity_in_stock>
+    <param name="Вид основної сировини">Неорганічне</param>
+    <param name="Водопоглинання" unit="%">1</param>
+    <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Клас матеріалу по теплопровідності">Низька</param>
+    <param name="Максимальна робоча температура" unit="град.">100</param>
+    <param name="Мінімальна робоча температура" unit="град.">-60</param>
+    <param name="Покриття">Без покриття</param>
+    <param name="Тип матеріалу">НГ (негорючий)</param>
+    <param name="Товщина" unit="мм">10</param>
+    <param name="Форма поставки матеріалу">Рулон</param>
+    <param name="Ширина" unit="мм">1500</param>
+    <param name="Щільність" unit="кг/м3">25</param>
   </offer>
   <offer id="3019349379" available="true">
     <url>https://ukrizol.xyz/ua/p3019349379-zvukoizolyatsiya-peregorodok-knauf.html</url>
     <price>1322</price>
     <price_old>1574</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756405</categoryId>
+    <categoryId>103078088</categoryId>
+    <picture>https://images.prom.ua/7318328521_zvukoizolyatsiya-peregorodok-knauf.jpg</picture>
+    <picture>https://images.prom.ua/7318328522_zvukoizolyatsiya-peregorodok-knauf.jpg</picture>
+    <picture>https://images.prom.ua/7318328523_zvukoizolyatsiya-peregorodok-knauf.jpg</picture>
+    <picture>https://images.prom.ua/7318328524_zvukoizolyatsiya-peregorodok-knauf.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Звукоізоляція перегородок Кнауф Акустик-board М 75 мм-7,63 м²</name>
     <vendor>Knauf</vendor>
-    <vendorCode>00002620</vendorCode>
+    <vendorCode>889792</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
+    <param name="Довжина" unit="мм">1250</param>
+    <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для потолков|Для пола|Для стен</param>
+    <param name="Призначення матеріалу">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
+    <param name="Товщина" unit="мм">75</param>
+    <param name="Форма поставки матеріалу">Плита</param>
+    <param name="Ширина" unit="мм">610</param>
+    <param name="Щільність" unit="кг/м³">15</param>
   </offer>
   <offer id="3019349380" available="false">
-    <url>https://ukrizol.xyz/ua/p3019349380-dihtung-uschilnyuyucha-zvukoizolyatsijna.html</url>
+    <url>https://ukrizol.xyz/ua/p3019349380-strichka-uschilnyuyucha-zvukoizolyatsijna.html</url>
     <price>418</price>
     <price_old>498</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756405</categoryId>
+    <categoryId>129346090</categoryId>
+    <picture>https://images.prom.ua/7317819972_strichka-uschilnyuyucha-zvukoizolyatsijna.jpg</picture>
+    <picture>https://images.prom.ua/7317819973_strichka-uschilnyuyucha-zvukoizolyatsijna.jpg</picture>
+    <picture>https://images.prom.ua/7317819975_strichka-uschilnyuyucha-zvukoizolyatsijna.jpg</picture>
+    <picture>https://images.prom.ua/7317819977_strichka-uschilnyuyucha-zvukoizolyatsijna.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Діхтунг 2 мм х 80 мм х 30 м. п. ущільнююча, звукоізоляційна стрічка</name>
+    <name>Стрічка ущільнююча звукоізоляційна UKRIZOL Діхтунг 2х80 мм, довжина 30 м</name>
     <vendor>Ізолон</vendor>
-    <vendorCode>00002622</vendorCode>
+    <vendorCode>28030</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Екологічний матеріал">Так</param>
+    <param name="Колір">Сірий</param>
+    <param name="Область застосування">Для потолков|Для стен|Для пола|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Виброизоляция|Снижение ударного шума|Звукоизоляция|Улучшение акустики помещений</param>
+    <param name="Ступінь жорсткості">М'який</param>
+    <param name="Товщина" unit="мм">2</param>
+    <param name="Форма поставки матеріалу">Рулон</param>
+    <param name="Ширина" unit="мм">80</param>
+    <param name="Щільність" unit="кг/м³">33</param>
+    <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
 
 

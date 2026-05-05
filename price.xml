@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-04 17:00">
+<yml_catalog date="2026-05-05 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.30419" />
+      <currency id="USD" rate="48.4" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.75747" />
+      <currency id="EUR" rate="56.6038" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -407,7 +407,7 @@
     <vendorCode>20103</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>151</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">50</param>
   </offer>
@@ -979,7 +979,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>568</quantity_in_stock>
+    <quantity_in_stock>578</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1008,7 +1008,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>387</quantity_in_stock>
+    <quantity_in_stock>389</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1543,7 +1543,7 @@
     <vendorCode>62753</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -4854,7 +4854,7 @@
     <vendorCode>9000212</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -5712,7 +5712,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1109758024" available="true">
+  <offer id="1109758024" available="false">
     <url>https://ukrizol.xyz/ua/p1109758024-gazospinenij-polietilen-ukrizol.html</url>
     <price>64</price>
     <price_old>76</price_old>
@@ -5734,7 +5734,7 @@
     <vendorCode>900054Р</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -6150,7 +6150,7 @@
     <vendorCode>901201</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Покриття">Без покриття</param>
     <param name="Товщина" unit="мм">20</param>
@@ -6466,7 +6466,7 @@
     <vendorCode>45630ЖС</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Довжина" unit="см">100</param>
     <param name="Колір">Синій</param>
     <param name="Стан">Новий</param>
@@ -7938,7 +7938,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>981</quantity_in_stock>
+    <quantity_in_stock>980</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -10983,7 +10983,7 @@
     <name>Клей-спрей ULTIMATE ADHESIVE 250 мл</name>
     <vendorCode>7075121</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
   </offer>
   <offer id="1248056356" available="true">
     <url>https://ukrizol.xyz/ua/p1248056356-spinenij-kauchuk-flex.html</url>
@@ -11683,7 +11683,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>711</quantity_in_stock>
+    <quantity_in_stock>709</quantity_in_stock>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
     <param name="Сумісність з моделлю">Civic|Getz|Peugeot 206|Scorpio|6|Santa Fe|RAV4|Camry|Focus|XC90|Ceed|C2|Chrysler|Avensis|Lupo|C5|Q5|A6|Renault Megane|Fiesta|Caliber|Tiguan|Tucson|Q7|Yaris|Primera|Almera|Mondeo|Passat|A4|Nissan Maxima|Sebring|Dodge|Sonata|Jazz|Accord|C4|Fusion|Colt|Matiz|Lancer|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -13766,7 +13766,7 @@
     <vendorCode>2104012</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <param name="Довжина" unit="м">100</param>
     <param name="Диаметр пузырька" unit="мм">10</param>
     <param name="Количество слоев" unit="">2</param>
@@ -18565,7 +18565,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вага" unit="кг">30</param>
     <param name="Висота" unit="см">140</param>
     <param name="Вікова група">Доросла</param>
@@ -21175,7 +21175,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1757</quantity_in_stock>
+    <quantity_in_stock>1721</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -29736,7 +29736,7 @@
     <vendorCode>П45/30ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -49900,7 +49900,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>348</quantity_in_stock>
+    <quantity_in_stock>364</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -55210,7 +55210,7 @@
     <vendorCode>832584</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <param name="Вид полімеру">Неорганічний</param>
     <param name="Колір">Білий</param>
     <param name="Тип полімеру">EVA</param>
@@ -58133,7 +58133,7 @@
     <vendorCode>48/9П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>267</quantity_in_stock>
+    <quantity_in_stock>265</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -61187,7 +61187,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>293</quantity_in_stock>
+    <quantity_in_stock>294</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -61212,7 +61212,7 @@
     <vendorCode>18006008СЕТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -64345,7 +64345,7 @@
     <vendorCode>Н10020010С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Колір">Синій</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
@@ -66719,7 +66719,7 @@
     <vendorCode>180070015СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -70752,7 +70752,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>187</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Вага" unit="кг">1.67</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверные панели|Крыша|Стенки багажника|Пол автомобиля|Крышка багажника|Капот|Пол багажника</param>
@@ -84459,7 +84459,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">XS</param>
@@ -86729,11 +86729,11 @@
     <quantity_in_stock />
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
+    <param name="Колір">Червоний</param>
     <param name="Матеріал верху">Натуральна шкіра</param>
     <param name="Матеріал підкладки">Замша</param>
     <param name="Розмір">M</param>
     <param name="Тип">Закритий</param>
-    <param name="Колір">Червоний</param>
   </offer>
   <offer id="2078095380" available="true">
     <url>https://ukrizol.xyz/ua/p2078095380-bitumna-strichka-500.html</url>
@@ -107260,7 +107260,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1847</quantity_in_stock>
+    <quantity_in_stock>2097</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -109809,7 +109809,7 @@
     <vendorCode>21040100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Ширина" unit="см">1000</param>
     <param name="Довжина" unit="м">100</param>
     <param name="Диаметр пузырька" unit="мм">10</param>
@@ -111794,7 +111794,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Щільність" unit="кг/м3">55</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -116782,7 +116782,7 @@
     <param name="Матеріал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2643745731" available="false">
+  <offer id="2643745731" available="true">
     <url>https://ukrizol.xyz/ua/p2643745731-montazhnij-profil-30h30h14.html</url>
     <price>320</price>
     <price_old>381</price_old>
@@ -116799,7 +116799,7 @@
     <vendorCode>889617</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Висота" unit="мм">30</param>
     <param name="Вес 1 пог.м" unit="гр">1022</param>
     <param name="Довжина" unit="м">3</param>
@@ -118048,7 +118048,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>91</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
   </offer>
   <offer id="2702826007" available="true">
     <url>https://ukrizol.xyz/ua/p2702826007-rolik-dlya-presu.html</url>
@@ -122488,7 +122488,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889735</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Армований скотч">Так</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
     <param name="Довжина" unit="м">50</param>
@@ -124589,14 +124589,24 @@
     <price_old>1312</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
+    <picture>https://images.prom.ua/7347776579_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776581_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776582_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776583_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776584_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776585_zahist-gomilki-ta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Захист гомілки та стопи EVERLAST вінілшкіряний M синій</name>
+    <name>Захист гомілки та стопи EVERLAST шкірвініл M синій</name>
     <vendor>Everlast</vendor>
     <vendorCode>889813</vendorCode>
+    <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
     <param name="Колір">Синій</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">M</param>
+    <param name="Тип">Захист гомілки/стопи</param>
   </offer>
   <offer id="3026405487" available="true">
     <url>https://ukrizol.xyz/ua/p3026405487-zahist-gomilki-stopi.html</url>
@@ -124604,14 +124614,24 @@
     <price_old>1375</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947440</categoryId>
+    <picture>https://images.prom.ua/7347776586_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776588_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776590_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776592_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776593_zahist-gomilki-ta.jpg</picture>
+    <picture>https://images.prom.ua/7347776594_zahist-gomilki-ta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Захист гомілки та стопи EVERLAST вінілшкіряний L синій</name>
+    <name>Захист гомілки та стопи EVERLAST шкірвініл L синій</name>
     <vendor>Everlast</vendor>
     <vendorCode>889812</vendorCode>
+    <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
     <param name="Колір">Синій</param>
+    <param name="Матеріал">Штучна шкіра</param>
+    <param name="Розмір">L</param>
+    <param name="Тип">Захист гомілки/стопи</param>
   </offer>
   <offer id="3026405488" available="true">
     <url>https://ukrizol.xyz/ua/p3026405488-sholom-maska-trenuvalna.html</url>
@@ -124619,14 +124639,26 @@
     <price_old>1500</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947438</categoryId>
+    <picture>https://images.prom.ua/7347910836_sholom-maska-trenuvalna-karate.jpg</picture>
+    <picture>https://images.prom.ua/7347910837_sholom-maska-trenuvalna-karate.jpg</picture>
+    <picture>https://images.prom.ua/7347910838_sholom-maska-trenuvalna-karate.jpg</picture>
+    <picture>https://images.prom.ua/7347910839_sholom-maska-trenuvalna-karate.jpg</picture>
+    <picture>https://images.prom.ua/7347910841_sholom-maska-trenuvalna-karate.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Шолом-маска тренувальна карате LEV SPORT XL шкіра красный</name>
+    <name>Шолом-маска тренувальна карате LEV SPORT XL шкіра червоний</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>889817</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
+    <param name="Вид шолома">Карате</param>
+    <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
+    <param name="Матеріал верху">Натуральна шкіра</param>
+    <param name="Матеріал підкладки">Замша</param>
+    <param name="Розмір">XL</param>
+    <param name="Тип">Закритий</param>
   </offer>
   <offer id="3031833819" available="false">
     <url>https://ukrizol.xyz/ua/p3031833819-montazhnij-profil-41h41h14.html</url>

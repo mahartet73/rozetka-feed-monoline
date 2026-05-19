@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-18 17:00">
+<yml_catalog date="2026-05-19 10:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.47964" />
+      <currency id="USD" rate="48.57501" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.38666" />
+      <currency id="EUR" rate="56.551" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -803,7 +803,7 @@
     <vendorCode>62313</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>41</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для стен|Для цоколей|Для полов|Для кровли|Для подвалов|Для балконов|Для фасадов</param>
     <param name="Тип використання">Універсальний</param>
@@ -1008,7 +1008,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>339</quantity_in_stock>
+    <quantity_in_stock>337</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2306,7 +2306,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>63</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для доріг|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -4872,8 +4872,8 @@
   </offer>
   <offer id="1099138490" available="true">
     <url>https://ukrizol.xyz/ua/p1099138490-gazospinenij-polietilen-ukrizol.html</url>
-    <price>23</price>
-    <price_old>28</price_old>
+    <price>26</price>
+    <price_old>31</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -4906,8 +4906,8 @@
   </offer>
   <offer id="1099145250" available="true">
     <url>https://ukrizol.xyz/ua/p1099145250-gazospinenij-polietilen-ukrizol.html</url>
-    <price>34</price>
-    <price_old>40</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -4940,8 +4940,8 @@
   </offer>
   <offer id="1099153593" available="true">
     <url>https://ukrizol.xyz/ua/p1099153593-gazospinenij-polietilen-ukrizol.html</url>
-    <price>44</price>
-    <price_old>52</price_old>
+    <price>49</price>
+    <price_old>59</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -4974,8 +4974,8 @@
   </offer>
   <offer id="1099157621" available="true">
     <url>https://ukrizol.xyz/ua/p1099157621-gazospinenij-polietilen-ukrizol.html</url>
-    <price>78</price>
-    <price_old>92</price_old>
+    <price>87</price>
+    <price_old>104</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5008,8 +5008,8 @@
   </offer>
   <offer id="1099159758" available="true">
     <url>https://ukrizol.xyz/ua/p1099159758-gazospinenij-polietilen-ukrizol.html</url>
-    <price>96</price>
-    <price_old>114</price_old>
+    <price>106</price>
+    <price_old>126</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5024,7 +5024,7 @@
     <vendorCode>900101</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -5042,8 +5042,8 @@
   </offer>
   <offer id="1099501976" available="true">
     <url>https://ukrizol.xyz/ua/p1099501976-gazospinenij-polietilen-ukrizol.html</url>
-    <price>154</price>
-    <price_old>184</price_old>
+    <price>148</price>
+    <price_old>176</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83675151</categoryId>
     <picture>https://images.prom.ua/2786862292_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5079,8 +5079,8 @@
   </offer>
   <offer id="1099566590" available="true">
     <url>https://ukrizol.xyz/ua/p1099566590-gazospinenij-polietilen-ukrizol.html</url>
-    <price>171</price>
-    <price_old>204</price_old>
+    <price>164</price>
+    <price_old>195</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83675151</categoryId>
     <picture>https://images.prom.ua/2786862292_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5153,8 +5153,8 @@
   </offer>
   <offer id="1099569252" available="true">
     <url>https://ukrizol.xyz/ua/p1099569252-gazospinenij-polietilen-ukrizol.html</url>
-    <price>210</price>
-    <price_old>250</price_old>
+    <price>212</price>
+    <price_old>252</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83675151</categoryId>
     <picture>https://images.prom.ua/2786862292_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5188,47 +5188,10 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1099569636" available="false">
-    <url>https://ukrizol.xyz/ua/p1099569636-gazospinenij-polietilen-ukrizol.html</url>
-    <price>86</price>
-    <price_old>102</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>83675151</categoryId>
-    <picture>https://images.prom.ua/2786862292_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2128620122_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2128620123_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2128620124_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2128620125_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2128620126_gazospinenij-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газоспінений поліетилен UKRIZOL фольгований самоклеючий 4 мм</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900043</vendorCode>
-    <country_of_origin>Україна</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Водопоглинання" unit="%">1</param>
-    <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
-    <param name="Довжина" unit="м">50</param>
-    <param name="Клас матеріалу по теплопровідності">Середня</param>
-    <param name="Максимальна робоча температура" unit="град.">80</param>
-    <param name="Мінімальна робоча температура" unit="град.">-60</param>
-    <param name="Щільність" unit="кг/м3">15</param>
-    <param name="Покриття">Фольгований</param>
-    <param name="Теплопровідність" unit="Вт/мК">0.048</param>
-    <param name="Тип матеріалу">Г (горючий)</param>
-    <param name="Тип покриття">З одного боку, та самоклійке з іншого</param>
-    <param name="Товщина" unit="мм">4</param>
-    <param name="Форма поставки матеріалу">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
-  </offer>
   <offer id="1109161864" available="true">
     <url>https://ukrizol.xyz/ua/p1109161864-gazospinenij-polietilen-ukrizol.html</url>
-    <price>28</price>
-    <price_old>34</price_old>
+    <price>30</price>
+    <price_old>36</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5264,8 +5227,8 @@
   </offer>
   <offer id="1109474734" available="true">
     <url>https://ukrizol.xyz/ua/p1109474734-gazospinenij-polietilen-ukrizol.html</url>
-    <price>37</price>
-    <price_old>44</price_old>
+    <price>38</price>
+    <price_old>45</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5301,8 +5264,8 @@
   </offer>
   <offer id="1109478354" available="false">
     <url>https://ukrizol.xyz/ua/p1109478354-gazospinenij-polietilen-ukrizol.html</url>
-    <price>46</price>
-    <price_old>55</price_old>
+    <price>47</price>
+    <price_old>56</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5338,8 +5301,8 @@
   </offer>
   <offer id="1109479759" available="true">
     <url>https://ukrizol.xyz/ua/p1109479759-gazospinenij-polietilen-ukrizol.html</url>
-    <price>57</price>
-    <price_old>68</price_old>
+    <price>59</price>
+    <price_old>70</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5449,8 +5412,8 @@
   </offer>
   <offer id="1109484809" available="true">
     <url>https://ukrizol.xyz/ua/p1109484809-gazospinenij-polietilen-ukrizol.html</url>
-    <price>98</price>
-    <price_old>116</price_old>
+    <price>100</price>
+    <price_old>119</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5523,8 +5486,8 @@
   </offer>
   <offer id="1109485893" available="true">
     <url>https://ukrizol.xyz/ua/p1109485893-gazospinenij-polietilen-ukrizol.html</url>
-    <price>117</price>
-    <price_old>139</price_old>
+    <price>120</price>
+    <price_old>142</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5636,8 +5599,8 @@
   </offer>
   <offer id="1109752815" available="true">
     <url>https://ukrizol.xyz/ua/p1109752815-gazospinenij-polietilen-ukrizol.html</url>
-    <price>40</price>
-    <price_old>48</price_old>
+    <price>41</price>
+    <price_old>49</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749274569_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5675,8 +5638,8 @@
   </offer>
   <offer id="1109757429" available="true">
     <url>https://ukrizol.xyz/ua/p1109757429-gazospinenij-polietilen-ukrizol.html</url>
-    <price>51</price>
-    <price_old>61</price_old>
+    <price>52</price>
+    <price_old>62</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749274569_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5714,8 +5677,8 @@
   </offer>
   <offer id="1109758024" available="false">
     <url>https://ukrizol.xyz/ua/p1109758024-gazospinenij-polietilen-ukrizol.html</url>
-    <price>64</price>
-    <price_old>76</price_old>
+    <price>66</price>
+    <price_old>79</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749274569_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5753,8 +5716,8 @@
   </offer>
   <offer id="1109758510" available="true">
     <url>https://ukrizol.xyz/ua/p1109758510-gazospinenij-polietilen-ukrizol.html</url>
-    <price>60</price>
-    <price_old>71</price_old>
+    <price>62</price>
+    <price_old>74</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5789,8 +5752,8 @@
   </offer>
   <offer id="1109804198" available="false">
     <url>https://ukrizol.xyz/ua/p1109804198-gazospinenij-polietilen-ukrizol.html</url>
-    <price>69</price>
-    <price_old>82</price_old>
+    <price>71</price>
+    <price_old>85</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5825,8 +5788,8 @@
   </offer>
   <offer id="1109805132" available="false">
     <url>https://ukrizol.xyz/ua/p1109805132-gazospinenij-polietilen-ukrizol.html</url>
-    <price>144</price>
-    <price_old>171</price_old>
+    <price>147</price>
+    <price_old>175</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5946,8 +5909,8 @@
   </offer>
   <offer id="1113062258" available="true">
     <url>https://ukrizol.xyz/ua/p1113062258-gazospinenij-polietilen-ukrizol.html</url>
-    <price>63</price>
-    <price_old>75</price_old>
+    <price>78</price>
+    <price_old>92</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -5983,8 +5946,8 @@
   </offer>
   <offer id="1113064578" available="true">
     <url>https://ukrizol.xyz/ua/p1113064578-gazospinenij-polietilen-ukrizol.html</url>
-    <price>69</price>
-    <price_old>82</price_old>
+    <price>87</price>
+    <price_old>104</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -6020,8 +5983,8 @@
   </offer>
   <offer id="1113064695" available="true">
     <url>https://ukrizol.xyz/ua/p1113064695-gazospinenij-polietilen-ukrizol.html</url>
-    <price>77</price>
-    <price_old>91</price_old>
+    <price>100</price>
+    <price_old>119</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -6037,7 +6000,7 @@
     <vendorCode>900055</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>86</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -6057,8 +6020,8 @@
   </offer>
   <offer id="1113064960" available="true">
     <url>https://ukrizol.xyz/ua/p1113064960-gazospinenij-polietilen-ukrizol.html</url>
-    <price>97</price>
-    <price_old>115</price_old>
+    <price>128</price>
+    <price_old>152</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -6094,8 +6057,8 @@
   </offer>
   <offer id="1113065332" available="true">
     <url>https://ukrizol.xyz/ua/p1113065332-gazospinenij-polietilen-ukrizol.html</url>
-    <price>110</price>
-    <price_old>131</price_old>
+    <price>148</price>
+    <price_old>176</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -6111,7 +6074,7 @@
     <vendorCode>900105</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>109</quantity_in_stock>
+    <quantity_in_stock>94</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -7845,7 +7808,7 @@
     <param name="Стан" unit="">Новое</param>
     <param name="Колір" unit="">Бирюзовый</param>
   </offer>
-<offer id="1125284287" available="false">
+  <offer id="1125284287" available="false">
     <url>https://ukrizol.xyz/ua/p1125284287-izolon-kolorovij-temno.html</url>
     <price>108</price>
     <price_old>129</price_old>
@@ -7874,7 +7837,7 @@
     <param name="Стан" unit="">Новое</param>
     <param name="Колір" unit="">Темно-зеленый</param>
   </offer>
-  <offer id="1125323145" available="true">
+<offer id="1125323145" available="true">
     <url>https://ukrizol.xyz/ua/p1125323145-spinenij-kauchuk-flex.html</url>
     <price>160</price>
     <price_old>190</price_old>
@@ -7896,7 +7859,7 @@
     <vendorCode>500061</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1104</quantity_in_stock>
+    <quantity_in_stock>1101</quantity_in_stock>
     <param name="Товщина" unit="мм">6</param>
     <param name="Тип">Шумоізоляція</param>
     <param name="Длина рулона, п.м." unit="">30</param>
@@ -8191,7 +8154,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>202</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8232,7 +8195,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1295</quantity_in_stock>
+    <quantity_in_stock>1291</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8314,7 +8277,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>395</quantity_in_stock>
+    <quantity_in_stock>394</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8589,7 +8552,7 @@
     <vendorCode>500193</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>514</quantity_in_stock>
+    <quantity_in_stock>507</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9169,7 +9132,7 @@
     <vendorCode>500323</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -9917,7 +9880,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1590</quantity_in_stock>
+    <quantity_in_stock>1585</quantity_in_stock>
     <param name="Довжина" unit="м">25</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">50</param>
@@ -10111,7 +10074,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3196</quantity_in_stock>
+    <quantity_in_stock>3156</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
@@ -10767,7 +10730,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11684,7 +11647,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>642</quantity_in_stock>
+    <quantity_in_stock>635</quantity_in_stock>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
     <param name="Сумісність з моделлю">Civic|Getz|Peugeot 206|Scorpio|6|Santa Fe|RAV4|Camry|Focus|XC90|Ceed|C2|Chrysler|Avensis|Lupo|C5|Q5|A6|Renault Megane|Fiesta|Caliber|Tiguan|Tucson|Q7|Yaris|Primera|Almera|Mondeo|Passat|A4|Nissan Maxima|Sebring|Dodge|Sonata|Jazz|Accord|C4|Fusion|Colt|Matiz|Lancer|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -11806,7 +11769,7 @@
     <vendorCode>901103</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>111</quantity_in_stock>
+    <quantity_in_stock>110</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -12015,8 +11978,8 @@
   </offer>
   <offer id="1333267714" available="true">
     <url>https://ukrizol.xyz/ua/p1333267714-gazospinenij-polietilen-ukrizol.html</url>
-    <price>108</price>
-    <price_old>129</price_old>
+    <price>111</price>
+    <price_old>132</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749274569_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12054,8 +12017,8 @@
   </offer>
   <offer id="1333268256" available="true">
     <url>https://ukrizol.xyz/ua/p1333268256-gazospinenij-polietilen-ukrizol.html</url>
-    <price>128</price>
-    <price_old>152</price_old>
+    <price>131</price>
+    <price_old>156</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749274569_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12093,8 +12056,8 @@
   </offer>
   <offer id="1333272623" available="false">
     <url>https://ukrizol.xyz/ua/p1333272623-gazospinenij-polietilen-ukrizol.html</url>
-    <price>81</price>
-    <price_old>96</price_old>
+    <price>83</price>
+    <price_old>99</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12129,8 +12092,8 @@
   </offer>
   <offer id="1333273484" available="true">
     <url>https://ukrizol.xyz/ua/p1333273484-gazospinenij-polietilen-ukrizol.html</url>
-    <price>129</price>
-    <price_old>154</price_old>
+    <price>133</price>
+    <price_old>159</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12164,8 +12127,8 @@
   </offer>
   <offer id="1333276996" available="true">
     <url>https://ukrizol.xyz/ua/p1333276996-gazospinenij-polietilen-ukrizol.html</url>
-    <price>59</price>
-    <price_old>70</price_old>
+    <price>74</price>
+    <price_old>88</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84267961</categoryId>
     <picture>https://images.prom.ua/2786854586_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12341,8 +12304,8 @@
   </offer>
   <offer id="1348973499" available="false">
     <url>https://ukrizol.xyz/ua/p1348973499-gazospinenij-polietilen-ukrizol.html</url>
-    <price>51</price>
-    <price_old>61</price_old>
+    <price>52</price>
+    <price_old>62</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749344865_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12721,8 +12684,8 @@
   </offer>
   <offer id="1352144212" available="false">
     <url>https://ukrizol.xyz/ua/p1352144212-gazospinenij-polietilen-ukrizol.html</url>
-    <price>133</price>
-    <price_old>159</price_old>
+    <price>126</price>
+    <price_old>150</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12755,8 +12718,8 @@
   </offer>
   <offer id="1352144216" available="false">
     <url>https://ukrizol.xyz/ua/p1352144216-gazospinenij-polietilen-ukrizol.html</url>
-    <price>147</price>
-    <price_old>175</price_old>
+    <price>139</price>
+    <price_old>165</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12789,8 +12752,8 @@
   </offer>
   <offer id="1352144219" available="true">
     <url>https://ukrizol.xyz/ua/p1352144219-gazospinenij-polietilen-ukrizol.html</url>
-    <price>152</price>
-    <price_old>181</price_old>
+    <price>150</price>
+    <price_old>179</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12823,8 +12786,8 @@
   </offer>
   <offer id="1352144222" available="true">
     <url>https://ukrizol.xyz/ua/p1352144222-gazospinenij-polietilen-ukrizol.html</url>
-    <price>185</price>
-    <price_old>220</price_old>
+    <price>187</price>
+    <price_old>222</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12857,8 +12820,8 @@
   </offer>
   <offer id="1352144224" available="false">
     <url>https://ukrizol.xyz/ua/p1352144224-gazospinenij-polietilen-ukrizol.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>203</price>
+    <price_old>241</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12891,8 +12854,8 @@
   </offer>
   <offer id="1352353013" available="false">
     <url>https://ukrizol.xyz/ua/p1352353013-gazospinenij-polietilen-ukrizol.html</url>
-    <price>376</price>
-    <price_old>448</price_old>
+    <price>416</price>
+    <price_old>495</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12927,8 +12890,8 @@
   </offer>
   <offer id="1352357303" available="false">
     <url>https://ukrizol.xyz/ua/p1352357303-gazospinenij-polietilen-ukrizol.html</url>
-    <price>548</price>
-    <price_old>652</price_old>
+    <price>606</price>
+    <price_old>721</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12963,8 +12926,8 @@
   </offer>
   <offer id="1352359718" available="false">
     <url>https://ukrizol.xyz/ua/p1352359718-gazospinenij-polietilen-ukrizol.html</url>
-    <price>904</price>
-    <price_old>1076</price_old>
+    <price>1001</price>
+    <price_old>1191</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -12999,8 +12962,8 @@
   </offer>
   <offer id="1352361643" available="false">
     <url>https://ukrizol.xyz/ua/p1352361643-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1090</price>
-    <price_old>1298</price_old>
+    <price>1206</price>
+    <price_old>1436</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -13035,8 +12998,8 @@
   </offer>
   <offer id="1352363064" available="false">
     <url>https://ukrizol.xyz/ua/p1352363064-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1276</price>
-    <price_old>1519</price_old>
+    <price>1412</price>
+    <price_old>1681</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -15528,7 +15491,7 @@
     <param name="Тип">Карате</param>
     <param name="Колір">Синій</param>
   </offer>
-<offer id="1358320797" available="false">
+  <offer id="1358320797" available="false">
     <url>https://ukrizol.xyz/ua/p1358320797-sholom-bokserskij-boxer.html</url>
     <price>1334</price>
     <price_old>1588</price_old>
@@ -15554,7 +15517,7 @@
     <param name="Тип">Відкритий</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1358320798" available="false">
+<offer id="1358320798" available="false">
     <url>https://ukrizol.xyz/ua/p1358320798-sholom-karate-boxer.html</url>
     <price>704</price>
     <price_old>838</price_old>
@@ -17979,7 +17942,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>263</quantity_in_stock>
+    <quantity_in_stock>262</quantity_in_stock>
     <param name="Тип використання">Універсальний</param>
     <param name="Тип матеріалу, що приклеюється">ДВП|Дерево|Текстиль|Стекло|Металл|ДСП|Бумага|ПВХ|Резина|Картон|Кожа|МДФ</param>
     <param name="Фасовка матеріалу (л)" unit="л">1</param>
@@ -18570,7 +18533,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">30</param>
     <param name="Висота" unit="см">140</param>
     <param name="Вікова група">Доросла</param>
@@ -19716,8 +19679,8 @@
   </offer>
   <offer id="1427230531" available="false">
     <url>https://ukrizol.xyz/ua/p1427230531-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>36</price>
-    <price_old>42</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -19739,8 +19702,8 @@
   </offer>
   <offer id="1427230532" available="false">
     <url>https://ukrizol.xyz/ua/p1427230532-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>56</price>
-    <price_old>66</price_old>
+    <price>57</price>
+    <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -19762,8 +19725,8 @@
   </offer>
   <offer id="1427230534" available="false">
     <url>https://ukrizol.xyz/ua/p1427230534-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>102</price>
-    <price_old>121</price_old>
+    <price>105</price>
+    <price_old>125</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -19785,8 +19748,8 @@
   </offer>
   <offer id="1427230535" available="false">
     <url>https://ukrizol.xyz/ua/p1427230535-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>148</price>
-    <price_old>176</price_old>
+    <price>152</price>
+    <price_old>181</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -21180,7 +21143,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>694</quantity_in_stock>
+    <quantity_in_stock>690</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -22461,7 +22424,7 @@
     <param name="Тип використання">Універсальний</param>
     <param name="Колір">Чорний</param>
   </offer>
-<offer id="1531239508" available="true">
+  <offer id="1531239508" available="true">
     <url>https://ukrizol.xyz/ua/p1531239508-germetik-pokrivelnij-stk.html</url>
     <price>182</price>
     <price_old>216</price_old>
@@ -22485,7 +22448,7 @@
     <param name="Тип використання">Універсальний</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1531243459" available="true">
+<offer id="1531243459" available="true">
     <url>https://ukrizol.xyz/ua/p1531243459-germetik-pokrivelnij-stk.html</url>
     <price>206</price>
     <price_old>245</price_old>
@@ -22500,7 +22463,7 @@
     <vendorCode>56357</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>92</quantity_in_stock>
+    <quantity_in_stock>89</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Матеріал">Бітум</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
@@ -31076,7 +31039,7 @@
     <param name="Товщина ізоляції" unit="мм">40</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-<offer id="1554581885" available="true">
+  <offer id="1554581885" available="true">
     <url>https://ukrizol.xyz/ua/p1554581885-uteplyuvach-dlya-trub.html</url>
     <price>1131</price>
     <price_old>1346</price_old>
@@ -31109,7 +31072,7 @@
     <param name="Товщина ізоляції" unit="мм">50</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="1554581886" available="true">
+<offer id="1554581886" available="true">
     <url>https://ukrizol.xyz/ua/p1554581886-uteplyuvach-dlya-trub.html</url>
     <price>1117</price>
     <price_old>1330</price_old>
@@ -39081,7 +39044,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1554857085" available="true">
+  <offer id="1554857085" available="true">
     <url>https://ukrizol.xyz/ua/p1554857085-trubna-izolyatsiya-ukrizol.html</url>
     <price>562</price>
     <price_old>669</price_old>
@@ -39111,7 +39074,7 @@
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1554857087" available="true">
+<offer id="1554857087" available="true">
     <url>https://ukrizol.xyz/ua/p1554857087-trubna-izolyatsiya-ukrizol.html</url>
     <price>692</price>
     <price_old>824</price_old>
@@ -46060,7 +46023,7 @@
     <param name="Тип">Тренувальні</param>
     <param name="Колір">Синій</param>
   </offer>
-<offer id="1570527956" available="true">
+  <offer id="1570527956" available="true">
     <url>https://ukrizol.xyz/ua/p1570527956-shumovibroizolyatsiya-avtomobilna-sandwich.html</url>
     <price>232</price>
     <price_old>276</price_old>
@@ -46092,14 +46055,14 @@
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
-    <param name="Мінімальна робоча температура" unit="">-40</param>
-    <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область застосування" unit="">Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Минимальная рабочая температура" unit="">-40</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций</param>
     <param name="Форма поставки матеріалу" unit="">Лист</param>
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1570532957" available="true">
+<offer id="1570532957" available="true">
     <url>https://ukrizol.xyz/ua/p1570532957-shumovibroizolyatsiya-avtomobilna-sandwich.html</url>
     <price>2641</price>
     <price_old>3144</price_old>
@@ -49905,7 +49868,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -51550,7 +51513,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>422</quantity_in_stock>
+    <quantity_in_stock>420</quantity_in_stock>
     <param name="Довжина" unit="м">35</param>
     <param name="Максимальна робоча температура" unit="град.">90</param>
     <param name="Мінімальна робоча температура" unit="град.">-40</param>
@@ -52610,7 +52573,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -52643,7 +52606,7 @@
     <param name="Колір">Сірий</param>
     <param name="Ширина" unit="см">120</param>
   </offer>
-<offer id="1608976427" available="false">
+  <offer id="1608976427" available="false">
     <url>https://ukrizol.xyz/ua/p1608976427-himichno-zshitij-spinenij.html</url>
     <price>269</price>
     <price_old>320</price_old>
@@ -52676,7 +52639,7 @@
     <param name="Ширина" unit="мм">1200</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1611961293" available="false">
+<offer id="1611961293" available="false">
     <url>https://ukrizol.xyz/ua/p1611961293-himichno-zshitij-spinenij.html</url>
     <price>143</price>
     <price_old>170</price_old>
@@ -52877,8 +52840,8 @@
   </offer>
   <offer id="1633838448" available="true">
     <url>https://ukrizol.xyz/ua/p1633838448-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1462</price>
-    <price_old>1740</price_old>
+    <price>1625</price>
+    <price_old>1935</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -55206,7 +55169,7 @@
     <vendorCode>832585</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>378</quantity_in_stock>
+    <quantity_in_stock>678</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полімеру" unit="">Неорганический</param>
@@ -55231,7 +55194,7 @@
     <vendorCode>832586</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>191</quantity_in_stock>
+    <quantity_in_stock>341</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полімеру" unit="">Неорганический</param>
@@ -59885,7 +59848,7 @@
     <param name="Колір">Кораловий</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-<offer id="1651178041" available="false">
+  <offer id="1651178041" available="false">
     <url>https://ukrizol.xyz/ua/p1651178041-kilimok-dlya-fitnesu.html</url>
     <price>388</price>
     <price_old>462</price_old>
@@ -59906,7 +59869,7 @@
     <param name="Колір">Фіолетовий</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-  <offer id="1651178042" available="false">
+<offer id="1651178042" available="false">
     <url>https://ukrizol.xyz/ua/p1651178042-kilimok-dlya-fitnesu.html</url>
     <price>388</price>
     <price_old>462</price_old>
@@ -60217,8 +60180,8 @@
   </offer>
   <offer id="1652016675" available="true">
     <url>https://ukrizol.xyz/ua/p1652016675-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1625</price>
-    <price_old>1935</price_old>
+    <price>1802</price>
+    <price_old>2145</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60249,8 +60212,8 @@
   </offer>
   <offer id="1652023087" available="true">
     <url>https://ukrizol.xyz/ua/p1652023087-gazospinenij-polietilen-ukrizol.html</url>
-    <price>139</price>
-    <price_old>165</price_old>
+    <price>130</price>
+    <price_old>155</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94675690</categoryId>
     <picture>https://images.prom.ua/2913144659_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60283,8 +60246,8 @@
   </offer>
   <offer id="1652026643" available="true">
     <url>https://ukrizol.xyz/ua/p1652026643-gazospinenij-polietilen-ukrizol.html</url>
-    <price>149</price>
-    <price_old>178</price_old>
+    <price>143</price>
+    <price_old>170</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83675151</categoryId>
     <picture>https://images.prom.ua/2786862292_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60823,8 +60786,8 @@
   </offer>
   <offer id="1655131996" available="true">
     <url>https://ukrizol.xyz/ua/p1655131996-gazospinenij-polietilen-ukrizol.html</url>
-    <price>101</price>
-    <price_old>120</price_old>
+    <price>97</price>
+    <price_old>115</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60860,8 +60823,8 @@
   </offer>
   <offer id="1655134759" available="false">
     <url>https://ukrizol.xyz/ua/p1655134759-gazospinenij-polietilen-ukrizol.html</url>
-    <price>113</price>
-    <price_old>135</price_old>
+    <price>108</price>
+    <price_old>129</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60896,8 +60859,8 @@
   </offer>
   <offer id="1655135977" available="true">
     <url>https://ukrizol.xyz/ua/p1655135977-gazospinenij-polietilen-ukrizol.html</url>
-    <price>116</price>
-    <price_old>138</price_old>
+    <price>117</price>
+    <price_old>139</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60932,8 +60895,8 @@
   </offer>
   <offer id="1655136181" available="false">
     <url>https://ukrizol.xyz/ua/p1655136181-gazospinenij-polietilen-ukrizol.html</url>
-    <price>149</price>
-    <price_old>178</price_old>
+    <price>156</price>
+    <price_old>186</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -60968,8 +60931,8 @@
   </offer>
   <offer id="1655136862" available="false">
     <url>https://ukrizol.xyz/ua/p1655136862-gazospinenij-polietilen-ukrizol.html</url>
-    <price>163</price>
-    <price_old>194</price_old>
+    <price>172</price>
+    <price_old>205</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84096927</categoryId>
     <picture>https://images.prom.ua/2749226914_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -62133,7 +62096,7 @@
     <param name="Товщина" unit="мм">20</param>
     <param name="Ширина" unit="мм">30</param>
   </offer>
-  <offer id="1662366369" available="true">
+  <offer id="1662366369" available="false">
     <url>https://ukrizol.xyz/ua/p1662366369-profil-zahisnij-podibnij.html</url>
     <price>13</price>
     <price_old>15</price_old>
@@ -62155,7 +62118,7 @@
     <vendorCode>352035П</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1000</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Висота" unit="мм">20</param>
     <param name="Довжина" unit="мм">2000</param>
     <param name="Товщина" unit="мм">10</param>
@@ -66412,7 +66375,7 @@
     <vendorCode>20115</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>363</quantity_in_stock>
+    <quantity_in_stock>361</quantity_in_stock>
     <param name="Армований скотч">Ні</param>
     <param name="Довжина" unit="м">25</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
@@ -66625,7 +66588,7 @@
     <param name="Колір">Сірий</param>
     <param name="Ширина" unit="см">70</param>
   </offer>
-<offer id="1710944115" available="false">
+  <offer id="1710944115" available="false">
     <url>https://ukrizol.xyz/ua/p1710944115-kilimok-dlya-sportu.html</url>
     <price>84</price>
     <price_old>100</price_old>
@@ -66649,7 +66612,7 @@
     <param name="Ширина" unit="см">60</param>
     <param name="Плотность, кг/м³" unit="кг/м³">33</param>
   </offer>
-  <offer id="1710944742" available="false">
+<offer id="1710944742" available="false">
     <url>https://ukrizol.xyz/ua/p1710944742-kilimok-dlya-sportu.html</url>
     <price>111</price>
     <price_old>132</price_old>
@@ -67109,7 +67072,7 @@
     <vendorCode>81115</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>226</quantity_in_stock>
+    <quantity_in_stock>220</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">8</param>
@@ -67245,7 +67208,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>119</quantity_in_stock>
     <param name="Вага" unit="кг">0.38</param>
     <param name="Довжина листа" unit="см">100</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -67881,7 +67844,7 @@
     <vendorCode>832615</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>249</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -68511,8 +68474,8 @@
   </offer>
   <offer id="1765264216" available="true">
     <url>https://ukrizol.xyz/ua/p1765264216-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1008</price>
-    <price_old>1200</price_old>
+    <price>1040</price>
+    <price_old>1238</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68534,8 +68497,8 @@
   </offer>
   <offer id="1765264217" available="false">
     <url>https://ukrizol.xyz/ua/p1765264217-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1260</price>
-    <price_old>1500</price_old>
+    <price>1292</price>
+    <price_old>1538</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68557,8 +68520,8 @@
   </offer>
   <offer id="1765264218" available="true">
     <url>https://ukrizol.xyz/ua/p1765264218-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3150</price>
-    <price_old>3750</price_old>
+    <price>3213</price>
+    <price_old>3825</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68580,8 +68543,8 @@
   </offer>
   <offer id="1765264219" available="false">
     <url>https://ukrizol.xyz/ua/p1765264219-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3780</price>
-    <price_old>4500</price_old>
+    <price>4032</price>
+    <price_old>4800</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68603,8 +68566,8 @@
   </offer>
   <offer id="1765264220" available="true">
     <url>https://ukrizol.xyz/ua/p1765264220-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2898</price>
-    <price_old>3450</price_old>
+    <price>2992</price>
+    <price_old>3562</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68626,8 +68589,8 @@
   </offer>
   <offer id="1765264221" available="false">
     <url>https://ukrizol.xyz/ua/p1765264221-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2419</price>
-    <price_old>2880</price_old>
+    <price>2155</price>
+    <price_old>2565</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -68649,8 +68612,8 @@
   </offer>
   <offer id="1765295127" available="true">
     <url>https://ukrizol.xyz/ua/p1765295127-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>26</price>
-    <price_old>31</price_old>
+    <price>27</price>
+    <price_old>32</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -69533,8 +69496,8 @@
   </offer>
   <offer id="1795852098" available="false">
     <url>https://ukrizol.xyz/ua/p1795852098-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>77</price>
-    <price_old>91</price_old>
+    <price>79</price>
+    <price_old>94</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -69556,8 +69519,8 @@
   </offer>
   <offer id="1795861060" available="false">
     <url>https://ukrizol.xyz/ua/p1795861060-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>141</price>
-    <price_old>168</price_old>
+    <price>145</price>
+    <price_old>172</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -69785,7 +69748,7 @@
     <vendorCode>832620</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>364</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -70439,7 +70402,7 @@
     <vendorCode>41016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
@@ -70594,7 +70557,7 @@
     <vendorCode>41020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Вага" unit="кг">1.925</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -70752,7 +70715,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>461</quantity_in_stock>
+    <quantity_in_stock>458</quantity_in_stock>
     <param name="Вага" unit="кг">0.95</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверные панели|Крыша|Стенки багажника|Пол автомобиля|Крышка багажника|Капот|Пол багажника</param>
@@ -71413,7 +71376,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>253</quantity_in_stock>
+    <quantity_in_stock>251</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -72609,7 +72572,7 @@
     <vendorCode>163100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -73356,7 +73319,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-<offer id="1846053295" available="false">
+  <offer id="1846053295" available="false">
     <url>https://ukrizol.xyz/ua/p1846053295-himichno-zshitij-spinenij.html</url>
     <price>3276</price>
     <price_old>3900</price_old>
@@ -73387,7 +73350,7 @@
     <param name="Ширина" unit="мм">600</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1846111007" available="false">
+<offer id="1846111007" available="false">
     <url>https://ukrizol.xyz/ua/p1846111007-himichno-zshitij-spinenij.html</url>
     <price>3906</price>
     <price_old>4650</price_old>
@@ -73640,7 +73603,7 @@
     <vendorCode>EF-1454s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Конструкція">Стрічкова</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Для фітнесу</param>
@@ -73863,8 +73826,8 @@
   </offer>
   <offer id="1857045725" available="true">
     <url>https://ukrizol.xyz/ua/p1857045725-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>4252</price>
-    <price_old>5062</price_old>
+    <price>4410</price>
+    <price_old>5250</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -73879,7 +73842,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
     <param name="Длина, п.м." unit="">2500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
+    <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
     <param name="Товщина" unit="">6</param>
     <param name="Колір" unit="">Белый</param>
@@ -75312,8 +75275,8 @@
   </offer>
   <offer id="1903256449" available="false">
     <url>https://ukrizol.xyz/ua/p1903256449-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1890</price>
-    <price_old>2250</price_old>
+    <price>2016</price>
+    <price_old>2400</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -75328,15 +75291,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Длина, п.м." unit="">500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
+    <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
     <param name="Товщина" unit="">12</param>
     <param name="Колір" unit="">Белый</param>
   </offer>
   <offer id="1903256450" available="false">
     <url>https://ukrizol.xyz/ua/p1903256450-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>48</price>
-    <price_old>58</price_old>
+    <price>50</price>
+    <price_old>60</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -75351,15 +75314,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Довжина" unit="м">2.75</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
+    <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
     <param name="Товщина" unit="">30</param>
     <param name="Колір" unit="">Белый</param>
   </offer>
   <offer id="1903256451" available="false">
     <url>https://ukrizol.xyz/ua/p1903256451-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2608</price>
-    <price_old>3105</price_old>
+    <price>2696</price>
+    <price_old>3210</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -75374,7 +75337,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Длина, п.м." unit="">200</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
+    <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
     <param name="Товщина" unit="">25</param>
     <param name="Колір" unit="">Белый</param>
@@ -76490,8 +76453,8 @@
   </offer>
   <offer id="1933599711" available="false">
     <url>https://ukrizol.xyz/ua/p1933599711-gazospinenij-polietilen-ukrizol.html</url>
-    <price>953</price>
-    <price_old>1135</price_old>
+    <price>1056</price>
+    <price_old>1258</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -77300,8 +77263,8 @@
   </offer>
   <offer id="1969291573" available="false">
     <url>https://ukrizol.xyz/ua/p1969291573-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1443</price>
-    <price_old>1718</price_old>
+    <price>1597</price>
+    <price_old>1901</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -80093,7 +80056,7 @@
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2005551544" available="true">
+  <offer id="2005551544" available="false">
     <url>https://ukrizol.xyz/ua/p2005551544-grusha-bokserska-boxer.html</url>
     <price>1334</price>
     <price_old>1588</price_old>
@@ -80107,7 +80070,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вага" unit="кг">27</param>
     <param name="Висота" unit="см">120</param>
     <param name="Вікова група">Доросла</param>
@@ -80169,7 +80132,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Щільність" unit="кг/м3">36</param>
   </offer>
-<offer id="2008148064" available="false">
+  <offer id="2008148064" available="false">
     <url>https://ukrizol.xyz/ua/p2008148064-dzhgut-uschilnyuvalnij-profilnij.html</url>
     <price>8</price>
     <price_old>10</price_old>
@@ -80193,7 +80156,7 @@
     <param name="Ширина" unit="мм">10</param>
     <param name="Товщина" unit="">20</param>
   </offer>
-  <offer id="2008148065" available="false">
+<offer id="2008148065" available="false">
     <url>https://ukrizol.xyz/ua/p2008148065-dzhgut-uschilnyuvalnij-profilnij.html</url>
     <price>29</price>
     <price_old>35</price_old>
@@ -80450,7 +80413,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889374</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>42</quantity_in_stock>
     <param name="Діаметр" unit="см">5</param>
     <param name="Колір" unit="">Персиковый</param>
     <param name="Довжина" unit="м">150.0</param>
@@ -80477,7 +80440,7 @@
     <param name="Довжина" unit="м">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021493573" available="true">
+  <offer id="2021493573" available="false">
     <url>https://ukrizol.xyz/ua/p2021493573-akvapalka-nudls-dlya.html</url>
     <price>105</price>
     <price_old>125</price_old>
@@ -80494,7 +80457,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889373</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Колір">Помаранчевий</param>
     <param name="Діаметр" unit="см">5</param>
     <param name="Довжина" unit="м">150.0</param>
@@ -80970,7 +80933,7 @@
     <vendorCode>889384</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3992</quantity_in_stock>
+    <quantity_in_stock>4002</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Армована фольга">Так</param>
@@ -82000,7 +81963,7 @@
     <param name="Форма">Пряма</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="2034417481" available="true">
+  <offer id="2034417481" available="false">
     <url>https://ukrizol.xyz/ua/p2034417481-lapi-bokserski-everlast.html</url>
     <price>1260</price>
     <price_old>1500</price_old>
@@ -82014,7 +81977,7 @@
     <vendorCode>889347</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Форма">Гнута</param>
     <param name="Колір">Синій</param>
@@ -82566,7 +82529,7 @@
     <vendorCode>889360</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал верху">Штучна шкіра</param>
@@ -86213,8 +86176,8 @@
   </offer>
   <offer id="2056308433" available="false">
     <url>https://ukrizol.xyz/ua/p2056308433-gazospinenij-polietilen-ukrizol.html</url>
-    <price>754</price>
-    <price_old>898</price_old>
+    <price>835</price>
+    <price_old>994</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94677747</categoryId>
     <picture>https://images.prom.ua/2913906909_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -86371,7 +86334,7 @@
     <param name="Діаметр" unit="см">25</param>
     <param name="Колір">Чорний</param>
   </offer>
-<offer id="2070555462" available="false">
+  <offer id="2070555462" available="false">
     <url>https://ukrizol.xyz/ua/p2070555462-pidsumok-pid-magaziniv.html</url>
     <price>730</price>
     <price_old>869</price_old>
@@ -86391,7 +86354,7 @@
     <param name="Матеріал" unit="">Cordura</param>
     <param name="Колір" unit="">Камуфляж Мультикам</param>
   </offer>
-  <offer id="2071599529" available="true">
+<offer id="2071599529" available="true">
     <url>https://ukrizol.xyz/ua/p2071599529-folgoholst-sklotkanini.html</url>
     <price>131</price>
     <price_old>156</price_old>
@@ -87549,8 +87512,8 @@
   </offer>
   <offer id="2096106289" available="true">
     <url>https://ukrizol.xyz/ua/p2096106289-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3478</price>
-    <price_old>4140</price_old>
+    <price>3591</price>
+    <price_old>4275</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -88737,8 +88700,8 @@
   </offer>
   <offer id="2108974467" available="true">
     <url>https://ukrizol.xyz/ua/p2108974467-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1159</price>
-    <price_old>1380</price_old>
+    <price>1197</price>
+    <price_old>1425</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -89828,8 +89791,8 @@
   </offer>
   <offer id="2150682741" available="true">
     <url>https://ukrizol.xyz/ua/p2150682741-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3780</price>
-    <price_old>4500</price_old>
+    <price>3874</price>
+    <price_old>4612</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -94099,7 +94062,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-<offer id="2183164005" available="false">
+  <offer id="2183164005" available="false">
     <url>https://ukrizol.xyz/ua/p2183164005-skovoroda-chavunna-optima.html</url>
     <price>839</price>
     <price_old>999</price_old>
@@ -94136,7 +94099,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-  <offer id="2183164006" available="false">
+<offer id="2183164006" available="false">
     <url>https://ukrizol.xyz/ua/p2183164006-skovoroda-chavunna-wok.html</url>
     <price>1269</price>
     <price_old>1511</price_old>
@@ -102851,7 +102814,7 @@
     <param name="Тип">Кришка</param>
     <param name="Вес, гр" unit="гр">1400</param>
   </offer>
-<offer id="2183246816" available="false">
+  <offer id="2183246816" available="false">
     <url>https://ukrizol.xyz/ua/p2183246816-krishka-alyuminiyeva-200.html</url>
     <price>83</price>
     <price_old>99</price_old>
@@ -102873,7 +102836,7 @@
     <param name="Діаметр" unit="см">20.0</param>
     <param name="Тип" unit="">Крышка</param>
   </offer>
-  <offer id="2183246817" available="false">
+<offer id="2183246817" available="false">
     <url>https://ukrizol.xyz/ua/p2183246817-menazhnitsya-fort-sektsiyi.html</url>
     <price>209</price>
     <price_old>249</price_old>
@@ -106343,7 +106306,7 @@
     <param name="Товщина" unit="мм">12</param>
     <param name="Ширина" unit="см">30</param>
   </offer>
-  <offer id="2259498006" available="false">
+  <offer id="2259498006" available="true">
     <url>https://ukrizol.xyz/ua/p2259498006-material-eva-eva.html</url>
     <price>203</price>
     <price_old>241</price_old>
@@ -106359,7 +106322,7 @@
     <vendorCode>889506</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>410</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -107203,8 +107166,8 @@
   </offer>
   <offer id="2292878894" available="true">
     <url>https://ukrizol.xyz/ua/p2292878894-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>26</price>
-    <price_old>31</price_old>
+    <price>27</price>
+    <price_old>32</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425947_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107215,7 +107178,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1722</quantity_in_stock>
+    <quantity_in_stock>1721</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -107224,8 +107187,8 @@
   </offer>
   <offer id="2292878895" available="false">
     <url>https://ukrizol.xyz/ua/p2292878895-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>26</price>
-    <price_old>31</price_old>
+    <price>27</price>
+    <price_old>32</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425949_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107245,8 +107208,8 @@
   </offer>
   <offer id="2292878896" available="false">
     <url>https://ukrizol.xyz/ua/p2292878896-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3780</price>
-    <price_old>4500</price_old>
+    <price>3874</price>
+    <price_old>4612</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425951_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107266,8 +107229,8 @@
   </offer>
   <offer id="2292878897" available="true">
     <url>https://ukrizol.xyz/ua/p2292878897-gazospinenij-polietilen-ukrizol.html</url>
-    <price>21</price>
-    <price_old>25</price_old>
+    <price>24</price>
+    <price_old>29</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445795_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107328,8 +107291,8 @@
   </offer>
   <offer id="2292878899" available="false">
     <url>https://ukrizol.xyz/ua/p2292878899-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1462</price>
-    <price_old>1740</price_old>
+    <price>1625</price>
+    <price_old>1935</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445800_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107358,8 +107321,8 @@
   </offer>
   <offer id="2292878900" available="false">
     <url>https://ukrizol.xyz/ua/p2292878900-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>4252</price>
-    <price_old>5062</price_old>
+    <price>4410</price>
+    <price_old>5250</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425953_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107379,8 +107342,8 @@
   </offer>
   <offer id="2292878901" available="false">
     <url>https://ukrizol.xyz/ua/p2292878901-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2898</price>
-    <price_old>3450</price_old>
+    <price>2992</price>
+    <price_old>3562</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425955_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107400,8 +107363,8 @@
   </offer>
   <offer id="2292878902" available="true">
     <url>https://ukrizol.xyz/ua/p2292878902-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>109</price>
-    <price_old>130</price_old>
+    <price>114</price>
+    <price_old>136</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425957_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107412,7 +107375,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>516</quantity_in_stock>
+    <quantity_in_stock>515</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Ширина" unit="мм">60</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
@@ -107421,8 +107384,8 @@
   </offer>
   <offer id="2292878903" available="false">
     <url>https://ukrizol.xyz/ua/p2292878903-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>54</price>
-    <price_old>64</price_old>
+    <price>57</price>
+    <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425959_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107442,8 +107405,8 @@
   </offer>
   <offer id="2292878904" available="false">
     <url>https://ukrizol.xyz/ua/p2292878904-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1008</price>
-    <price_old>1200</price_old>
+    <price>1040</price>
+    <price_old>1238</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146425961_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107463,8 +107426,8 @@
   </offer>
   <offer id="2292878905" available="true">
     <url>https://ukrizol.xyz/ua/p2292878905-gazospinenij-polietilen-ukrizol.html</url>
-    <price>80</price>
-    <price_old>95</price_old>
+    <price>96</price>
+    <price_old>114</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445805_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107494,8 +107457,8 @@
   </offer>
   <offer id="2292878906" available="false">
     <url>https://ukrizol.xyz/ua/p2292878906-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3150</price>
-    <price_old>3750</price_old>
+    <price>3213</price>
+    <price_old>3825</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146429209_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107557,8 +107520,8 @@
   </offer>
   <offer id="2292878909" available="false">
     <url>https://ukrizol.xyz/ua/p2292878909-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2608</price>
-    <price_old>3105</price_old>
+    <price>2696</price>
+    <price_old>3210</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146429215_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107578,8 +107541,8 @@
   </offer>
   <offer id="2292878910" available="false">
     <url>https://ukrizol.xyz/ua/p2292878910-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1260</price>
-    <price_old>1500</price_old>
+    <price>1292</price>
+    <price_old>1538</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146429217_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107599,8 +107562,8 @@
   </offer>
   <offer id="2292878911" available="true">
     <url>https://ukrizol.xyz/ua/p2292878911-gazospinenij-polietilen-ukrizol.html</url>
-    <price>28</price>
-    <price_old>34</price_old>
+    <price>35</price>
+    <price_old>41</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445807_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107630,8 +107593,8 @@
   </offer>
   <offer id="2292878912" available="true">
     <url>https://ukrizol.xyz/ua/p2292878912-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>72</price>
-    <price_old>86</price_old>
+    <price>77</price>
+    <price_old>91</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146429219_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107642,7 +107605,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1396</quantity_in_stock>
+    <quantity_in_stock>1295</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -107651,8 +107614,8 @@
   </offer>
   <offer id="2292878913" available="false">
     <url>https://ukrizol.xyz/ua/p2292878913-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>36</price>
-    <price_old>42</price_old>
+    <price>38</price>
+    <price_old>45</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146429221_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107672,8 +107635,8 @@
   </offer>
   <offer id="2292878914" available="false">
     <url>https://ukrizol.xyz/ua/p2292878914-gazospinenij-polietilen-ukrizol.html</url>
-    <price>1625</price>
-    <price_old>1935</price_old>
+    <price>1802</price>
+    <price_old>2145</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445811_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107723,8 +107686,8 @@
   </offer>
   <offer id="2292878916" available="false">
     <url>https://ukrizol.xyz/ua/p2292878916-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2419</price>
-    <price_old>2880</price_old>
+    <price>2155</price>
+    <price_old>2565</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431224_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107744,8 +107707,8 @@
   </offer>
   <offer id="2292878917" available="false">
     <url>https://ukrizol.xyz/ua/p2292878917-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3478</price>
-    <price_old>4140</price_old>
+    <price>3591</price>
+    <price_old>4275</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431228_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107765,8 +107728,8 @@
   </offer>
   <offer id="2292878918" available="true">
     <url>https://ukrizol.xyz/ua/p2292878918-gazospinenij-polietilen-ukrizol.html</url>
-    <price>35</price>
-    <price_old>41</price_old>
+    <price>42</price>
+    <price_old>50</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146340348_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -107778,7 +107741,7 @@
     <vendorCode>9000519</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>709</quantity_in_stock>
+    <quantity_in_stock>809</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -107796,8 +107759,8 @@
   </offer>
   <offer id="2292878919" available="false">
     <url>https://ukrizol.xyz/ua/p2292878919-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>3780</price>
-    <price_old>4500</price_old>
+    <price>4032</price>
+    <price_old>4800</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146344725_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107817,8 +107780,8 @@
   </offer>
   <offer id="2292878920" available="false">
     <url>https://ukrizol.xyz/ua/p2292878920-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1890</price>
-    <price_old>2250</price_old>
+    <price>2016</price>
+    <price_old>2400</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431236_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107838,8 +107801,8 @@
   </offer>
   <offer id="2292878921" available="false">
     <url>https://ukrizol.xyz/ua/p2292878921-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>39</price>
-    <price_old>46</price_old>
+    <price>41</price>
+    <price_old>49</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431240_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107890,8 +107853,8 @@
   </offer>
   <offer id="2292878923" available="false">
     <url>https://ukrizol.xyz/ua/p2292878923-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>101</price>
-    <price_old>120</price_old>
+    <price>106</price>
+    <price_old>126</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431247_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107911,8 +107874,8 @@
   </offer>
   <offer id="2292878924" available="false">
     <url>https://ukrizol.xyz/ua/p2292878924-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>1159</price>
-    <price_old>1380</price_old>
+    <price>1197</price>
+    <price_old>1425</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146431252_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -107932,8 +107895,8 @@
   </offer>
   <offer id="2292878925" available="true">
     <url>https://ukrizol.xyz/ua/p2292878925-gazospinenij-polietilen-ukrizol.html</url>
-    <price>64</price>
-    <price_old>76</price_old>
+    <price>76</price>
+    <price_old>90</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/6146445902_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -109792,7 +109755,7 @@
     <param name="Розмір">L</param>
     <param name="Тип">Захист паху</param>
   </offer>
-<offer id="2342112939" available="true">
+  <offer id="2342112939" available="true">
     <url>https://ukrizol.xyz/ua/p2342112939-zahist-pahovij-fgt.html</url>
     <price>177</price>
     <price_old>211</price_old>
@@ -109811,10 +109774,10 @@
     <param name="Розмір">S</param>
     <param name="Тип">Захист паху</param>
   </offer>
-  <offer id="2343987577" available="true">
+<offer id="2343987577" available="true">
     <url>https://ukrizol.xyz/ua/p2343987577-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2520</price>
-    <price_old>3000</price_old>
+    <price>2583</price>
+    <price_old>3075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -109836,8 +109799,8 @@
   </offer>
   <offer id="2343987578" available="false">
     <url>https://ukrizol.xyz/ua/p2343987578-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>2520</price>
-    <price_old>3000</price_old>
+    <price>2583</price>
+    <price_old>3075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146344725_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -113820,8 +113783,8 @@
   </offer>
   <offer id="2538580264" available="true">
     <url>https://ukrizol.xyz/ua/p2538580264-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>16</price>
-    <price_old>19</price_old>
+    <price>15</price>
+    <price_old>18</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -113843,8 +113806,8 @@
   </offer>
   <offer id="2538580265" available="true">
     <url>https://ukrizol.xyz/ua/p2538580265-dzhgut-uschilnyuvalnij-ukrizol.html</url>
-    <price>16</price>
-    <price_old>19</price_old>
+    <price>15</price>
+    <price_old>18</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146344725_dzhgut-uschilnyuvalnij-ukrizol.jpg</picture>
@@ -116397,8 +116360,8 @@
   </offer>
   <offer id="2619045180" available="false">
     <url>https://ukrizol.xyz/ua/p2619045180-gazospinenij-polietilen-ukrizol.html</url>
-    <price>4045</price>
-    <price_old>4815</price_old>
+    <price>4498</price>
+    <price_old>5355</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>83643688</categoryId>
     <picture>https://images.prom.ua/2749211626_gazospinenij-polietilen-ukrizol.jpg</picture>
@@ -116486,13 +116449,13 @@
     <vendorCode>889610</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>148</quantity_in_stock>
+    <quantity_in_stock>147</quantity_in_stock>
     <param name="Колір">Синій</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Довжина" unit="м">150</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-<offer id="2625260702" available="false">
+  <offer id="2625260702" available="false">
     <url>https://ukrizol.xyz/ua/p2625260702-folga-samokleyucha-armovana.html</url>
     <price>80</price>
     <price_old>95</price_old>
@@ -116511,7 +116474,7 @@
     <param name="Наявність клейового шару">Так</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
   </offer>
-  <offer id="2625626558" available="true">
+<offer id="2625626558" available="true">
     <url>https://ukrizol.xyz/ua/p2625626558-kilimok-dlya-jogi.html</url>
     <price>688</price>
     <price_old>819</price_old>
@@ -117449,7 +117412,7 @@
     <vendorCode>889623</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -118720,7 +118683,7 @@
     <name>Координаційні сходи 10 м, 20 перекладин</name>
     <vendorCode>EF-1677</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
   </offer>
   <offer id="2776063805" available="true">
     <url>https://ukrizol.xyz/ua/p2776063805-mineralna-vata-knauf.html</url>
@@ -119206,7 +119169,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>202</quantity_in_stock>
+    <quantity_in_stock>207</quantity_in_stock>
     <param name="Застосування матеріалу">Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -122889,7 +122852,7 @@
     <param name="Колір">Червоний</param>
     <param name="Матеріал">PETG</param>
   </offer>
-<offer id="2911029783" available="true">
+  <offer id="2911029783" available="true">
     <url>https://ukrizol.xyz/ua/p2911029783-filament-dsf-petg.html</url>
     <price>630</price>
     <price_old>750</price_old>
@@ -122909,7 +122872,7 @@
     <param name="Колір">Чорний</param>
     <param name="Матеріал">PETG</param>
   </offer>
-  <offer id="2911029784" available="false">
+<offer id="2911029784" available="false">
     <url>https://ukrizol.xyz/ua/p2911029784-filament-dsf-pla.html</url>
     <price>697</price>
     <price_old>830</price_old>
@@ -123706,8 +123669,8 @@
   </offer>
   <offer id="2949642198" available="false">
     <url>https://ukrizol.xyz/ua/p2949642198-dzhgut-uschilnyuvalnij-300.html</url>
-    <price>3912</price>
-    <price_old>4658</price_old>
+    <price>4045</price>
+    <price_old>4815</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/6146344725_dzhgut-uschilnyuvalnij-25.jpg</picture>
@@ -123728,8 +123691,8 @@
   </offer>
   <offer id="2949642200" available="true">
     <url>https://ukrizol.xyz/ua/p2949642200-dzhgut-uschilnyuvalnij-300.html</url>
-    <price>3912</price>
-    <price_old>4658</price_old>
+    <price>4045</price>
+    <price_old>4815</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98069020</categoryId>
     <picture>https://images.prom.ua/3159001430_dzhgut-uschilnyuvalnij-25.jpg</picture>

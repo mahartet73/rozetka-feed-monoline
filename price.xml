@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-24 09:00">
+<yml_catalog date="2026-05-24 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -1036,7 +1036,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>167</quantity_in_stock>
+    <quantity_in_stock>166</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -8627,6 +8627,7 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>272</quantity_in_stock>
+    <param name="Тип">Віброізоляція</param>
     <param name="Материал ручки, ролика" unit="">Пластик</param>
     <param name="Материал стержня" unit="">Хромированная сталь</param>
     <param name="Ширина, мм" unit="">45</param>
@@ -10730,7 +10731,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>960</quantity_in_stock>
+    <quantity_in_stock>948</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -15077,7 +15078,7 @@
     <vendorCode>1001-04Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">16</param>
     <param name="Висота" unit="см">80</param>
     <param name="Вікова група">Доросла</param>
@@ -17155,20 +17156,20 @@
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Улучшение акустики помещений|Виброизоляция|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для пола|Для каркасных конструкций|Для стен|Для потолков|Для инженерного оборудования</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">14</param>
+    <param name="Максимальна робоча температура" unit="град.">120.0</param>
     <param name="Мінімальна робоча температура" unit="">-100</param>
     <param name="Щільність" unit="">55</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Товщина" unit="">13</param>
-    <param name="Призначення матеріалу" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Еластичність матеріалу" unit="">Да</param>
-    <param name="Область застосування" unit="">Для пола|Для каркасных конструкций|Для потолков|Для инженерного оборудования|Для стен</param>
-    <param name="Колір" unit="">Черный</param>
-    <param name="Ступінь жорсткості" unit="">Мягкий</param>
   </offer>
   <offer id="1361449972" available="true">
     <url>https://ukrizol.xyz/ua/p1361449972-spinenij-kauchuk-flex.html</url>
@@ -71353,7 +71354,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>283</quantity_in_stock>
+    <quantity_in_stock>281</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -81098,7 +81099,7 @@
     <vendorCode>889218</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">S</param>
     <param name="Тип">Захист корпусу</param>
@@ -86679,7 +86680,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>217</quantity_in_stock>
+    <quantity_in_stock>215</quantity_in_stock>
     <param name="Вага упаковки" unit="кг">8.5</param>
     <param name="Довжина" unit="м">10</param>
     <param name="Довжина упаковки" unit="мм">50</param>
@@ -87384,7 +87385,7 @@
     <vendorCode>889441</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>332</quantity_in_stock>
+    <quantity_in_stock>331</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>

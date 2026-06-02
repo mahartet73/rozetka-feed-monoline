@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-01 17:00">
+<yml_catalog date="2026-06-02 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.6948" />
+      <currency id="USD" rate="48.73253" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.70995" />
+      <currency id="EUR" rate="56.75879" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -1008,7 +1008,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>243</quantity_in_stock>
+    <quantity_in_stock>244</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2856,7 +2856,7 @@
     <vendorCode>61213</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>431</quantity_in_stock>
+    <quantity_in_stock>421</quantity_in_stock>
     <param name="Довжина" unit="м">15</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для резервуаров|Для доріг|Для стен|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -3000,7 +3000,7 @@
     <vendorCode>64021</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Тип використання">Універсальний</param>
     <param name="Призначення матеріалу">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхні">Бетон|Пластик|Метал|Кераміка|Камінь|Деревина</param>
@@ -3030,7 +3030,7 @@
     <vendorCode>64020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Тип використання">Універсальний</param>
     <param name="Призначення матеріалу">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхні">Бетон|Пластик|Метал|Кераміка|Камінь|Деревина</param>
@@ -4793,7 +4793,7 @@
     <param name="Основа" unit="">Бутил-каучук</param>
     <param name="Толщина фольги" unit="">40 мкм</param>
   </offer>
-  <offer id="1056254235" available="true">
+  <offer id="1056254235" available="false">
     <url>https://ukrizol.xyz/ua/p1056254235-uschilnyuvalna-porolonova-strichka.html</url>
     <price>25</price>
     <price_old>30</price_old>
@@ -4806,7 +4806,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Довжина" unit="м">1</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
     <param name="Ширина" unit="мм">50</param>
@@ -11165,7 +11165,7 @@
     <vendorCode>889038</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>314</quantity_in_stock>
+    <quantity_in_stock>310</quantity_in_stock>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Дах|Двери|Капот|Дверні панелі|Стенки багажника|Кришка багажника</param>
     <param name="Стан">Новий</param>
@@ -11650,7 +11650,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>471</quantity_in_stock>
+    <quantity_in_stock>469</quantity_in_stock>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
     <param name="Сумісність з моделлю">Civic|Getz|Peugeot 206|Scorpio|6|Santa Fe|RAV4|Camry|Focus|XC90|Ceed|C2|Chrysler|Avensis|Lupo|C5|Q5|A6|Renault Megane|Fiesta|Caliber|Tiguan|Tucson|Q7|Yaris|Primera|Almera|Mondeo|Passat|A4|Nissan Maxima|Sebring|Dodge|Sonata|Jazz|Accord|C4|Fusion|Colt|Matiz|Lancer|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -11840,7 +11840,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>384</quantity_in_stock>
+    <quantity_in_stock>375</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
     <param name="Сумісність з моделлю">XC90|Ceed|Getz|Caliber|C5|Q7|Sebring|Primera|Mondeo|Colt|Nissan Maxima|6|Tiguan|Avensis|Lancer|Sonata|Chrysler|Jazz|A6|Focus|RAV4|C2|Almera|Santa Fe|Fusion|Scorpio|A4|Accord|Renault Megane|Tucson|Fiesta|Q5|Dodge|Passat|Camry|Civic|Peugeot 206|Matiz|Lupo|Yaris|C4|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -44333,7 +44333,7 @@
     <vendorCode>EF-AWTS-400</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вага" unit="кг">4</param>
     <param name="Кількість обважнювачів">2</param>
     <param name="Особливості">Неопреновое покрытие|Подходит для ног и рук</param>
@@ -67524,7 +67524,7 @@
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>95</quantity_in_stock>
+    <quantity_in_stock>94</quantity_in_stock>
     <param name="Тип використання">Універсальний</param>
     <param name="Тип матеріалу, що приклеюється">ДВП|Дерево|Текстиль|Стекло|Металл|ДСП|Бумага|ПВХ|Резина|Картон|Кожа|МДФ</param>
     <param name="Фасовка матеріалу (л)" unit="л">3</param>
@@ -69176,7 +69176,7 @@
     <vendorCode>ВВ-В3С</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Довжина" unit="см">300</param>
     <param name="Матеріал">Нейлон</param>
     <param name="Тип">Еластичні бинти</param>
@@ -69611,7 +69611,7 @@
     <vendorCode>233092192</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Довжина" unit="см">190</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -81341,7 +81341,7 @@
     <vendorCode>889363</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
@@ -81397,7 +81397,7 @@
     <vendorCode>889355</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -88887,7 +88887,7 @@
     <vendorCode>889468</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Синій</param>
@@ -117044,13 +117044,13 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>75</quantity_in_stock>
-    <param name="Матеріал ручки">дерево</param>
+    <param name="Сумісність з маркою">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
+    <param name="Сумісність з моделлю">Fiesta|206|Tucson|Renault Megane|Matiz|Accord|Focus|Fusion|Sebring|A6|Santa Fe|Civic|Lupo|Tiguan|A4|Caliber|Primera|Avensis|C5|Yaris|Q5|Nissan Maxima|Passat|Getz|6|Ceed|Jazz|Camry|Sonata|XC90|Q7|Lancer|C4|C2|Chrysler|RAV4|Almera|Colt|Dodge|Scorpio|Mondeo</param>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
+    <param name="Матеріал ручки" unit="">дерево</param>
     <param name="Ширина, мм" unit="">32</param>
-    <param name="Сумісність з маркою" unit="">Nissan|Fiat|Dodge|Kia|Mazda|Citroen|Mitsubishi|Audi|BMW|Daewoo|Hyundai|Volvo|Ford|Honda|Peugeot|Chrysler|Volkswagen|Toyota|Renault</param>
-    <param name="Сумісність з моделлю" unit="">Sebring|Fiesta|Civic|Dodge|Primera|Almera|Tiguan|Santa Fe|Renault Megane|A4|Jazz|Q7|A6|Accord|Tucson|206|Mondeo|Sonata|Fusion|Scorpio|XC90|Lupo|Ceed|Focus|Matiz|Yaris|Avensis|Chrysler|Lancer|Passat|RAV4|C2|Caliber|Colt|C5|6|Nissan Maxima|Q5|Getz|Camry|C4</param>
   </offer>
   <offer id="2666606572" available="true">
     <url>https://ukrizol.xyz/ua/p2666606572-metalevij-prikatochnij-rolik.html</url>
@@ -117071,10 +117071,12 @@
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>31</quantity_in_stock>
-    <param name="Матеріал ручки">дерево</param>
+    <param name="Сумісність з маркою">Ford|Honda|Toyota|Volvo|Peugeot|Citroen|Nissan|Mitsubishi|BMW|Fiat|Daewoo|Kia|Chrysler|Dodge|Mazda|Renault|Hyundai|Audi|Volkswagen</param>
+    <param name="Сумісність з моделлю">Focus|C5|Sebring|Fusion|Civic|A6|Matiz|A4|Renault Megane|Lupo|Tiguan|Jazz|Peugeot 206|Colt|Sonata|Camry|Lancer|Q5|RAV4|XC90|Nissan Maxima|C2|Passat|Tucson|Avensis|C4|Yaris|Primera|Scorpio|Fiesta|Chrysler|Accord|Caliber|Ceed|Dodge|6|Santa Fe|Mondeo|Q7|Getz|Almera</param>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
+    <param name="Матеріал ручки" unit="">дерево</param>
     <param name="Ширина, мм" unit="">32</param>
   </offer>
   <offer id="2666606573" available="false">
@@ -120350,7 +120352,7 @@
     <param name="Розмір">M</param>
     <param name="Тип">Закритий</param>
   </offer>
-  <offer id="2847952350" available="false">
+  <offer id="2847952350" available="true">
     <url>https://ukrizol.xyz/ua/p2847952350-zahist-gomilki-stopi.html</url>
     <price>1124</price>
     <price_old>1338</price_old>
@@ -120367,7 +120369,7 @@
     <vendorCode>889723</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>

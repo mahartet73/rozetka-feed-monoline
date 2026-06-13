@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-13 09:00">
+<yml_catalog date="2026-06-13 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -493,7 +493,7 @@
     <vendorCode>20108</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>342</quantity_in_stock>
+    <quantity_in_stock>341</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Довжина" unit="м">50</param>
   </offer>
@@ -924,7 +924,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>313</quantity_in_stock>
+    <quantity_in_stock>312</quantity_in_stock>
     <param name="Довжина" unit="м">45</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1</param>
@@ -2307,7 +2307,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>425</quantity_in_stock>
+    <quantity_in_stock>426</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для доріг|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -2339,7 +2339,7 @@
     <vendorCode>62012</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>336</quantity_in_stock>
+    <quantity_in_stock>335</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для доріг|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -2435,7 +2435,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2529,7 +2529,7 @@
     <vendorCode>63329</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>125</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2653,7 +2653,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>107</quantity_in_stock>
+    <quantity_in_stock>104</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="м">0.075</param>
     <param name="Розривне навантаження (по довжині)" unit="Н/5 см">160</param>
@@ -2682,13 +2682,13 @@
     <vendorCode>63322</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>86</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
+    <param name="Колір">Синій</param>
     <param name="Розривне навантаження (по довжині)" unit="Н/5 см">160.0</param>
     <param name="Розривне навантаження (по ширині)" unit="Н/5 см">110.0</param>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000.0</param>
-    <param name="Колір" unit="">Синий</param>
     <param name="Щільність" unit="">80.0</param>
   </offer>
   <offer id="1016523151" available="true">
@@ -2926,7 +2926,7 @@
     <vendorCode>61223</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>806</quantity_in_stock>
+    <quantity_in_stock>804</quantity_in_stock>
     <param name="Довжина" unit="м">11</param>
     <param name="Колір">Сірий</param>
     <param name="Ширина" unit="м">0.006</param>
@@ -2971,7 +2971,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>216</quantity_in_stock>
+    <quantity_in_stock>215</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -5927,7 +5927,7 @@
     <vendorCode>900035</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>565</quantity_in_stock>
+    <quantity_in_stock>557</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -8238,7 +8238,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1658</quantity_in_stock>
+    <quantity_in_stock>1644</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8628,7 +8628,7 @@
     <vendorCode>03-780</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>263</quantity_in_stock>
+    <quantity_in_stock>264</quantity_in_stock>
     <param name="Тип">Віброізоляція</param>
     <param name="Материал ручки, ролика" unit="">Пластик</param>
     <param name="Материал стержня" unit="">Хромированная сталь</param>
@@ -9136,13 +9136,13 @@
     <vendorCode>500323</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Виброизоляция|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">6</param>
     <param name="Екологічна безпека матеріалу" unit="">Безопасен</param>
@@ -9565,7 +9565,7 @@
     <vendorCode>06/9П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>694</quantity_in_stock>
+    <quantity_in_stock>692</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -9635,7 +9635,7 @@
     <vendorCode>15/9О</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>111</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -9884,7 +9884,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1499</quantity_in_stock>
+    <quantity_in_stock>1496</quantity_in_stock>
     <param name="Довжина" unit="м">25</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">50</param>
@@ -10708,7 +10708,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>470</quantity_in_stock>
+    <quantity_in_stock>463</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11671,7 +11671,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>376</quantity_in_stock>
+    <quantity_in_stock>374</quantity_in_stock>
     <param name="Сумісність з маркою">Audi|Mitsubishi|Kia|Volvo|Toyota|Chrysler|Citroen|Peugeot|Hyundai|Fiat|Ford|Honda|BMW|Nissan|Dodge|Mazda|Daewoo|Renault|Volkswagen</param>
     <param name="Сумісність з моделлю">Civic|Getz|Peugeot 206|Scorpio|6|Santa Fe|RAV4|Camry|Focus|XC90|Ceed|C2|Chrysler|Avensis|Lupo|C5|Q5|A6|Renault Megane|Fiesta|Caliber|Tiguan|Tucson|Q7|Yaris|Primera|Almera|Mondeo|Passat|A4|Nissan Maxima|Sebring|Dodge|Sonata|Jazz|Accord|C4|Fusion|Colt|Matiz|Lancer|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -14135,7 +14135,7 @@
     <param name="Тип">Захист гомілки/стопи</param>
     <param name="Колір">Червоний</param>
   </offer>
-  <offer id="1358320699" available="true">
+  <offer id="1358320699" available="false">
     <url>https://ukrizol.xyz/ua/p1358320699-makivara-boxer-velika.html</url>
     <price>1486</price>
     <price_old>1769</price_old>
@@ -14152,7 +14152,7 @@
     <vendorCode>1018-01</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Колір">Чорний</param>
     <param name="Тип">Маківара</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -15386,7 +15386,7 @@
     <vendorCode>2022-05Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вага" unit="oz">8</param>
     <param name="Вікова група">Дитяча</param>
     <param name="Матеріал">Штучна шкіра</param>
@@ -15686,7 +15686,7 @@
     <vendorCode>1502628</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вага" unit="кг">0.5</param>
     <param name="Водонепроникний чохол">Так</param>
     <param name="Ручки для перенесення чохла">Так</param>
@@ -16040,7 +16040,7 @@
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бойові</param>
   </offer>
-  <offer id="1358320889" available="false">
+  <offer id="1358320889" available="true">
     <url>https://ukrizol.xyz/ua/p1358320889-bokserski-rukavichki-boxer.html</url>
     <price>1512</price>
     <price_old>1800</price_old>
@@ -16057,7 +16057,7 @@
     <vendorCode>2023-01С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Тип">Бокс</param>
@@ -20158,7 +20158,7 @@
     <vendorCode>15/13О</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>155</quantity_in_stock>
+    <quantity_in_stock>153</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -21176,7 +21176,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1316</quantity_in_stock>
+    <quantity_in_stock>1302</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -21246,7 +21246,7 @@
     <vendorCode>83930</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>324</quantity_in_stock>
+    <quantity_in_stock>342</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -22448,7 +22448,7 @@
     <vendorCode>56359</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>247</quantity_in_stock>
+    <quantity_in_stock>243</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Матеріал">Бітум</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
@@ -44814,7 +44814,7 @@
     <vendorCode>EF-1633-4</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Тип">Турнік</param>
     <param name="Матеріал">Метал</param>
@@ -45429,7 +45429,7 @@
     <vendorCode>112569</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>41</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Діаметр" unit="см">94</param>
     <param name="Конструкція">Цілісна</param>
     <param name="Матеріал">Сталь</param>
@@ -46116,7 +46116,7 @@
     <vendorCode>56413</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Вага" unit="кг">7.85</param>
     <param name="Застосування матеріалу">Стеля автомобіля|Двері|Дверні панелі|Дах|Стінки багажника|Підлогу автомобіля|Кришка багажника|Пол багажника</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -46202,6 +46202,8 @@
     <param name="Площа аркуша" unit="кв.м">0.185</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Ford|Daewoo|Nissan|Volkswagen|Honda|BMW|Peugeot|Audi|Hyundai|Chrysler|Citroen|Fiat|Dodge|Toyota|Renault|Mitsubishi|Kia|Volvo|Mazda</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
@@ -46239,6 +46241,8 @@
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Dodge|Mazda|Ford|Kia|Honda|Peugeot|Fiat|Volkswagen|Renault|Chrysler|Citroen|Daewoo|Mitsubishi|Audi|Nissan|Volvo|Toyota|BMW|Hyundai</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
@@ -46274,6 +46278,8 @@
     <param name="Площа аркуша" unit="кв.м">2.35</param>
     <param name="Товщина" unit="мм">10</param>
     <param name="Ширина листа" unit="см">47</param>
+    <param name="Сумісність з маркою">Dodge|Mazda|Ford|Kia|Honda|Peugeot|Fiat|Volkswagen|Renault|Chrysler|Citroen|Daewoo|Mitsubishi|Audi|Nissan|Volvo|Toyota|BMW|Hyundai</param>
+    <param name="Сумісність з моделлю">Nissan Maxima|Dodge|Passat|Getz|Focus|Scorpio|Santa Fe|Q5|Q7|C5|A4|Caliber|C2|Sebring|Tucson|Civic|Colt|Lancer|A6|Primera|Peugeot 206|Chrysler|Camry|Almera|Sonata|RAV4|Fiesta|Ceed|Renault Megane|Fusion|C4|6|Avensis|Mondeo|Matiz|Yaris|XC90|Lupo|Tiguan|Jazz|Accord</param>
     <param name="Довжина" unit="м">5</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
     <param name="Мінімальна робоча температура" unit="">-40</param>
@@ -49901,7 +49907,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>881</quantity_in_stock>
+    <quantity_in_stock>869</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Матеріал" unit="">Резинка</param>
@@ -51547,7 +51553,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>532</quantity_in_stock>
+    <quantity_in_stock>531</quantity_in_stock>
     <param name="Довжина" unit="м">35</param>
     <param name="Максимальна робоча температура" unit="град.">90</param>
     <param name="Мінімальна робоча температура" unit="град.">-40</param>
@@ -52402,7 +52408,7 @@
     <vendorCode>83940</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>236</quantity_in_stock>
+    <quantity_in_stock>232</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -54465,7 +54471,7 @@
     <vendorCode>10/9П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -57467,7 +57473,7 @@
     <vendorCode>500092У</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>675</quantity_in_stock>
+    <quantity_in_stock>673</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -58481,7 +58487,7 @@
     <vendorCode>06/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>478</quantity_in_stock>
+    <quantity_in_stock>476</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -58551,7 +58557,7 @@
     <vendorCode>10/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>756</quantity_in_stock>
+    <quantity_in_stock>754</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -61457,7 +61463,7 @@
     <vendorCode>61211</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>185</quantity_in_stock>
+    <quantity_in_stock>183</quantity_in_stock>
     <param name="Довжина" unit="м">13</param>
     <param name="Товщина (мм)">5</param>
     <param name="Колір">Чорний</param>
@@ -69589,7 +69595,7 @@
     <vendorCode>163118</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -70410,7 +70416,7 @@
     <vendorCode>41015</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>217</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Вага" unit="кг">1.015</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -70420,6 +70426,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Volvo|Kia|Toyota|Daewoo|Chrysler|Mitsubishi|Citroen|Mazda|BMW|Volkswagen|Audi|Ford|Fiat|Renault|Hyundai|Honda|Dodge|Peugeot|Nissan</param>
+    <param name="Сумісність з моделлю">Renault Megane|Q7|Fusion|Caliber|Peugeot 206|Sebring|Mondeo|Camry|Primera|Santa Fe|RAV4|XC90|Jazz|Chrysler|Civic|Colt|Ceed|Passat|Scorpio|Tiguan|Nissan Maxima|Tucson|6|A6|Yaris|Sonata|C4|Matiz|Avensis|Lupo|Fiesta|Focus|Almera|Getz|Accord|Q5|C2|Dodge|C5|A4|Lancer</param>
   </offer>
   <offer id="1806687117" available="true">
     <url>https://ukrizol.xyz/ua/p1806687117-vibroizolyatsiya-acoustics-xtreme.html</url>
@@ -70754,7 +70762,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>320</quantity_in_stock>
+    <quantity_in_stock>318</quantity_in_stock>
     <param name="Вага" unit="кг">0.95</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверные панели|Крыша|Стенки багажника|Пол автомобиля|Крышка багажника|Капот|Пол багажника</param>
@@ -71387,11 +71395,13 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>228</quantity_in_stock>
+    <quantity_in_stock>223</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
     <param name="Товщина" unit="мм">2</param>
+    <param name="Сумісність з маркою">Audi|Mazda|Mitsubishi|Renault|Ford|Dodge|Volkswagen|Fiat|Citroen|Toyota|Kia|Daewoo|Honda|Volvo|Chrysler|BMW|Hyundai|Peugeot|Nissan</param>
+    <param name="Сумісність з моделлю">6|Jazz|Yaris|Peugeot 206|Sebring|Tucson|XC90|Renault Megane|Accord|Avensis|Camry|Passat|Matiz|Primera|Fusion|Sonata|RAV4|C2|Ceed|Dodge|Fiesta|Q7|Q5|Tiguan|Colt|Mondeo|A4|C4|C5|Chrysler|Santa Fe|Nissan Maxima|Lancer|Scorpio|Focus|Almera|Caliber|A6|Getz|Lupo|Civic</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
@@ -71415,7 +71425,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>254</quantity_in_stock>
+    <quantity_in_stock>252</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -76233,7 +76243,7 @@
     <name>Килимок для спорту РІБАК 1100х600х4 зелені тиснень</name>
     <vendorCode>Р11006004ЗТ1</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Довжина" unit="см">110</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -80088,7 +80098,7 @@
     <vendorCode>1003-03Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Вага" unit="кг">22</param>
     <param name="Висота" unit="см">100</param>
     <param name="Вікова група">Доросла</param>
@@ -80434,7 +80444,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889379</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>191</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Діаметр" unit="см">6</param>
     <param name="Колір" unit="">Персиковый</param>
     <param name="Довжина" unit="м">150.0</param>
@@ -80612,7 +80622,7 @@
     <vendor>Ізолон</vendor>
     <vendorCode>889376</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <param name="Колір">Жовтий</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Довжина" unit="м">150.0</param>
@@ -86310,7 +86320,7 @@
     <vendorCode>EF-1924-ORB</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="г">830</param>
     <param name="Довжина" unit="см">183</param>
     <param name="Колір">Помаранчевий</param>
@@ -86715,7 +86725,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>189</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Вага упаковки" unit="кг">8.5</param>
     <param name="Довжина" unit="м">10</param>
     <param name="Довжина упаковки" unit="мм">50</param>
@@ -110679,6 +110689,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">1.8</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Fiat|Hyundai|Mazda|Toyota|Audi|Chrysler|Volvo|Honda|Renault|Citroen|Daewoo|Nissan|Peugeot|Mitsubishi|Dodge|BMW|Ford|Kia|Volkswagen</param>
+    <param name="Сумісність з моделлю">Lancer|Avensis|C5|Passat|C2|6|Ceed|Camry|Mondeo|RAV4|Matiz|Renault Megane|A6|Scorpio|Chrysler|Sebring|Fusion|Q5|Santa Fe|Q7|Colt|XC90|A4|Tucson|Dodge|206|Accord|Lupo|Tiguan|Almera|Sonata|Civic|Yaris|Jazz|Caliber|Fiesta|Nissan Maxima|C4|Getz|Focus|Primera</param>
   </offer>
   <offer id="2373369269" available="true">
     <url>https://ukrizol.xyz/ua/p2373369269-vibroizolyatsiya-acoustics-profy.html</url>
@@ -110952,7 +110964,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-2709-GB</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Довжина" unit="см">62</param>
     <param name="Матеріал">Пластик</param>
     <param name="Складна конструкція для зберігання і транспортування">Так</param>
@@ -111435,24 +111447,24 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>13</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Щільність" unit="кг/м³">55</param>
+    <param name="Щільність" unit="кг/м3">55</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Колір">Чорний</param>
-    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для потолков|Для каркасных конструкций|Для стен|Для пола|Для инженерного оборудования</param>
-    <param name="Ступінь жорсткості">М'який</param>
+    <param name="Максимальна робоча температура" unit="град.">120</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">7</param>
     <param name="Мінімальна робоча температура" unit="">-100</param>
+    <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область застосування" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
+    <param name="Ступінь жорсткості" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Товщина" unit="">13</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
-    <param name="Максимальна робоча температура" unit="град.">120.0</param>
+    <param name="Колір" unit="">Черный</param>
+    <param name="Еластичність матеріалу" unit="">Да</param>
   </offer>
   <offer id="2437850644" available="true">
     <url>https://ukrizol.xyz/ua/p2437850644-spinenij-kauchuk-samokleyuchij.html</url>
@@ -111770,7 +111782,7 @@
     <vendorCode>EF-1813-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Довжина" unit="см">60</param>
     <param name="Конструкція">Стрічкова</param>
     <param name="Опір" unit="кг">25</param>
@@ -111796,7 +111808,7 @@
     <vendorCode>EF-1813-7</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Довжина" unit="см">60</param>
     <param name="Конструкція">Стрічкова</param>
     <param name="Опір" unit="кг">30</param>
@@ -116227,7 +116239,7 @@
     <vendorCode>889610</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>121</quantity_in_stock>
+    <quantity_in_stock>123</quantity_in_stock>
     <param name="Колір">Синій</param>
     <param name="Діаметр" unit="см">6</param>
     <param name="Довжина" unit="м">150</param>
@@ -121790,7 +121802,7 @@
     <vendorCode>2021-0N3С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вага" unit="oz">12</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Синій</param>
@@ -124435,7 +124447,7 @@
     <param name="Розмір">XL</param>
     <param name="Тип">Закритий</param>
   </offer>
-  <offer id="3026405489" available="true">
+  <offer id="3026405489" available="false">
     <url>https://ukrizol.xyz/ua/p3026405489-rukavichki-brelok-everlast.html</url>
     <price>226</price>
     <price_old>269</price_old>
@@ -124451,7 +124463,7 @@
     <vendor>Everlast</vendor>
     <vendorCode>889815</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Колір">Синій</param>
     <param name="Тип">Бокс</param>
   </offer>
@@ -124654,7 +124666,7 @@
     <param name="Толщина (мм)" unit="мм">1.5</param>
     <param name="Ширина, мм" unit="">41</param>
   </offer>
-  <offer id="3038295910" available="false">
+  <offer id="3038295910" available="true">
     <url>https://ukrizol.xyz/ua/p3038295910-velochohol-kisheneyu-dlya.html</url>
     <price>1155</price>
     <price_old>1375</price_old>
@@ -124673,7 +124685,7 @@
     <vendorCode>1502629</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вага" unit="кг">0.68</param>
     <param name="Водонепроникний чохол">Так</param>
     <param name="Ручки для перенесення чохла">Так</param>
@@ -124834,7 +124846,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 1450х1250х10 мм (автокилим, ромб)</name>
     <vendorCode>889775</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">1450</param>
     <param name="Колір">Сірий</param>
@@ -124855,7 +124867,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 1450х1000х10 мм (автокилим, сота)</name>
     <vendorCode>889780</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">1450</param>
     <param name="Колір">Сірий</param>
@@ -124877,7 +124889,7 @@
     <name>Лист ЕВА (EVA) чорний 2500х1450х10 мм (автокилим, ромб)</name>
     <vendorCode>889777</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">2500</param>
     <param name="Колір">Чорний</param>

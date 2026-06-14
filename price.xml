@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-13 17:00">
+<yml_catalog date="2026-06-14 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -18486,7 +18486,7 @@
     <vendorCode>62797</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>152</quantity_in_stock>
+    <quantity_in_stock>151</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -55260,7 +55260,7 @@
     <vendorCode>832587</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>203</quantity_in_stock>
+    <quantity_in_stock>202</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полімеру" unit="">Неорганический</param>
@@ -55526,6 +55526,8 @@
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Стеля автомобіля|Двері|Підлогу автомобіля|Стінки багажника</param>
     <param name="Товщина" unit="мм">4</param>
+    <param name="Сумісність з маркою">Mazda|Volkswagen|BMW|Hyundai|Honda|Chrysler|Audi|Peugeot|Daewoo|Renault|Kia|Citroen|Volvo|Nissan|Fiat|Ford|Toyota|Mitsubishi|Dodge</param>
+    <param name="Сумісність з моделлю">Focus|Sebring|XC90|Fiesta|Colt|Caliber|Civic|Sonata|A6|Renault Megane|Chrysler|Jazz|Matiz|Mondeo|Tiguan|Q5|Primera|Santa Fe|Scorpio|C2|A4|Almera|6|RAV4|Fusion|Getz|206|Q7|Lupo|Avensis|Lancer|Camry|Nissan Maxima|Accord|C5|Tucson|Yaris|Dodge|Passat|C4|Ceed</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Еластичність матеріалу" unit="">Да</param>
@@ -55554,6 +55556,8 @@
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Стеля автомобіля|Двері|Підлогу автомобіля|Стінки багажника</param>
     <param name="Товщина" unit="мм">4</param>
+    <param name="Сумісність з маркою">Daewoo|Nissan|Hyundai|Audi|Peugeot|Volkswagen|Kia|Honda|Dodge|Chrysler|Mitsubishi|Toyota|Renault|BMW|Citroen|Fiat|Volvo|Ford|Mazda</param>
+    <param name="Сумісність з моделлю">Renault Megane|Sonata|Fusion|XC90|Matiz|Tucson|Mondeo|Peugeot 206|Q5|Yaris|Avensis|RAV4|Caliber|Passat|Civic|Lancer|Santa Fe|Dodge|C5|Chrysler|C4|Lupo|Fiesta|Scorpio|Accord|A4|Ceed|C2|Jazz|Nissan Maxima|Focus|Tiguan|Getz|Almera|Colt|Camry|Sebring|6|Primera|A6|Q7</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Еластичність матеріалу" unit="">Да</param>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-14 09:00">
+<yml_catalog date="2026-06-14 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -10738,7 +10738,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>760</quantity_in_stock>
+    <quantity_in_stock>755</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -15235,7 +15235,7 @@
     <vendorCode>1005-01</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вага" unit="кг">13</param>
     <param name="Висота" unit="см">95</param>
     <param name="Вікова група">Дитяча</param>
@@ -18486,7 +18486,7 @@
     <vendorCode>62797</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>151</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -55263,6 +55263,7 @@
     <quantity_in_stock>202</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Матеріал">ЕВА</param>
     <param name="Вид полімеру" unit="">Неорганический</param>
     <param name="Длина рулона, п.м." unit="">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">75</param>
@@ -55557,7 +55558,7 @@
     <param name="Застосування матеріалу">Пол багажника|Стеля автомобіля|Двері|Підлогу автомобіля|Стінки багажника</param>
     <param name="Товщина" unit="мм">4</param>
     <param name="Сумісність з маркою">Daewoo|Nissan|Hyundai|Audi|Peugeot|Volkswagen|Kia|Honda|Dodge|Chrysler|Mitsubishi|Toyota|Renault|BMW|Citroen|Fiat|Volvo|Ford|Mazda</param>
-    <param name="Сумісність з моделлю">Renault Megane|Sonata|Fusion|XC90|Matiz|Tucson|Mondeo|Peugeot 206|Q5|Yaris|Avensis|RAV4|Caliber|Passat|Civic|Lancer|Santa Fe|Dodge|C5|Chrysler|C4|Lupo|Fiesta|Scorpio|Accord|A4|Ceed|C2|Jazz|Nissan Maxima|Focus|Tiguan|Getz|Almera|Colt|Camry|Sebring|6|Primera|A6|Q7</param>
+    <param name="Сумісність з моделлю">Renault Megane|Sonata|Fusion|XC90|Matiz|Tucson|Mondeo|Peugeot 206|Q5|Yaris|Avensis|RAV4|Caliber|Passat|Civic|Lancer|Santa Fe|Dodge|C5|Chrysler|C4|Lupo|Fiesta|Scorpio|Accord|A4|Ceed|C2|Jazz|Nissan Maxima|Focus|Tiguan|Getz|Almera|Colt|Camry|Sebring|6|Primera|A6|Q7|206</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Еластичність матеріалу" unit="">Да</param>
@@ -67185,7 +67186,7 @@
     <vendorCode>81113</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>142</quantity_in_stock>
+    <quantity_in_stock>137</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">12</param>
@@ -91286,7 +91287,7 @@
     <vendorCode>03-790</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Сумісність з маркою">Toyota|Renault|Peugeot|Volkswagen|Citroen|Kia|Fiat|Honda|Mazda|Nissan|Mitsubishi|Chrysler|BMW|Daewoo|Hyundai|Ford|Volvo|Audi|Dodge</param>
     <param name="Сумісність з моделлю">Caliber|Tucson|Sonata|C2|Civic|Primera|Renault Megane|Passat|Almera|Santa Fe|6|Fusion|Colt|Ceed|A6|Q5|Focus|C5|RAV4|Q7|Mondeo|XC90|Avensis|C4|Jazz|Nissan Maxima|Scorpio|Sebring|Fiesta|Lupo|206|Lancer|Chrysler|Matiz|Tiguan|Getz|Accord|Yaris|Camry|Dodge|A4</param>
     <param name="Диаметр, мм" unit="">25</param>

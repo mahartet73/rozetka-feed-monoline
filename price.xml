@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-15 17:00">
+<yml_catalog date="2026-06-16 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.29584" />
+      <currency id="USD" rate="49.29947" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="57.04512" />
+      <currency id="EUR" rate="57.24158" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -924,7 +924,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>310</quantity_in_stock>
+    <quantity_in_stock>307</quantity_in_stock>
     <param name="Довжина" unit="м">45</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1</param>
@@ -980,7 +980,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>387</quantity_in_stock>
+    <quantity_in_stock>363</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1009,7 +1009,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>241</quantity_in_stock>
+    <quantity_in_stock>239</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2498,7 +2498,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>113</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2592,13 +2592,13 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
+    <param name="Колір">Синій</param>
     <param name="Розривне навантаження (по довжині)" unit="Н/5 см">160.0</param>
     <param name="Розривне навантаження (по ширині)" unit="Н/5 см">110.0</param>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000.0</param>
-    <param name="Колір" unit="">Синий</param>
     <param name="Щільність" unit="">80.0</param>
   </offer>
   <offer id="1016523148" available="true">
@@ -2945,7 +2945,7 @@
     <vendorCode>64023</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>160</quantity_in_stock>
+    <quantity_in_stock>159</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -4957,7 +4957,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1043</quantity_in_stock>
+    <quantity_in_stock>1033</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -8156,7 +8156,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>549</quantity_in_stock>
+    <quantity_in_stock>519</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8592,13 +8592,13 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>445</quantity_in_stock>
+    <quantity_in_stock>437</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Виброизоляция|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Еластичність матеріалу">Так</param>
-    <param name="Область застосування">Для пола|Для инженерного оборудования|Для потолков|Для стен|Для каркасных конструкций</param>
+    <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Длина рулона, п.м." unit="">8</param>
     <param name="Клас матеріалу по теплопровідності" unit="">Низкая</param>
@@ -9136,7 +9136,7 @@
     <vendorCode>500323</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -10015,7 +10015,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадів|Для балконів|Для стін|Для покрівлі</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -11861,7 +11861,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>311</quantity_in_stock>
+    <quantity_in_stock>301</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
     <param name="Сумісність з моделлю">XC90|Ceed|Getz|Caliber|C5|Q7|Sebring|Primera|Mondeo|Colt|Nissan Maxima|6|Tiguan|Avensis|Lancer|Sonata|Chrysler|Jazz|A6|Focus|RAV4|C2|Almera|Santa Fe|Fusion|Scorpio|A4|Accord|Renault Megane|Tucson|Fiesta|Q5|Dodge|Passat|Camry|Civic|Peugeot 206|Matiz|Lupo|Yaris|C4|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -23146,7 +23146,7 @@
     <vendorCode>ВП52/9</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1840</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -23848,7 +23848,7 @@
     <vendorCode>ВП102/13</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>844</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">102</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
@@ -44411,10 +44411,11 @@
     <vendorCode>EF-AWTS-550</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">10</param>
     <param name="Кількість обважнювачів">2</param>
     <param name="Особливості">Неопреновое покрытие|Подходит для ног и рук</param>
+    <param name="Тип">Жилет</param>
   </offer>
   <offer id="1558478063" available="true">
     <url>https://ukrizol.xyz/ua/p1558478063-obtyazhuvachi-easyfit-dlya.html</url>
@@ -46980,7 +46981,7 @@
     <vendorCode>EF-1818-5</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Матеріал">EVA піна</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Йога блок</param>
@@ -48415,7 +48416,7 @@
     <vendorCode>10009</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Стан">Новий</param>
   </offer>
   <offer id="1577334857" available="false">
@@ -48667,10 +48668,11 @@
     <vendorCode>10187</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Довжина" unit="см">25</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Зелений</param>
+    <param name="Тип">Універсальний</param>
     <param name="Матеріал" unit="">Резина</param>
     <param name="Складна конструкція для зберігання і транспортування" unit="">Да</param>
     <param name="Форма" unit="">Прямоугольная</param>
@@ -54871,7 +54873,7 @@
     <vendorCode>35/25П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>176</quantity_in_stock>
+    <quantity_in_stock>174</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -67188,7 +67190,7 @@
     <vendorCode>81113</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>137</quantity_in_stock>
+    <quantity_in_stock>132</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">12</param>
@@ -70059,6 +70061,7 @@
     <quantity_in_stock />
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
+    <param name="Сумісність з маркою">ЗИМ</param>
     <param name="Висота" unit="см">12</param>
     <param name="Довжина" unit="м">1400</param>
     <param name="Тип полімеру" unit="">EVA</param>
@@ -70340,6 +70343,8 @@
     <param name="Товщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.085</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687114" available="true">
     <url>https://ukrizol.xyz/ua/p1806687114-vibroizolyatsiya-acoustics-evolution.html</url>
@@ -70372,6 +70377,8 @@
     <param name="Товщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.435</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687115" available="true">
     <url>https://ukrizol.xyz/ua/p1806687115-vibroizolyatsiya-acoustics-evolution.html</url>
@@ -70404,6 +70411,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687116" available="true">
     <url>https://ukrizol.xyz/ua/p1806687116-vibroizolyatsiya-acoustics-xtreme.html</url>
@@ -70468,6 +70477,8 @@
     <param name="Товщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.295</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687118" available="true">
     <url>https://ukrizol.xyz/ua/p1806687118-vibroizolyatsiya-acoustics-xtreme.html</url>
@@ -70499,6 +70510,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687119" available="true">
     <url>https://ukrizol.xyz/ua/p1806687119-vibroizolyatsiya-acoustics-profy.html</url>
@@ -70530,6 +70543,8 @@
     <param name="Товщина" unit="мм">1.8</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.19</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687120" available="true">
     <url>https://ukrizol.xyz/ua/p1806687120-vibroizolyatsiya-acoustics-profy.html</url>
@@ -70561,6 +70576,8 @@
     <param name="Товщина" unit="мм">2.2</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.295</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687121" available="true">
     <url>https://ukrizol.xyz/ua/p1806687121-vibroizolyatsiya-acoustics-profy.html</url>
@@ -70592,6 +70609,8 @@
     <param name="Товщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
     <param name="Вага" unit="кг">1.575</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687122" available="true">
     <url>https://ukrizol.xyz/ua/p1806687122-vibroizolyatsiya-acoustics-profy.html</url>
@@ -70623,6 +70642,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687123" available="true">
     <url>https://ukrizol.xyz/ua/p1806687123-vibroshumoizolyatsiya-acoustics-multi.html</url>
@@ -70808,6 +70829,8 @@
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">0.2</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Сумісність з маркою">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Сумісність з моделлю">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2</param>
   </offer>
   <offer id="1806687129" available="true">
     <url>https://ukrizol.xyz/ua/p1806687129-shumopoglinayuchij-mat-acoustics.html</url>
@@ -71434,7 +71457,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>252</quantity_in_stock>
+    <quantity_in_stock>251</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -73493,6 +73516,8 @@
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Двері|Підлогу автомобіля|Стінки багажника|Стеля автомобіля</param>
     <param name="Товщина" unit="мм">4</param>
+    <param name="Сумісність з маркою">Citroen|Mitsubishi|Chrysler|Hyundai|Peugeot|Honda|Volkswagen|Audi|Kia|Volvo|BMW|Toyota|Daewoo|Renault|Nissan|Ford|Dodge|Mazda|Fiat</param>
+    <param name="Сумісність з моделлю">Lupo|Caliber|6|Fiesta|Almera|Accord|Mondeo|Nissan Maxima|Getz|Chrysler|Tucson|Sonata|206|Camry|Matiz|Jazz|Scorpio|Sebring|C4|Civic|Primera|A4|Avensis|Yaris|Santa Fe|Passat|RAV4|C5|XC90|Q7|Tiguan|Colt|C2|Q5|Fusion|Ceed|Dodge|Focus|Renault Megane|Lancer|A6</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Еластичність матеріалу" unit="">Да</param>
@@ -78086,7 +78111,7 @@
     <vendorCode>EF-3002-BL</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Стан">Новий</param>
     <param name="Колір">Синій</param>
     <param name="Форма">Кругла</param>
@@ -90844,7 +90869,7 @@
     <vendorCode>035030</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Призначення матеріалу">Звукоізоляція|Віброізоляція|Поліпшення акустики приміщень|Зниження ударного шуму</param>
     <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">33</param>
@@ -107915,7 +107940,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -118941,11 +118966,13 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>709</quantity_in_stock>
+    <quantity_in_stock>705</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Товщина" unit="мм">2</param>
     <param name="Необхідність нагріву">Ні</param>
+    <param name="Сумісність з маркою">Daewoo|Audi|Dodge|Nissan|Mitsubishi|Fiat|Mazda|BMW|Toyota|Honda|Peugeot|Chrysler|Volkswagen|Kia|Ford|Volvo|Renault|Citroen|Hyundai</param>
+    <param name="Сумісність з моделлю">Fiesta|Q7|6|A6|Fusion|Avensis|Dodge|Renault Megane|A4|Matiz|Lupo|Sonata|Focus|Scorpio|Yaris|Q5|Peugeot 206|Accord|Almera|Jazz|C4|C2|RAV4|Tiguan|Santa Fe|Tucson|Mondeo|Passat|Ceed|Chrysler|Primera|Sebring|Nissan Maxima|Caliber|Getz|Colt|Lancer|Civic|Camry|XC90|C5</param>
     <param name="Призначення матеріалу" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки матеріалу" unit="">Рулон</param>
     <param name="Еластичність матеріалу" unit="">Да</param>
@@ -120215,7 +120242,7 @@
     <vendorCode>EF-1063-Bl</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Стан">Новий</param>
     <param name="Діаметр" unit="см">7.5</param>
     <param name="Матеріал" unit="">ПВХ</param>
@@ -120256,7 +120283,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-1064-GN</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Стан">Новий</param>
     <param name="Матеріал" unit="">ПВХ</param>
     <param name="Діаметр" unit="см">9</param>
@@ -120297,7 +120324,7 @@
     <vendorCode>EF-1063-GN</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Стан">Новий</param>
     <param name="Діаметр" unit="см">7.5</param>
     <param name="Матеріал" unit="">ПВХ</param>
@@ -122251,7 +122278,7 @@
     <vendorCode>5005030</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Форма поставки матеріалу">Рулон</param>
@@ -124895,7 +124922,7 @@
     <name>Лист ЕВА (EVA) чорний 2500х1450х10 мм (автокилим, ромб)</name>
     <vendorCode>889777</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">2500</param>
     <param name="Колір">Чорний</param>

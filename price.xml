@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-02 17:00">
+<yml_catalog date="2026-08-03 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -178,8 +178,6 @@
       <category id="129892612" parentId="122260377">Крепления, стойки для груш</category>
       <category id="121069509" parentId="89570715">ЕВА автокаремат</category>
       <category id="135249027" parentId="120415998">Рулонные и листовые гидроизоляционные материалы</category>
-      <category id="141469697">BOXER-NEW</category>
-      <category id="148855694" parentId="141469697">Знято з виробництва</category>
       <category id="146756387" parentId="122260377">Перчатки для бокса и единоборств</category>
       <category id="138243656" parentId="122197666">Тяжелая атлетика</category>
       <category id="152297292" parentId="89570715">Мастика, мовіль, антигравій</category>
@@ -195,13 +193,10 @@
       <category id="75989985">Товари для спорту, відпочинку, туризму</category>
       <category id="103078088">Матеріали для шумоізоляції приміщень</category>
       <category id="86349089">Інструменти</category>
-      <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
       <category id="98423668" parentId="88505658">Каучукова ізоляція товщина 6 мм</category>
       <category id="98423702" parentId="88505658">Каучукова ізоляція товщина 9 мм</category>
       <category id="98429202" parentId="88505658">Каучукова ізоляція товщина 13 мм</category>
-      <category id="98466498" parentId="88505658">Каучукова ізоляція товщина 19 мм</category>
       <category id="108916200" parentId="88505658">Каучукова ізоляція товщина 25 мм</category>
-      <category id="142964119" parentId="122260377">Боксерские груши и снаряды</category>
       <category id="148483984" parentId="148353593">PETG філамент</category>
       <category id="146756334" parentId="130262689">Комплектующие электрооборудования</category>
       <category id="146756335" parentId="130262703">Рубильники</category>
@@ -226,6 +221,25 @@
       <category id="146756354" parentId="130262718">Емкости для хранения пищевых продуктов</category>
       <category id="146756355" parentId="132071256">Кухонные ковши и кокотницы</category>
       <category id="146756356" parentId="132071256">Комплектующие для кухонной посуды</category>
+      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
+      <category id="146756404" parentId="122197667">Спортивные маты</category>
+      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
+      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
+      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
+      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
+      <category id="146756409" parentId="130262773">Минеральная вата</category>
+      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
+      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
+      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
+      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
+      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
+      <category id="154287986" parentId="97788202">Сувениры боксерские</category>
+      <category id="154773605" parentId="72154840">Паро-гідроізоляційні мембрани</category>
+      <category id="141469697">BOXER-NEW</category>
+      <category id="148855694" parentId="141469697">Знято з виробництва</category>
+      <category id="108916201" parentId="88505658">Каучукова ізоляція товщина 32 мм.</category>
+      <category id="98466498" parentId="88505658">Каучукова ізоляція товщина 19 мм</category>
+      <category id="142964119" parentId="122260377">Боксерские груши и снаряды</category>
       <category id="146756357" parentId="132071256">Сковородки, сотейники, жаровни</category>
       <category id="146756358" parentId="132071256">Кастрюли</category>
       <category id="146756359" parentId="132071257">Доски разделочные</category>
@@ -271,20 +285,6 @@
       <category id="146756400" parentId="138243656">Атлетические пояса</category>
       <category id="146756401" parentId="138243656">Спортивные утяжелители</category>
       <category id="146756402" parentId="138243656">Тяги для тренировки шеи</category>
-      <category id="146756403" parentId="138243656">Атлетические петли, лямки и напульсники</category>
-      <category id="146756404" parentId="122197667">Спортивные маты</category>
-      <category id="146756405" parentId="130262731">Звукоизоляционные материалы</category>
-      <category id="146756406" parentId="120415998">Гидроизоляционные уплотнители</category>
-      <category id="146756407" parentId="120415998">Обмазочные гидроизоляционные материалы</category>
-      <category id="146756408" parentId="132071306">Комплектующие для кровли</category>
-      <category id="146756409" parentId="130262773">Минеральная вата</category>
-      <category id="146756410" parentId="130262773">Теплоизоляционный пенопласт</category>
-      <category id="146756411" parentId="130262773">Теплоизоляционная фольга</category>
-      <category id="146756412" parentId="130262773">Теплоизоляционный пенополиэтилен</category>
-      <category id="146756413" parentId="130262773">Алюминиевый скотч</category>
-      <category id="146756414" parentId="130262732">Леса и другие конструкции для ремонтно-строительных работ</category>
-      <category id="154287986" parentId="97788202">Сувениры боксерские</category>
-      <category id="154773605" parentId="72154840">Паро-гідроізоляційні мембрани</category>
     </categories>
   <offers>
 <offer id="1016523068" available="false">
@@ -8131,7 +8131,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2710</quantity_in_stock>
+    <quantity_in_stock>2706</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8172,7 +8172,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2366</quantity_in_stock>
+    <quantity_in_stock>2364</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8213,7 +8213,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1755</quantity_in_stock>
+    <quantity_in_stock>1752</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9309,7 +9309,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">15</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">27</param>
   </offer>
-  <offer id="1209862720" available="true">
+  <offer id="1209862720" available="false">
     <url>https://ukrizol.xyz/ua/p1209862720-kauchukova-izolyatsiya-dlya.html</url>
     <price>32</price>
     <price_old>38</price_old>
@@ -9330,7 +9330,7 @@
     <vendorCode>18/6ОДЕ</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>-3</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -11161,7 +11161,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>587</quantity_in_stock>
+    <quantity_in_stock>584</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
     <param name="Сумісність з моделлю">XC90|Ceed|Getz|Caliber|C5|Q7|Sebring|Primera|Mondeo|Colt|Nissan Maxima|6|Tiguan|Avensis|Lancer|Sonata|Chrysler|Jazz|A6|Focus|RAV4|C2|Almera|Santa Fe|Fusion|Scorpio|A4|Accord|Renault Megane|Tucson|Fiesta|Q5|Dodge|Passat|Camry|Civic|Peugeot 206|Matiz|Lupo|Yaris|C4|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -16435,7 +16435,7 @@
     <vendorCode>500095</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -16477,7 +16477,7 @@
     <vendorCode>500135</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>94</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -59523,7 +59523,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1610</quantity_in_stock>
+    <quantity_in_stock>1608</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Матеріал" unit="">Резинка</param>
@@ -59724,7 +59724,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>197</quantity_in_stock>
+    <quantity_in_stock>196</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -75391,7 +75391,7 @@
     <vendorCode>1003-05Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вага" unit="кг">40</param>
     <param name="Висота" unit="см">170</param>
     <param name="Вікова група">Доросла</param>
@@ -102915,7 +102915,7 @@
     <vendorCode>15/6ОДЕ</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -114426,7 +114426,7 @@
     <vendorCode>889603</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
     <param name="Сумісність з моделлю">C2|Getz|C4|XC90|206|Camry|Ceed|Lupo|Q5|6|Passat|Dodge|Mondeo|Civic|Scorpio|Santa Fe|Fiesta|Matiz|RAV4|C5|Tiguan|Chrysler|Almera|Nissan Maxima|Caliber|A4|A6|Accord|Primera|Lancer|Focus|Jazz|Renault Megane|Q7|Colt|Yaris|Sebring|Sonata|Tucson|Fusion|Avensis</param>
     <param name="Диаметр, мм" unit="">20</param>
@@ -122440,14 +122440,15 @@
     <name>Лист ЕВА (EVA) чорний 1450х1250х10 мм (автокилим, ромб)</name>
     <vendorCode>889774</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
-    <param name="Висота" unit="мм">10</param>
-    <param name="Довжина" unit="мм">1450</param>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
-    <param name="Ширина" unit="мм">1250</param>
+    <param name="Сумісність з маркою">ЗИМ</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
+    <param name="Висота" unit="см">10.0</param>
+    <param name="Ширина" unit="мм">1250.0</param>
+    <param name="Довжина" unit="м">1450.0</param>
   </offer>
   <offer id="3054895846" available="false">
     <url>https://ukrizol.xyz/ua/p3054895846-akumulyatorna-batareya-nkon.html</url>

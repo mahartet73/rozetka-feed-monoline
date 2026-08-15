@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-14 17:00">
+<yml_catalog date="2026-08-15 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.16868" />
+      <currency id="USD" rate="49.17671" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.70973" />
+      <currency id="EUR" rate="56.8788" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -955,7 +955,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>237</quantity_in_stock>
+    <quantity_in_stock>285</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -984,7 +984,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>316</quantity_in_stock>
+    <quantity_in_stock>315</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1012,7 +1012,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>120</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -1040,7 +1040,7 @@
     <vendorCode>62715</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -11221,7 +11221,7 @@
     <vendorCode>901043</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>126</quantity_in_stock>
+    <quantity_in_stock>118</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -13437,8 +13437,8 @@
   </offer>
   <offer id="1358320699" available="false">
     <url>https://ukrizol.xyz/ua/p1358320699-makivara-boxer-velika.html</url>
-    <price>1486</price>
-    <price_old>1769</price_old>
+    <price>2222</price>
+    <price_old>2645</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934419106_makivara-boxer-velika.jpg</picture>
@@ -13514,8 +13514,8 @@
   </offer>
   <offer id="1358320702" available="false">
     <url>https://ukrizol.xyz/ua/p1358320702-makivara-boxer-mala.html</url>
-    <price>908</price>
-    <price_old>1081</price_old>
+    <price>1352</price>
+    <price_old>1610</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947435</categoryId>
     <picture>https://images.prom.ua/2934419106_makivara-boxer-mala.jpg</picture>
@@ -18514,7 +18514,7 @@
     <vendorCode>163101</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -19361,7 +19361,7 @@
     <vendorCode>28/9П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>730</quantity_in_stock>
+    <quantity_in_stock>714</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -21699,7 +21699,7 @@
     <vendorCode>56352</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>61</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
     <param name="Область застосування">Універсальний|Покрівельний</param>
@@ -22000,18 +22000,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>664</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553155562" available="true">
     <url>https://ukrizol.xyz/ua/p1553155562-izolyatsiya-trub-ukrizol.html</url>
@@ -22032,18 +22032,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>32</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553155563" available="true">
     <url>https://ukrizol.xyz/ua/p1553155563-izolyatsiya-trub-ukrizol.html</url>
@@ -22064,18 +22064,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>70</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553155564" available="true">
     <url>https://ukrizol.xyz/ua/p1553155564-izolyatsiya-trub-ukrizol.html</url>
@@ -22096,18 +22096,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>220</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553155565" available="false">
     <url>https://ukrizol.xyz/ua/p1553155565-izolyatsiya-trub-ukrizol.html</url>
@@ -22128,18 +22128,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553155566" available="true">
     <url>https://ukrizol.xyz/ua/p1553155566-izolyatsiya-trub-ukrizol.html</url>
@@ -22160,18 +22160,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>230</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553169752" available="true">
     <url>https://ukrizol.xyz/ua/p1553169752-disk-zdorovya-gratsiya.html</url>
@@ -22224,18 +22224,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">48</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">48</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
 <offer id="1553477025" available="true">
     <url>https://ukrizol.xyz/ua/p1553477025-izolyatsiya-trub-ukrizol.html</url>
@@ -22257,18 +22257,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>868</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477026" available="true">
     <url>https://ukrizol.xyz/ua/p1553477026-izolyatsiya-trub-ukrizol.html</url>
@@ -22290,18 +22290,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>900</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477027" available="true">
     <url>https://ukrizol.xyz/ua/p1553477027-izolyatsiya-trub-ukrizol.html</url>
@@ -22323,18 +22323,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>342</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477028" available="true">
     <url>https://ukrizol.xyz/ua/p1553477028-izolyatsiya-trub-ukrizol.html</url>
@@ -22356,18 +22356,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>454</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477029" available="true">
     <url>https://ukrizol.xyz/ua/p1553477029-izolyatsiya-trub-ukrizol.html</url>
@@ -22389,18 +22389,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>342</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477030" available="true">
     <url>https://ukrizol.xyz/ua/p1553477030-izolyatsiya-trub-ukrizol.html</url>
@@ -22422,18 +22422,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>92</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477031" available="false">
     <url>https://ukrizol.xyz/ua/p1553477031-izolyatsiya-trub-ukrizol.html</url>
@@ -22455,18 +22455,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">57</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">57</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477032" available="true">
     <url>https://ukrizol.xyz/ua/p1553477032-izolyatsiya-trub-ukrizol.html</url>
@@ -22488,18 +22488,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>310</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477033" available="true">
     <url>https://ukrizol.xyz/ua/p1553477033-izolyatsiya-trub-ukrizol.html</url>
@@ -22521,18 +22521,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>324</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477034" available="true">
     <url>https://ukrizol.xyz/ua/p1553477034-izolyatsiya-trub-ukrizol.html</url>
@@ -22554,18 +22554,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>226</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553477035" available="true">
     <url>https://ukrizol.xyz/ua/p1553477035-izolyatsiya-trub-ukrizol.html</url>
@@ -22587,18 +22587,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>326</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482977" available="true">
     <url>https://ukrizol.xyz/ua/p1553482977-izolyatsiya-trub-ukrizol.html</url>
@@ -22615,18 +22615,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>484</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482978" available="true">
     <url>https://ukrizol.xyz/ua/p1553482978-izolyatsiya-trub-ukrizol.html</url>
@@ -22643,18 +22643,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>104</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482979" available="false">
     <url>https://ukrizol.xyz/ua/p1553482979-izolyatsiya-trub-ukrizol.html</url>
@@ -22671,18 +22671,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482980" available="true">
     <url>https://ukrizol.xyz/ua/p1553482980-izolyatsiya-trub-ukrizol.html</url>
@@ -22699,18 +22699,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>298</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482981" available="true">
     <url>https://ukrizol.xyz/ua/p1553482981-izolyatsiya-trub-ukrizol.html</url>
@@ -22727,18 +22727,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>400</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482982" available="true">
     <url>https://ukrizol.xyz/ua/p1553482982-izolyatsiya-trub-ukrizol.html</url>
@@ -22755,18 +22755,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>534</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482983" available="true">
     <url>https://ukrizol.xyz/ua/p1553482983-izolyatsiya-trub-ukrizol.html</url>
@@ -22783,18 +22783,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>150</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482984" available="true">
     <url>https://ukrizol.xyz/ua/p1553482984-izolyatsiya-trub-ukrizol.html</url>
@@ -22811,18 +22811,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>400</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482985" available="true">
     <url>https://ukrizol.xyz/ua/p1553482985-izolyatsiya-trub-ukrizol.html</url>
@@ -22839,18 +22839,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>190</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">89</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">89</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482986" available="true">
     <url>https://ukrizol.xyz/ua/p1553482986-izolyatsiya-trub-ukrizol.html</url>
@@ -22867,18 +22867,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>386</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482987" available="false">
     <url>https://ukrizol.xyz/ua/p1553482987-izolyatsiya-trub-ukrizol.html</url>
@@ -22895,18 +22895,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">160</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">160</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482988" available="false">
     <url>https://ukrizol.xyz/ua/p1553482988-izolyatsiya-trub-ukrizol.html</url>
@@ -22923,18 +22923,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482989" available="false">
     <url>https://ukrizol.xyz/ua/p1553482989-izolyatsiya-trub-ukrizol.html</url>
@@ -22951,18 +22951,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482990" available="true">
     <url>https://ukrizol.xyz/ua/p1553482990-izolyatsiya-trub-ukrizol.html</url>
@@ -22979,18 +22979,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>130</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482991" available="true">
     <url>https://ukrizol.xyz/ua/p1553482991-izolyatsiya-trub-ukrizol.html</url>
@@ -23007,18 +23007,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>612</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">65</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482992" available="false">
     <url>https://ukrizol.xyz/ua/p1553482992-izolyatsiya-trub-ukrizol.html</url>
@@ -23035,18 +23035,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482993" available="true">
     <url>https://ukrizol.xyz/ua/p1553482993-izolyatsiya-trub-ukrizol.html</url>
@@ -23063,18 +23063,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>26</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482994" available="false">
     <url>https://ukrizol.xyz/ua/p1553482994-izolyatsiya-trub-ukrizol.html</url>
@@ -23091,18 +23091,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">108</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">108</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553482995" available="true">
     <url>https://ukrizol.xyz/ua/p1553482995-izolyatsiya-trub-ukrizol.html</url>
@@ -23124,18 +23124,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>744</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">102</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">102</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1553815410" available="true">
     <url>https://ukrizol.xyz/ua/p1553815410-uteplyuvach-dlya-trub.html</url>
@@ -43513,7 +43513,7 @@
     <vendorCode>EF-AWTS-100</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вага" unit="кг">1</param>
     <param name="Колір">Сірий</param>
     <param name="Особливості" unit="">Неопреновое покрытие|Подходит для ног и рук</param>
@@ -43534,7 +43534,7 @@
     <vendorCode>EF-AWTS-050</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">0.5</param>
     <param name="Кількість обважнювачів">2</param>
     <param name="Особливості">Неопреновое покрытие|Подходит для ног и рук</param>
@@ -44117,7 +44117,7 @@
     <vendorCode>832569</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -44350,7 +44350,7 @@
     <vendorCode>832565</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>142</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -44377,7 +44377,7 @@
     <vendorCode>832566</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -44404,7 +44404,7 @@
     <vendorCode>832567</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>202</quantity_in_stock>
+    <quantity_in_stock>201</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -44431,7 +44431,7 @@
     <vendorCode>832570</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>92</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -44485,7 +44485,7 @@
     <vendorCode>832568</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>110</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
     <param name="Матеріал">EVA</param>
@@ -51652,7 +51652,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>583</quantity_in_stock>
+    <quantity_in_stock>562</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -54815,18 +54815,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>98</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646017795" available="true">
     <url>https://ukrizol.xyz/ua/p1646017795-izolyatsiya-trub-ukrizol.html</url>
@@ -54843,18 +54843,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">60</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646032556" available="true">
     <url>https://ukrizol.xyz/ua/p1646032556-izolyatsiya-trub-ukrizol.html</url>
@@ -54872,18 +54872,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>168</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646035537" available="true">
     <url>https://ukrizol.xyz/ua/p1646035537-izolyatsiya-trub-ukrizol.html</url>
@@ -54901,18 +54901,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>194</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646036644" available="true">
     <url>https://ukrizol.xyz/ua/p1646036644-izolyatsiya-trub-ukrizol.html</url>
@@ -54930,18 +54930,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>54</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646037677" available="true">
     <url>https://ukrizol.xyz/ua/p1646037677-izolyatsiya-trub-ukrizol.html</url>
@@ -54959,18 +54959,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>270</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1646219875" available="true">
     <url>https://ukrizol.xyz/ua/p1646219875-blokirator-stoper-dveri.html</url>
@@ -63073,18 +63073,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>860</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">12</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">12</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1676784441" available="true">
     <url>https://ukrizol.xyz/ua/p1676784441-izolyatsiya-trub-ukrizol.html</url>
@@ -63106,18 +63106,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1676785477" available="true">
     <url>https://ukrizol.xyz/ua/p1676785477-izolyatsiya-trub-ukrizol.html</url>
@@ -63134,18 +63134,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>80</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1678031554" available="true">
     <url>https://ukrizol.xyz/ua/p1678031554-bandazhnij-homut-ukrizol.html</url>
@@ -64125,7 +64125,7 @@
     <vendorCode>832602</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -64150,7 +64150,7 @@
     <vendorCode>832603</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>142</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -64175,7 +64175,7 @@
     <vendorCode>832604</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -66162,18 +66162,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>732</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">10</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">10</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1742226781" available="false">
     <url>https://ukrizol.xyz/ua/p1742226781-izolyatsiya-trub-ukrizol.html</url>
@@ -66195,18 +66195,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">12</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">12</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1742332577" available="false">
     <url>https://ukrizol.xyz/ua/p1742332577-izolyatsiya-trub-ukrizol.html</url>
@@ -66223,18 +66223,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1742335835" available="false">
     <url>https://ukrizol.xyz/ua/p1742335835-izolyatsiya-trub-ukrizol.html</url>
@@ -66251,18 +66251,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">89</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">89</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1742534555" available="false">
     <url>https://ukrizol.xyz/ua/p1742534555-dempferna-strichka-ukrizol.html</url>
@@ -67010,7 +67010,7 @@
     <vendorCode>3210605</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Длина, п.м." unit="">500</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -67079,7 +67079,7 @@
     <vendorCode>3211210</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -69768,7 +69768,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>363</quantity_in_stock>
+    <quantity_in_stock>359</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -69798,7 +69798,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>433</quantity_in_stock>
+    <quantity_in_stock>432</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -73516,7 +73516,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для инженерного оборудования</param>
     <param name="Форма поставки матеріалу">Лист</param>
@@ -74128,7 +74128,7 @@
     <name>Скотч алюмінієвий 50 мм х 50 м 20 мкм</name>
     <vendorCode>889073</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Армований скотч">Ні</param>
@@ -76064,18 +76064,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>648</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">57</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">57</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973670288" available="true">
     <url>https://ukrizol.xyz/ua/p1973670288-trubna-izolyatsiya-ukrizol.html</url>
@@ -76223,18 +76223,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">125</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">125</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973671015" available="true">
     <url>https://ukrizol.xyz/ua/p1973671015-uteplyuvach-dlya-trub.html</url>
@@ -76285,18 +76285,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>166</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973671017" available="true">
     <url>https://ukrizol.xyz/ua/p1973671017-trubna-izolyatsiya-ukrizol.html</url>
@@ -76350,18 +76350,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>160</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">108</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">108</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973671785" available="true">
     <url>https://ukrizol.xyz/ua/p1973671785-izolyatsiya-trub-ukrizol.html</url>
@@ -76379,18 +76379,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>94</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973671786" available="true">
     <url>https://ukrizol.xyz/ua/p1973671786-trubna-izolyatsiya-ukrizol.html</url>
@@ -76540,18 +76540,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>126</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">13</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">13</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1973672272" available="true">
     <url>https://ukrizol.xyz/ua/p1973672272-uteplyuvach-dlya-trub.html</url>
@@ -76734,18 +76734,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1982559211" available="false">
     <url>https://ukrizol.xyz/ua/p1982559211-sidushka-tourist-fioletovo.html</url>
@@ -77379,18 +77379,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>248</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="1998966437" available="true">
     <url>https://ukrizol.xyz/ua/p1998966437-uteplyuvach-dlya-trub.html</url>
@@ -83847,18 +83847,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>284</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2076240143" available="false">
     <url>https://ukrizol.xyz/ua/p2076240143-kilimok-turistichnij-tourist.html</url>
@@ -84995,7 +84995,7 @@
     <vendorCode>889444</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Зовнішній діаметр" unit="мм">16</param>
     <param name="Длина в упаковке" unit="м">50</param>
     <param name="Конструкція">Гнучка</param>
@@ -85026,18 +85026,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>302</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372872" available="false">
     <url>https://ukrizol.xyz/ua/p2099372872-izolyatsiya-trub-ukrizol.html</url>
@@ -85058,18 +85058,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372874" available="false">
     <url>https://ukrizol.xyz/ua/p2099372874-izolyatsiya-trub-ukrizol.html</url>
@@ -85090,18 +85090,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">114</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372875" available="false">
     <url>https://ukrizol.xyz/ua/p2099372875-izolyatsiya-trub-ukrizol.html</url>
@@ -85122,18 +85122,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372876" available="false">
     <url>https://ukrizol.xyz/ua/p2099372876-izolyatsiya-trub-ukrizol.html</url>
@@ -85154,18 +85154,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372877" available="true">
     <url>https://ukrizol.xyz/ua/p2099372877-izolyatsiya-trub-ukrizol.html</url>
@@ -85186,18 +85186,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>266</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">7</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">7</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372878" available="false">
     <url>https://ukrizol.xyz/ua/p2099372878-izolyatsiya-trub-ukrizol.html</url>
@@ -85218,18 +85218,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372879" available="false">
     <url>https://ukrizol.xyz/ua/p2099372879-izolyatsiya-trub-ukrizol.html</url>
@@ -85250,18 +85250,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">118</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">118</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372880" available="false">
     <url>https://ukrizol.xyz/ua/p2099372880-izolyatsiya-trub-ukrizol.html</url>
@@ -85282,18 +85282,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372881" available="true">
     <url>https://ukrizol.xyz/ua/p2099372881-izolyatsiya-trub-ukrizol.html</url>
@@ -85314,18 +85314,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>130</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">127</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">127</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372882" available="false">
     <url>https://ukrizol.xyz/ua/p2099372882-izolyatsiya-trub-ukrizol.html</url>
@@ -85346,18 +85346,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372883" available="true">
     <url>https://ukrizol.xyz/ua/p2099372883-izolyatsiya-trub-ukrizol.html</url>
@@ -85378,18 +85378,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>500</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372884" available="true">
     <url>https://ukrizol.xyz/ua/p2099372884-izolyatsiya-trub-ukrizol.html</url>
@@ -85410,18 +85410,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372885" available="false">
     <url>https://ukrizol.xyz/ua/p2099372885-izolyatsiya-trub-ukrizol.html</url>
@@ -85442,18 +85442,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372886" available="true">
     <url>https://ukrizol.xyz/ua/p2099372886-izolyatsiya-trub-ukrizol.html</url>
@@ -85474,18 +85474,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>28</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372887" available="false">
     <url>https://ukrizol.xyz/ua/p2099372887-izolyatsiya-trub-ukrizol.html</url>
@@ -85506,18 +85506,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372888" available="false">
     <url>https://ukrizol.xyz/ua/p2099372888-izolyatsiya-trub-ukrizol.html</url>
@@ -85535,18 +85535,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">24</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">24</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372889" available="true">
     <url>https://ukrizol.xyz/ua/p2099372889-izolyatsiya-trub-ukrizol.html</url>
@@ -85567,18 +85567,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>126</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">15</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372890" available="false">
     <url>https://ukrizol.xyz/ua/p2099372890-izolyatsiya-trub-ukrizol.html</url>
@@ -85599,18 +85599,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">76</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372891" available="false">
     <url>https://ukrizol.xyz/ua/p2099372891-izolyatsiya-trub-ukrizol.html</url>
@@ -85628,18 +85628,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">24</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">24</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372892" available="true">
     <url>https://ukrizol.xyz/ua/p2099372892-izolyatsiya-trub-ukrizol.html</url>
@@ -85660,18 +85660,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>200</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">63</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372893" available="true">
     <url>https://ukrizol.xyz/ua/p2099372893-izolyatsiya-trub-ukrizol.html</url>
@@ -85692,18 +85692,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">49</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099372894" available="true">
     <url>https://ukrizol.xyz/ua/p2099372894-izolyatsiya-trub-ukrizol.html</url>
@@ -85724,18 +85724,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">102</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">102</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">20</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543259" available="true">
     <url>https://ukrizol.xyz/ua/p2099543259-izolyatsiya-trub-ukrizol.html</url>
@@ -85753,18 +85753,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>64</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543260" available="true">
     <url>https://ukrizol.xyz/ua/p2099543260-izolyatsiya-trub-ukrizol.html</url>
@@ -85782,18 +85782,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>120</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">52</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543261" available="false">
     <url>https://ukrizol.xyz/ua/p2099543261-izolyatsiya-trub-ukrizol.html</url>
@@ -85811,18 +85811,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">29</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">29</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543262" available="true">
     <url>https://ukrizol.xyz/ua/p2099543262-izolyatsiya-trub-ukrizol.html</url>
@@ -85840,18 +85840,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543263" available="false">
     <url>https://ukrizol.xyz/ua/p2099543263-izolyatsiya-trub-ukrizol.html</url>
@@ -85869,18 +85869,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">29</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">29</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2099543264" available="true">
     <url>https://ukrizol.xyz/ua/p2099543264-izolyatsiya-trub-ukrizol.html</url>
@@ -85898,18 +85898,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>326</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">42</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">6</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2100715731" available="true">
     <url>https://ukrizol.xyz/ua/p2100715731-fizichno-zshitij-spinenij.html</url>
@@ -86059,18 +86059,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>730</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">54</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">13</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
 <offer id="2108776730" available="false">
     <url>https://ukrizol.xyz/ua/p2108776730-povitryano-bulbashkova-plivka.html</url>
@@ -103570,7 +103570,7 @@
     <vendorCode>889502</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -104532,7 +104532,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1293</quantity_in_stock>
+    <quantity_in_stock>1288</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -104636,7 +104636,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>817</quantity_in_stock>
+    <quantity_in_stock>813</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Ширина" unit="мм">60</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
@@ -105714,7 +105714,7 @@
     <vendorCode>22/32П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>386</quantity_in_stock>
+    <quantity_in_stock>384</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -105848,18 +105848,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>54</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2321635538" available="false">
     <url>https://ukrizol.xyz/ua/p2321635538-kilimok-taktichnij-vijskovij.html</url>
@@ -105902,18 +105902,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>84</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">35</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2322386351" available="true">
     <url>https://ukrizol.xyz/ua/p2322386351-uteplyuvach-dlya-trub.html</url>
@@ -105964,18 +105964,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2324792587" available="true">
     <url>https://ukrizol.xyz/ua/p2324792587-izolyatsiya-trub-ukrizol.html</url>
@@ -105993,18 +105993,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>186</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2324792588" available="true">
     <url>https://ukrizol.xyz/ua/p2324792588-izolyatsiya-trub-ukrizol.html</url>
@@ -106022,18 +106022,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>264</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">22</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2324792589" available="true">
     <url>https://ukrizol.xyz/ua/p2324792589-izolyatsiya-trub-ukrizol.html</url>
@@ -106051,18 +106051,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>90</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2324792590" available="true">
     <url>https://ukrizol.xyz/ua/p2324792590-izolyatsiya-trub-ukrizol.html</url>
@@ -106080,18 +106080,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>60</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2324792591" available="true">
     <url>https://ukrizol.xyz/ua/p2324792591-izolyatsiya-trub-ukrizol.html</url>
@@ -106109,18 +106109,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>126</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">9</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2328217259" available="true">
     <url>https://ukrizol.xyz/ua/p2328217259-grusha-nabivna-boxer.html</url>
@@ -109673,18 +109673,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
-    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Група матеріалу по горючості">Г4 (сильно горючі)</param>
     <param name="Довжина" unit="м">2</param>
+    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Зовнішній діаметр труби" unit="мм">28</param>
     <param name="Клас матеріалу по теплопровідності">Середня</param>
     <param name="Максимальна робоча температура" unit="град.">80</param>
     <param name="Матеріал ізоляції">Спінений поліетилен</param>
-    <param name="Щільність" unit="кг/м3">19</param>
     <param name="Теплопровідність" unit="Вт/мК">0.049</param>
     <param name="Тип матеріалу">Г (горючий)</param>
     <param name="Товщина ізоляції" unit="мм">25</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
-    <param name="Екологічна безпека матеріалу">Безпечний</param>
+    <param name="Щільність" unit="кг/м3">19</param>
   </offer>
   <offer id="2483379220" available="true">
     <url>https://ukrizol.xyz/ua/p2483379220-masazhnij-kilimok-dinozavri.html</url>
@@ -119926,7 +119926,7 @@
     <vendorCode>889741</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>241</quantity_in_stock>
+    <quantity_in_stock>250</quantity_in_stock>
     <param name="Висота" unit="мм">65</param>
     <param name="Довжина" unit="мм">2000</param>
     <param name="Товщина" unit="мм">10</param>
@@ -120568,7 +120568,7 @@
     <vendorCode>889761</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">1</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Матеріал">PETG</param>
@@ -122823,7 +122823,7 @@
     <vendorCode>EF-2654s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Колір">Різні кольори</param>
     <param name="Конструкція">Стрічкова</param>
     <param name="Стан">Новий</param>

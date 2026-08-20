@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-19 17:00">
+<yml_catalog date="2026-08-20 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.25316" />
+      <currency id="USD" rate="49.17066" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="57.01344" />
+      <currency id="EUR" rate="57.05469" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -984,7 +984,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>291</quantity_in_stock>
+    <quantity_in_stock>293</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2314,7 +2314,7 @@
     <vendorCode>62012</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>338</quantity_in_stock>
+    <quantity_in_stock>335</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для цоколей|Для резервуаров|Для дорог|Для подвалов|Для стен|Для полов|Для кровли</param>
     <param name="Тип використання">Універсальний</param>
@@ -6013,7 +6013,7 @@
     <vendorCode>900085</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>118</quantity_in_stock>
+    <quantity_in_stock>318</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -8131,7 +8131,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2405</quantity_in_stock>
+    <quantity_in_stock>2404</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8295,7 +8295,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>220</quantity_in_stock>
+    <quantity_in_stock>212</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9859,7 +9859,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1192</quantity_in_stock>
+    <quantity_in_stock>1188</quantity_in_stock>
     <param name="Довжина" unit="м">25</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">50</param>
@@ -10212,7 +10212,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1372</quantity_in_stock>
+    <quantity_in_stock>1368</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11668,7 +11668,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
   </offer>
-  <offer id="1349686044" available="true">
+  <offer id="1349686044" available="false">
     <url>https://ukrizol.xyz/ua/p1349686044-himichno-zshitij-spinenij.html</url>
     <price>162</price>
     <price_old>192</price_old>
@@ -11683,7 +11683,7 @@
     <vendorCode>901035</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г2 (помірно горючі)</param>
     <param name="Довжина" unit="м">50</param>
@@ -16565,24 +16565,24 @@
     <vendorCode>500255</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>95</quantity_in_stock>
+    <quantity_in_stock>70</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Щільність" unit="кг/м3">55</param>
-    <param name="Максимальна робоча температура" unit="град.">120</param>
+    <param name="Щільність" unit="кг/м³">55</param>
+    <param name="Колір">Чорний</param>
+    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Еластичність матеріалу">Так</param>
+    <param name="Область застосування">Для стен|Для пола|Для каркасных конструкций|Для потолков|Для инженерного оборудования</param>
+    <param name="Ступінь жорсткості">М'який</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
+    <param name="Максимальна робоча температура" unit="град.">120.0</param>
     <param name="Мінімальна робоча температура" unit="">-100</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Товщина" unit="">25</param>
-    <param name="Призначення матеріалу" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Еластичність матеріалу" unit="">Да</param>
-    <param name="Область застосування" unit="">Для пола|Для каркасных конструкций|Для потолков|Для инженерного оборудования|Для стен</param>
-    <param name="Колір" unit="">Черный</param>
-    <param name="Ступінь жорсткості" unit="">Мягкий</param>
   </offer>
   <offer id="1361449974" available="true">
     <url>https://ukrizol.xyz/ua/p1361449974-spinenij-kauchuk-flex.html</url>
@@ -34971,8 +34971,8 @@
   </offer>
   <offer id="1554856958" available="true">
     <url>https://ukrizol.xyz/ua/p1554856958-trubna-izolyatsiya-ukrizol.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
+    <price>138</price>
+    <price_old>164</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -35151,8 +35151,8 @@
   </offer>
   <offer id="1554856964" available="true">
     <url>https://ukrizol.xyz/ua/p1554856964-trubna-izolyatsiya-ukrizol.html</url>
-    <price>119</price>
-    <price_old>141</price_old>
+    <price>142</price>
+    <price_old>169</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -35331,8 +35331,8 @@
   </offer>
   <offer id="1554856970" available="true">
     <url>https://ukrizol.xyz/ua/p1554856970-trubna-izolyatsiya-ukrizol.html</url>
-    <price>119</price>
-    <price_old>141</price_old>
+    <price>153</price>
+    <price_old>182</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -35391,8 +35391,8 @@
   </offer>
   <offer id="1554856972" available="true">
     <url>https://ukrizol.xyz/ua/p1554856972-trubna-izolyatsiya-ukrizol.html</url>
-    <price>133</price>
-    <price_old>159</price_old>
+    <price>161</price>
+    <price_old>191</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -35601,8 +35601,8 @@
   </offer>
   <offer id="1554856979" available="true">
     <url>https://ukrizol.xyz/ua/p1554856979-trubna-izolyatsiya-ukrizol.html</url>
-    <price>143</price>
-    <price_old>170</price_old>
+    <price>169</price>
+    <price_old>201</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -35811,8 +35811,8 @@
   </offer>
   <offer id="1554856986" available="true">
     <url>https://ukrizol.xyz/ua/p1554856986-trubna-izolyatsiya-ukrizol.html</url>
-    <price>170</price>
-    <price_old>202</price_old>
+    <price>178</price>
+    <price_old>212</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36033,8 +36033,8 @@
   </offer>
   <offer id="1554856995" available="true">
     <url>https://ukrizol.xyz/ua/p1554856995-trubna-izolyatsiya-ukrizol.html</url>
-    <price>176</price>
-    <price_old>210</price_old>
+    <price>184</price>
+    <price_old>219</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36225,8 +36225,8 @@
   </offer>
   <offer id="1554857001" available="true">
     <url>https://ukrizol.xyz/ua/p1554857001-trubna-izolyatsiya-ukrizol.html</url>
-    <price>177</price>
-    <price_old>211</price_old>
+    <price>197</price>
+    <price_old>235</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36417,8 +36417,8 @@
   </offer>
   <offer id="1554857007" available="true">
     <url>https://ukrizol.xyz/ua/p1554857007-trubna-izolyatsiya-ukrizol.html</url>
-    <price>193</price>
-    <price_old>230</price_old>
+    <price>206</price>
+    <price_old>245</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36609,8 +36609,8 @@
   </offer>
   <offer id="1554857013" available="true">
     <url>https://ukrizol.xyz/ua/p1554857013-trubna-izolyatsiya-ukrizol.html</url>
-    <price>205</price>
-    <price_old>244</price_old>
+    <price>216</price>
+    <price_old>258</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36799,8 +36799,8 @@
   </offer>
   <offer id="1554857029" available="true">
     <url>https://ukrizol.xyz/ua/p1554857029-trubna-izolyatsiya-ukrizol.html</url>
-    <price>160</price>
-    <price_old>190</price_old>
+    <price>165</price>
+    <price_old>196</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -36889,8 +36889,8 @@
   </offer>
   <offer id="1554857032" available="true">
     <url>https://ukrizol.xyz/ua/p1554857032-trubna-izolyatsiya-ukrizol.html</url>
-    <price>170</price>
-    <price_old>202</price_old>
+    <price>188</price>
+    <price_old>224</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -37159,8 +37159,8 @@
   </offer>
   <offer id="1554857041" available="true">
     <url>https://ukrizol.xyz/ua/p1554857041-trubna-izolyatsiya-ukrizol.html</url>
-    <price>181</price>
-    <price_old>215</price_old>
+    <price>192</price>
+    <price_old>229</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -37339,8 +37339,8 @@
   </offer>
   <offer id="1554857047" available="true">
     <url>https://ukrizol.xyz/ua/p1554857047-trubna-izolyatsiya-ukrizol.html</url>
-    <price>187</price>
-    <price_old>222</price_old>
+    <price>208</price>
+    <price_old>248</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -37519,8 +37519,8 @@
   </offer>
   <offer id="1554857054" available="true">
     <url>https://ukrizol.xyz/ua/p1554857054-trubna-izolyatsiya-ukrizol.html</url>
-    <price>209</price>
-    <price_old>249</price_old>
+    <price>225</price>
+    <price_old>268</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -37699,8 +37699,8 @@
   </offer>
   <offer id="1554857060" available="true">
     <url>https://ukrizol.xyz/ua/p1554857060-trubna-izolyatsiya-ukrizol.html</url>
-    <price>209</price>
-    <price_old>249</price_old>
+    <price>231</price>
+    <price_old>275</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -37879,8 +37879,8 @@
   </offer>
   <offer id="1554857066" available="true">
     <url>https://ukrizol.xyz/ua/p1554857066-trubna-izolyatsiya-ukrizol.html</url>
-    <price>249</price>
-    <price_old>296</price_old>
+    <price>268</price>
+    <price_old>319</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -38059,8 +38059,8 @@
   </offer>
   <offer id="1554857073" available="true">
     <url>https://ukrizol.xyz/ua/p1554857073-trubna-izolyatsiya-ukrizol.html</url>
-    <price>309</price>
-    <price_old>368</price_old>
+    <price>298</price>
+    <price_old>355</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -38269,8 +38269,8 @@
   </offer>
   <offer id="1554857080" available="true">
     <url>https://ukrizol.xyz/ua/p1554857080-trubna-izolyatsiya-ukrizol.html</url>
-    <price>336</price>
-    <price_old>400</price_old>
+    <price>349</price>
+    <price_old>415</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -38479,8 +38479,8 @@
   </offer>
   <offer id="1554857091" available="true">
     <url>https://ukrizol.xyz/ua/p1554857091-trubna-izolyatsiya-ukrizol.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>341</price>
+    <price_old>406</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -38659,8 +38659,8 @@
   </offer>
   <offer id="1554857098" available="true">
     <url>https://ukrizol.xyz/ua/p1554857098-trubna-izolyatsiya-ukrizol.html</url>
-    <price>369</price>
-    <price_old>439</price_old>
+    <price>390</price>
+    <price_old>464</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -38929,8 +38929,8 @@
   </offer>
   <offer id="1554857114" available="true">
     <url>https://ukrizol.xyz/ua/p1554857114-trubna-izolyatsiya-ukrizol.html</url>
-    <price>522</price>
-    <price_old>621</price_old>
+    <price>460</price>
+    <price_old>548</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39079,8 +39079,8 @@
   </offer>
   <offer id="1554857120" available="true">
     <url>https://ukrizol.xyz/ua/p1554857120-trubna-izolyatsiya-ukrizol.html</url>
-    <price>523</price>
-    <price_old>622</price_old>
+    <price>597</price>
+    <price_old>711</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39229,8 +39229,8 @@
   </offer>
   <offer id="1554857126" available="true">
     <url>https://ukrizol.xyz/ua/p1554857126-trubna-izolyatsiya-ukrizol.html</url>
-    <price>646</price>
-    <price_old>769</price_old>
+    <price>669</price>
+    <price_old>796</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39289,8 +39289,8 @@
   </offer>
   <offer id="1554857129" available="true">
     <url>https://ukrizol.xyz/ua/p1554857129-trubna-izolyatsiya-ukrizol.html</url>
-    <price>727</price>
-    <price_old>865</price_old>
+    <price>832</price>
+    <price_old>990</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39381,8 +39381,8 @@
   </offer>
   <offer id="1554857132" available="true">
     <url>https://ukrizol.xyz/ua/p1554857132-trubna-izolyatsiya-ukrizol.html</url>
-    <price>225</price>
-    <price_old>268</price_old>
+    <price>211</price>
+    <price_old>251</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39573,8 +39573,8 @@
   </offer>
   <offer id="1554857138" available="true">
     <url>https://ukrizol.xyz/ua/p1554857138-trubna-izolyatsiya-ukrizol.html</url>
-    <price>236</price>
-    <price_old>281</price_old>
+    <price>237</price>
+    <price_old>282</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39765,8 +39765,8 @@
   </offer>
   <offer id="1554857144" available="true">
     <url>https://ukrizol.xyz/ua/p1554857144-trubna-izolyatsiya-ukrizol.html</url>
-    <price>249</price>
-    <price_old>296</price_old>
+    <price>243</price>
+    <price_old>289</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -39957,8 +39957,8 @@
   </offer>
   <offer id="1554857150" available="true">
     <url>https://ukrizol.xyz/ua/p1554857150-trubna-izolyatsiya-ukrizol.html</url>
-    <price>256</price>
-    <price_old>305</price_old>
+    <price>261</price>
+    <price_old>311</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40149,8 +40149,8 @@
   </offer>
   <offer id="1554857156" available="true">
     <url>https://ukrizol.xyz/ua/p1554857156-trubna-izolyatsiya-ukrizol.html</url>
-    <price>282</price>
-    <price_old>336</price_old>
+    <price>280</price>
+    <price_old>334</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40341,8 +40341,8 @@
   </offer>
   <offer id="1554857162" available="true">
     <url>https://ukrizol.xyz/ua/p1554857162-trubna-izolyatsiya-ukrizol.html</url>
-    <price>284</price>
-    <price_old>338</price_old>
+    <price>289</price>
+    <price_old>344</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40533,8 +40533,8 @@
   </offer>
   <offer id="1554857168" available="true">
     <url>https://ukrizol.xyz/ua/p1554857168-trubna-izolyatsiya-ukrizol.html</url>
-    <price>331</price>
-    <price_old>394</price_old>
+    <price>332</price>
+    <price_old>395</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40725,8 +40725,8 @@
   </offer>
   <offer id="1554857174" available="true">
     <url>https://ukrizol.xyz/ua/p1554857174-trubna-izolyatsiya-ukrizol.html</url>
-    <price>396</price>
-    <price_old>471</price_old>
+    <price>366</price>
+    <price_old>436</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40885,8 +40885,8 @@
   </offer>
   <offer id="1554857180" available="true">
     <url>https://ukrizol.xyz/ua/p1554857180-trubna-izolyatsiya-ukrizol.html</url>
-    <price>443</price>
-    <price_old>528</price_old>
+    <price>396</price>
+    <price_old>471</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -40981,8 +40981,8 @@
   </offer>
   <offer id="1554857186" available="true">
     <url>https://ukrizol.xyz/ua/p1554857186-trubna-izolyatsiya-ukrizol.html</url>
-    <price>438</price>
-    <price_old>521</price_old>
+    <price>417</price>
+    <price_old>496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -41173,8 +41173,8 @@
   </offer>
   <offer id="1554857192" available="true">
     <url>https://ukrizol.xyz/ua/p1554857192-trubna-izolyatsiya-ukrizol.html</url>
-    <price>435</price>
-    <price_old>518</price_old>
+    <price>425</price>
+    <price_old>506</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -41365,8 +41365,8 @@
   </offer>
   <offer id="1554857198" available="true">
     <url>https://ukrizol.xyz/ua/p1554857198-trubna-izolyatsiya-ukrizol.html</url>
-    <price>476</price>
-    <price_old>566</price_old>
+    <price>471</price>
+    <price_old>561</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -41525,8 +41525,8 @@
   </offer>
   <offer id="1554857204" available="true">
     <url>https://ukrizol.xyz/ua/p1554857204-trubna-izolyatsiya-ukrizol.html</url>
-    <price>628</price>
-    <price_old>748</price_old>
+    <price>532</price>
+    <price_old>634</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -41685,8 +41685,8 @@
   </offer>
   <offer id="1554857978" available="true">
     <url>https://ukrizol.xyz/ua/p1554857978-trubna-izolyatsiya-ukrizol.html</url>
-    <price>640</price>
-    <price_old>762</price_old>
+    <price>556</price>
+    <price_old>662</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -41845,8 +41845,8 @@
   </offer>
   <offer id="1554857990" available="true">
     <url>https://ukrizol.xyz/ua/p1554857990-trubna-izolyatsiya-ukrizol.html</url>
-    <price>680</price>
-    <price_old>810</price_old>
+    <price>717</price>
+    <price_old>854</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -42005,8 +42005,8 @@
   </offer>
   <offer id="1554857996" available="true">
     <url>https://ukrizol.xyz/ua/p1554857996-trubna-izolyatsiya-ukrizol.html</url>
-    <price>816</price>
-    <price_old>971</price_old>
+    <price>800</price>
+    <price_old>952</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -42165,8 +42165,8 @@
   </offer>
   <offer id="1554858002" available="true">
     <url>https://ukrizol.xyz/ua/p1554858002-trubna-izolyatsiya-ukrizol.html</url>
-    <price>925</price>
-    <price_old>1101</price_old>
+    <price>990</price>
+    <price_old>1179</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -42535,8 +42535,8 @@
   </offer>
   <offer id="1554858020" available="true">
     <url>https://ukrizol.xyz/ua/p1554858020-trubna-izolyatsiya-ukrizol.html</url>
-    <price>218</price>
-    <price_old>260</price_old>
+    <price>254</price>
+    <price_old>302</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -42565,8 +42565,8 @@
   </offer>
   <offer id="1554858021" available="true">
     <url>https://ukrizol.xyz/ua/p1554858021-trubna-izolyatsiya-ukrizol.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>323</price>
+    <price_old>385</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -42779,8 +42779,8 @@
   </offer>
   <offer id="1554858044" available="true">
     <url>https://ukrizol.xyz/ua/p1554858044-trubna-izolyatsiya-ukrizol.html</url>
-    <price>297</price>
-    <price_old>354</price_old>
+    <price>315</price>
+    <price_old>375</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -55317,8 +55317,8 @@
   </offer>
   <offer id="1647486093" available="true">
     <url>https://ukrizol.xyz/ua/p1647486093-trubna-izolyatsiya-ukrizol.html</url>
-    <price>334</price>
-    <price_old>398</price_old>
+    <price>349</price>
+    <price_old>415</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -55347,8 +55347,8 @@
   </offer>
   <offer id="1647487261" available="true">
     <url>https://ukrizol.xyz/ua/p1647487261-trubna-izolyatsiya-ukrizol.html</url>
-    <price>363</price>
-    <price_old>432</price_old>
+    <price>371</price>
+    <price_old>441</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -55377,8 +55377,8 @@
   </offer>
   <offer id="1647488024" available="true">
     <url>https://ukrizol.xyz/ua/p1647488024-trubna-izolyatsiya-ukrizol.html</url>
-    <price>514</price>
-    <price_old>612</price_old>
+    <price>440</price>
+    <price_old>524</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775383</categoryId>
     <picture>https://images.prom.ua/5518087647_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -55407,8 +55407,8 @@
   </offer>
   <offer id="1647497212" available="true">
     <url>https://ukrizol.xyz/ua/p1647497212-trubna-izolyatsiya-ukrizol.html</url>
-    <price>435</price>
-    <price_old>518</price_old>
+    <price>425</price>
+    <price_old>506</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -55439,8 +55439,8 @@
   </offer>
   <offer id="1647497563" available="true">
     <url>https://ukrizol.xyz/ua/p1647497563-trubna-izolyatsiya-ukrizol.html</url>
-    <price>464</price>
-    <price_old>552</price_old>
+    <price>452</price>
+    <price_old>538</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>104775389</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -62803,7 +62803,7 @@
     <vendorCode>Н10020010Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">200</param>
     <param name="Колір">Чорний</param>
     <param name="Матеріал чохла">Штучна шкіра</param>
@@ -64932,7 +64932,7 @@
     <vendorCode>20115</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>313</quantity_in_stock>
+    <quantity_in_stock>305</quantity_in_stock>
     <param name="Армований скотч">Ні</param>
     <param name="Довжина" unit="м">25</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
@@ -74687,7 +74687,7 @@
     <vendorCode>889119</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2191</quantity_in_stock>
+    <quantity_in_stock>2186</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -78309,7 +78309,7 @@
     <vendorCode>889385</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1899</quantity_in_stock>
+    <quantity_in_stock>1799</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Армована фольга">Так</param>
@@ -78334,7 +78334,7 @@
     <vendorCode>889384</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3184</quantity_in_stock>
+    <quantity_in_stock>3084</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Довжина" unit="м">50</param>
     <param name="Армована фольга">Так</param>
@@ -84074,7 +84074,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вага упаковки" unit="кг">8.5</param>
     <param name="Довжина" unit="м">10</param>
     <param name="Довжина упаковки" unit="мм">50</param>
@@ -107994,7 +107994,7 @@
     <vendorCode>41025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>85</quantity_in_stock>
     <param name="Вага" unit="кг">0.629</param>
     <param name="Довжина листа" unit="см">37</param>
     <param name="Застосування матеріалу">Колісні арки|Стінки багажника|Стеля автомобіля|Підлогу автомобіля|Дверні панелі|Капот|Дах|Пол багажника|Кришка багажника|Двері</param>
@@ -108193,7 +108193,7 @@
     <vendorCode>П32/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -111430,7 +111430,7 @@
     <vendorCode>2004-N2К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -111802,7 +111802,7 @@
     <vendorCode>2028-N1К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Вид шолома">Бокс</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Червоний</param>
@@ -111854,7 +111854,7 @@
     <vendorCode>2022-0N4К</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Вага" unit="oz">10</param>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Штучна шкіра</param>

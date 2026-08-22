@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-21 17:00">
+<yml_catalog date="2026-08-22 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.07584" />
+      <currency id="USD" rate="49.1249" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="57.34311" />
+      <currency id="EUR" rate="57.47412" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -366,7 +366,7 @@
     <vendorCode>20102</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">50</param>
   </offer>
@@ -400,7 +400,7 @@
     <vendorCode>20104</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>59</quantity_in_stock>
     <param name="Довжина" unit="м">40</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
@@ -984,7 +984,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>271</quantity_in_stock>
+    <quantity_in_stock>273</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2628,7 +2628,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="м">0.075</param>
     <param name="Розривне навантаження (по довжині)" unit="Н/5 см">160</param>
@@ -5000,7 +5000,7 @@
     <vendorCode>900101</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>974</quantity_in_stock>
+    <quantity_in_stock>874</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -6879,7 +6879,7 @@
     <vendorCode>901102</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>115</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -10212,7 +10212,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1368</quantity_in_stock>
+    <quantity_in_stock>1360</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11097,7 +11097,7 @@
     <vendorCode>901103</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -14435,7 +14435,7 @@
     <vendorCode>1001-03Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вага" unit="кг">22</param>
     <param name="Висота" unit="см">100</param>
     <param name="Вікова група">Доросла</param>
@@ -18168,7 +18168,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>225</quantity_in_stock>
+    <quantity_in_stock>224</quantity_in_stock>
     <param name="Максимальна вага" unit="кг">100</param>
     <param name="Стан">Новий</param>
     <param name="Тип">Ланцюг для підвісу</param>
@@ -18901,7 +18901,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -19002,7 +19002,7 @@
     <vendorCode>32130</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>989</quantity_in_stock>
+    <quantity_in_stock>985</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -19025,7 +19025,7 @@
     <vendorCode>32140</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>963</quantity_in_stock>
+    <quantity_in_stock>959</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -34955,7 +34955,7 @@
     <vendorCode>Б18/30Ф</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">18</param>
     <param name="Довжина" unit="м">1</param>
@@ -44710,7 +44710,7 @@
     <vendorCode>112569</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <param name="Діаметр" unit="см">94</param>
     <param name="Конструкція">Цілісна</param>
     <param name="Матеріал">Сталь</param>
@@ -46103,7 +46103,7 @@
     <param name="Тип">Еластичні бинти</param>
     <param name="Колір">Синій</param>
   </offer>
-  <offer id="1574786532" available="false">
+  <offer id="1574786532" available="true">
     <url>https://ukrizol.xyz/ua/p1574786532-bint-bokserskij-everlast.html</url>
     <price>126</price>
     <price_old>150</price_old>
@@ -46117,7 +46117,7 @@
     <vendorCode>369856</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Довжина" unit="см">300</param>
     <param name="Кількість">2</param>
     <param name="Матеріал">Бавовна</param>
@@ -46125,7 +46125,7 @@
     <param name="Тип">Еластичні бинти</param>
     <param name="Колір">Чорний</param>
   </offer>
-  <offer id="1574786533" available="false">
+  <offer id="1574786533" available="true">
     <url>https://ukrizol.xyz/ua/p1574786533-bint-bokserskij-everlast.html</url>
     <price>152</price>
     <price_old>181</price_old>
@@ -46139,7 +46139,7 @@
     <vendorCode>369857</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">400</param>
     <param name="Кількість">2</param>
     <param name="Матеріал">Бавовна</param>
@@ -49189,7 +49189,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1055</quantity_in_stock>
+    <quantity_in_stock>1057</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Матеріал" unit="">Резинка</param>
@@ -51418,7 +51418,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>273</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
     <param name="Тип килимка">Каремат</param>
@@ -63472,7 +63472,7 @@
     <param name="Колір">Зелений</param>
     <param name="Ширина" unit="см">60</param>
   </offer>
-  <offer id="1694042534" available="false">
+  <offer id="1694042534" available="true">
     <url>https://ukrizol.xyz/ua/p1694042534-stijki-dlya-vidzhiman.html</url>
     <price>402</price>
     <price_old>479</price_old>
@@ -63493,12 +63493,12 @@
     <vendorCode>83106</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Стан">Новий</param>
+    <param name="Матеріал">Пластик</param>
+    <param name="Вікова група">Доросла</param>
     <param name="Конструкция" unit="">Цельная</param>
     <param name="Тип" unit="">упори для віджимань</param>
-    <param name="Вікова група" unit="">Взрослая</param>
-    <param name="Матеріал" unit="">Пластик</param>
   </offer>
   <offer id="1694042535" available="true">
     <url>https://ukrizol.xyz/ua/p1694042535-myach-dlya-fitnesu.html</url>
@@ -63690,7 +63690,7 @@
     <param name="Конструкция" unit="">Цельная</param>
     <param name="Товщина (мм)" unit="мм">4.5</param>
   </offer>
-  <offer id="1694884264" available="false">
+  <offer id="1694884264" available="true">
     <url>https://ukrizol.xyz/ua/p1694884264-bint-bokserskij-everlast.html</url>
     <price>152</price>
     <price_old>181</price_old>
@@ -63705,7 +63705,7 @@
     <vendorCode>369859</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">400</param>
     <param name="Кількість">2</param>
     <param name="Матеріал">Бавовна</param>
@@ -63781,8 +63781,8 @@
   </offer>
   <offer id="1696352776" available="true">
     <url>https://ukrizol.xyz/ua/p1696352776-trubna-izolyatsiya-ukrizol.html</url>
-    <price>933</price>
-    <price_old>1111</price_old>
+    <price>892</price>
+    <price_old>1062</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -71869,7 +71869,7 @@
     <vendorCode>03-785</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>92</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <param name="Сумісність з маркою">Toyota|Nissan|Audi|Chrysler|Peugeot|Renault|Kia|Ford|Hyundai|Mazda|Daewoo|Volkswagen|Mitsubishi|BMW|Citroen|Fiat|Dodge|Volvo|Honda</param>
     <param name="Сумісність з моделлю">Caliber|Mondeo|Q7|Avensis|Sonata|Q5|Sebring|Ceed|Civic|XC90|Passat|Yaris|Fiesta|Focus|Almera|Chrysler|Santa Fe|Primera|Fusion|Tucson|6|Renault Megane|Peugeot 206|Lancer|Dodge|A4|Matiz|A6|Scorpio|Tiguan|Accord|RAV4|Lupo|C5|Colt|Camry|Jazz|Nissan Maxima|C4|Getz|C2</param>
     <param name="Диаметр, мм" unit="">20</param>
@@ -74216,7 +74216,7 @@
     <name>Поролон для спортивних матів 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>136</quantity_in_stock>
     <param name="Товщина" unit="см">100</param>
     <param name="Плотность, кг/м³" unit="кг/м³">50</param>
   </offer>
@@ -76117,8 +76117,8 @@
   </offer>
   <offer id="1973670292" available="true">
     <url>https://ukrizol.xyz/ua/p1973670292-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1213</price>
-    <price_old>1444</price_old>
+    <price>1066</price>
+    <price_old>1269</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -76400,8 +76400,8 @@
   </offer>
   <offer id="1973671786" available="true">
     <url>https://ukrizol.xyz/ua/p1973671786-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1188</price>
-    <price_old>1414</price_old>
+    <price>1220</price>
+    <price_old>1452</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -76432,8 +76432,8 @@
   </offer>
   <offer id="1973671787" available="true">
     <url>https://ukrizol.xyz/ua/p1973671787-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1763</price>
-    <price_old>2099</price_old>
+    <price>1774</price>
+    <price_old>2112</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -76464,8 +76464,8 @@
   </offer>
   <offer id="1973671788" available="true">
     <url>https://ukrizol.xyz/ua/p1973671788-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1514</price>
-    <price_old>1802</price_old>
+    <price>1450</price>
+    <price_old>1726</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -77501,7 +77501,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вага" unit="кг">27</param>
     <param name="Висота" unit="см">120</param>
     <param name="Вікова група">Доросла</param>
@@ -77685,8 +77685,8 @@
   </offer>
   <offer id="2008538959" available="true">
     <url>https://ukrizol.xyz/ua/p2008538959-trubna-izolyatsiya-ukrizol.html</url>
-    <price>2334</price>
-    <price_old>2779</price_old>
+    <price>2327</price>
+    <price_old>2770</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -79179,7 +79179,7 @@
     <vendorCode>889364</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -82180,7 +82180,7 @@
     <vendorCode>889202</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Матеріал">Натуральна шкіра</param>
     <param name="Розмір">XS</param>
@@ -84796,7 +84796,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Щільність" unit="кг/м3">25</param>
   </offer>
-  <offer id="2086665694" available="false">
+  <offer id="2086665694" available="true">
     <url>https://ukrizol.xyz/ua/p2086665694-skotch-termostijkij-200s.html</url>
     <price>281</price>
     <price_old>335</price_old>
@@ -84811,7 +84811,7 @@
     <vendorCode>889441</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -104506,8 +104506,8 @@
   </offer>
   <offer id="2288591544" available="true">
     <url>https://ukrizol.xyz/ua/p2288591544-trubna-izolyatsiya-ukrizol.html</url>
-    <price>813</price>
-    <price_old>968</price_old>
+    <price>816</price>
+    <price_old>971</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/6116625517_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -104535,6 +104535,19 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
     <param name="Щільність" unit="кг/м3">75</param>
+  </offer>
+  <offer id="2288591545" available="true">
+    <url>https://ukrizol.xyz/ua/p2288591545-bazaltova-shkaralupa-42100.html</url>
+    <price>730</price>
+    <price_old>869</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 42/100 (циліндри базальтові)</name>
+    <vendorCode>Б42/100</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
   </offer>
   <offer id="2290509730" available="false">
     <url>https://ukrizol.xyz/ua/p2290509730-kilimok-dlya-sportu.html</url>
@@ -104676,7 +104689,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>813</quantity_in_stock>
+    <quantity_in_stock>811</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Ширина" unit="мм">60</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
@@ -104843,7 +104856,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеюча поверхня" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -105279,7 +105292,7 @@
     <vendorCode>9003019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>134</quantity_in_stock>
+    <quantity_in_stock>127</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -109516,7 +109529,7 @@
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Товщина" unit="">9.0</param>
   </offer>
-  <offer id="2456263550" available="false">
+<offer id="2456263550" available="false">
     <url>https://ukrizol.xyz/ua/p2456263550-spinenij-kauchuk-samokleyuchij.html</url>
     <price>617</price>
     <price_old>735</price_old>
@@ -109535,8 +109548,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
-    <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
-    <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
+    <param name="Призначення матеріалу">Поліпшення акустики приміщень|Звукоізоляція|Зниження ударного шуму|Віброізоляція</param>
+    <param name="Область застосування">Для стель|Для підлоги|Для стін|Для інженерного обладнання|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">55</param>
     <param name="Ступінь жорсткості">М'який</param>
     <param name="Товщина" unit="мм">19</param>
@@ -109553,7 +109566,7 @@
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Екологічна безпека матеріалу" unit="">Безопасен</param>
   </offer>
-<offer id="2459645648" available="true">
+  <offer id="2459645648" available="true">
     <url>https://ukrizol.xyz/ua/p2459645648-sholom-maska-lev.html</url>
     <price>1470</price>
     <price_old>1750</price_old>
@@ -110982,7 +110995,7 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1500</quantity_in_stock>
+    <quantity_in_stock>1496</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -112686,7 +112699,7 @@
     <vendorCode>889595</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>933</quantity_in_stock>
+    <quantity_in_stock>928</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Покриття">Без покриття</param>
     <param name="Товщина" unit="мм">20</param>
@@ -115297,8 +115310,8 @@
   </offer>
   <offer id="2727505586" available="true">
     <url>https://ukrizol.xyz/ua/p2727505586-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1100</price>
-    <price_old>1310</price_old>
+    <price>995</price>
+    <price_old>1185</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -115329,8 +115342,8 @@
   </offer>
   <offer id="2727505587" available="true">
     <url>https://ukrizol.xyz/ua/p2727505587-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1510</price>
-    <price_old>1798</price_old>
+    <price>1401</price>
+    <price_old>1668</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -115361,8 +115374,8 @@
   </offer>
   <offer id="2727505588" available="true">
     <url>https://ukrizol.xyz/ua/p2727505588-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1337</price>
-    <price_old>1591</price_old>
+    <price>1304</price>
+    <price_old>1552</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -115393,8 +115406,8 @@
   </offer>
   <offer id="2727505589" available="true">
     <url>https://ukrizol.xyz/ua/p2727505589-trubna-izolyatsiya-ukrizol.html</url>
-    <price>2243</price>
-    <price_old>2670</price_old>
+    <price>2098</price>
+    <price_old>2498</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -115425,8 +115438,8 @@
   </offer>
   <offer id="2727505590" available="true">
     <url>https://ukrizol.xyz/ua/p2727505590-trubna-izolyatsiya-ukrizol.html</url>
-    <price>1195</price>
-    <price_old>1422</price_old>
+    <price>1169</price>
+    <price_old>1391</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -116112,7 +116125,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="2807838129" available="false">
+<offer id="2807838129" available="false">
     <url>https://ukrizol.xyz/ua/p2807838129-filament-dsf-pla.html</url>
     <price>514</price>
     <price_old>612</price_old>
@@ -116132,7 +116145,7 @@
     <param name="Колір">Білий</param>
     <param name="Матеріал">PLA</param>
   </offer>
-<offer id="2807838130" available="false">
+  <offer id="2807838130" available="false">
     <url>https://ukrizol.xyz/ua/p2807838130-filament-dsf-pla.html</url>
     <price>514</price>
     <price_old>612</price_old>
@@ -119473,8 +119486,8 @@
   </offer>
   <offer id="2879234421" available="true">
     <url>https://ukrizol.xyz/ua/p2879234421-trubna-izolyatsiya-ukrizol.html</url>
-    <price>778</price>
-    <price_old>926</price_old>
+    <price>762</price>
+    <price_old>908</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>111432834</categoryId>
     <picture>https://images.prom.ua/5518119708_trubna-izolyatsiya-ukrizol.jpg</picture>
@@ -120080,7 +120093,7 @@
     <vendorCode>889746</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вага" unit="кг">1</param>
     <param name="Діаметр нитки" unit="мм">1.75</param>
     <param name="Колір">Бірюзовий</param>
@@ -121107,7 +121120,7 @@
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Товщина" unit="">6</param>
   </offer>
-  <offer id="2964210298" available="false">
+  <offer id="2964210298" available="true">
     <url>https://ukrizol.xyz/ua/p2964210298-zahist-pahovij-fgt.html</url>
     <price>197</price>
     <price_old>235</price_old>
@@ -121121,7 +121134,7 @@
     <vendorCode>FT-1210XL</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Білий</param>
     <param name="Розмір">XL</param>
     <param name="Тип">Захист паху</param>
@@ -122425,7 +122438,7 @@
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
   </offer>
-  <offer id="3054617331" available="true">
+<offer id="3054617331" available="true">
     <url>https://ukrizol.xyz/ua/p3054617331-list-eva-eva.html</url>
     <price>1260</price>
     <price_old>1500</price_old>
@@ -122447,7 +122460,7 @@
     <param name="Ширина" unit="мм">1250.0</param>
     <param name="Довжина" unit="м">1450.0</param>
   </offer>
-<offer id="3054617332" available="true">
+  <offer id="3054617332" available="true">
     <url>https://ukrizol.xyz/ua/p3054617332-list-eva-eva.html</url>
     <price>1942</price>
     <price_old>2312</price_old>
@@ -125307,6 +125320,2125 @@
     <delivery>true</delivery>
     <name>Базальтова шкаралупа з фольгою 400/70 (циліндри базальтові)</name>
     <vendorCode>00002794</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291020" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291020-bazaltova-shkaralupa-140100.html</url>
+    <price>1221</price>
+    <price_old>1454</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 140/100 (циліндри базальтові)</name>
+    <vendorCode>00002996</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291021" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291021-bazaltova-shkaralupa-35100.html</url>
+    <price>695</price>
+    <price_old>828</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 35/100 (циліндри базальтові)</name>
+    <vendorCode>00003011</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291022" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291022-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2219</price>
+    <price_old>2641</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 300/100 (циліндри базальтові)</name>
+    <vendorCode>00002673</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291023" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291023-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>778</price>
+    <price_old>926</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 35/100 (циліндри базальтові)</name>
+    <vendorCode>00002980</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291024" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291024-bazaltova-shkaralupa-9090.html</url>
+    <price>826</price>
+    <price_old>984</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 90/90 (циліндри базальтові)</name>
+    <vendorCode>00002917</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291025" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291025-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2029</price>
+    <price_old>2415</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 280/100 (циліндри базальтові)</name>
+    <vendorCode>00002672</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291026" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291026-bazaltova-shkaralupa-15090.html</url>
+    <price>1105</price>
+    <price_old>1315</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 150/90 (циліндри базальтові)</name>
+    <vendorCode>00002883</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291027" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291027-bazaltova-shkaralupa-100100.html</url>
+    <price>1020</price>
+    <price_old>1214</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 100/100 (циліндри базальтові)</name>
+    <vendorCode>00002992</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291028" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291028-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>759</price>
+    <price_old>904</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 57/90 (циліндри базальтові)</name>
+    <vendorCode>00002955</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291029" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291029-bazaltova-shkaralupa-400100.html</url>
+    <price>2550</price>
+    <price_old>3036</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 400/100 (циліндри базальтові)</name>
+    <vendorCode>00003003</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291030" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291030-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>687</price>
+    <price_old>818</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 18/100 (циліндри базальтові)</name>
+    <vendorCode>00002975</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291031" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291031-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1961</price>
+    <price_old>2335</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 300/90 (циліндри базальтові)</name>
+    <vendorCode>00002936</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291032" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291032-bazaltova-shkaralupa-7590.html</url>
+    <price>758</price>
+    <price_old>902</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 75/90 (циліндри базальтові)</name>
+    <vendorCode>00002914</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291033" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291033-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1025</price>
+    <price_old>1220</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 110/90 (циліндри базальтові)</name>
+    <vendorCode>00002922</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291034" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291034-bazaltova-shkaralupa-273100.html</url>
+    <price>1928</price>
+    <price_old>2295</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 273/100 (циліндри базальтові)</name>
+    <vendorCode>00001985</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291035" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291035-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2035</price>
+    <price_old>2422</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 315/90 (циліндри базальтові)</name>
+    <vendorCode>00002937</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291036" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291036-bazaltova-shkaralupa-30090.html</url>
+    <price>1793</price>
+    <price_old>2135</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 300/90 (циліндри базальтові)</name>
+    <vendorCode>00002891</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291037" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291037-bazaltova-shkaralupa-42690.html</url>
+    <price>2369</price>
+    <price_old>2820</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 426/90 (циліндри базальтові)</name>
+    <vendorCode>00002895</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291038" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291038-bazaltova-shkaralupa-150100.html</url>
+    <price>1278</price>
+    <price_old>1521</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 150/100 (циліндри базальтові)</name>
+    <vendorCode>00002329</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>9</quantity_in_stock>
+  </offer>
+  <offer id="3167291039" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291039-bazaltova-shkaralupa-12090.html</url>
+    <price>967</price>
+    <price_old>1151</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 120/90 (циліндри базальтові)</name>
+    <vendorCode>00002879</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291040" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291040-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>642</price>
+    <price_old>764</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 32/90 (циліндри базальтові)</name>
+    <vendorCode>00002947</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291041" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291041-bazaltova-shkaralupa-57100.html</url>
+    <price>801</price>
+    <price_old>954</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 57/100 (циліндри базальтові)</name>
+    <vendorCode>00001978</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291042" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291042-bazaltova-shkaralupa-3290.html</url>
+    <price>566</price>
+    <price_old>674</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 32/90 (циліндри базальтові)</name>
+    <vendorCode>00002902</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291043" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291043-bazaltova-shkaralupa-10090.html</url>
+    <price>872</price>
+    <price_old>1038</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 100/90 (циліндри базальтові)</name>
+    <vendorCode>00002875</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291044" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291044-bazaltova-shkaralupa-8090.html</url>
+    <price>780</price>
+    <price_old>929</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 80/90 (циліндри базальтові)</name>
+    <vendorCode>00002916</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291045" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291045-bazaltova-shkaralupa-75100.html</url>
+    <price>892</price>
+    <price_old>1062</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 75/100 (циліндри базальтові)</name>
+    <vendorCode>00003019</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291046" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291046-bazaltova-shkaralupa-3090.html</url>
+    <price>556</price>
+    <price_old>662</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 30/90 (циліндри базальтові)</name>
+    <vendorCode>00002901</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291047" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291047-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1466</price>
+    <price_old>1745</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 200/90 (циліндри базальтові)</name>
+    <vendorCode>00002931</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291048" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291048-bazaltova-shkaralupa-50100.html</url>
+    <price>765</price>
+    <price_old>911</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 50/100 (циліндри базальтові)</name>
+    <vendorCode>00003015</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291049" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291049-bazaltova-shkaralupa-13390.html</url>
+    <price>1021</price>
+    <price_old>1215</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 133/90 (циліндри базальтові)</name>
+    <vendorCode>00002881</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291050" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291050-bazaltova-shkaralupa-125100.html</url>
+    <price>1151</price>
+    <price_old>1370</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 125/100 (циліндри базальтові)</name>
+    <vendorCode>00002995</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291051" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291051-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>908</price>
+    <price_old>1081</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 60/100 (циліндри базальтові)</name>
+    <vendorCode>00002986</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291052" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291052-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1010</price>
+    <price_old>1202</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 108/90 (циліндри базальтові)</name>
+    <vendorCode>00002921</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291053" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291053-bazaltova-shkaralupa-114100.html</url>
+    <price>1108</price>
+    <price_old>1319</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 114/100 (циліндри базальтові)</name>
+    <vendorCode>00002328</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>9</quantity_in_stock>
+  </offer>
+  <offer id="3167291054" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291054-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1265</price>
+    <price_old>1506</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 125/100 (циліндри базальтові)</name>
+    <vendorCode>00002966</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291055" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291055-bazaltova-shkaralupa-110100.html</url>
+    <price>1075</price>
+    <price_old>1280</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 110/100 (циліндри базальтові)</name>
+    <vendorCode>00002993</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291056" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291056-bazaltova-shkaralupa-22100.html</url>
+    <price>629</price>
+    <price_old>749</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 22/100 (циліндри базальтові)</name>
+    <vendorCode>00003007</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291057" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291057-bazaltova-shkaralupa-4590.html</url>
+    <price>630</price>
+    <price_old>750</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 45/90 (циліндри базальтові)</name>
+    <vendorCode>00002906</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291058" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291058-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>774</price>
+    <price_old>921</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 60/90 (циліндри базальтові)</name>
+    <vendorCode>00002956</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291059" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291059-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1343</price>
+    <price_old>1599</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 140/100 (циліндри базальтові)</name>
+    <vendorCode>00002967</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291060" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291060-bazaltova-shkaralupa-32100.html</url>
+    <price>679</price>
+    <price_old>809</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 32/100 (циліндри базальтові)</name>
+    <vendorCode>00000507</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291061" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291061-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1239</price>
+    <price_old>1475</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 120/100 (циліндри базальтові)</name>
+    <vendorCode>00002965</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291062" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291062-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1125</price>
+    <price_old>1339</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 100/100 (циліндри базальтові)</name>
+    <vendorCode>00002434</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291063" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291063-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>726</price>
+    <price_old>864</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 50/90 (циліндри базальтові)</name>
+    <vendorCode>00002953</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291064" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291064-bazaltova-shkaralupa-5790.html</url>
+    <price>675</price>
+    <price_old>804</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 57/90 (циліндри базальтові)</name>
+    <vendorCode>00002910</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291065" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291065-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>752</price>
+    <price_old>895</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 30/100 (циліндри базальтові)</name>
+    <vendorCode>00002979</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291066" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291066-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>854</price>
+    <price_old>1016</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 48/100 (циліндри базальтові)</name>
+    <vendorCode>00002983</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291067" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291067-bazaltova-shkaralupa-5490.html</url>
+    <price>662</price>
+    <price_old>788</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 54/90 (циліндри базальтові)</name>
+    <vendorCode>00002909</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291068" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291068-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>853</price>
+    <price_old>1015</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 76/90 (циліндри базальтові)</name>
+    <vendorCode>00002960</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291069" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291069-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>697</price>
+    <price_old>830</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 21/100 (циліндри базальтові)</name>
+    <vendorCode>00002976</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291070" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291070-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>922</price>
+    <price_old>1098</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 90/90 (циліндри базальтові)</name>
+    <vendorCode>00002963</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291071" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291071-bazaltova-shkaralupa-133100.html</url>
+    <price>1185</price>
+    <price_old>1411</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 133/100 (циліндри базальтові)</name>
+    <vendorCode>00001982</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291072" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291072-bazaltova-shkaralupa-31590.html</url>
+    <price>1862</price>
+    <price_old>2216</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 315/90 (циліндри базальтові)</name>
+    <vendorCode>00002892</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291073" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291073-bazaltova-shkaralupa-2290.html</url>
+    <price>521</price>
+    <price_old>620</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 22/90 (циліндри базальтові)</name>
+    <vendorCode>00002898</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291074" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291074-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1712</price>
+    <price_old>2038</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 250/90 (циліндри базальтові)</name>
+    <vendorCode>00002934</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291075" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291075-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>632</price>
+    <price_old>752</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 30/90 (циліндри базальтові)</name>
+    <vendorCode>00002946</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291076" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291076-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1184</price>
+    <price_old>1410</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 110/100 (циліндри базальтові)</name>
+    <vendorCode>00002964</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+<offer id="3167291077" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291077-bazaltova-shkaralupa-7090.html</url>
+    <price>735</price>
+    <price_old>875</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 70/90 (циліндри базальтові)</name>
+    <vendorCode>00002913</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291078" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291078-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>989</price>
+    <price_old>1178</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 75/100 (циліндри базальтові)</name>
+    <vendorCode>00002989</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291079" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291079-bazaltova-shkaralupa-3890.html</url>
+    <price>603</price>
+    <price_old>718</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 38/90 (циліндри базальтові)</name>
+    <vendorCode>00002904</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291080" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291080-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2453</price>
+    <price_old>2920</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 400/90 (циліндри базальтові)</name>
+    <vendorCode>00002939</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291081" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291081-bazaltova-shkaralupa-38100.html</url>
+    <price>720</price>
+    <price_old>858</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 38/100 (циліндри базальтові)</name>
+    <vendorCode>00003012</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291082" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291082-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>847</price>
+    <price_old>1009</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 75/90 (циліндри базальтові)</name>
+    <vendorCode>00002959</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291083" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291083-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>963</price>
+    <price_old>1146</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 70/100 (циліндри базальтові)</name>
+    <vendorCode>00002988</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291084" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291084-bazaltova-shkaralupa-200100.html</url>
+    <price>1532</price>
+    <price_old>1824</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 200/100 (циліндри базальтові)</name>
+    <vendorCode>00002998</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291085" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291085-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1071</price>
+    <price_old>1275</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 90/100 (циліндри базальтові)</name>
+    <vendorCode>00002991</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291086" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291086-bazaltova-shkaralupa-45100.html</url>
+    <price>752</price>
+    <price_old>895</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 45/100 (циліндри базальтові)</name>
+    <vendorCode>00003013</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291087" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291087-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>841</price>
+    <price_old>1001</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 45/100 (циліндри базальтові)</name>
+    <vendorCode>00002982</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291088" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291088-bazaltova-shkaralupa-315100.html</url>
+    <price>2120</price>
+    <price_old>2524</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 315/100 (циліндри базальтові)</name>
+    <vendorCode>00003002</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291089" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291089-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1455</price>
+    <price_old>1732</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 160/100 (циліндри базальтові)</name>
+    <vendorCode>00002968</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291090" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291090-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1269</price>
+    <price_old>1511</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 160/90 (циліндри базальтові)</name>
+    <vendorCode>00002930</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291091" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291091-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>583</price>
+    <price_old>694</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 21/90 (циліндри базальтові)</name>
+    <vendorCode>00002942</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291092" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291092-bazaltova-shkaralupa-7690.html</url>
+    <price>762</price>
+    <price_old>908</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 76/90 (циліндри базальтові)</name>
+    <vendorCode>00002915</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291093" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291093-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>656</price>
+    <price_old>781</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 35/90 (циліндри базальтові)</name>
+    <vendorCode>00002948</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291094" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291094-bazaltova-shkaralupa-10890.html</url>
+    <price>908</price>
+    <price_old>1081</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 108/90 (циліндри базальтові)</name>
+    <vendorCode>00002876</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291095" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291095-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>681</price>
+    <price_old>811</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 38/90 (циліндри базальтові)</name>
+    <vendorCode>00002949</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291096" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291096-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1265</price>
+    <price_old>1506</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 159/90 (циліндри базальтові)</name>
+    <vendorCode>00002929</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291097" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291097-bazaltova-shkaralupa-25100.html</url>
+    <price>644</price>
+    <price_old>766</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 25/100 (циліндри базальтові)</name>
+    <vendorCode>00003008</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291098" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291098-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1131</price>
+    <price_old>1346</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 133/90 (циліндри базальтові)</name>
+    <vendorCode>00002926</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291099" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291099-bazaltova-shkaralupa-325100.html</url>
+    <price>2145</price>
+    <price_old>2554</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 325/100 (циліндри базальтові)</name>
+    <vendorCode>00001986</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291100" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291100-bazaltova-shkaralupa-70100.html</url>
+    <price>867</price>
+    <price_old>1032</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 70/100 (циліндри базальтові)</name>
+    <vendorCode>00003020</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291101" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291101-bazaltova-shkaralupa-426100.html</url>
+    <price>2683</price>
+    <price_old>3194</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 426/100 (циліндри базальтові)</name>
+    <vendorCode>00003004</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291102" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291102-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>917</price>
+    <price_old>1091</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 89/90 (циліндри базальтові)</name>
+    <vendorCode>00002962</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291103" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291103-bazaltova-shkaralupa-300100.html</url>
+    <price>2043</price>
+    <price_old>2432</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 300/100 (циліндри базальтові)</name>
+    <vendorCode>00003001</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291104" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291104-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>592</price>
+    <price_old>705</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 22/90 (циліндри базальтові)</name>
+    <vendorCode>00002943</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291105" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291105-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>876</price>
+    <price_old>1042</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 54/100 (циліндри базальтові)</name>
+    <vendorCode>00002985</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291106" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291106-bazaltova-shkaralupa-219100.html</url>
+    <price>1628</price>
+    <price_old>1938</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 219/100 (циліндри базальтові)</name>
+    <vendorCode>00001984</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291107" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291107-bazaltova-shkaralupa-48100.html</url>
+    <price>763</price>
+    <price_old>909</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 48/100 (циліндри базальтові)</name>
+    <vendorCode>00003014</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291108" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291108-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>789</price>
+    <price_old>939</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 63/90 (циліндри базальтові)</name>
+    <vendorCode>00002957</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291109" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291109-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1942</price>
+    <price_old>2312</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 250/100 (циліндри базальтові)</name>
+    <vendorCode>00002971</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291110" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291110-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2580</price>
+    <price_old>3071</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 426/90 (циліндри базальтові)</name>
+    <vendorCode>00002940</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291111" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291111-bazaltova-shkaralupa-20090.html</url>
+    <price>1332</price>
+    <price_old>1586</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 200/90 (циліндри базальтові)</name>
+    <vendorCode>00002886</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291112" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291112-bazaltova-shkaralupa-32590.html</url>
+    <price>1885</price>
+    <price_old>2244</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 325/90 (циліндри базальтові)</name>
+    <vendorCode>00002893</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291113" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291113-bazaltova-shkaralupa-80100.html</url>
+    <price>918</price>
+    <price_old>1092</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 80/100 (циліндри базальтові)</name>
+    <vendorCode>00003021</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291114" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291114-bazaltova-shkaralupa-3590.html</url>
+    <price>580</price>
+    <price_old>690</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 35/90 (циліндри базальтові)</name>
+    <vendorCode>00002903</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291115" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291115-bazaltova-shkaralupa-12590.html</url>
+    <price>990</price>
+    <price_old>1179</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 125/90 (циліндри базальтові)</name>
+    <vendorCode>00002880</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291116" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291116-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2060</price>
+    <price_old>2452</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 325/90 (циліндри базальтові)</name>
+    <vendorCode>00002938</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291117" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291117-bazaltova-shkaralupa-160100.html</url>
+    <price>1328</price>
+    <price_old>1581</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 160/100 (циліндри базальтові)</name>
+    <vendorCode>00002997</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291118" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291118-bazaltova-shkaralupa-40090.html</url>
+    <price>2250</price>
+    <price_old>2679</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 400/90 (циліндри базальтові)</name>
+    <vendorCode>00002894</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291119" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291119-bazaltova-shkaralupa-6090.html</url>
+    <price>689</price>
+    <price_old>820</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 60/90 (циліндри базальтові)</name>
+    <vendorCode>00002911</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291120" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291120-bazaltova-shkaralupa-14090.html</url>
+    <price>1051</price>
+    <price_old>1251</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 140/90 (циліндри базальтові)</name>
+    <vendorCode>00002882</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291121" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291121-bazaltova-shkaralupa-8990.html</url>
+    <price>821</price>
+    <price_old>978</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 89/90 (циліндри базальтові)</name>
+    <vendorCode>00002918</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291122" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291122-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>740</price>
+    <price_old>881</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 27/100 (циліндри базальтові)</name>
+    <vendorCode>00002373</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291123" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291123-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>691</price>
+    <price_old>822</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 42/90 (циліндри базальтові)</name>
+    <vendorCode>00002950</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291124" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291124-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>873</price>
+    <price_old>1039</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 80/90 (циліндри базальтові)</name>
+    <vendorCode>00002961</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291125" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291125-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1848</price>
+    <price_old>2200</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 273/90 (циліндри базальтові)</name>
+    <vendorCode>00002935</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291126" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291126-bazaltova-shkaralupa-4290.html</url>
+    <price>611</price>
+    <price_old>728</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 42/90 (циліндри базальтові)</name>
+    <vendorCode>00002905</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291127" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291127-bazaltova-shkaralupa-18100.html</url>
+    <price>609</price>
+    <price_old>725</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 18/100 (циліндри базальтові)</name>
+    <vendorCode>00003005</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291128" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291128-bazaltova-shkaralupa-89100.html</url>
+    <price>964</price>
+    <price_old>1148</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 89/100 (циліндри базальтові)</name>
+    <vendorCode>00001980</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291129" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291129-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2300</price>
+    <price_old>2738</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 315/100 (циліндри базальтові)</name>
+    <vendorCode>00002972</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291130" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291130-bazaltova-shkaralupa-120100.html</url>
+    <price>1126</price>
+    <price_old>1340</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 120/100 (циліндри базальтові)</name>
+    <vendorCode>00002994</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291131" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291131-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>823</price>
+    <price_old>980</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 70/90 (циліндри базальтові)</name>
+    <vendorCode>00002958</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291132" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291132-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1073</price>
+    <price_old>1278</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 120/90 (циліндри базальтові)</name>
+    <vendorCode>00002924</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291133" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291133-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1055</price>
+    <price_old>1256</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 114/90 (циліндри базальтові)</name>
+    <vendorCode>00002923</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291134" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291134-bazaltova-shkaralupa-63100.html</url>
+    <price>832</price>
+    <price_old>990</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 63/100 (циліндри базальтові)</name>
+    <vendorCode>00003018</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291135" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291135-bazaltova-shkaralupa-108100.html</url>
+    <price>1059</price>
+    <price_old>1261</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 108/100 (циліндри базальтові)</name>
+    <vendorCode>00001981</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291136" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291136-bazaltova-shkaralupa-27100.html</url>
+    <price>659</price>
+    <price_old>785</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 27/100 (циліндри базальтові)</name>
+    <vendorCode>00003009</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291137" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291137-bazaltova-shkaralupa-2790.html</url>
+    <price>548</price>
+    <price_old>652</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 27/90 (циліндри базальтові)</name>
+    <vendorCode>00002900</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291138" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291138-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1098</price>
+    <price_old>1308</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 125/90 (циліндри базальтові)</name>
+    <vendorCode>00002925</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291139" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291139-bazaltova-shkaralupa-21990.html</url>
+    <price>1420</price>
+    <price_old>1690</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 219/90 (циліндри базальтові)</name>
+    <vendorCode>00002887</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291140" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291140-bazaltova-shkaralupa-16090.html</url>
+    <price>1150</price>
+    <price_old>1369</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 160/90 (циліндри базальтові)</name>
+    <vendorCode>00002885</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291141" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291141-bazaltova-shkaralupa-5090.html</url>
+    <price>644</price>
+    <price_old>766</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 50/90 (циліндри базальтові)</name>
+    <vendorCode>00002908</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291142" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291142-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2901</price>
+    <price_old>3454</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 426/100 (циліндри базальтові)</name>
+    <vendorCode>00002974</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291143" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291143-bazaltova-shkaralupa-25090.html</url>
+    <price>1561</price>
+    <price_old>1859</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 250/90 (циліндри базальтові)</name>
+    <vendorCode>00002889</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291144" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291144-bazaltova-shkaralupa-159100.html</url>
+    <price>1324</price>
+    <price_old>1576</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 159/100 (циліндри базальтові)</name>
+    <vendorCode>00001983</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291145" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291145-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>622</price>
+    <price_old>740</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 27/90 (циліндри базальтові)</name>
+    <vendorCode>00002945</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291146" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291146-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>722</price>
+    <price_old>860</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 48/90 (циліндри базальтові)</name>
+    <vendorCode>00002952</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291147" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291147-bazaltova-shkaralupa-250100.html</url>
+    <price>1785</price>
+    <price_old>2125</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 250/100 (циліндри базальтові)</name>
+    <vendorCode>00003000</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291148" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291148-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>925</price>
+    <price_old>1101</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 63/100 (циліндри базальтові)</name>
+    <vendorCode>00002987</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291149" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291149-bazaltova-shkaralupa-54100.html</url>
+    <price>786</price>
+    <price_old>936</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 54/100 (циліндри базальтові)</name>
+    <vendorCode>00003016</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291150" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291150-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>573</price>
+    <price_old>682</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 18/90 (циліндри базальтові)</name>
+    <vendorCode>00002941</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291151" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291151-bazaltova-shkaralupa-15990.html</url>
+    <price>1146</price>
+    <price_old>1364</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 159/90 (циліндри базальтові)</name>
+    <vendorCode>00002884</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291152" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291152-bazaltova-shkaralupa-90100.html</url>
+    <price>968</price>
+    <price_old>1152</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 90/100 (циліндри базальтові)</name>
+    <vendorCode>00003022</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291153" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291153-bazaltova-shkaralupa-60100.html</url>
+    <price>817</price>
+    <price_old>972</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 60/100 (циліндри базальтові)</name>
+    <vendorCode>00003017</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291154" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291154-bazaltova-shkaralupa-21100.html</url>
+    <price>618</price>
+    <price_old>736</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 21/100 (циліндри базальтові)</name>
+    <vendorCode>00003006</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291155" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291155-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>744</price>
+    <price_old>886</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 54/90 (циліндри базальтові)</name>
+    <vendorCode>00002954</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291156" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291156-bazaltova-shkaralupa-11090.html</url>
+    <price>922</price>
+    <price_old>1098</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 110/90 (циліндри базальтові)</name>
+    <vendorCode>00002877</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291157" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291157-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1016</price>
+    <price_old>1210</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 80/100 (циліндри базальтові)</name>
+    <vendorCode>00002990</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291158" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291158-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>855</price>
+    <price_old>1018</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 50/100 (циліндри базальтові)</name>
+    <vendorCode>00002984</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291159" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291159-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1221</price>
+    <price_old>1454</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 150/90 (циліндри базальтові)</name>
+    <vendorCode>00002928</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291160" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291160-bazaltova-shkaralupa-22090.html</url>
+    <price>1424</price>
+    <price_old>1695</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 220/90 (циліндри базальтові)</name>
+    <vendorCode>00002888</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291161" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291161-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>805</price>
+    <price_old>959</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 38/100 (циліндри базальтові)</name>
+    <vendorCode>00002981</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291162" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291162-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>2760</price>
+    <price_old>3286</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 400/100 (циліндри базальтові)</name>
+    <vendorCode>00002973</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291163" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291163-bazaltova-shkaralupa-11490.html</url>
+    <price>949</price>
+    <price_old>1130</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 114/90 (циліндри базальтові)</name>
+    <vendorCode>00002878</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291164" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291164-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1559</price>
+    <price_old>1856</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 219/90 (циліндри базальтові)</name>
+    <vendorCode>00002932</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291165" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291165-bazaltova-shkaralupa-27390.html</url>
+    <price>1685</price>
+    <price_old>2006</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 273/90 (циліндри базальтові)</name>
+    <vendorCode>00002890</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291166" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291166-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1780</price>
+    <price_old>2119</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 220/100 (циліндри базальтові)</name>
+    <vendorCode>00002970</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291167" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291167-bazaltova-shkaralupa-6390.html</url>
+    <price>702</price>
+    <price_old>836</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 63/90 (циліндри базальтові)</name>
+    <vendorCode>00002912</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291168" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291168-bazaltova-shkaralupa-2590.html</url>
+    <price>534</price>
+    <price_old>636</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 25/90 (циліндри базальтові)</name>
+    <vendorCode>00002899</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291169" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291169-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>712</price>
+    <price_old>848</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 45/90 (циліндри базальтові)</name>
+    <vendorCode>00002951</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291170" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291170-bazaltova-shkaralupa-4890.html</url>
+    <price>639</price>
+    <price_old>761</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 48/90 (циліндри базальтові)</name>
+    <vendorCode>00002907</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291171" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291171-bazaltova-shkaralupa-30100.html</url>
+    <price>670</price>
+    <price_old>798</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 30/100 (циліндри базальтові)</name>
+    <vendorCode>00003010</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291172" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291172-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>708</price>
+    <price_old>842</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 22/100 (циліндри базальтові)</name>
+    <vendorCode>00002977</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291173" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291173-bazaltova-shkaralupa-220100.html</url>
+    <price>1633</price>
+    <price_old>1944</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 220/100 (циліндри базальтові)</name>
+    <vendorCode>00002999</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291174" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291174-bazaltova-shkaralupa-1890.html</url>
+    <price>502</price>
+    <price_old>598</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 18/90 (циліндри базальтові)</name>
+    <vendorCode>00002896</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291175" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291175-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1672</price>
+    <price_old>1990</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 200/100 (циліндри базальтові)</name>
+    <vendorCode>00002969</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291176" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291176-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>970</price>
+    <price_old>1155</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 100/90 (циліндри базальтові)</name>
+    <vendorCode>00002920</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291177" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291177-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>607</price>
+    <price_old>722</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 25/90 (циліндри базальтові)</name>
+    <vendorCode>00002944</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291178" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291178-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1164</price>
+    <price_old>1386</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 140/90 (циліндри базальтові)</name>
+    <vendorCode>00002927</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291179" available="true">
+    <url>https://ukrizol.xyz/ua/p3167291179-bazaltova-shkaralupa-76100.html</url>
+    <price>898</price>
+    <price_old>1069</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 76/100 (циліндри базальтові)</name>
+    <vendorCode>00001979</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3167291180" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291180-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>1564</price>
+    <price_old>1862</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 220/90 (циліндри базальтові)</name>
+    <vendorCode>00002933</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291181" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291181-bazaltova-shkaralupa-folgoyu.html</url>
+    <price>724</price>
+    <price_old>862</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа з фольгою 25/100 (циліндри базальтові)</name>
+    <vendorCode>00002978</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3167291182" available="false">
+    <url>https://ukrizol.xyz/ua/p3167291182-bazaltova-shkaralupa-2190.html</url>
+    <price>511</price>
+    <price_old>609</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>133108813</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Базальтова шкаралупа 21/90 (циліндри базальтові)</name>
+    <vendorCode>00002897</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
   </offer>

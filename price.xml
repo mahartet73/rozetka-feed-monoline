@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-01 17:00">
+<yml_catalog date="2026-09-02 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="48.97739" />
+      <currency id="USD" rate="48.90083" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.80059" />
+      <currency id="EUR" rate="56.68927" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -2347,7 +2347,7 @@
     <vendorCode>62011</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Довжина" unit="м">20</param>
     <param name="Призначення матеріалу">Для балконов|Для фасадов|Для резервуаров|Для кровли|Для цоколей|Для дорог|Для стен|Для басейнів|Для полов|Для подвалов</param>
     <param name="Тип використання">Універсальний</param>
@@ -2474,7 +2474,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>76</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2568,7 +2568,7 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Довжина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Колір">Синій</param>
@@ -6071,8 +6071,8 @@
   </offer>
   <offer id="1113149839" available="true">
     <url>https://ukrizol.xyz/ua/p1113149839-himichno-zshitij-spinenij.html</url>
-    <price>1099</price>
-    <price_old>1309</price_old>
+    <price>959</price>
+    <price_old>1141</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -6107,8 +6107,8 @@
   </offer>
   <offer id="1113158066" available="true">
     <url>https://ukrizol.xyz/ua/p1113158066-himichno-zshitij-spinenij.html</url>
-    <price>1661</price>
-    <price_old>1978</price_old>
+    <price>1449</price>
+    <price_old>1725</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -6143,8 +6143,8 @@
   </offer>
   <offer id="1113158176" available="false">
     <url>https://ukrizol.xyz/ua/p1113158176-himichno-zshitij-spinenij.html</url>
-    <price>2223</price>
-    <price_old>2646</price_old>
+    <price>1939</price>
+    <price_old>2309</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -6179,8 +6179,8 @@
   </offer>
   <offer id="1113158339" available="true">
     <url>https://ukrizol.xyz/ua/p1113158339-himichno-zshitij-spinenij.html</url>
-    <price>2784</price>
-    <price_old>3314</price_old>
+    <price>2429</price>
+    <price_old>2891</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -8255,7 +8255,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>689</quantity_in_stock>
+    <quantity_in_stock>684</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9991,7 +9991,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>376</quantity_in_stock>
+    <quantity_in_stock>374</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10054,7 +10054,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2787</quantity_in_stock>
+    <quantity_in_stock>2821</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Екологічний матеріал">Так</param>
     <param name="Еластичність матеріалу">Так</param>
@@ -10213,7 +10213,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1242</quantity_in_stock>
+    <quantity_in_stock>1237</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -11064,7 +11064,7 @@
     <vendorCode>901083</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>194</quantity_in_stock>
+    <quantity_in_stock>224</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -11192,7 +11192,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>221</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -11226,7 +11226,7 @@
     <vendorCode>901043</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>101</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -19003,7 +19003,7 @@
     <vendorCode>32130</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>985</quantity_in_stock>
+    <quantity_in_stock>975</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -20649,7 +20649,7 @@
     <vendorCode>656119</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Тип матеріалу">НГ (негорючий)</param>
@@ -32796,7 +32796,7 @@
     <vendorCode>ППУ133/40ФП</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">133</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -43664,7 +43664,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Вага" unit="кг">5</param>
     <param name="Особливості">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -44355,7 +44355,7 @@
     <vendorCode>832565</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>140</quantity_in_stock>
+    <quantity_in_stock>137</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -51229,7 +51229,7 @@
     <vendorCode>П121/40Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -52112,7 +52112,7 @@
     <vendorCode>9000081</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">200</param>
@@ -59528,7 +59528,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1572</quantity_in_stock>
+    <quantity_in_stock>1576</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Матеріал" unit="">Резинка</param>
@@ -59729,7 +59729,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>183</quantity_in_stock>
+    <quantity_in_stock>185</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -61143,7 +61143,7 @@
     <vendorCode>П110/50Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -62316,7 +62316,7 @@
     <vendorCode>П110/50ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -62985,8 +62985,8 @@
   </offer>
   <offer id="1674440363" available="true">
     <url>https://ukrizol.xyz/ua/p1674440363-sportivnij-mat-bortsivskij.html</url>
-    <price>5740</price>
-    <price_old>6834</price_old>
+    <price>5457</price>
+    <price_old>6496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -63006,8 +63006,8 @@
   </offer>
   <offer id="1674440364" available="true">
     <url>https://ukrizol.xyz/ua/p1674440364-sportivnij-mat-bortsivskij.html</url>
-    <price>6301</price>
-    <price_old>7501</price_old>
+    <price>5946</price>
+    <price_old>7079</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -64166,7 +64166,7 @@
     <param name="Колір">Червоний</param>
     <param name="Ширина" unit="мм">500</param>
   </offer>
-  <offer id="1697687854" available="true">
+  <offer id="1697687854" available="false">
     <url>https://ukrizol.xyz/ua/p1697687854-dityachij-kilimok-pazl.html</url>
     <price>100</price>
     <price_old>119</price_old>
@@ -64180,7 +64180,7 @@
     <vendorCode>832604</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -67015,7 +67015,7 @@
     <vendorCode>3210605</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Длина, п.м." unit="">500</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -67061,7 +67061,7 @@
     <vendorCode>3211010</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -67153,7 +67153,7 @@
     <vendorCode>32125</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2248</quantity_in_stock>
+    <quantity_in_stock>2233</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип використання" unit="">Универсальный</param>
@@ -69773,7 +69773,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>594</quantity_in_stock>
+    <quantity_in_stock>584</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -69803,7 +69803,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>557</quantity_in_stock>
+    <quantity_in_stock>559</quantity_in_stock>
     <param name="Застосування матеріалу">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Тип">Шумоізоляція</param>
@@ -71334,8 +71334,8 @@
   </offer>
   <offer id="1836036025" available="false">
     <url>https://ukrizol.xyz/ua/p1836036025-sportivnij-mat-bortsivskij.html</url>
-    <price>831</price>
-    <price_old>989</price_old>
+    <price>724</price>
+    <price_old>862</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/5459559576_sportivnij-mat-bortsivskij.jpg</picture>
@@ -73523,7 +73523,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Призначення матеріалу">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область застосування">Для инженерного оборудования</param>
     <param name="Форма поставки матеріалу">Лист</param>
@@ -74492,8 +74492,8 @@
   </offer>
   <offer id="1934088483" available="true">
     <url>https://ukrizol.xyz/ua/p1934088483-sportivnij-mat-bortsivskij.html</url>
-    <price>6301</price>
-    <price_old>7501</price_old>
+    <price>5946</price>
+    <price_old>7079</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487267067_sportivnij-mat-bortsivskij.jpg</picture>
@@ -74513,8 +74513,8 @@
   </offer>
   <offer id="1935196591" available="true">
     <url>https://ukrizol.xyz/ua/p1935196591-sportivnij-mat-bortsivskij.html</url>
-    <price>5740</price>
-    <price_old>6834</price_old>
+    <price>5457</price>
+    <price_old>6496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84132040</categoryId>
     <picture>https://images.prom.ua/4487410359_sportivnij-mat-bortsivskij.jpg</picture>
@@ -75996,8 +75996,8 @@
   </offer>
   <offer id="1971727957" available="true">
     <url>https://ukrizol.xyz/ua/p1971727957-mat-bazaltovij-rockwool.html</url>
-    <price>2404</price>
-    <price_old>2862</price_old>
+    <price>3326</price>
+    <price_old>3960</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109022086</categoryId>
     <picture>https://images.prom.ua/5023753246_mat-bazaltovij-rockwool.jpg</picture>
@@ -78547,7 +78547,7 @@
     <param name="Кріплення">4 болта</param>
     <param name="Матеріал">Штучна шкіра</param>
   </offer>
-  <offer id="2034295267" available="true">
+  <offer id="2034295267" available="false">
     <url>https://ukrizol.xyz/ua/p2034295267-zahisnij-zhilet-dlya.html</url>
     <price>1102</price>
     <price_old>1312</price_old>
@@ -78566,7 +78566,7 @@
     <vendorCode>889219</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">M</param>
     <param name="Тип">Захист корпусу</param>
@@ -84099,7 +84099,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Вага упаковки" unit="кг">8.5</param>
     <param name="Довжина" unit="м">10</param>
     <param name="Довжина упаковки" unit="мм">50</param>
@@ -87241,8 +87241,8 @@
   </offer>
   <offer id="2153823817" available="false">
     <url>https://ukrizol.xyz/ua/p2153823817-mat-bazaltovij-rockwool.html</url>
-    <price>2786</price>
-    <price_old>3316</price_old>
+    <price>3673</price>
+    <price_old>4372</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109022086</categoryId>
     <picture>https://images.prom.ua/5023753246_mat-bazaltovij-rockwool.jpg</picture>
@@ -87774,7 +87774,7 @@
     <vendorCode>052020</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>165</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Призначення матеріалу">Звукоізоляція|Віброізоляція|Поліпшення акустики приміщень|Зниження ударного шуму</param>
     <param name="Область застосування">Для підлоги|Для інженерного обладнання|Для стель|Для стін|Для каркасних конструкцій</param>
     <param name="Щільність" unit="кг/м³">33</param>
@@ -109319,7 +109319,7 @@
     <vendorCode>П102/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -112690,8 +112690,8 @@
   </offer>
   <offer id="2588324118" available="true">
     <url>https://ukrizol.xyz/ua/p2588324118-himichno-zshitij-spinenij.html</url>
-    <price>957</price>
-    <price_old>1139</price_old>
+    <price>820</price>
+    <price_old>976</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -112726,8 +112726,8 @@
   </offer>
   <offer id="2588324119" available="false">
     <url>https://ukrizol.xyz/ua/p2588324119-himichno-zshitij-spinenij.html</url>
-    <price>1930</price>
-    <price_old>2298</price_old>
+    <price>1658</price>
+    <price_old>1974</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -112762,8 +112762,8 @@
   </offer>
   <offer id="2588324120" available="true">
     <url>https://ukrizol.xyz/ua/p2588324120-himichno-zshitij-spinenij.html</url>
-    <price>2417</price>
-    <price_old>2878</price_old>
+    <price>2076</price>
+    <price_old>2471</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -112798,8 +112798,8 @@
   </offer>
   <offer id="2588324121" available="true">
     <url>https://ukrizol.xyz/ua/p2588324121-himichno-zshitij-spinenij.html</url>
-    <price>1444</price>
-    <price_old>1719</price_old>
+    <price>1239</price>
+    <price_old>1475</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84589221</categoryId>
     <picture>https://images.prom.ua/2786866913_himichno-zshitij-spinenij.jpg</picture>
@@ -122507,7 +122507,7 @@
     <name>Лист ЕВА (EVA) темно-сірий 2500х1450х10 мм (автокилим, ромб)</name>
     <vendorCode>889779</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Гума</param>
     <param name="Ширина" unit="мм">1450</param>
@@ -122531,15 +122531,15 @@
     <name>Лист ЕВА (EVA) чорний 1450х1250х10 мм (автокилим, ромб)</name>
     <vendorCode>889774</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гума</param>
-    <param name="Сумісність з маркою">ЗИМ</param>
+    <param name="Ширина" unit="мм">1250</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
     <param name="Висота" unit="см">10.0</param>
-    <param name="Ширина" unit="мм">1250.0</param>
     <param name="Довжина" unit="м">1450.0</param>
+    <param name="Сумісність з маркою" unit="">ЗИМ</param>
   </offer>
   <offer id="3054895846" available="false">
     <url>https://ukrizol.xyz/ua/p3054895846-akumulyatorna-batareya-nkon.html</url>

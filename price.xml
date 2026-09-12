@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-11 17:00">
+<yml_catalog date="2026-09-12 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.00786" />
+      <currency id="USD" rate="49.00313" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.94073" />
+      <currency id="EUR" rate="56.80246" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -2949,7 +2949,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>223</quantity_in_stock>
+    <quantity_in_stock>222</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -6783,7 +6783,7 @@
     <vendorCode>901101100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>244</quantity_in_stock>
+    <quantity_in_stock>219</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -8216,7 +8216,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1899</quantity_in_stock>
+    <quantity_in_stock>1897</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -10319,7 +10319,7 @@
     <vendorCode>62799</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Колір">Коричневий</param>
     <param name="Призначення матеріалу">Для кровли|Для фасадов|Для стен|Для балконов</param>
@@ -11168,7 +11168,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>376</quantity_in_stock>
+    <quantity_in_stock>356</quantity_in_stock>
     <param name="Сумісність з маркою">Citroen|Renault|Audi|Volkswagen|Toyota|Peugeot|Chrysler|Daewoo|Volvo|Honda|Kia|Ford|Hyundai|Mazda|Nissan|Dodge|Mitsubishi|Fiat|BMW</param>
     <param name="Сумісність з моделлю">XC90|Ceed|Getz|Caliber|C5|Q7|Sebring|Primera|Mondeo|Colt|Nissan Maxima|6|Tiguan|Avensis|Lancer|Sonata|Chrysler|Jazz|A6|Focus|RAV4|C2|Almera|Santa Fe|Fusion|Scorpio|A4|Accord|Renault Megane|Tucson|Fiesta|Q5|Dodge|Passat|Camry|Civic|Peugeot 206|Matiz|Lupo|Yaris|C4|206</param>
     <param name="Тип">Шумоізоляція</param>
@@ -12001,7 +12001,7 @@
     <vendorCode>42/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>372</quantity_in_stock>
+    <quantity_in_stock>322</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -19823,7 +19823,7 @@
     <vendorCode>35/13П</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>398</quantity_in_stock>
+    <quantity_in_stock>338</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Довжина" unit="м">2</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -21754,7 +21754,7 @@
     <vendorCode>56358</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Матеріал">Бітум</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
@@ -32832,7 +32832,7 @@
     <vendorCode>ППУ159/40ФП</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Зовнішній діаметр труби" unit="мм">159</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -44124,7 +44124,7 @@
     <vendorCode>832569</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вік">Від 1 міс</param>
     <param name="Висота" unit="мм">10</param>
     <param name="Довжина" unit="мм">500</param>
@@ -66957,7 +66957,7 @@
     <vendorCode>889024</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>91</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Сумісність з маркою">Renault|Dodge|Peugeot|Mazda|Toyota|Chrysler|Daewoo|Honda|Fiat|Hyundai|BMW|Volvo|Audi|Citroen|Mitsubishi|Volkswagen|Ford|Kia|Nissan</param>
@@ -69205,7 +69205,7 @@
     <vendorCode>56389</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Вага" unit="кг">1.08</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверні панелі|Дах|Стенки багажника|Пол автомобиля|Кришка багажника|Капот|Пол багажника</param>
@@ -81424,7 +81424,7 @@
     <vendorCode>889353</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вид шолома">Карате</param>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Чорний</param>
@@ -105545,7 +105545,7 @@
     <vendorCode>FT-1210M</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Колір">Білий</param>
     <param name="Розмір">M</param>
     <param name="Тип">Захист паху</param>
@@ -111146,7 +111146,7 @@
     <vendorCode>2004-N2С</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Колір">Синій</param>
     <param name="Матеріал">Штучна шкіра</param>
     <param name="Розмір">L</param>
@@ -139607,6 +139607,22 @@
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Товщина" unit="">4</param>
+  </offer>
+  <offer id="3193535658" available="true">
+    <url>https://ukrizol.xyz/ua/p3193535658-himiya-ukrizol-list.html</url>
+    <price>1890</price>
+    <price_old>2250</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756412</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Хімія UKRIZOL лист 2000х1000х40 мм НО 33 кг/м³</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>00003032</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>19</quantity_in_stock>
+    <param name="Матеріал">Пластик</param>
   </offer>
 
 

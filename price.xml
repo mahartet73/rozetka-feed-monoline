@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-13 09:00">
+<yml_catalog date="2026-09-13 17:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
@@ -987,7 +987,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>149</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2476,7 +2476,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2835,7 +2835,7 @@
     <vendorCode>61213</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Тип використання">Універсальний</param>
     <param name="Призначення матеріалу">Для дорог|Для кровли|Для фасадов|Для резервуаров|Для балконов|Для стен</param>
     <param name="Форма матеріалу, що поставляється">Рулон</param>
@@ -2949,7 +2949,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>222</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -7881,7 +7881,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3200</quantity_in_stock>
+    <quantity_in_stock>3198</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -9993,7 +9993,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>366</quantity_in_stock>
+    <quantity_in_stock>367</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10158,15 +10158,15 @@
     <quantity_in_stock>3123</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
-    <param name="Застосування матеріалу">Пол багажника|Колісні арки|Двери|Кришка багажника|Пол автомобиля|Дверні панелі|Стенки багажника|Капот|Дах|Потолок автомобиля</param>
     <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">1.3</param>
     <param name="Ширина листа" unit="см">70</param>
-    <param name="Сумісність з маркою">Honda|Chrysler|Volvo|Toyota|Volkswagen|Hyundai|Peugeot|Dodge|Fiat|Nissan|Citroen|Ford|Mazda|BMW|Daewoo|Kia|Audi|Mitsubishi|Renault</param>
-    <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="1234130363" available="true">
     <url>https://ukrizol.xyz/ua/p1234130363-vibroizolyatsiya-folgovana-vizol.html</url>
@@ -10188,15 +10188,15 @@
     <quantity_in_stock>2263</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
-    <param name="Застосування матеріалу">Пол багажника|Капот|Колісні арки|Дах|Потолок автомобиля|Двери|Кришка багажника|Пол автомобиля|Дверні панелі|Стенки багажника</param>
     <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">70</param>
-    <param name="Сумісність з маркою">Daewoo|Ford|Peugeot|Renault|Kia|Honda|Dodge|Toyota|Nissan|Citroen|Mitsubishi|Hyundai|Mazda|Volkswagen|BMW|Chrysler|Audi|Fiat|Volvo</param>
-    <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="1234136748" available="true">
     <url>https://ukrizol.xyz/ua/p1234136748-vibroizolyatsiya-folgovana-vizol.html</url>
@@ -10218,15 +10218,15 @@
     <quantity_in_stock>708</quantity_in_stock>
     <param name="Вага" unit="кг">1.652</param>
     <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
-    <param name="Застосування матеріалу">Пол багажника|Капот|Колісні арки|Дах|Потолок автомобиля|Двери|Кришка багажника|Пол автомобиля|Дверні панелі|Стенки багажника</param>
     <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">70</param>
-    <param name="Сумісність з маркою">Dodge|Chrysler|Audi|Hyundai|Peugeot|Honda|Mazda|Fiat|Kia|Mitsubishi|BMW|Toyota|Ford|Volkswagen|Renault|Volvo|Nissan|Citroen|Daewoo</param>
-    <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="1234138132" available="true">
     <url>https://ukrizol.xyz/ua/p1234138132-vibroizolyatsiya-folgovana-vizol.html</url>
@@ -10248,15 +10248,15 @@
     <quantity_in_stock>635</quantity_in_stock>
     <param name="Вага" unit="кг">2.09</param>
     <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
-    <param name="Застосування матеріалу">Капот|Дах|Двери|Кришка багажника|Дверні панелі|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника|Колісні арки</param>
     <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x</param>
     <param name="Тип">Віброізоляція</param>
     <param name="Товщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">70</param>
-    <param name="Сумісність з маркою">Audi|Ford|Daewoo|Peugeot|Renault|Honda|Hyundai|Citroen|Chrysler|Volvo|Toyota|Volkswagen|Fiat|Mitsubishi|Dodge|Nissan|BMW|Kia|Mazda</param>
-    <param name="Сумісність з моделлю">500x</param>
   </offer>
   <offer id="1234576508" available="false">
     <url>https://ukrizol.xyz/ua/p1234576508-spinenij-kauchuk-flex.html</url>
@@ -27692,7 +27692,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="1554559488" available="false">
+  <offer id="1554559488" available="true">
     <url>https://ukrizol.xyz/ua/p1554559488-uteplyuvach-dlya-trub.html</url>
     <price>412</price>
     <price_old>490</price_old>
@@ -27714,7 +27714,7 @@
     <vendorCode>П57/80Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -46288,7 +46288,7 @@
     <vendorCode>EF-1818-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Колір">Фіолетовий</param>
     <param name="Матеріал">EVA піна</param>
     <param name="Стан">Новий</param>
@@ -71003,7 +71003,7 @@
     <vendorCode>163100</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вага" unit="г">1100</param>
     <param name="Діаметр" unit="см">28</param>
     <param name="Максимальне навантаження" unit="кг">160</param>
@@ -76255,7 +76255,7 @@
     <vendorCode>П63/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -77146,7 +77146,7 @@
     <vendorCode>П50/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -88328,7 +88328,7 @@
     <vendorCode>П25/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -105882,7 +105882,7 @@
     <vendorCode>П50/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -106985,7 +106985,7 @@
     <vendorCode>П40/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -108250,7 +108250,7 @@
     <vendorCode>П32/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -109255,7 +109255,7 @@
     <vendorCode>П159/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -109288,7 +109288,7 @@
     <vendorCode>П110/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -109321,7 +109321,7 @@
     <vendorCode>П102/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -113536,7 +113536,7 @@
     <param name="Длина рулона, п.м." unit="">10</param>
     <param name="Щільність" unit="">33</param>
   </offer>
-  <offer id="2611811309" available="false">
+  <offer id="2611811309" available="true">
     <url>https://ukrizol.xyz/ua/p2611811309-uteplyuvach-dlya-trub.html</url>
     <price>390</price>
     <price_old>464</price_old>
@@ -113554,7 +113554,7 @@
     <vendorCode>П60/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -113825,7 +113825,7 @@
     <param name="Стан">Новий</param>
     <param name="Колір">Білий</param>
   </offer>
-  <offer id="2633590417" available="false">
+  <offer id="2633590417" available="true">
     <url>https://ukrizol.xyz/ua/p2633590417-uteplyuvach-dlya-trub.html</url>
     <price>403</price>
     <price_old>480</price_old>
@@ -113843,7 +113843,7 @@
     <vendorCode>П63/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -116010,7 +116010,7 @@
     <vendorCode>П50/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -116043,7 +116043,7 @@
     <vendorCode>П25/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -119668,7 +119668,7 @@
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
-  <offer id="2889782391" available="false">
+  <offer id="2889782391" available="true">
     <url>https://ukrizol.xyz/ua/p2889782391-uteplyuvach-dlya-trub.html</url>
     <price>374</price>
     <price_old>445</price_old>
@@ -119686,7 +119686,7 @@
     <vendorCode>П45/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -119866,7 +119866,7 @@
     <param name="Теплопровідність" unit="Вт/мК">0.032</param>
     <param name="Екологічна безпека матеріалу" unit="">Безопасен</param>
   </offer>
-  <offer id="2892328646" available="false">
+  <offer id="2892328646" available="true">
     <url>https://ukrizol.xyz/ua/p2892328646-uteplyuvach-dlya-trub.html</url>
     <price>378</price>
     <price_old>450</price_old>
@@ -119884,7 +119884,7 @@
     <vendorCode>П57/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -123258,7 +123258,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">10</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">22</param>
   </offer>
-  <offer id="3153011441" available="false">
+  <offer id="3153011441" available="true">
     <url>https://ukrizol.xyz/ua/p3153011441-uteplyuvach-dlya-trub.html</url>
     <price>317</price>
     <price_old>378</price_old>
@@ -123276,7 +123276,7 @@
     <vendorCode>П40/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133596,7 +133596,7 @@
     <param name="Колір">Жовтий</param>
     <param name="Матеріал">PVC</param>
   </offer>
-  <offer id="3188306848" available="false">
+  <offer id="3188306848" available="true">
     <url>https://ukrizol.xyz/ua/p3188306848-uteplyuvach-dlya-trub.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -133618,7 +133618,7 @@
     <vendorCode>П273/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133633,7 +133633,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306849" available="false">
+  <offer id="3188306849" available="true">
     <url>https://ukrizol.xyz/ua/p3188306849-uteplyuvach-dlya-trub.html</url>
     <price>815</price>
     <price_old>970</price_old>
@@ -133651,7 +133651,7 @@
     <vendorCode>П200/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133666,7 +133666,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306850" available="false">
+  <offer id="3188306850" available="true">
     <url>https://ukrizol.xyz/ua/p3188306850-uteplyuvach-dlya-trub.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -133688,7 +133688,7 @@
     <vendorCode>П57/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133703,7 +133703,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306851" available="false">
+  <offer id="3188306851" available="true">
     <url>https://ukrizol.xyz/ua/p3188306851-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -133725,7 +133725,7 @@
     <vendorCode>П146/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133740,7 +133740,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306852" available="false">
+  <offer id="3188306852" available="true">
     <url>https://ukrizol.xyz/ua/p3188306852-uteplyuvach-dlya-trub.html</url>
     <price>1545</price>
     <price_old>1839</price_old>
@@ -133758,7 +133758,7 @@
     <vendorCode>П273/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133773,7 +133773,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306853" available="false">
+  <offer id="3188306853" available="true">
     <url>https://ukrizol.xyz/ua/p3188306853-uteplyuvach-dlya-trub.html</url>
     <price>726</price>
     <price_old>864</price_old>
@@ -133791,7 +133791,7 @@
     <vendorCode>П76/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133806,7 +133806,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306854" available="false">
+  <offer id="3188306854" available="true">
     <url>https://ukrizol.xyz/ua/p3188306854-uteplyuvach-dlya-trub.html</url>
     <price>504</price>
     <price_old>600</price_old>
@@ -133824,7 +133824,7 @@
     <vendorCode>П60/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133839,7 +133839,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306855" available="false">
+  <offer id="3188306855" available="true">
     <url>https://ukrizol.xyz/ua/p3188306855-uteplyuvach-dlya-trub.html</url>
     <price>373</price>
     <price_old>444</price_old>
@@ -133857,7 +133857,7 @@
     <vendorCode>П32/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133872,7 +133872,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306856" available="false">
+  <offer id="3188306856" available="true">
     <url>https://ukrizol.xyz/ua/p3188306856-uteplyuvach-dlya-trub.html</url>
     <price>868</price>
     <price_old>1034</price_old>
@@ -133890,7 +133890,7 @@
     <vendorCode>П114/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133905,7 +133905,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306857" available="false">
+  <offer id="3188306857" available="true">
     <url>https://ukrizol.xyz/ua/p3188306857-uteplyuvach-dlya-trub.html</url>
     <price>509</price>
     <price_old>606</price_old>
@@ -133923,7 +133923,7 @@
     <vendorCode>П76/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133938,7 +133938,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306858" available="false">
+  <offer id="3188306858" available="true">
     <url>https://ukrizol.xyz/ua/p3188306858-uteplyuvach-dlya-trub.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -133960,7 +133960,7 @@
     <vendorCode>П45/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -133975,7 +133975,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306859" available="false">
+  <offer id="3188306859" available="true">
     <url>https://ukrizol.xyz/ua/p3188306859-uteplyuvach-dlya-trub.html</url>
     <price>783</price>
     <price_old>932</price_old>
@@ -133993,7 +133993,7 @@
     <vendorCode>П89/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134008,7 +134008,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306860" available="false">
+  <offer id="3188306860" available="true">
     <url>https://ukrizol.xyz/ua/p3188306860-uteplyuvach-dlya-trub.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -134026,7 +134026,7 @@
     <vendorCode>П89/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134041,7 +134041,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306861" available="false">
+  <offer id="3188306861" available="true">
     <url>https://ukrizol.xyz/ua/p3188306861-uteplyuvach-dlya-trub.html</url>
     <price>770</price>
     <price_old>916</price_old>
@@ -134063,7 +134063,7 @@
     <vendorCode>П133/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134078,7 +134078,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306862" available="false">
+  <offer id="3188306862" available="true">
     <url>https://ukrizol.xyz/ua/p3188306862-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -134100,7 +134100,7 @@
     <vendorCode>П89/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134115,7 +134115,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306863" available="false">
+  <offer id="3188306863" available="true">
     <url>https://ukrizol.xyz/ua/p3188306863-uteplyuvach-dlya-trub.html</url>
     <price>802</price>
     <price_old>955</price_old>
@@ -134133,7 +134133,7 @@
     <vendorCode>П60/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134148,7 +134148,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306864" available="false">
+  <offer id="3188306864" available="true">
     <url>https://ukrizol.xyz/ua/p3188306864-uteplyuvach-dlya-trub.html</url>
     <price>909</price>
     <price_old>1082</price_old>
@@ -134166,7 +134166,7 @@
     <vendorCode>П159/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134181,7 +134181,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306865" available="false">
+  <offer id="3188306865" available="true">
     <url>https://ukrizol.xyz/ua/p3188306865-uteplyuvach-dlya-trub.html</url>
     <price>1536</price>
     <price_old>1829</price_old>
@@ -134199,7 +134199,7 @@
     <vendorCode>П250/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134214,7 +134214,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306866" available="false">
+  <offer id="3188306866" available="true">
     <url>https://ukrizol.xyz/ua/p3188306866-uteplyuvach-dlya-trub.html</url>
     <price>812</price>
     <price_old>966</price_old>
@@ -134232,7 +134232,7 @@
     <vendorCode>П146/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134247,7 +134247,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306867" available="false">
+  <offer id="3188306867" available="true">
     <url>https://ukrizol.xyz/ua/p3188306867-uteplyuvach-dlya-trub.html</url>
     <price>1552</price>
     <price_old>1848</price_old>
@@ -134265,7 +134265,7 @@
     <vendorCode>П250/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134280,7 +134280,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306868" available="false">
+  <offer id="3188306868" available="true">
     <url>https://ukrizol.xyz/ua/p3188306868-uteplyuvach-dlya-trub.html</url>
     <price>483</price>
     <price_old>575</price_old>
@@ -134298,7 +134298,7 @@
     <vendorCode>П32/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134313,7 +134313,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306869" available="false">
+  <offer id="3188306869" available="true">
     <url>https://ukrizol.xyz/ua/p3188306869-uteplyuvach-dlya-trub.html</url>
     <price>520</price>
     <price_old>619</price_old>
@@ -134331,7 +134331,7 @@
     <vendorCode>П102/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134346,7 +134346,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306870" available="false">
+  <offer id="3188306870" available="true">
     <url>https://ukrizol.xyz/ua/p3188306870-uteplyuvach-dlya-trub.html</url>
     <price>513</price>
     <price_old>611</price_old>
@@ -134364,7 +134364,7 @@
     <vendorCode>П45/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134379,7 +134379,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306871" available="false">
+  <offer id="3188306871" available="true">
     <url>https://ukrizol.xyz/ua/p3188306871-uteplyuvach-dlya-trub.html</url>
     <price>5180</price>
     <price_old>6166</price_old>
@@ -134397,7 +134397,7 @@
     <vendorCode>П325/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134412,7 +134412,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306872" available="false">
+  <offer id="3188306872" available="true">
     <url>https://ukrizol.xyz/ua/p3188306872-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -134434,7 +134434,7 @@
     <vendorCode>П110/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134449,7 +134449,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306873" available="false">
+  <offer id="3188306873" available="true">
     <url>https://ukrizol.xyz/ua/p3188306873-uteplyuvach-dlya-trub.html</url>
     <price>296</price>
     <price_old>352</price_old>
@@ -134467,7 +134467,7 @@
     <vendorCode>П16/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134482,7 +134482,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306874" available="false">
+  <offer id="3188306874" available="true">
     <url>https://ukrizol.xyz/ua/p3188306874-uteplyuvach-dlya-trub.html</url>
     <price>753</price>
     <price_old>896</price_old>
@@ -134500,7 +134500,7 @@
     <vendorCode>П133/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134515,7 +134515,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306875" available="false">
+  <offer id="3188306875" available="true">
     <url>https://ukrizol.xyz/ua/p3188306875-uteplyuvach-dlya-trub.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -134537,7 +134537,7 @@
     <vendorCode>П32/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134552,7 +134552,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306876" available="false">
+  <offer id="3188306876" available="true">
     <url>https://ukrizol.xyz/ua/p3188306876-uteplyuvach-dlya-trub.html</url>
     <price>284</price>
     <price_old>338</price_old>
@@ -134574,7 +134574,7 @@
     <vendorCode>П16/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134589,7 +134589,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306877" available="false">
+  <offer id="3188306877" available="true">
     <url>https://ukrizol.xyz/ua/p3188306877-uteplyuvach-dlya-trub.html</url>
     <price>5187</price>
     <price_old>6175</price_old>
@@ -134607,7 +134607,7 @@
     <vendorCode>П325/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134622,7 +134622,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306878" available="false">
+  <offer id="3188306878" available="true">
     <url>https://ukrizol.xyz/ua/p3188306878-uteplyuvach-dlya-trub.html</url>
     <price>369</price>
     <price_old>439</price_old>
@@ -134644,7 +134644,7 @@
     <vendorCode>П16/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134659,7 +134659,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306879" available="false">
+  <offer id="3188306879" available="true">
     <url>https://ukrizol.xyz/ua/p3188306879-uteplyuvach-dlya-trub.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -134681,7 +134681,7 @@
     <vendorCode>П50/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134696,7 +134696,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306880" available="false">
+  <offer id="3188306880" available="true">
     <url>https://ukrizol.xyz/ua/p3188306880-uteplyuvach-dlya-trub.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -134718,7 +134718,7 @@
     <vendorCode>П108/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134733,7 +134733,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306881" available="false">
+  <offer id="3188306881" available="true">
     <url>https://ukrizol.xyz/ua/p3188306881-uteplyuvach-dlya-trub.html</url>
     <price>1136</price>
     <price_old>1352</price_old>
@@ -134751,7 +134751,7 @@
     <vendorCode>П168/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134766,7 +134766,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306882" available="false">
+  <offer id="3188306882" available="true">
     <url>https://ukrizol.xyz/ua/p3188306882-uteplyuvach-dlya-trub.html</url>
     <price>1560</price>
     <price_old>1858</price_old>
@@ -134784,7 +134784,7 @@
     <vendorCode>П273/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134799,7 +134799,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306883" available="false">
+  <offer id="3188306883" available="true">
     <url>https://ukrizol.xyz/ua/p3188306883-uteplyuvach-dlya-trub.html</url>
     <price>529</price>
     <price_old>630</price_old>
@@ -134817,7 +134817,7 @@
     <vendorCode>П32/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134832,7 +134832,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306884" available="false">
+  <offer id="3188306884" available="true">
     <url>https://ukrizol.xyz/ua/p3188306884-uteplyuvach-dlya-trub.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -134854,7 +134854,7 @@
     <vendorCode>П57/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134869,7 +134869,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306885" available="false">
+  <offer id="3188306885" available="true">
     <url>https://ukrizol.xyz/ua/p3188306885-uteplyuvach-dlya-trub.html</url>
     <price>831</price>
     <price_old>989</price_old>
@@ -134887,7 +134887,7 @@
     <vendorCode>П114/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134902,7 +134902,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306886" available="false">
+  <offer id="3188306886" available="true">
     <url>https://ukrizol.xyz/ua/p3188306886-uteplyuvach-dlya-trub.html</url>
     <price>518</price>
     <price_old>616</price_old>
@@ -134920,7 +134920,7 @@
     <vendorCode>П57/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134935,7 +134935,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306887" available="false">
+  <offer id="3188306887" available="true">
     <url>https://ukrizol.xyz/ua/p3188306887-uteplyuvach-dlya-trub.html</url>
     <price>820</price>
     <price_old>976</price_old>
@@ -134953,7 +134953,7 @@
     <vendorCode>П146/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -134968,7 +134968,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306888" available="false">
+  <offer id="3188306888" available="true">
     <url>https://ukrizol.xyz/ua/p3188306888-uteplyuvach-dlya-trub.html</url>
     <price>394</price>
     <price_old>469</price_old>
@@ -134990,7 +134990,7 @@
     <vendorCode>П18/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135005,7 +135005,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306889" available="false">
+  <offer id="3188306889" available="true">
     <url>https://ukrizol.xyz/ua/p3188306889-uteplyuvach-dlya-trub.html</url>
     <price>751</price>
     <price_old>894</price_old>
@@ -135023,7 +135023,7 @@
     <vendorCode>П127/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135038,7 +135038,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306890" available="false">
+  <offer id="3188306890" available="true">
     <url>https://ukrizol.xyz/ua/p3188306890-uteplyuvach-dlya-trub.html</url>
     <price>1315</price>
     <price_old>1565</price_old>
@@ -135056,7 +135056,7 @@
     <vendorCode>П219/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135071,7 +135071,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306891" available="false">
+  <offer id="3188306891" available="true">
     <url>https://ukrizol.xyz/ua/p3188306891-uteplyuvach-dlya-trub.html</url>
     <price>788</price>
     <price_old>938</price_old>
@@ -135089,7 +135089,7 @@
     <vendorCode>П102/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135104,7 +135104,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306892" available="false">
+  <offer id="3188306892" available="true">
     <url>https://ukrizol.xyz/ua/p3188306892-uteplyuvach-dlya-trub.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -135126,7 +135126,7 @@
     <vendorCode>П63/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135141,7 +135141,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306893" available="false">
+  <offer id="3188306893" available="true">
     <url>https://ukrizol.xyz/ua/p3188306893-uteplyuvach-dlya-trub.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -135163,7 +135163,7 @@
     <vendorCode>П25/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135178,7 +135178,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306894" available="false">
+  <offer id="3188306894" available="true">
     <url>https://ukrizol.xyz/ua/p3188306894-uteplyuvach-dlya-trub.html</url>
     <price>481</price>
     <price_old>572</price_old>
@@ -135196,7 +135196,7 @@
     <vendorCode>П108/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135211,7 +135211,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306895" available="false">
+  <offer id="3188306895" available="true">
     <url>https://ukrizol.xyz/ua/p3188306895-uteplyuvach-dlya-trub.html</url>
     <price>1144</price>
     <price_old>1362</price_old>
@@ -135229,7 +135229,7 @@
     <vendorCode>П168/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135244,7 +135244,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306896" available="false">
+  <offer id="3188306896" available="true">
     <url>https://ukrizol.xyz/ua/p3188306896-uteplyuvach-dlya-trub.html</url>
     <price>4961</price>
     <price_old>5906</price_old>
@@ -135266,7 +135266,7 @@
     <vendorCode>П325/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135281,7 +135281,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306897" available="false">
+  <offer id="3188306897" available="true">
     <url>https://ukrizol.xyz/ua/p3188306897-uteplyuvach-dlya-trub.html</url>
     <price>1130</price>
     <price_old>1345</price_old>
@@ -135303,7 +135303,7 @@
     <vendorCode>П219/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135318,7 +135318,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306898" available="false">
+  <offer id="3188306898" available="true">
     <url>https://ukrizol.xyz/ua/p3188306898-uteplyuvach-dlya-trub.html</url>
     <price>239</price>
     <price_old>285</price_old>
@@ -135336,7 +135336,7 @@
     <vendorCode>П16/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135351,7 +135351,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306899" available="false">
+  <offer id="3188306899" available="true">
     <url>https://ukrizol.xyz/ua/p3188306899-uteplyuvach-dlya-trub.html</url>
     <price>808</price>
     <price_old>962</price_old>
@@ -135369,7 +135369,7 @@
     <vendorCode>П76/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135384,7 +135384,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306900" available="false">
+  <offer id="3188306900" available="true">
     <url>https://ukrizol.xyz/ua/p3188306900-uteplyuvach-dlya-trub.html</url>
     <price>400</price>
     <price_old>476</price_old>
@@ -135402,7 +135402,7 @@
     <vendorCode>П45/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135417,7 +135417,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306901" available="false">
+  <offer id="3188306901" available="true">
     <url>https://ukrizol.xyz/ua/p3188306901-uteplyuvach-dlya-trub.html</url>
     <price>440</price>
     <price_old>524</price_old>
@@ -135439,7 +135439,7 @@
     <vendorCode>П38/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135454,7 +135454,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306902" available="false">
+  <offer id="3188306902" available="true">
     <url>https://ukrizol.xyz/ua/p3188306902-uteplyuvach-dlya-trub.html</url>
     <price>1131</price>
     <price_old>1346</price_old>
@@ -135472,7 +135472,7 @@
     <vendorCode>П133/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135487,7 +135487,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306903" available="false">
+  <offer id="3188306903" available="true">
     <url>https://ukrizol.xyz/ua/p3188306903-uteplyuvach-dlya-trub.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -135509,7 +135509,7 @@
     <vendorCode>П76/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135524,7 +135524,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306904" available="false">
+  <offer id="3188306904" available="true">
     <url>https://ukrizol.xyz/ua/p3188306904-uteplyuvach-dlya-trub.html</url>
     <price>820</price>
     <price_old>976</price_old>
@@ -135542,7 +135542,7 @@
     <vendorCode>П133/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135557,7 +135557,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306905" available="false">
+  <offer id="3188306905" available="true">
     <url>https://ukrizol.xyz/ua/p3188306905-uteplyuvach-dlya-trub.html</url>
     <price>361</price>
     <price_old>430</price_old>
@@ -135575,7 +135575,7 @@
     <vendorCode>П18/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135590,7 +135590,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306906" available="false">
+  <offer id="3188306906" available="true">
     <url>https://ukrizol.xyz/ua/p3188306906-uteplyuvach-dlya-trub.html</url>
     <price>478</price>
     <price_old>569</price_old>
@@ -135608,7 +135608,7 @@
     <vendorCode>П20/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135623,7 +135623,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306907" available="false">
+  <offer id="3188306907" available="true">
     <url>https://ukrizol.xyz/ua/p3188306907-uteplyuvach-dlya-trub.html</url>
     <price>858</price>
     <price_old>1021</price_old>
@@ -135641,7 +135641,7 @@
     <vendorCode>П89/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135656,7 +135656,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306908" available="false">
+  <offer id="3188306908" available="true">
     <url>https://ukrizol.xyz/ua/p3188306908-uteplyuvach-dlya-trub.html</url>
     <price>635</price>
     <price_old>756</price_old>
@@ -135674,7 +135674,7 @@
     <vendorCode>П63/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135689,7 +135689,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306909" available="false">
+  <offer id="3188306909" available="true">
     <url>https://ukrizol.xyz/ua/p3188306909-uteplyuvach-dlya-trub.html</url>
     <price>1553</price>
     <price_old>1849</price_old>
@@ -135707,7 +135707,7 @@
     <vendorCode>П273/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135722,7 +135722,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306910" available="false">
+  <offer id="3188306910" available="true">
     <url>https://ukrizol.xyz/ua/p3188306910-uteplyuvach-dlya-trub.html</url>
     <price>1133</price>
     <price_old>1349</price_old>
@@ -135740,7 +135740,7 @@
     <vendorCode>П159/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135755,7 +135755,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306911" available="false">
+  <offer id="3188306911" available="true">
     <url>https://ukrizol.xyz/ua/p3188306911-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -135777,7 +135777,7 @@
     <vendorCode>П219/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135792,7 +135792,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306912" available="false">
+  <offer id="3188306912" available="true">
     <url>https://ukrizol.xyz/ua/p3188306912-uteplyuvach-dlya-trub.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -135814,7 +135814,7 @@
     <vendorCode>П250/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135829,7 +135829,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306913" available="false">
+  <offer id="3188306913" available="true">
     <url>https://ukrizol.xyz/ua/p3188306913-uteplyuvach-dlya-trub.html</url>
     <price>792</price>
     <price_old>942</price_old>
@@ -135851,7 +135851,7 @@
     <vendorCode>П127/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135866,7 +135866,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306914" available="false">
+  <offer id="3188306914" available="true">
     <url>https://ukrizol.xyz/ua/p3188306914-uteplyuvach-dlya-trub.html</url>
     <price>564</price>
     <price_old>671</price_old>
@@ -135884,7 +135884,7 @@
     <vendorCode>П121/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135899,7 +135899,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306915" available="false">
+  <offer id="3188306915" available="true">
     <url>https://ukrizol.xyz/ua/p3188306915-uteplyuvach-dlya-trub.html</url>
     <price>678</price>
     <price_old>808</price_old>
@@ -135917,7 +135917,7 @@
     <vendorCode>П159/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135932,7 +135932,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306916" available="false">
+  <offer id="3188306916" available="true">
     <url>https://ukrizol.xyz/ua/p3188306916-uteplyuvach-dlya-trub.html</url>
     <price>511</price>
     <price_old>609</price_old>
@@ -135950,7 +135950,7 @@
     <vendorCode>П40/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -135965,7 +135965,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306917" available="false">
+  <offer id="3188306917" available="true">
     <url>https://ukrizol.xyz/ua/p3188306917-uteplyuvach-dlya-trub.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -135987,7 +135987,7 @@
     <vendorCode>П20/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136002,7 +136002,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306918" available="false">
+  <offer id="3188306918" available="true">
     <url>https://ukrizol.xyz/ua/p3188306918-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -136024,7 +136024,7 @@
     <vendorCode>П200/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136039,7 +136039,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306919" available="false">
+  <offer id="3188306919" available="true">
     <url>https://ukrizol.xyz/ua/p3188306919-uteplyuvach-dlya-trub.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -136061,7 +136061,7 @@
     <vendorCode>П32/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136076,7 +136076,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306920" available="false">
+  <offer id="3188306920" available="true">
     <url>https://ukrizol.xyz/ua/p3188306920-uteplyuvach-dlya-trub.html</url>
     <price>798</price>
     <price_old>950</price_old>
@@ -136094,7 +136094,7 @@
     <vendorCode>П168/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136109,7 +136109,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306921" available="false">
+  <offer id="3188306921" available="true">
     <url>https://ukrizol.xyz/ua/p3188306921-uteplyuvach-dlya-trub.html</url>
     <price>370</price>
     <price_old>440</price_old>
@@ -136127,7 +136127,7 @@
     <vendorCode>П25/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136142,7 +136142,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306922" available="false">
+  <offer id="3188306922" available="true">
     <url>https://ukrizol.xyz/ua/p3188306922-uteplyuvach-dlya-trub.html</url>
     <price>240</price>
     <price_old>286</price_old>
@@ -136160,7 +136160,7 @@
     <vendorCode>П18/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136175,7 +136175,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306923" available="false">
+  <offer id="3188306923" available="true">
     <url>https://ukrizol.xyz/ua/p3188306923-uteplyuvach-dlya-trub.html</url>
     <price>562</price>
     <price_old>669</price_old>
@@ -136193,7 +136193,7 @@
     <vendorCode>П40/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136208,7 +136208,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306924" available="false">
+  <offer id="3188306924" available="true">
     <url>https://ukrizol.xyz/ua/p3188306924-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -136230,7 +136230,7 @@
     <vendorCode>П102/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136245,7 +136245,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306925" available="false">
+  <offer id="3188306925" available="true">
     <url>https://ukrizol.xyz/ua/p3188306925-uteplyuvach-dlya-trub.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -136267,7 +136267,7 @@
     <vendorCode>П40/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136282,7 +136282,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306926" available="false">
+  <offer id="3188306926" available="true">
     <url>https://ukrizol.xyz/ua/p3188306926-uteplyuvach-dlya-trub.html</url>
     <price>1250</price>
     <price_old>1488</price_old>
@@ -136300,7 +136300,7 @@
     <vendorCode>П250/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136315,7 +136315,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306927" available="false">
+  <offer id="3188306927" available="true">
     <url>https://ukrizol.xyz/ua/p3188306927-uteplyuvach-dlya-trub.html</url>
     <price>519</price>
     <price_old>618</price_old>
@@ -136337,7 +136337,7 @@
     <vendorCode>П63/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136352,7 +136352,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306928" available="false">
+  <offer id="3188306928" available="true">
     <url>https://ukrizol.xyz/ua/p3188306928-uteplyuvach-dlya-trub.html</url>
     <price>668</price>
     <price_old>795</price_old>
@@ -136370,7 +136370,7 @@
     <vendorCode>П114/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136385,7 +136385,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306929" available="false">
+  <offer id="3188306929" available="true">
     <url>https://ukrizol.xyz/ua/p3188306929-uteplyuvach-dlya-trub.html</url>
     <price>1307</price>
     <price_old>1556</price_old>
@@ -136403,7 +136403,7 @@
     <vendorCode>П200/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136418,7 +136418,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306930" available="false">
+  <offer id="3188306930" available="true">
     <url>https://ukrizol.xyz/ua/p3188306930-uteplyuvach-dlya-trub.html</url>
     <price>865</price>
     <price_old>1030</price_old>
@@ -136436,7 +136436,7 @@
     <vendorCode>П108/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136451,7 +136451,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306931" available="false">
+  <offer id="3188306931" available="true">
     <url>https://ukrizol.xyz/ua/p3188306931-uteplyuvach-dlya-trub.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -136473,7 +136473,7 @@
     <vendorCode>П18/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136488,7 +136488,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188306932" available="false">
+  <offer id="3188306932" available="true">
     <url>https://ukrizol.xyz/ua/p3188306932-uteplyuvach-dlya-trub.html</url>
     <price>500</price>
     <price_old>595</price_old>
@@ -136506,7 +136506,7 @@
     <vendorCode>П18/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136521,7 +136521,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307306" available="false">
+  <offer id="3188307306" available="true">
     <url>https://ukrizol.xyz/ua/p3188307306-uteplyuvach-dlya-trub.html</url>
     <price>1156</price>
     <price_old>1376</price_old>
@@ -136539,7 +136539,7 @@
     <vendorCode>П219/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136554,7 +136554,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307307" available="false">
+  <offer id="3188307307" available="true">
     <url>https://ukrizol.xyz/ua/p3188307307-uteplyuvach-dlya-trub.html</url>
     <price>404</price>
     <price_old>481</price_old>
@@ -136576,7 +136576,7 @@
     <vendorCode>П38/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136591,7 +136591,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307308" available="false">
+  <offer id="3188307308" available="true">
     <url>https://ukrizol.xyz/ua/p3188307308-uteplyuvach-dlya-trub.html</url>
     <price>901</price>
     <price_old>1072</price_old>
@@ -136609,7 +136609,7 @@
     <vendorCode>П200/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136624,7 +136624,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307309" available="false">
+  <offer id="3188307309" available="true">
     <url>https://ukrizol.xyz/ua/p3188307309-uteplyuvach-dlya-trub.html</url>
     <price>503</price>
     <price_old>599</price_old>
@@ -136646,7 +136646,7 @@
     <vendorCode>П45/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136661,7 +136661,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307310" available="false">
+  <offer id="3188307310" available="true">
     <url>https://ukrizol.xyz/ua/p3188307310-uteplyuvach-dlya-trub.html</url>
     <price>268</price>
     <price_old>319</price_old>
@@ -136679,7 +136679,7 @@
     <vendorCode>П20/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136694,7 +136694,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307311" available="false">
+  <offer id="3188307311" available="true">
     <url>https://ukrizol.xyz/ua/p3188307311-uteplyuvach-dlya-trub.html</url>
     <price>605</price>
     <price_old>720</price_old>
@@ -136716,7 +136716,7 @@
     <vendorCode>П76/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136731,7 +136731,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307312" available="false">
+  <offer id="3188307312" available="true">
     <url>https://ukrizol.xyz/ua/p3188307312-uteplyuvach-dlya-trub.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -136753,7 +136753,7 @@
     <vendorCode>П20/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136768,7 +136768,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307313" available="false">
+  <offer id="3188307313" available="true">
     <url>https://ukrizol.xyz/ua/p3188307313-uteplyuvach-dlya-trub.html</url>
     <price>752</price>
     <price_old>895</price_old>
@@ -136786,7 +136786,7 @@
     <vendorCode>П110/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136801,7 +136801,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307314" available="false">
+  <offer id="3188307314" available="true">
     <url>https://ukrizol.xyz/ua/p3188307314-uteplyuvach-dlya-trub.html</url>
     <price>908</price>
     <price_old>1081</price_old>
@@ -136819,7 +136819,7 @@
     <vendorCode>П219/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136834,7 +136834,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307315" available="false">
+  <offer id="3188307315" available="true">
     <url>https://ukrizol.xyz/ua/p3188307315-uteplyuvach-dlya-trub.html</url>
     <price>845</price>
     <price_old>1006</price_old>
@@ -136852,7 +136852,7 @@
     <vendorCode>П127/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136867,7 +136867,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307316" available="false">
+  <offer id="3188307316" available="true">
     <url>https://ukrizol.xyz/ua/p3188307316-uteplyuvach-dlya-trub.html</url>
     <price>360</price>
     <price_old>429</price_old>
@@ -136885,7 +136885,7 @@
     <vendorCode>П16/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136900,7 +136900,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307317" available="false">
+  <offer id="3188307317" available="true">
     <url>https://ukrizol.xyz/ua/p3188307317-uteplyuvach-dlya-trub.html</url>
     <price>554</price>
     <price_old>660</price_old>
@@ -136918,7 +136918,7 @@
     <vendorCode>П38/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136933,7 +136933,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307318" available="false">
+  <offer id="3188307318" available="true">
     <url>https://ukrizol.xyz/ua/p3188307318-uteplyuvach-dlya-trub.html</url>
     <price>1149</price>
     <price_old>1368</price_old>
@@ -136951,7 +136951,7 @@
     <vendorCode>П200/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136966,7 +136966,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307319" available="false">
+  <offer id="3188307319" available="true">
     <url>https://ukrizol.xyz/ua/p3188307319-uteplyuvach-dlya-trub.html</url>
     <price>510</price>
     <price_old>608</price_old>
@@ -136984,7 +136984,7 @@
     <vendorCode>П38/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -136999,7 +136999,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307320" available="false">
+  <offer id="3188307320" available="true">
     <url>https://ukrizol.xyz/ua/p3188307320-uteplyuvach-dlya-trub.html</url>
     <price>2009</price>
     <price_old>2391</price_old>
@@ -137017,7 +137017,7 @@
     <vendorCode>П325/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137032,7 +137032,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307321" available="false">
+  <offer id="3188307321" available="true">
     <url>https://ukrizol.xyz/ua/p3188307321-uteplyuvach-dlya-trub.html</url>
     <price>888</price>
     <price_old>1058</price_old>
@@ -137050,7 +137050,7 @@
     <vendorCode>П168/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137065,7 +137065,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307322" available="false">
+  <offer id="3188307322" available="true">
     <url>https://ukrizol.xyz/ua/p3188307322-uteplyuvach-dlya-trub.html</url>
     <price>1136</price>
     <price_old>1352</price_old>
@@ -137083,7 +137083,7 @@
     <vendorCode>П146/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137098,7 +137098,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307323" available="false">
+  <offer id="3188307323" available="true">
     <url>https://ukrizol.xyz/ua/p3188307323-uteplyuvach-dlya-trub.html</url>
     <price>1015</price>
     <price_old>1209</price_old>
@@ -137116,7 +137116,7 @@
     <vendorCode>П219/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137131,7 +137131,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307324" available="false">
+  <offer id="3188307324" available="true">
     <url>https://ukrizol.xyz/ua/p3188307324-uteplyuvach-dlya-trub.html</url>
     <price>397</price>
     <price_old>472</price_old>
@@ -137149,7 +137149,7 @@
     <vendorCode>П38/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137164,7 +137164,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307325" available="false">
+  <offer id="3188307325" available="true">
     <url>https://ukrizol.xyz/ua/p3188307325-uteplyuvach-dlya-trub.html</url>
     <price>1537</price>
     <price_old>1830</price_old>
@@ -137182,7 +137182,7 @@
     <vendorCode>П273/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137197,7 +137197,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307326" available="false">
+  <offer id="3188307326" available="true">
     <url>https://ukrizol.xyz/ua/p3188307326-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -137219,7 +137219,7 @@
     <vendorCode>П114/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137234,7 +137234,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307327" available="false">
+  <offer id="3188307327" available="true">
     <url>https://ukrizol.xyz/ua/p3188307327-uteplyuvach-dlya-trub.html</url>
     <price>657</price>
     <price_old>782</price_old>
@@ -137256,7 +137256,7 @@
     <vendorCode>П89/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137271,7 +137271,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307328" available="false">
+  <offer id="3188307328" available="true">
     <url>https://ukrizol.xyz/ua/p3188307328-uteplyuvach-dlya-trub.html</url>
     <price>380</price>
     <price_old>452</price_old>
@@ -137289,7 +137289,7 @@
     <vendorCode>П16/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137304,7 +137304,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307329" available="false">
+  <offer id="3188307329" available="true">
     <url>https://ukrizol.xyz/ua/p3188307329-uteplyuvach-dlya-trub.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -137326,7 +137326,7 @@
     <vendorCode>П114/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137341,7 +137341,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307330" available="false">
+  <offer id="3188307330" available="true">
     <url>https://ukrizol.xyz/ua/p3188307330-uteplyuvach-dlya-trub.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -137363,7 +137363,7 @@
     <vendorCode>П60/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137378,7 +137378,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307331" available="false">
+  <offer id="3188307331" available="true">
     <url>https://ukrizol.xyz/ua/p3188307331-uteplyuvach-dlya-trub.html</url>
     <price>736</price>
     <price_old>876</price_old>
@@ -137396,7 +137396,7 @@
     <vendorCode>П146/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137411,7 +137411,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307332" available="false">
+  <offer id="3188307332" available="true">
     <url>https://ukrizol.xyz/ua/p3188307332-uteplyuvach-dlya-trub.html</url>
     <price>4961</price>
     <price_old>5906</price_old>
@@ -137433,7 +137433,7 @@
     <vendorCode>П325/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137448,7 +137448,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307333" available="false">
+  <offer id="3188307333" available="true">
     <url>https://ukrizol.xyz/ua/p3188307333-uteplyuvach-dlya-trub.html</url>
     <price>1550</price>
     <price_old>1845</price_old>
@@ -137466,7 +137466,7 @@
     <vendorCode>П325/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137481,7 +137481,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307334" available="false">
+  <offer id="3188307334" available="true">
     <url>https://ukrizol.xyz/ua/p3188307334-uteplyuvach-dlya-trub.html</url>
     <price>912</price>
     <price_old>1086</price_old>
@@ -137499,7 +137499,7 @@
     <vendorCode>П146/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137514,7 +137514,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307335" available="false">
+  <offer id="3188307335" available="true">
     <url>https://ukrizol.xyz/ua/p3188307335-uteplyuvach-dlya-trub.html</url>
     <price>524</price>
     <price_old>624</price_old>
@@ -137532,7 +137532,7 @@
     <vendorCode>П20/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137547,7 +137547,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307336" available="false">
+  <offer id="3188307336" available="true">
     <url>https://ukrizol.xyz/ua/p3188307336-uteplyuvach-dlya-trub.html</url>
     <price>564</price>
     <price_old>671</price_old>
@@ -137565,7 +137565,7 @@
     <vendorCode>П102/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137580,7 +137580,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307337" available="false">
+  <offer id="3188307337" available="true">
     <url>https://ukrizol.xyz/ua/p3188307337-uteplyuvach-dlya-trub.html</url>
     <price>469</price>
     <price_old>559</price_old>
@@ -137602,7 +137602,7 @@
     <vendorCode>П40/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137617,7 +137617,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307338" available="false">
+  <offer id="3188307338" available="true">
     <url>https://ukrizol.xyz/ua/p3188307338-uteplyuvach-dlya-trub.html</url>
     <price>510</price>
     <price_old>608</price_old>
@@ -137635,7 +137635,7 @@
     <vendorCode>П110/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137650,7 +137650,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307339" available="false">
+  <offer id="3188307339" available="true">
     <url>https://ukrizol.xyz/ua/p3188307339-uteplyuvach-dlya-trub.html</url>
     <price>627</price>
     <price_old>746</price_old>
@@ -137668,7 +137668,7 @@
     <vendorCode>П127/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137683,7 +137683,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307340" available="false">
+  <offer id="3188307340" available="true">
     <url>https://ukrizol.xyz/ua/p3188307340-uteplyuvach-dlya-trub.html</url>
     <price>677</price>
     <price_old>806</price_old>
@@ -137701,7 +137701,7 @@
     <vendorCode>П89/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137716,7 +137716,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307341" available="false">
+  <offer id="3188307341" available="true">
     <url>https://ukrizol.xyz/ua/p3188307341-uteplyuvach-dlya-trub.html</url>
     <price>519</price>
     <price_old>618</price_old>
@@ -137738,7 +137738,7 @@
     <vendorCode>П60/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137753,7 +137753,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307342" available="false">
+  <offer id="3188307342" available="true">
     <url>https://ukrizol.xyz/ua/p3188307342-uteplyuvach-dlya-trub.html</url>
     <price>753</price>
     <price_old>896</price_old>
@@ -137771,7 +137771,7 @@
     <vendorCode>П114/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137786,7 +137786,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307343" available="false">
+  <offer id="3188307343" available="true">
     <url>https://ukrizol.xyz/ua/p3188307343-uteplyuvach-dlya-trub.html</url>
     <price>833</price>
     <price_old>991</price_old>
@@ -137804,7 +137804,7 @@
     <vendorCode>П121/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137819,7 +137819,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307344" available="false">
+  <offer id="3188307344" available="true">
     <url>https://ukrizol.xyz/ua/p3188307344-uteplyuvach-dlya-trub.html</url>
     <price>478</price>
     <price_old>569</price_old>
@@ -137837,7 +137837,7 @@
     <vendorCode>П18/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137852,7 +137852,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307345" available="false">
+  <offer id="3188307345" available="true">
     <url>https://ukrizol.xyz/ua/p3188307345-uteplyuvach-dlya-trub.html</url>
     <price>764</price>
     <price_old>910</price_old>
@@ -137874,7 +137874,7 @@
     <vendorCode>П146/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137889,7 +137889,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307346" available="false">
+  <offer id="3188307346" available="true">
     <url>https://ukrizol.xyz/ua/p3188307346-uteplyuvach-dlya-trub.html</url>
     <price>941</price>
     <price_old>1120</price_old>
@@ -137907,7 +137907,7 @@
     <vendorCode>П127/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137922,7 +137922,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307347" available="false">
+  <offer id="3188307347" available="true">
     <url>https://ukrizol.xyz/ua/p3188307347-uteplyuvach-dlya-trub.html</url>
     <price>801</price>
     <price_old>954</price_old>
@@ -137940,7 +137940,7 @@
     <vendorCode>П57/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137955,7 +137955,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307348" available="false">
+  <offer id="3188307348" available="true">
     <url>https://ukrizol.xyz/ua/p3188307348-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -137977,7 +137977,7 @@
     <vendorCode>П121/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -137992,7 +137992,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307349" available="false">
+  <offer id="3188307349" available="true">
     <url>https://ukrizol.xyz/ua/p3188307349-uteplyuvach-dlya-trub.html</url>
     <price>306</price>
     <price_old>364</price_old>
@@ -138010,7 +138010,7 @@
     <vendorCode>П38/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138025,7 +138025,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307350" available="false">
+  <offer id="3188307350" available="true">
     <url>https://ukrizol.xyz/ua/p3188307350-uteplyuvach-dlya-trub.html</url>
     <price>2016</price>
     <price_old>2400</price_old>
@@ -138043,7 +138043,7 @@
     <vendorCode>П325/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138058,7 +138058,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-<offer id="3188307351" available="false">
+<offer id="3188307351" available="true">
     <url>https://ukrizol.xyz/ua/p3188307351-uteplyuvach-dlya-trub.html</url>
     <price>657</price>
     <price_old>782</price_old>
@@ -138080,7 +138080,7 @@
     <vendorCode>П102/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138095,7 +138095,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307352" available="false">
+  <offer id="3188307352" available="true">
     <url>https://ukrizol.xyz/ua/p3188307352-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -138117,7 +138117,7 @@
     <vendorCode>П159/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138132,7 +138132,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307353" available="false">
+  <offer id="3188307353" available="true">
     <url>https://ukrizol.xyz/ua/p3188307353-uteplyuvach-dlya-trub.html</url>
     <price>383</price>
     <price_old>456</price_old>
@@ -138150,7 +138150,7 @@
     <vendorCode>П20/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138165,7 +138165,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307354" available="false">
+  <offer id="3188307354" available="true">
     <url>https://ukrizol.xyz/ua/p3188307354-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -138187,7 +138187,7 @@
     <vendorCode>П159/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138202,7 +138202,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307355" available="false">
+  <offer id="3188307355" available="true">
     <url>https://ukrizol.xyz/ua/p3188307355-uteplyuvach-dlya-trub.html</url>
     <price>474</price>
     <price_old>564</price_old>
@@ -138220,7 +138220,7 @@
     <vendorCode>П57/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138235,7 +138235,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307356" available="false">
+  <offer id="3188307356" available="true">
     <url>https://ukrizol.xyz/ua/p3188307356-uteplyuvach-dlya-trub.html</url>
     <price>563</price>
     <price_old>670</price_old>
@@ -138253,7 +138253,7 @@
     <vendorCode>П45/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138268,7 +138268,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307357" available="false">
+  <offer id="3188307357" available="true">
     <url>https://ukrizol.xyz/ua/p3188307357-uteplyuvach-dlya-trub.html</url>
     <price>620</price>
     <price_old>738</price_old>
@@ -138286,7 +138286,7 @@
     <vendorCode>П45/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138301,7 +138301,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307358" available="false">
+  <offer id="3188307358" available="true">
     <url>https://ukrizol.xyz/ua/p3188307358-uteplyuvach-dlya-trub.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -138323,7 +138323,7 @@
     <vendorCode>П110/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138338,7 +138338,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307359" available="false">
+  <offer id="3188307359" available="true">
     <url>https://ukrizol.xyz/ua/p3188307359-uteplyuvach-dlya-trub.html</url>
     <price>568</price>
     <price_old>676</price_old>
@@ -138356,7 +138356,7 @@
     <vendorCode>П57/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138371,7 +138371,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307360" available="false">
+  <offer id="3188307360" available="true">
     <url>https://ukrizol.xyz/ua/p3188307360-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -138393,7 +138393,7 @@
     <vendorCode>П168/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138408,7 +138408,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307361" available="false">
+  <offer id="3188307361" available="true">
     <url>https://ukrizol.xyz/ua/p3188307361-uteplyuvach-dlya-trub.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -138430,7 +138430,7 @@
     <vendorCode>П121/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138445,7 +138445,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307362" available="false">
+  <offer id="3188307362" available="true">
     <url>https://ukrizol.xyz/ua/p3188307362-uteplyuvach-dlya-trub.html</url>
     <price>633</price>
     <price_old>754</price_old>
@@ -138463,7 +138463,7 @@
     <vendorCode>П60/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138478,7 +138478,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307363" available="false">
+  <offer id="3188307363" available="true">
     <url>https://ukrizol.xyz/ua/p3188307363-uteplyuvach-dlya-trub.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -138500,7 +138500,7 @@
     <vendorCode>П273/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138515,7 +138515,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307364" available="false">
+  <offer id="3188307364" available="true">
     <url>https://ukrizol.xyz/ua/p3188307364-uteplyuvach-dlya-trub.html</url>
     <price>408</price>
     <price_old>486</price_old>
@@ -138533,7 +138533,7 @@
     <vendorCode>П76/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138548,7 +138548,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307365" available="false">
+  <offer id="3188307365" available="true">
     <url>https://ukrizol.xyz/ua/p3188307365-uteplyuvach-dlya-trub.html</url>
     <price>995</price>
     <price_old>1185</price_old>
@@ -138566,7 +138566,7 @@
     <vendorCode>П168/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138581,7 +138581,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307366" available="false">
+  <offer id="3188307366" available="true">
     <url>https://ukrizol.xyz/ua/p3188307366-uteplyuvach-dlya-trub.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -138603,7 +138603,7 @@
     <vendorCode>П108/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138618,7 +138618,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307367" available="false">
+  <offer id="3188307367" available="true">
     <url>https://ukrizol.xyz/ua/p3188307367-uteplyuvach-dlya-trub.html</url>
     <price>297</price>
     <price_old>354</price_old>
@@ -138636,7 +138636,7 @@
     <vendorCode>П18/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138651,7 +138651,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307368" available="false">
+  <offer id="3188307368" available="true">
     <url>https://ukrizol.xyz/ua/p3188307368-uteplyuvach-dlya-trub.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -138673,7 +138673,7 @@
     <vendorCode>П250/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138688,7 +138688,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307369" available="false">
+  <offer id="3188307369" available="true">
     <url>https://ukrizol.xyz/ua/p3188307369-uteplyuvach-dlya-trub.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -138710,7 +138710,7 @@
     <vendorCode>П50/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138725,7 +138725,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307370" available="false">
+  <offer id="3188307370" available="true">
     <url>https://ukrizol.xyz/ua/p3188307370-uteplyuvach-dlya-trub.html</url>
     <price>912</price>
     <price_old>1086</price_old>
@@ -138743,7 +138743,7 @@
     <vendorCode>П133/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138758,7 +138758,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307371" available="false">
+  <offer id="3188307371" available="true">
     <url>https://ukrizol.xyz/ua/p3188307371-uteplyuvach-dlya-trub.html</url>
     <price>475</price>
     <price_old>565</price_old>
@@ -138776,7 +138776,7 @@
     <vendorCode>П16/100ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138791,7 +138791,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307372" available="false">
+  <offer id="3188307372" available="true">
     <url>https://ukrizol.xyz/ua/p3188307372-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -138813,7 +138813,7 @@
     <vendorCode>П168/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138869,7 +138869,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Екологічна безпека матеріалу" unit="">Безопасен</param>
   </offer>
-  <offer id="3188307374" available="false">
+  <offer id="3188307374" available="true">
     <url>https://ukrizol.xyz/ua/p3188307374-uteplyuvach-dlya-trub.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -138891,7 +138891,7 @@
     <vendorCode>П133/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138906,7 +138906,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307375" available="false">
+  <offer id="3188307375" available="true">
     <url>https://ukrizol.xyz/ua/p3188307375-uteplyuvach-dlya-trub.html</url>
     <price>570</price>
     <price_old>679</price_old>
@@ -138924,7 +138924,7 @@
     <vendorCode>П60/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138939,7 +138939,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307376" available="false">
+  <offer id="3188307376" available="true">
     <url>https://ukrizol.xyz/ua/p3188307376-uteplyuvach-dlya-trub.html</url>
     <price>480</price>
     <price_old>571</price_old>
@@ -138957,7 +138957,7 @@
     <vendorCode>П25/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -138972,7 +138972,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307377" available="false">
+  <offer id="3188307377" available="true">
     <url>https://ukrizol.xyz/ua/p3188307377-uteplyuvach-dlya-trub.html</url>
     <price>827</price>
     <price_old>985</price_old>
@@ -138990,7 +138990,7 @@
     <vendorCode>П108/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139005,7 +139005,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307378" available="false">
+  <offer id="3188307378" available="true">
     <url>https://ukrizol.xyz/ua/p3188307378-uteplyuvach-dlya-trub.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -139027,7 +139027,7 @@
     <vendorCode>П25/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139042,7 +139042,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307379" available="false">
+  <offer id="3188307379" available="true">
     <url>https://ukrizol.xyz/ua/p3188307379-uteplyuvach-dlya-trub.html</url>
     <price>625</price>
     <price_old>744</price_old>
@@ -139060,7 +139060,7 @@
     <vendorCode>П110/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139075,7 +139075,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307380" available="false">
+  <offer id="3188307380" available="true">
     <url>https://ukrizol.xyz/ua/p3188307380-uteplyuvach-dlya-trub.html</url>
     <price>822</price>
     <price_old>979</price_old>
@@ -139093,7 +139093,7 @@
     <vendorCode>П219/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139108,7 +139108,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307381" available="false">
+  <offer id="3188307381" available="true">
     <url>https://ukrizol.xyz/ua/p3188307381-uteplyuvach-dlya-trub.html</url>
     <price>561</price>
     <price_old>668</price_old>
@@ -139126,7 +139126,7 @@
     <vendorCode>П114/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139141,7 +139141,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307382" available="false">
+  <offer id="3188307382" available="true">
     <url>https://ukrizol.xyz/ua/p3188307382-uteplyuvach-dlya-trub.html</url>
     <price>571</price>
     <price_old>680</price_old>
@@ -139159,7 +139159,7 @@
     <vendorCode>П63/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139174,7 +139174,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307383" available="false">
+  <offer id="3188307383" available="true">
     <url>https://ukrizol.xyz/ua/p3188307383-uteplyuvach-dlya-trub.html</url>
     <price>817</price>
     <price_old>972</price_old>
@@ -139192,7 +139192,7 @@
     <vendorCode>П127/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139207,7 +139207,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307384" available="false">
+  <offer id="3188307384" available="true">
     <url>https://ukrizol.xyz/ua/p3188307384-uteplyuvach-dlya-trub.html</url>
     <price>1259</price>
     <price_old>1499</price_old>
@@ -139225,7 +139225,7 @@
     <vendorCode>П273/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139240,7 +139240,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307385" available="false">
+  <offer id="3188307385" available="true">
     <url>https://ukrizol.xyz/ua/p3188307385-uteplyuvach-dlya-trub.html</url>
     <price>751</price>
     <price_old>894</price_old>
@@ -139258,7 +139258,7 @@
     <vendorCode>П108/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139273,7 +139273,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307386" available="false">
+  <offer id="3188307386" available="true">
     <url>https://ukrizol.xyz/ua/p3188307386-uteplyuvach-dlya-trub.html</url>
     <price>1008</price>
     <price_old>1200</price_old>
@@ -139291,7 +139291,7 @@
     <vendorCode>П200/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139306,7 +139306,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307760" available="false">
+  <offer id="3188307760" available="true">
     <url>https://ukrizol.xyz/ua/p3188307760-uteplyuvach-dlya-trub.html</url>
     <price>576</price>
     <price_old>686</price_old>
@@ -139324,7 +139324,7 @@
     <vendorCode>П76/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139339,7 +139339,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307761" available="false">
+  <offer id="3188307761" available="true">
     <url>https://ukrizol.xyz/ua/p3188307761-uteplyuvach-dlya-trub.html</url>
     <price>705</price>
     <price_old>839</price_old>
@@ -139361,7 +139361,7 @@
     <vendorCode>П127/90Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139376,7 +139376,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307762" available="false">
+  <offer id="3188307762" available="true">
     <url>https://ukrizol.xyz/ua/p3188307762-uteplyuvach-dlya-trub.html</url>
     <price>656</price>
     <price_old>781</price_old>
@@ -139394,7 +139394,7 @@
     <vendorCode>П133/60ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139409,7 +139409,7 @@
     <param name="Товщина ізоляції" unit="мм">60</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307763" available="false">
+  <offer id="3188307763" available="true">
     <url>https://ukrizol.xyz/ua/p3188307763-uteplyuvach-dlya-trub.html</url>
     <price>730</price>
     <price_old>869</price_old>
@@ -139427,7 +139427,7 @@
     <vendorCode>П108/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139442,7 +139442,7 @@
     <param name="Товщина ізоляції" unit="мм">70</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307764" available="false">
+  <offer id="3188307764" available="true">
     <url>https://ukrizol.xyz/ua/p3188307764-uteplyuvach-dlya-trub.html</url>
     <price>469</price>
     <price_old>559</price_old>
@@ -139460,7 +139460,7 @@
     <vendorCode>П38/80ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139475,7 +139475,7 @@
     <param name="Товщина ізоляції" unit="мм">80</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307765" available="false">
+  <offer id="3188307765" available="true">
     <url>https://ukrizol.xyz/ua/p3188307765-uteplyuvach-dlya-trub.html</url>
     <price>828</price>
     <price_old>986</price_old>
@@ -139493,7 +139493,7 @@
     <vendorCode>П110/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139508,7 +139508,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307766" available="false">
+  <offer id="3188307766" available="true">
     <url>https://ukrizol.xyz/ua/p3188307766-uteplyuvach-dlya-trub.html</url>
     <price>1544</price>
     <price_old>1838</price_old>
@@ -139526,7 +139526,7 @@
     <vendorCode>П250/90ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139541,7 +139541,7 @@
     <param name="Товщина ізоляції" unit="мм">90</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307767" available="false">
+  <offer id="3188307767" available="true">
     <url>https://ukrizol.xyz/ua/p3188307767-uteplyuvach-dlya-trub.html</url>
     <price>1130</price>
     <price_old>1345</price_old>
@@ -139563,7 +139563,7 @@
     <vendorCode>П200/100Б</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139578,7 +139578,7 @@
     <param name="Товщина ізоляції" unit="мм">100</param>
     <param name="Форма поставки матеріалу">Порожниста труба</param>
   </offer>
-  <offer id="3188307768" available="false">
+  <offer id="3188307768" available="true">
     <url>https://ukrizol.xyz/ua/p3188307768-uteplyuvach-dlya-trub.html</url>
     <price>1258</price>
     <price_old>1498</price_old>
@@ -139596,7 +139596,7 @@
     <vendorCode>П250/70ФА</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
@@ -139697,60 +139697,116 @@
     <price>105</price>
     <price_old>125</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756352</categoryId>
+    <categoryId>112741847</categoryId>
+    <picture>https://images.prom.ua/2750361722_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538032888_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024573_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024572_vibroizolyatsiya-folgovana-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція фольгована Vizol 4х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002873</vendorCode>
+    <vendorCode>889846</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>120</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двері|Капот|Колісні арки|Кришка багажника|Пол багажника|Підлогу автомобіля|Стеля автомобіля|Стінки багажника</param>
+    <param name="Необхідність нагріву">Ні</param>
+    <param name="Площа аркуша" unit="кв.м">0.165</param>
+    <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x|XC90|Tiguan|Lancer|Passat|Sonata|Peugeot 206|Focus|Camry|Q5|6|Fiesta|Civic|A4|Chrysler|Primera|Sebring|Dodge|Avensis|Lupo|Santa Fe|Nissan Maxima|Colt|Q7|Ceed|Mondeo|Tucson|Scorpio|C2|Accord|Jazz|Yaris|Caliber|Almera|Getz|Fusion|C4|Matiz|Renault Megane|C5|RAV4|A6</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">4</param>
+    <param name="Ширина листа" unit="см">33</param>
   </offer>
   <offer id="3194273747" available="true">
     <url>https://ukrizol.xyz/ua/p3194273747-vibroizolyatsiya-folgovana-vizol.html</url>
     <price>86</price>
     <price_old>102</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756352</categoryId>
+    <categoryId>112741847</categoryId>
+    <picture>https://images.prom.ua/2750361722_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538029528_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024573_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024572_vibroizolyatsiya-folgovana-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція фольгована Vizol 3х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002872</vendorCode>
+    <vendorCode>889845</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>275</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двері|Капот|Колісні арки|Кришка багажника|Пол багажника|Підлогу автомобіля|Стеля автомобіля|Стінки багажника</param>
+    <param name="Необхідність нагріву">Ні</param>
+    <param name="Площа аркуша" unit="кв.м">0.165</param>
+    <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x|Accord|Almera|Primera|Yaris|Lupo|Fusion|C2|Ceed|RAV4|Matiz|Passat|Civic|C5|Renault Megane|Tiguan|Scorpio|Peugeot 206|A6|Q5|Focus|Santa Fe|Dodge|Caliber|Fiesta|Colt|Mondeo|Jazz|Sonata|Chrysler|Tucson|Avensis|Sebring|C4|Getz|Lancer|Nissan Maxima|XC90|Camry|Q7|6|A4</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">3</param>
+    <param name="Ширина листа" unit="см">33</param>
   </offer>
   <offer id="3194273748" available="true">
     <url>https://ukrizol.xyz/ua/p3194273748-vibroizolyatsiya-folgovana-vizol.html</url>
     <price>52</price>
     <price_old>62</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756352</categoryId>
+    <categoryId>112741847</categoryId>
+    <picture>https://images.prom.ua/2750361722_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2537948499_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024573_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024572_vibroizolyatsiya-folgovana-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція фольгована Vizol 1,3х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002870</vendorCode>
+    <vendorCode>889843</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>600</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двері|Капот|Колісні арки|Кришка багажника|Пол багажника|Підлогу автомобіля|Стеля автомобіля|Стінки багажника</param>
+    <param name="Необхідність нагріву">Ні</param>
+    <param name="Площа аркуша" unit="кв.м">0.165</param>
+    <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x|Getz|Q7|Scorpio|Sonata|Sebring|RAV4|Caliber|Santa Fe|Yaris|XC90|Jazz|C4|Almera|Accord|Lancer|Lupo|Renault Megane|Mondeo|C5|Q5|Colt|A6|Tiguan|Civic|Nissan Maxima|Matiz|Camry|Focus|Primera|Dodge|A4|C2|Avensis|Peugeot 206|Tucson|6|Passat|Fusion|Fiesta|Chrysler|Ceed</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">1.3</param>
+    <param name="Ширина листа" unit="см">33</param>
   </offer>
   <offer id="3194273749" available="true">
     <url>https://ukrizol.xyz/ua/p3194273749-vibroizolyatsiya-folgovana-vizol.html</url>
     <price>65</price>
     <price_old>78</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>146756352</categoryId>
+    <categoryId>112741847</categoryId>
+    <picture>https://images.prom.ua/2750361722_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538017019_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024573_vibroizolyatsiya-folgovana-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2538024572_vibroizolyatsiya-folgovana-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Віброізоляція фольгована Vizol 2х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002871</vendorCode>
+    <vendorCode>889844</vendorCode>
+    <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>600</quantity_in_stock>
+    <param name="Довжина листа" unit="см">50</param>
+    <param name="Застосування матеріалу">Дах|Дверні панелі|Двері|Капот|Колісні арки|Кришка багажника|Пол багажника|Підлогу автомобіля|Стеля автомобіля|Стінки багажника</param>
+    <param name="Необхідність нагріву">Ні</param>
+    <param name="Площа аркуша" unit="кв.м">0.165</param>
+    <param name="Стан">Новий</param>
+    <param name="Сумісність з маркою">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Сумісність з моделлю">500x|Nissan Maxima|Santa Fe|A6|Camry|RAV4|Mondeo|Almera|Dodge|XC90|Colt|Q5|Focus|Renault Megane|Tiguan|C4|Chrysler|Fusion|C2|Caliber|Ceed|Avensis|Peugeot 206|C5|Tucson|Lancer|Lupo|Scorpio|Q7|Yaris|Fiesta|6|Passat|Jazz|Matiz|Getz|Civic|Primera|Sebring|Sonata|A4|Accord</param>
     <param name="Тип">Віброізоляція</param>
+    <param name="Товщина" unit="мм">2</param>
+    <param name="Ширина листа" unit="см">33</param>
   </offer>
 
 

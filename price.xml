@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-23 17:00">
+<yml_catalog date="2026-09-24 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.26493" />
+      <currency id="USD" rate="49.34281" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="56.46795" />
+      <currency id="EUR" rate="56.30504" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -867,7 +867,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>215</quantity_in_stock>
+    <quantity_in_stock>208</quantity_in_stock>
     <param name="Довжина" unit="м">45</param>
     <param name="Тип використання">Універсальний</param>
     <param name="Товщина (мм)">1</param>
@@ -952,7 +952,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>71</quantity_in_stock>
+    <quantity_in_stock>72</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -2378,7 +2378,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2441,7 +2441,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Водотривкість, не менше" unit="мм вод. ст.">2000</param>
     <param name="Довжина" unit="м">12</param>
     <param name="Щільність" unit="г/м2">55</param>
@@ -2914,7 +2914,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>137</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -3000,7 +3000,7 @@
     <vendorCode>64025</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>110</quantity_in_stock>
+    <quantity_in_stock>108</quantity_in_stock>
     <param name="Кількість компонентів">Однокомпонентна</param>
     <param name="Консистенція">Напіврідка</param>
     <param name="Призначення матеріалу">Для полов|Для резервуаров|Для балконов|Для подвалов|Для цоколей|Для стен|Для кровли|Для фасадов</param>
@@ -5641,7 +5641,7 @@
     <vendorCode>900054Р</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>267</quantity_in_stock>
+    <quantity_in_stock>264</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -7826,8 +7826,8 @@
   </offer>
   <offer id="1126530039" available="true">
     <url>https://ukrizol.xyz/ua/p1126530039-spinenij-kauchuk-flex.html</url>
-    <price>197</price>
-    <price_old>235</price_old>
+    <price>226</price>
+    <price_old>269</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751314568_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -7868,8 +7868,8 @@
   </offer>
   <offer id="1126555812" available="true">
     <url>https://ukrizol.xyz/ua/p1126555812-spinenij-kauchuk-flex.html</url>
-    <price>265</price>
-    <price_old>315</price_old>
+    <price>309</price>
+    <price_old>368</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751317324_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -7909,8 +7909,8 @@
   </offer>
   <offer id="1126562024" available="true">
     <url>https://ukrizol.xyz/ua/p1126562024-spinenij-kauchuk-flex.html</url>
-    <price>380</price>
-    <price_old>452</price_old>
+    <price>443</price>
+    <price_old>528</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751320673_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -7952,8 +7952,8 @@
   </offer>
   <offer id="1126564595" available="true">
     <url>https://ukrizol.xyz/ua/p1126564595-spinenij-kauchuk-flex.html</url>
-    <price>499</price>
-    <price_old>594</price_old>
+    <price>581</price>
+    <price_old>691</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751325188_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -7994,8 +7994,8 @@
   </offer>
   <offer id="1126566841" available="false">
     <url>https://ukrizol.xyz/ua/p1126566841-spinenij-kauchuk-flex.html</url>
-    <price>655</price>
-    <price_old>780</price_old>
+    <price>762</price>
+    <price_old>908</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751327080_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8036,8 +8036,8 @@
   </offer>
   <offer id="1126568545" available="false">
     <url>https://ukrizol.xyz/ua/p1126568545-spinenij-kauchuk-flex.html</url>
-    <price>1259</price>
-    <price_old>1499</price_old>
+    <price>1352</price>
+    <price_old>1610</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751329082_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8078,8 +8078,8 @@
   </offer>
   <offer id="1127337476" available="true">
     <url>https://ukrizol.xyz/ua/p1127337476-spinenij-kauchuk-flex.html</url>
-    <price>267</price>
-    <price_old>318</price_old>
+    <price>309</price>
+    <price_old>368</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762815148_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8120,8 +8120,8 @@
   </offer>
   <offer id="1127343526" available="true">
     <url>https://ukrizol.xyz/ua/p1127343526-spinenij-kauchuk-flex.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>353</price>
+    <price_old>420</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762815920_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8161,8 +8161,8 @@
   </offer>
   <offer id="1127345327" available="true">
     <url>https://ukrizol.xyz/ua/p1127345327-spinenij-kauchuk-flex.html</url>
-    <price>373</price>
-    <price_old>444</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762813983_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8202,8 +8202,8 @@
   </offer>
   <offer id="1127347006" available="true">
     <url>https://ukrizol.xyz/ua/p1127347006-spinenij-kauchuk-flex.html</url>
-    <price>482</price>
-    <price_old>574</price_old>
+    <price>561</price>
+    <price_old>668</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762812880_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8243,8 +8243,8 @@
   </offer>
   <offer id="1127347849" available="true">
     <url>https://ukrizol.xyz/ua/p1127347849-spinenij-kauchuk-flex.html</url>
-    <price>604</price>
-    <price_old>719</price_old>
+    <price>702</price>
+    <price_old>836</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762812096_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8263,7 +8263,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1237</quantity_in_stock>
+    <quantity_in_stock>1230</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -8284,8 +8284,8 @@
   </offer>
   <offer id="1127349228" available="false">
     <url>https://ukrizol.xyz/ua/p1127349228-spinenij-kauchuk-flex.html</url>
-    <price>760</price>
-    <price_old>905</price_old>
+    <price>884</price>
+    <price_old>1052</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762809581_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8325,8 +8325,8 @@
   </offer>
   <offer id="1127350205" available="false">
     <url>https://ukrizol.xyz/ua/p1127350205-spinenij-kauchuk-flex.html</url>
-    <price>1365</price>
-    <price_old>1625</price_old>
+    <price>1465</price>
+    <price_old>1744</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762810933_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8366,8 +8366,8 @@
   </offer>
   <offer id="1127500095" available="true">
     <url>https://ukrizol.xyz/ua/p1127500095-spinenij-kauchuk-flex.html</url>
-    <price>372</price>
-    <price_old>442</price_old>
+    <price>430</price>
+    <price_old>512</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8404,8 +8404,8 @@
   </offer>
   <offer id="1127505468" available="true">
     <url>https://ukrizol.xyz/ua/p1127505468-spinenij-kauchuk-flex.html</url>
-    <price>410</price>
-    <price_old>488</price_old>
+    <price>466</price>
+    <price_old>555</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8420,7 +8420,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>347</quantity_in_stock>
+    <quantity_in_stock>337</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Призначення матеріалу">Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума|Виброизоляция</param>
     <param name="Область застосування">Для потолков|Для пола|Для стен|Для инженерного оборудования|Для каркасных конструкций</param>
@@ -8442,8 +8442,8 @@
   </offer>
   <offer id="1127507615" available="true">
     <url>https://ukrizol.xyz/ua/p1127507615-spinenij-kauchuk-flex.html</url>
-    <price>478</price>
-    <price_old>569</price_old>
+    <price>554</price>
+    <price_old>660</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8480,8 +8480,8 @@
   </offer>
   <offer id="1127509551" available="true">
     <url>https://ukrizol.xyz/ua/p1127509551-spinenij-kauchuk-flex.html</url>
-    <price>591</price>
-    <price_old>704</price_old>
+    <price>687</price>
+    <price_old>818</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -8519,8 +8519,8 @@
   </offer>
   <offer id="1127511732" available="true">
     <url>https://ukrizol.xyz/ua/p1127511732-spinenij-kauchuk-flex.html</url>
-    <price>710</price>
-    <price_old>845</price_old>
+    <price>824</price>
+    <price_old>981</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -9063,8 +9063,8 @@
   </offer>
   <offer id="1201718444" available="false">
     <url>https://ukrizol.xyz/ua/p1201718444-spinenij-kauchuk-flex.html</url>
-    <price>866</price>
-    <price_old>1031</price_old>
+    <price>988</price>
+    <price_old>1176</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -9101,8 +9101,8 @@
   </offer>
   <offer id="1201719440" available="false">
     <url>https://ukrizol.xyz/ua/p1201719440-spinenij-kauchuk-flex.html</url>
-    <price>1470</price>
-    <price_old>1750</price_old>
+    <price>1706</price>
+    <price_old>2031</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -9958,7 +9958,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>230</quantity_in_stock>
+    <quantity_in_stock>229</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -10120,7 +10120,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1119</quantity_in_stock>
+    <quantity_in_stock>1109</quantity_in_stock>
     <param name="Вага" unit="кг">0.76</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
@@ -10210,7 +10210,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>626</quantity_in_stock>
+    <quantity_in_stock>616</quantity_in_stock>
     <param name="Вага" unit="кг">2.09</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
@@ -10405,8 +10405,8 @@
   </offer>
   <offer id="1248056356" available="true">
     <url>https://ukrizol.xyz/ua/p1248056356-spinenij-kauchuk-flex.html</url>
-    <price>252</price>
-    <price_old>300</price_old>
+    <price>266</price>
+    <price_old>316</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762814630_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -10534,7 +10534,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>55</quantity_in_stock>
     <param name="Довжина" unit="м">10</param>
     <param name="Призначення матеріалу">Для фасадов|Для балконов|Для стен|Для кровли</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
@@ -16345,8 +16345,8 @@
   </offer>
   <offer id="1361449969" available="true">
     <url>https://ukrizol.xyz/ua/p1361449969-spinenij-kauchuk-flex.html</url>
-    <price>267</price>
-    <price_old>318</price_old>
+    <price>309</price>
+    <price_old>368</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -16386,8 +16386,8 @@
   </offer>
   <offer id="1361449970" available="true">
     <url>https://ukrizol.xyz/ua/p1361449970-spinenij-kauchuk-flex.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>353</price>
+    <price_old>420</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -16428,8 +16428,8 @@
   </offer>
   <offer id="1361449971" available="true">
     <url>https://ukrizol.xyz/ua/p1361449971-spinenij-kauchuk-flex.html</url>
-    <price>373</price>
-    <price_old>444</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -16470,8 +16470,8 @@
   </offer>
   <offer id="1361449972" available="true">
     <url>https://ukrizol.xyz/ua/p1361449972-spinenij-kauchuk-flex.html</url>
-    <price>486</price>
-    <price_old>579</price_old>
+    <price>565</price>
+    <price_old>672</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -16512,8 +16512,8 @@
   </offer>
   <offer id="1361449973" available="true">
     <url>https://ukrizol.xyz/ua/p1361449973-spinenij-kauchuk-flex.html</url>
-    <price>604</price>
-    <price_old>719</price_old>
+    <price>702</price>
+    <price_old>836</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -16554,8 +16554,8 @@
   </offer>
   <offer id="1361449974" available="false">
     <url>https://ukrizol.xyz/ua/p1361449974-spinenij-kauchuk-flex.html</url>
-    <price>760</price>
-    <price_old>905</price_old>
+    <price>884</price>
+    <price_old>1052</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -18652,8 +18652,8 @@
   </offer>
   <offer id="1424317111" available="true">
     <url>https://ukrizol.xyz/ua/p1424317111-spinenij-kauchuk-flex.html</url>
-    <price>405</price>
-    <price_old>482</price_old>
+    <price>471</price>
+    <price_old>561</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/3149770286_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -18672,7 +18672,7 @@
     <vendorCode>500162</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>907</quantity_in_stock>
+    <quantity_in_stock>895</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -18693,8 +18693,8 @@
   </offer>
   <offer id="1424322659" available="true">
     <url>https://ukrizol.xyz/ua/p1424322659-spinenij-kauchuk-flex.html</url>
-    <price>286</price>
-    <price_old>340</price_old>
+    <price>331</price>
+    <price_old>394</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/3149781044_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -18849,8 +18849,8 @@
   </offer>
   <offer id="1425814628" available="true">
     <url>https://ukrizol.xyz/ua/p1425814628-spinenij-kauchuk-flex.html</url>
-    <price>330</price>
-    <price_old>392</price_old>
+    <price>382</price>
+    <price_old>455</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/3154645880_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -18869,7 +18869,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4350</quantity_in_stock>
+    <quantity_in_stock>4330</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -20101,7 +20101,7 @@
     <vendorCode>62716</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <param name="Вага упаковки" unit="кг">7.65</param>
     <param name="Довжина" unit="м">10</param>
     <param name="Довжина упаковки" unit="мм">45</param>
@@ -20246,7 +20246,7 @@
     <vendorCode>2701-1</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вікова група">Доросла</param>
     <param name="Колір">Різні кольори</param>
     <param name="Матеріал">Термопластик</param>
@@ -20421,7 +20421,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1816</quantity_in_stock>
+    <quantity_in_stock>1804</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -20525,7 +20525,7 @@
     <vendorCode>83950</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>228</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Група матеріалу по горючості">Г3 (нормально горючі)</param>
     <param name="Довжина" unit="мм">1200</param>
@@ -21612,7 +21612,7 @@
     <vendorCode>56338</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>173</quantity_in_stock>
+    <quantity_in_stock>171</quantity_in_stock>
     <param name="Максимальна температура експлуатації" unit="град.">90</param>
     <param name="Мінімальна температура експлуатації" unit="град.">-50</param>
     <param name="Область застосування">Універсальний|Покрівельний</param>
@@ -34923,7 +34923,7 @@
     <vendorCode>Б18/30Ф</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Довжина" unit="м">1</param>
     <param name="Екологічна безпека матеріалу">Безпечний</param>
@@ -43485,7 +43485,7 @@
     <vendorCode>EF-AWTS-100</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вага" unit="кг">1</param>
     <param name="Колір">Сірий</param>
     <param name="Особливості" unit="">Неопреновое покрытие|Подходит для ног и рук</param>
@@ -49157,7 +49157,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>790</quantity_in_stock>
+    <quantity_in_stock>784</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Матеріал" unit="">Резинка</param>
@@ -53707,7 +53707,7 @@
     <vendorCode>832581</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>207</quantity_in_stock>
     <param name="Колір">Білий</param>
     <param name="Ширина" unit="мм">1500</param>
     <param name="Матеріал">ЕВА</param>
@@ -56602,8 +56602,8 @@
   </offer>
   <offer id="1650711108" available="true">
     <url>https://ukrizol.xyz/ua/p1650711108-spinenij-kauchuk-flex.html</url>
-    <price>1365</price>
-    <price_old>1625</price_old>
+    <price>1584</price>
+    <price_old>1886</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -56644,8 +56644,8 @@
   </offer>
   <offer id="1650744757" available="true">
     <url>https://ukrizol.xyz/ua/p1650744757-spinenij-kauchuk-flex.html</url>
-    <price>306</price>
-    <price_old>364</price_old>
+    <price>318</price>
+    <price_old>379</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762815920_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -56685,8 +56685,8 @@
   </offer>
   <offer id="1650745117" available="false">
     <url>https://ukrizol.xyz/ua/p1650745117-spinenij-kauchuk-flex.html</url>
-    <price>392</price>
-    <price_old>466</price_old>
+    <price>410</price>
+    <price_old>488</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762813983_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -56726,8 +56726,8 @@
   </offer>
   <offer id="1650745879" available="false">
     <url>https://ukrizol.xyz/ua/p1650745879-spinenij-kauchuk-flex.html</url>
-    <price>536</price>
-    <price_old>638</price_old>
+    <price>558</price>
+    <price_old>664</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762812880_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -59520,7 +59520,7 @@
     <vendorCode>900037</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Довжина" unit="м">50</param>
@@ -64988,7 +64988,7 @@
     <vendorCode>20120</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>156</quantity_in_stock>
+    <quantity_in_stock>158</quantity_in_stock>
     <param name="Армований скотч">Так</param>
     <param name="Відносне подовження на розрив" unit="%">3</param>
     <param name="Довжина" unit="м">25</param>
@@ -73390,8 +73390,8 @@
   </offer>
   <offer id="1905795736" available="false">
     <url>https://ukrizol.xyz/ua/p1905795736-spinenij-kauchuk-flex.html</url>
-    <price>254</price>
-    <price_old>302</price_old>
+    <price>266</price>
+    <price_old>316</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762815920_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -84799,7 +84799,7 @@
     <vendorCode>889440</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>63</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="град.">200</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-30</param>
@@ -103672,7 +103672,7 @@
     <vendorCode>889506</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>975</quantity_in_stock>
+    <quantity_in_stock>970</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Матеріал">ЕВА</param>
@@ -107053,7 +107053,7 @@
     <vendorCode>889560</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="см">190</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -108393,7 +108393,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Довжина" unit="см">110</param>
     <param name="Колір">Червоний</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -108924,8 +108924,8 @@
   </offer>
   <offer id="2437850647" available="true">
     <url>https://ukrizol.xyz/ua/p2437850647-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>2880</price>
-    <price_old>3429</price_old>
+    <price>3184</price>
+    <price_old>3790</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739254_spinenij-kauchuk-9.jpg</picture>
@@ -109027,8 +109027,8 @@
   </offer>
   <offer id="2437850650" available="true">
     <url>https://ukrizol.xyz/ua/p2437850650-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>3599</price>
-    <price_old>4285</price_old>
+    <price>3990</price>
+    <price_old>4750</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739261_spinenij-kauchuk-6.jpg</picture>
@@ -109059,8 +109059,8 @@
   </offer>
   <offer id="2437850651" available="false">
     <url>https://ukrizol.xyz/ua/p2437850651-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>2958</price>
-    <price_old>3521</price_old>
+    <price>3273</price>
+    <price_old>3896</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739255_spinenij-kauchuk-13.jpg</picture>
@@ -109091,8 +109091,8 @@
   </offer>
   <offer id="2437850654" available="false">
     <url>https://ukrizol.xyz/ua/p2437850654-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>2588</price>
-    <price_old>3081</price_old>
+    <price>2863</price>
+    <price_old>3409</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739254_spinenij-kauchuk-13.jpg</picture>
@@ -109123,8 +109123,8 @@
   </offer>
   <offer id="2437850658" available="false">
     <url>https://ukrizol.xyz/ua/p2437850658-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>2526</price>
-    <price_old>3008</price_old>
+    <price>2790</price>
+    <price_old>3321</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739258_spinenij-kauchuk-19.jpg</picture>
@@ -111022,7 +111022,7 @@
     <vendorCode>889591</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1044</quantity_in_stock>
+    <quantity_in_stock>1042</quantity_in_stock>
     <param name="Застосування матеріалу">Капот|Стінки багажника|Стеля автомобіля|Дах|Кришка багажника|Дверні панелі|Двері</param>
     <param name="Необхідність нагріву">Ні</param>
     <param name="Стан">Новий</param>
@@ -118772,8 +118772,8 @@
   </offer>
   <offer id="2859991330" available="true">
     <url>https://ukrizol.xyz/ua/p2859991330-spinenij-kauchuk-flex.html</url>
-    <price>100</price>
-    <price_old>119</price_old>
+    <price>92</price>
+    <price_old>110</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751308045_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -119673,8 +119673,8 @@
   </offer>
   <offer id="2889929727" available="true">
     <url>https://ukrizol.xyz/ua/p2889929727-spinenij-kauchuk-flex.html</url>
-    <price>5600</price>
-    <price_old>6666</price_old>
+    <price>6825</price>
+    <price_old>8125</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -119711,8 +119711,8 @@
   </offer>
   <offer id="2889929728" available="true">
     <url>https://ukrizol.xyz/ua/p2889929728-spinenij-kauchuk-flex.html</url>
-    <price>4796</price>
-    <price_old>5710</price_old>
+    <price>5102</price>
+    <price_old>6074</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751329082_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -119753,8 +119753,8 @@
   </offer>
   <offer id="2889929729" available="true">
     <url>https://ukrizol.xyz/ua/p2889929729-spinenij-kauchuk-flex.html</url>
-    <price>5198</price>
-    <price_old>6188</price_old>
+    <price>5526</price>
+    <price_old>6579</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762810933_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -119795,8 +119795,8 @@
   </offer>
   <offer id="2889986579" available="true">
     <url>https://ukrizol.xyz/ua/p2889986579-spinenij-kauchuk-flex.html</url>
-    <price>5198</price>
-    <price_old>6188</price_old>
+    <price>6338</price>
+    <price_old>7545</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -121193,8 +121193,8 @@
   </offer>
   <offer id="2968108522" available="true">
     <url>https://ukrizol.xyz/ua/p2968108522-spinenij-kauchuk-flex.html</url>
-    <price>4347</price>
-    <price_old>5175</price_old>
+    <price>4824</price>
+    <price_old>5742</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/2762809581_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -121234,8 +121234,8 @@
   </offer>
   <offer id="2968108523" available="true">
     <url>https://ukrizol.xyz/ua/p2968108523-spinenij-kauchuk-flex.html</url>
-    <price>3743</price>
-    <price_old>4456</price_old>
+    <price>4160</price>
+    <price_old>4952</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2751327080_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -121276,8 +121276,8 @@
   </offer>
   <offer id="2968607855" available="true">
     <url>https://ukrizol.xyz/ua/p2968607855-spinenij-kauchuk-flex.html</url>
-    <price>4949</price>
-    <price_old>5891</price_old>
+    <price>5927</price>
+    <price_old>7056</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84867538</categoryId>
     <picture>https://images.prom.ua/2750444985_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -121314,8 +121314,8 @@
   </offer>
   <offer id="2968607856" available="true">
     <url>https://ukrizol.xyz/ua/p2968607856-spinenij-kauchuk-flex.html</url>
-    <price>4347</price>
-    <price_old>5175</price_old>
+    <price>5307</price>
+    <price_old>6318</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>95078199</categoryId>
     <picture>https://images.prom.ua/2944896612_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -121435,7 +121435,7 @@
     <vendorCode>56434</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>71</quantity_in_stock>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Площа аркуша" unit="кв.м">0.35</param>
     <param name="Тип">Віброізоляція</param>
@@ -138836,8 +138836,8 @@
   </offer>
   <offer id="3188307373" available="true">
     <url>https://ukrizol.xyz/ua/p3188307373-spinenij-kauchuk-flex.html</url>
-    <price>160</price>
-    <price_old>190</price_old>
+    <price>129</price>
+    <price_old>154</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84776284</categoryId>
     <picture>https://images.prom.ua/2750407460_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -139619,8 +139619,8 @@
   </offer>
   <offer id="3189504508" available="false">
     <url>https://ukrizol.xyz/ua/p3189504508-spinenij-kauchuk-flex.html</url>
-    <price>254</price>
-    <price_old>302</price_old>
+    <price>266</price>
+    <price_old>316</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739255_spinenij-kauchuk-pa-flex.jpg</picture>
@@ -139651,8 +139651,8 @@
   </offer>
   <offer id="3190917537" available="true">
     <url>https://ukrizol.xyz/ua/p3190917537-spinenij-kauchuk-samokleyuchij.html</url>
-    <price>3599</price>
-    <price_old>4285</price_old>
+    <price>3990</price>
+    <price_old>4750</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739255_spinenij-kauchuk-4.jpg</picture>
@@ -140025,8 +140025,8 @@
   </offer>
   <offer id="3199388492" available="true">
     <url>https://ukrizol.xyz/ua/p3199388492-spinenij-kauchuk-flex.html</url>
-    <price>1083</price>
-    <price_old>1289</price_old>
+    <price>1258</price>
+    <price_old>1498</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>84860081</categoryId>
     <picture>https://images.prom.ua/6403739255_spinenij-kauchuk-pa-flex.jpg</picture>

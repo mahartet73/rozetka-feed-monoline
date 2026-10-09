@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-08 17:00">
+<yml_catalog date="2026-10-09 09:00">
   <shop>
     <name>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</name>
     <company>★★★★★ УКРІЗОЛ оптово-роздрібна компанія</company>
     <url>https://ukrizol.xyz/</url>
     <currencies>
-      <currency id="USD" rate="49.35029" />
+      <currency id="USD" rate="49.33786" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="55.17259" />
+      <currency id="EUR" rate="55.15235" />
     </currencies>
     <categories>
       <category id="122459407" parentId="122459358">Пленки упаковочные</category>
@@ -421,7 +421,7 @@
     <vendorCode>20107</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Довжина" unit="м">50</param>
     <param name="Ширина" unit="мм">100</param>
   </offer>
@@ -4750,7 +4750,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Довжина" unit="м">1</param>
     <param name="Тип використання">Для зовнішніх робіт</param>
     <param name="Ширина" unit="мм">50</param>
@@ -8181,7 +8181,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1864</quantity_in_stock>
+    <quantity_in_stock>1822</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -10150,7 +10150,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1789</quantity_in_stock>
+    <quantity_in_stock>1760</quantity_in_stock>
     <param name="Вага" unit="кг">1.2</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
@@ -10210,7 +10210,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>543</quantity_in_stock>
+    <quantity_in_stock>542</quantity_in_stock>
     <param name="Вага" unit="кг">2.09</param>
     <param name="Довжина листа" unit="см">50</param>
     <param name="Застосування матеріалу">Дах|Дверні панелі|Двери|Капот|Колісні арки|Кришка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
@@ -16715,7 +16715,7 @@
     <vendorCode>901042</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>164</quantity_in_stock>
     <param name="Вид основної сировини">Неорганічне</param>
     <param name="Водопоглинання" unit="%">1</param>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
@@ -18713,7 +18713,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Туреччина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>951</quantity_in_stock>
+    <quantity_in_stock>831</quantity_in_stock>
     <param name="Група матеріалу по горючості">Г1 (слабо горючі)</param>
     <param name="Еластичність матеріалу">Так</param>
     <param name="Область застосування">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -49157,7 +49157,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1579</quantity_in_stock>
+    <quantity_in_stock>1567</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гумка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -51863,7 +51863,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>380</quantity_in_stock>
+    <quantity_in_stock>376</quantity_in_stock>
     <param name="Довжина" unit="см">180</param>
     <param name="Кількість шарів">Одношарові</param>
     <param name="Матеріал">Пінополіетилен</param>
@@ -55008,8 +55008,8 @@
   </offer>
   <offer id="1646946182" available="true">
     <url>https://ukrizol.xyz/ua/p1646946182-manzheta-easyfit-pyatoyu.html</url>
-    <price>188</price>
-    <price_old>224</price_old>
+    <price>209</price>
+    <price_old>249</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/3878956972_manzheta-easyfit-iz.jpg</picture>
@@ -55048,8 +55048,8 @@
   </offer>
   <offer id="1647081917" available="true">
     <url>https://ukrizol.xyz/ua/p1647081917-petli-beresha-easyfit.html</url>
-    <price>587</price>
-    <price_old>699</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/3879242432_petli-beresha-easyfit.jpg</picture>
@@ -55111,8 +55111,8 @@
   </offer>
   <offer id="1647113280" available="true">
     <url>https://ukrizol.xyz/ua/p1647113280-poyas-easyfit-dlya.html</url>
-    <price>541</price>
-    <price_old>644</price_old>
+    <price>618</price>
+    <price_old>736</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/3879352071_poyas-easyfit-dlya.jpg</picture>
@@ -55136,8 +55136,8 @@
   </offer>
   <offer id="1647122035" available="true">
     <url>https://ukrizol.xyz/ua/p1647122035-poyas-easyfit-dlya.html</url>
-    <price>608</price>
-    <price_old>724</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/3879352071_poyas-easyfit-dlya.jpg</picture>
@@ -59495,7 +59495,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1438</quantity_in_stock>
+    <quantity_in_stock>1436</quantity_in_stock>
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Гумка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -63775,8 +63775,8 @@
   </offer>
   <offer id="1696517880" available="true">
     <url>https://ukrizol.xyz/ua/p1696517880-manzheta-easyfit-chorna.html</url>
-    <price>578</price>
-    <price_old>688</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/4041312860_manzheta-easyfit-f8.jpg</picture>
@@ -65625,7 +65625,7 @@
     <vendorCode>81114</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>193</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Вага" unit="кг">0.26</param>
     <param name="Довжина листа" unit="см">80</param>
     <param name="Застосування матеріалу">Стенки багажника|Пол багажника|Потолок автомобиля|Пол автомобиля|Дах|Кришка багажника|Дверні панелі|Двери</param>
@@ -65826,7 +65826,7 @@
     <vendorCode>6895162</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Довжина" unit="м">50</param>
     <param name="Форма поставки матеріалу">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -68332,8 +68332,8 @@
   </offer>
   <offer id="1800254701" available="true">
     <url>https://ukrizol.xyz/ua/p1800254701-manzheta-easyfit-dlya.html</url>
-    <price>194</price>
-    <price_old>231</price_old>
+    <price>209</price>
+    <price_old>249</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/4368756504_manzheta-easyfit-dlya.jpg</picture>
@@ -68936,7 +68936,7 @@
     <vendorCode>41017</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>209</quantity_in_stock>
+    <quantity_in_stock>208</quantity_in_stock>
     <param name="Вага" unit="кг">1.61</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Необхідність нагріву">Ні</param>
@@ -68969,7 +68969,7 @@
     <vendorCode>41021</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>59</quantity_in_stock>
     <param name="Вага" unit="кг">1.19</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Колісні арки|Стенки багажника|Потолок автомобиля|Пол автомобиля|Дверні панелі|Капот|Дах|Пол багажника|Кришка багажника|Двери</param>
@@ -69035,7 +69035,7 @@
     <vendorCode>41019</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>110</quantity_in_stock>
+    <quantity_in_stock>94</quantity_in_stock>
     <param name="Вага" unit="кг">1.575</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Колісні арки|Стенки багажника|Потолок автомобиля|Пол автомобиля|Дверні панелі|Капот|Дах|Пол багажника|Кришка багажника|Двери</param>
@@ -69130,7 +69130,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>758</quantity_in_stock>
+    <quantity_in_stock>757</quantity_in_stock>
     <param name="Вага" unit="кг">1.67</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверні панелі|Дах|Стенки багажника|Пол автомобиля|Кришка багажника|Капот|Пол багажника</param>
@@ -69198,7 +69198,7 @@
     <vendorCode>56391</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>218</quantity_in_stock>
+    <quantity_in_stock>216</quantity_in_stock>
     <param name="Вага" unit="кг">2.13</param>
     <param name="Довжина листа" unit="см">70</param>
     <param name="Застосування матеріалу">Потолок автомобиля|Двери|Колісні арки|Дверні панелі|Дах|Стенки багажника|Пол автомобиля|Кришка багажника|Капот|Пол багажника</param>
@@ -69559,8 +69559,8 @@
   </offer>
   <offer id="1814117739" available="true">
     <url>https://ukrizol.xyz/ua/p1814117739-manzheta-easyfit-korichneva.html</url>
-    <price>520</price>
-    <price_old>619</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/4414878971_manzheta-easyfit-f8.jpg</picture>
@@ -71551,7 +71551,7 @@
     <vendorCode>889021</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>240</quantity_in_stock>
+    <quantity_in_stock>233</quantity_in_stock>
     <param name="Тип">Шумоізоляція</param>
     <param name="Застосування матеріалу">Пол багажника|Двери|Пол автомобиля|Стенки багажника|Потолок автомобиля</param>
     <param name="Товщина" unit="мм">4</param>
@@ -104665,7 +104665,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1080</quantity_in_stock>
+    <quantity_in_stock>1074</quantity_in_stock>
     <param name="Довжина" unit="м">2</param>
     <param name="Ширина" unit="мм">60</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -107733,8 +107733,8 @@
   </offer>
   <offer id="2371768247" available="false">
     <url>https://ukrizol.xyz/ua/p2371768247-bokserskij-nabir-easyfit.html</url>
-    <price>1423</price>
-    <price_old>1694</price_old>
+    <price>1395</price>
+    <price_old>1661</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>94947436</categoryId>
     <picture>https://images.prom.ua/6317823081_bokserskij-nabir-easyfit.jpg</picture>
@@ -110350,8 +110350,8 @@
   </offer>
   <offer id="2493753060" available="true">
     <url>https://ukrizol.xyz/ua/p2493753060-nabir-dlya-boksu.html</url>
-    <price>398</price>
-    <price_old>474</price_old>
+    <price>524</price>
+    <price_old>624</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/6486203584_nabir-dlya-boksu.jpg</picture>
@@ -110368,7 +110368,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>5</quantity_in_stock>
     <param name="Колір">Червоний</param>
-    <param name="Тип">Універсальний</param>
+    <param name="Тип" unit="">Универсальный</param>
   </offer>
   <offer id="2493753061" available="true">
     <url>https://ukrizol.xyz/ua/p2493753061-myach-dlya-fitnesu.html</url>
@@ -115153,7 +115153,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
   </offer>
   <offer id="2702826007" available="false">
     <url>https://ukrizol.xyz/ua/p2702826007-rolik-dlya-presu.html</url>
@@ -115885,8 +115885,8 @@
   </offer>
   <offer id="2771089324" available="true">
     <url>https://ukrizol.xyz/ua/p2771089324-koordinatsijni-shodi-perekladin.html</url>
-    <price>524</price>
-    <price_old>624</price_old>
+    <price>597</price>
+    <price_old>711</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>109147086</categoryId>
     <picture>https://images.prom.ua/3879308812_koordinatsijni-shodi-10.jpg</picture>
@@ -118912,7 +118912,7 @@
     <vendorCode>889732</vendorCode>
     <country_of_origin>Україна</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Довжина" unit="м">5</param>
     <param name="Колір">Сірий</param>
     <param name="Максимальна робоча температура" unit="град.">100</param>
@@ -121687,7 +121687,7 @@
     <vendor>Spray-Kon</vendor>
     <vendorCode>889802</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>41</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Об`єм" unit="мл">500</param>
   </offer>
   <offer id="3025160801" available="false">
@@ -140464,6 +140464,68 @@
     <vendorCode>00003227</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+  </offer>
+  <offer id="3227228864" available="false">
+    <url>https://ukrizol.xyz/ua/p3227228864-myach-masazhnij-easyfit.html</url>
+    <price>100</price>
+    <price_old>119</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756393</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>М'яч масажний EasyFit PVC 9 см жорсткий чорний</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003231</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Колір">Чорний</param>
+  </offer>
+  <offer id="3227228865" available="false">
+    <url>https://ukrizol.xyz/ua/p3227228865-myach-masazhnij-easyfit.html</url>
+    <price>100</price>
+    <price_old>119</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756393</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>М'яч масажний EasyFit PVC 9 см жорсткий сірий</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003230</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Колір">Сірий</param>
+  </offer>
+  <offer id="3227228866" available="false">
+    <url>https://ukrizol.xyz/ua/p3227228866-masazhnij-rolik-almond.html</url>
+    <price>114</price>
+    <price_old>136</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756393</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масажний ролик Almond EasyFit овальний з шипами фіолетовий</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003232</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Колір">Фіолетовий</param>
+  </offer>
+  <offer id="3227228867" available="false">
+    <url>https://ukrizol.xyz/ua/p3227228867-kilimok-dlya-jogi.html</url>
+    <price>734</price>
+    <price_old>874</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>146756395</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Килимок для йоги та фітнесу EasyFit TPE+TC 6мм двошаровий фіолетовий-св.фіолетовий</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003229</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Матеріал">ПВХ</param>
+    <param name="Колір">Фіолетовий</param>
   </offer>
 
 
